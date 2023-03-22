@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Sống bền vững
+repo_url: https://github.com/earthknowsbest/sustainable-living
+
+# customed port of serving
+dev_addr: '127.0.0.1:9000'
+nav:
+  - Home: index.md
+
+theme: 
+  name: material
+  features:
+    - search.suggest
+
+plugins:
+  - search:
+      lang: vi
+
+watch:
+  - .  # reload docs for any file changes
