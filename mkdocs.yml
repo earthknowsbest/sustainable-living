@@ -1,19 +1,66 @@
-site_name: Sống bền vững
+site_name: SỐNG BỀN VỮNG
 repo_url: https://github.com/earthknowsbest/sustainable-living
 
 # customed port of serving
 dev_addr: '127.0.0.1:9000'
 nav:
   - Home: index.md
+  - Sinh thái:
+    - Sinh thái học: ecology/sinh-thai-hoc.md
+    - Năng lượng & Sự sống:
+      - Khát vọng con người:
+        - ecology/energy/human-ambition/index.md
+        - Tăng trưởng: ecology/energy/human-ambition/1-growth.md
 
 theme: 
   name: material
+  language: en
+  font:
+    text: Source Sans Pro
+  palette:
+    - scheme: default
+      primary: brown
+      accent: brown
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: brown
+      accent: brown
+      toggle:
+        icon: material/brightness-2
+        name: Switch to light mode
   features:
+    - search.highlight
+    # - search.share
     - search.suggest
+    - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
 
+extra_css: [stylesheets/extra.css]
+
+# Plugins
 plugins:
   - search:
-      lang: vi
+      lang: 
+        - en
 
 watch:
   - .  # reload docs for any file changes
