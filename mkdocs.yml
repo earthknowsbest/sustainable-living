@@ -17,16 +17,18 @@ theme:
   language: en
   font:
     text: Source Sans Pro
+  icon:
+    repo: fontawesome/brands/github-alt
   palette:
     - scheme: default
-      primary: brown
-      accent: brown
+      primary: red
+      accent: red
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: brown
-      accent: brown
+      primary: red
+      accent: red
       toggle:
         icon: material/brightness-2
         name: Switch to light mode
@@ -52,9 +54,27 @@ theme:
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
+    - navigation.expand
     - toc.follow
 
 extra_css: [stylesheets/extra.css]
+
+copyright: Copyright &copy; 2023 Sustainable Living
+
+extra:
+  generator: false
+  # consent:
+  #   actions:
+  #     - accept
+  #     - manage
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - footnotes
 
 # Plugins
 plugins:
