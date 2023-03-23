@@ -1,5 +1,11 @@
 site_name: SỐNG BỀN VỮNG
 repo_url: https://github.com/earthknowsbest/sustainable-living
+site_author: Peace Vegan School
+site_description: >-
+  Sống bền vững tập hợp sách báo, nghiên cứu về đời sống 
+  con người và trái đất, cung cấp cái nhìn toàn diện về 
+  hệ sinh thái, những phương thức sống bền vững, bảo tồn 
+  và khôi phục tự nhiên.
 
 # customed port of serving
 dev_addr: '127.0.0.1:9000'
