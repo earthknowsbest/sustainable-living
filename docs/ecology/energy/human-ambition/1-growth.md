@@ -16,13 +16,13 @@ Một trong những đặc điểm quan trọng của tăng trưởng theo hàm 
     
     Bất kì kiểu tăng trưởng nào, dù chậm đến đâu, cũng có thể được biểu diễn bằng thời gian nhân đôi, ngay cả khi không có số lần nhân đôi cụ thể.
 
-Một khái niệm quan trọng và thuận tiện chúng ta sẽ sử dùng thường xuyên trong chương này là **qui luật 70**:
+Một khái niệm quan trọng và thuận tiện chúng ta sẽ sử dùng thường xuyên trong chương này là **qui luật** $\textbf{70}$:
 
-!!! info "Định nghĩa 1.1: Qui luật 70" 
+!!! info "Định nghĩa 1.1: Qui luật $\textbf{70}$" 
 
-    Thời gian cần thiết để nhân đôi được liên hệ với tỉ lệ phần trăm tăng trưởng bằng công thức lấy 70 chia cho tỉ lệ phần trăm ấy. Ví dụ, 1% tăng tưởng sẽ nhân đôi giá trị thực qua 70 năm, trong khi với tỉ lệ 2%, thời gian ấy à 35 năm, và với 10% là 7 năm. Điều này cũng đúng với những khung thời gian khác: nếu những ca nhiễm bệnh trong một đại dịch tăng trưởng với mức độ 3,5% một ngày, số ca bệnh sẽ gấp đôi trong vòng 20 ngày.
+    Thời gian cần thiết để nhân đôi được liên hệ với tỉ lệ phần trăm tăng trưởng bằng công thức lấy $70$ chia cho tỉ lệ phần trăm ấy. Ví dụ, $1\%$ tăng tưởng sẽ nhân đôi giá trị thực qua $70$ năm, trong khi với tỉ lệ $2\%$, thời gian ấy à $35$ năm, và với $10\%$ là $7$ năm. Điều này cũng đúng với những khung thời gian khác: nếu những ca nhiễm bệnh trong một đại dịch tăng trưởng với mức độ $3{,}5\%$ một ngày, số ca bệnh sẽ gấp đôi trong vòng $20$ ngày.
 
-Chúng ta sẽ thấy qui luật 70 xuất hiện trong toán học như thế nào vào cuối chương này. Nhưng trước hết, việc thấu hiểu về hệ quả (*consequences*) của nó thực chất quan trọng hơn. Để giản tiện, lấy ví dụ một thị trấn gấp đôi dân số của mình mỗi 10 năm (hay theo qui luật 70, chúng ta có tỉ lệ tăng dân số là 7%/năm). Bắt đầu vào năm 1900 với 100 cư dân, chúng ta kì vọng dân số sẽ là 200 người vào năm 1910, 400 người vào năm 1920, 800 người vào năm 1930, và sau đó đạt đến ngưỡng 100.000 người vào năm 2000 (xem bảng 1.1). Nếu giữ nguyên tỉ lệ tăng trưởng này, dân số thị trấn sẽ bằng với dân số thế giới chỉ sau 260 năm từ khi bắt đầu theo ví dụ trên.
+Chúng ta sẽ thấy qui luật 70 xuất hiện trong toán học như thế nào vào cuối chương này. Nhưng trước hết, việc thấu hiểu về hệ quả (*consequences*) của nó thực chất quan trọng hơn. Để giản tiện, lấy ví dụ một thị trấn gấp đôi dân số của mình mỗi $10$ năm (hay theo qui luật 70, chúng ta có tỉ lệ tăng dân số là $7\%$/năm). Bắt đầu vào năm $1900$ với $100$ cư dân, chúng ta kì vọng dân số sẽ là $200$ người vào năm $1910$, $400$ người vào năm $1920$, $800$ người vào năm $1930$, và sau đó đạt đến ngưỡng $100.000$ người vào năm $2000$ (xem bảng 1.1). Nếu giữ nguyên tỉ lệ tăng trưởng này, dân số thị trấn sẽ bằng với dân số thế giới chỉ sau $260$ năm từ khi bắt đầu theo ví dụ trên.
 
 Nhưng hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm của chúng ta đối với tăng trưởng theo cấp số nhân. Ở đây có một hũ thủy tinh chứa nhiều chất dinh dưỡng, chúng ta cho thêm vi khuẩn với số lượng chính xác sao cho mỗi lần vi khuẩn nhân đôi diễn ra sau 10 phút, và hũ này sẽ chứa đầy vi khuẩn sau đúng 24 giờ. Thí nghiệm này bắt đầu từ lúc nửa đêm. Câu hỏi: vào lúc nào thì hũ này sẽ đầy một nửa?
 
@@ -45,18 +45,22 @@ Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng t
 !!! note "Box 1.1: Lời khuyên khi đọc công thức toán"
     Đây là là một trong những phần chứa nhiều công thức toán phức tạp nhất trong cuốn sách. Nhưng đừng để điều đó gây khó khăn cho bạn, mà cứ từ từ xem xét cẩn thận. Bạn chỉ cần nhận diện tăng trưởng theo cấp số nhân tuân theo một số quy luật không đổi, được trình bày chỉ trong vài trang sách. Đọc đi đọc lại phần này nhiều lần sẽ giúp bạn hiểu được rõ hơn nội dung được trình bày. Những công thức chỉ là những câu ngắn gọn giúp thâu tóm nội dung khái niệm. Nên thay vì chỉ đọc và sử dụng những công thức, tốt hơn bạn cần hiểu ý nghĩa của chúng và lí do tại sao chúng được sử dụng. Theo đó, dù sách được trình bày theo kết cấu cả câu văn và công thức đan xen, một tư tưởng xuyên suốt được phát triển qua cả hai thứ ngôn ngữ này. Phần Giới thiệu sẽ làm rõ hơn nội dung trong chương này, và phần Phụ lục A nhắc bạn về toán học căn bản.
 
+??? question "Lưu ý"
+
+    Không giống như từ ngữ hay ngôn ngữ, các kí hiệu toán học dùng trong các phương trình chỉ là những nhãn hiệu và không có ý nghĩa thực chất - vì thế sử dụng kí hiệu **$x$**, **$n$**, **$t$**, **$b$**, **$M$**, v.v phản ánh những lựa chọn nhất định nào đó và có thể được thay thế bởi các kí hiệu khác, để mô tả cùng một khái niệm một cách nhất quán. Nội dung của công thức toán học thực chất nằm ở cấu trúc của phương trình, công thức đó.
+
 Nhưng chuyên gia thường đọc các đoạn văn có nội dung khó hiểu nhiều lần trước khi thực sự hiểu. Có lẽ đó do thói quen bình tĩnh đó giúp họ trở thành chuyên gia!
 
-Note: 5 Không giống như từ ngữ hay ngôn ngữ, các kí hiệu toán học dùng trong các phương trình chỉ là những nhãn hiệu và không có ý nghĩa thực chất - vì thế sử dụng kí hiệu x, n, t, b, M, v.v phản ánh những lựa chọn nhất định nào đó và có thể được thay thế bởi các kí hiệu khác, để mô tả cùng một khái niệm một cách nhất quán. Nội dung của công thức toán học thực chất nằm ở cấu trúc của phương trình, công thức đó.
+Đặc điểm chủ yếu của tăng trưởng theo cấp số nhân: sự tăng trưởng được hình thành theo lũy thừa một cơ số nào đó và số mũ là đơn vị khoảng thời gian. Theo thời gian nhân đôi, chúng ta bắt đầu với $1\times$ ($1$ lần), mức băn bản, tiếp theo đến $2\times$, rồi $4\times$, $8\times$, v.v… Với mỗi khoảng thời gian, chúng ta nhân với 2 (cơ số). Ví dụ, sau 5 khoảng thời gian, chúng ta có $2 \times 2 \times 2\times 2 \times 2$, hay $2^5$ = 32. Một cách tổng quát, sau n lần nhân đôi, chúng ta đã nhân lên với $2n$ lần, với $2$ là cơ số, n là số lần nhân đôi. Công thức được tổng quát như sau:
 
-Đặc điểm chủ yếu của tăng trưởng theo cấp số nhân: sự tăng trưởng được hình thành theo lũy thừa một cơ số nào đó và số mũ là đơn vị khoảng thời gian. Theo thời gian nhân đôi, chúng ta bắt đầu với 1x (1 lần), mức băn bản, tiếp theo đến 2x, rồi 4x, 8x, v.v… Với mỗi khoảng thời gian, chúng ta nhân với 2 (cơ số). Ví dụ, sau 5 khoảng thời gian, chúng ta có 2 x 2 x 2 x 2 x 2, hay 25 = 32. Một cách tổng quát, sau n lần nhân đôi, chúng ta đã nhân lên với 2n lần, với 2 là cơ số, n là số lần nhân đôi. Công thức được tổng quát như sau:
+$$
+M = 2^n = 2^{t/t_2}, \tag{1.1}
+$$
 
-M = 2n = 2t/t2, (1.1)
-
-với M là số nhân, t là tổng thời gian, và t2 là kí hiệu chỉ thời gian để nhân đôi - nên n = t / t2 tương đương số lần nhân đôi.
+với M là số nhân, t là tổng thời gian, và t2 là kí hiệu chỉ thời gian để nhân đôi - nên $n = t / t_2$ tương đương số lần nhân đôi.
 
 Box 1.2: Ví dụ Lãi suất
-Qui trình tương tự diễn ra trong một tài khoản ngân hàng có tính lãi suất gộp (ví dụ tài khoản tiền gửi tiết kiệm tính lãi kép, lãi suất dùng để tiết kiệm thay vì rút ra hàng năm). Cho rằng bạn gửi $100 vào trong ngân hàng với lãi suất 2% một năm. Vào cuối năm đầu tiên, bạn sẽ có $102, hay 1,02 lần tiền gửi ban đầu. Năm tiếp theo, đó là 1,02 lần nhân với $102, hay $104,04, tương đương $100 nhân với 1,02 x 1,02. Sau ba năm, số tiền trở thành $106,18, hay $100 nhân với 1,023. Theo qui luật này, sau 35 năm, số tiền tiết kiệm sẽ là $100 nhân 1,0235, tương đương gần $199,99. Để ý rằng thời gian nhân đôi trong 35 năm với 2% lãi suất tuân theo qui luật 70. Bảng 1.2 tóm tắt ví dụ này.
+Qui trình tương tự diễn ra trong một tài khoản ngân hàng có tính lãi suất gộp (ví dụ tài khoản tiền gửi tiết kiệm tính lãi kép, lãi suất dùng để tiết kiệm thay vì rút ra hàng năm). Cho rằng bạn gửi $\$100$ vào trong ngân hàng với lãi suất $2\%$ một năm. Vào cuối năm đầu tiên, bạn sẽ có $\$102$, hay $1,02$ lần tiền gửi ban đầu. Năm tiếp theo, đó là 1,02 lần nhân với $\$102$, hay $\$104,04$, tương đương $\$100$ nhân với $1,02 \times 1,02$. Sau ba năm, số tiền trở thành $\$106,18$, hay $\$100$ nhân với $1,023$. Theo qui luật này, sau $35$ năm, số tiền tiết kiệm sẽ là $\$100$ nhân $1,0235$, tương đương gần $\$199,99$. Để ý rằng thời gian nhân đôi trong $35$ năm với 2% lãi suất tuân theo qui luật $70$. Bảng $1.2$ tóm tắt ví dụ này.
 
 Dù là nhân đôi, hay nhân với một số lãi suất hàng năm như trong Box 1.2, chúng ta đều nhân với một cơ số hết lần này đến lần khác. Điều này tương đương với việc lũy thừa một cơ số với một số mũ nào đó-số mũ chính là số lần chúng ta cấp số nhân cơ số lên. Từ đó, nếu gọi cơ số là b và số lần nhân lên là n, chúng ta có:
 
@@ -77,7 +81,7 @@ ln M = n ln b
 
 Vì thế, để tìm số lần nhân đôi n, chúng ta giải phương trình n = ln M / ln b.
 
-6. Ví dụ, (53)4 tương đương (5 x 5 x 5)4 = (5 x 5 x 5) x (5 x 5 x 5) x (5 x 5 x 5) x (5 x 5 x 5), hay 12 nhân với cơ số 5, hay 512. Nên đơn giản chúng ta chỉ cần nhần 3 với 4 để có lũy thừa tương đương. Thường thường, chúng ta không cần ghi nhớ công thức toán: chỉ cần thử vài phép tính là có thể suy ra công thức.
+1. Ví dụ, (53)4 tương đương (5 x 5 x 5)4 = (5 x 5 x 5) x (5 x 5 x 5) x (5 x 5 x 5) x (5 x 5 x 5), hay 12 nhân với cơ số 5, hay 512. Nên đơn giản chúng ta chỉ cần nhần 3 với 4 để có lũy thừa tương đương. Thường thường, chúng ta không cần ghi nhớ công thức toán: chỉ cần thử vài phép tính là có thể suy ra công thức.
 
 
 Ví dụ 1.1.1. Thời gian để tăng gấp 1.000 lần (M=1000) với số nhân 1,07 (hay tỉ lệ tăng trưởng hàng năm là %; b = 1,07) là n = ln M / ln 1,07 = 102 năm.
