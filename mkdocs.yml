@@ -3,7 +3,7 @@ repo_url: https://github.com/earthknowsbest/sustainable-living
 site_author: Peace Vegan School
 site_description: >-
   Sống bền vững tập hợp sách báo, nghiên cứu về đời sống 
-  con người và trái đất, cung cấp cái nhìn toàn diện về 
+  con người trên trái đất, cung cấp cái nhìn toàn diện về 
   hệ sinh thái, những phương thức sống bền vững, bảo tồn 
   và khôi phục tự nhiên.
 
@@ -22,7 +22,8 @@ theme:
   name: material
   language: en
   font:
-    text: Source Sans Pro
+    text: Noto Serif
+    # text: Source Sans Pro
   icon:
     repo: fontawesome/brands/github-alt
   palette:
