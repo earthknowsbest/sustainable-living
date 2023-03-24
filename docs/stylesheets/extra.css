@@ -1,9 +1,16 @@
+::selection {
+    background: #ffd78d;
+    color: #3d1818;
+}
+
 :root, [data-md-color-scheme=default] {
-    --md-default-fg-color--light: #000000a8;
+    --md-default-fg-color--light: #3d1818;
+    --md-default-bg-color: #fff9ea
 }
 
 [data-md-color-accent=red] {
     --md-accent-fg-color: #ef5552;
+    --md-primary-bg-color: #3d1818;
 }
 
 [data-md-color-scheme="slate"] {
@@ -16,7 +23,8 @@ aside, body, input {
 }
 
 .md-content {
-    margin-bottom: 2rem;
+    margin: 0rem auto;
+    max-width: 33rem;
 }
 
 .md-typeset {
@@ -38,6 +46,11 @@ aside, body, input {
 .md-tabs__link {
     font-size: 0.9rem;
     margin-top: 0.3rem;
+    font-weight: 700;
+}
+
+.md-nav__link:focus, .md-nav__link:hover {
+    text-decoration: underline;
 }
 
 .md-tabs__item {

@@ -51,7 +51,7 @@ Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng t
 
 Nhưng chuyên gia thường đọc các đoạn văn có nội dung khó hiểu nhiều lần trước khi thực sự hiểu. Có lẽ đó do thói quen bình tĩnh đó giúp họ trở thành chuyên gia!
 
-Đặc điểm chủ yếu của tăng trưởng theo cấp số nhân: sự tăng trưởng được hình thành theo lũy thừa một cơ số nào đó và số mũ là đơn vị khoảng thời gian. Theo thời gian nhân đôi, chúng ta bắt đầu với $1\times$ ($1$ lần), mức băn bản, tiếp theo đến $2\times$, rồi $4\times$, $8\times$, v.v… Với mỗi khoảng thời gian, chúng ta nhân với $2$ (cơ số). Ví dụ, sau 5 khoảng thời gian, chúng ta có $2 \times 2 \times 2\times 2 \times 2$, hay $2^5= 32$. Một cách tổng quát, sau n lần nhân đôi, chúng ta đã nhân lên với $2n$ lần, với $2$ là cơ số, $n$ là số lần nhân đôi. Công thức được tổng quát như sau:
+Đặc điểm chủ yếu của tăng trưởng theo cấp số nhân: sự tăng trưởng được hình thành theo lũy thừa một cơ số nào đó và số mũ là đơn vị khoảng thời gian. Theo thời gian nhân đôi, chúng ta bắt đầu với $1\times$ ($1$ lần), mức băn bản, tiếp theo đến $2\times$, rồi $4\times$, $8\times$, v.v… Với mỗi khoảng thời gian, chúng ta nhân với $2$ (cơ số). Ví dụ, sau 5 khoảng thời gian, chúng ta có $2 \times 2 \times 2\times 2 \times 2$, hay $2^5= 32$. Một cách tổng quát, sau n lần nhân đôi, chúng ta đã nhân lên với $2^n$ lần, với $2$ là cơ số, $n$ là số lần nhân đôi. Công thức được tổng quát như sau:
 
 $$
 M = 2^n = 2^{t/t_2}, \tag{1.1}
@@ -98,7 +98,7 @@ Vì thế, để tìm số lần nhân đôi $n$, chúng ta giải phương trì
     
     Thời gian để tăng gấp $1.000$ lần $(M = 1000)$ với số nhân $1{,}07$ (hay tỉ lệ tăng trưởng hàng năm là $7\%$; $b = 1{,}07$) là $n = \ln{M} / \ln{1{,}07} = 102$ năm.
 
-Qui luật $70$ được hình thành khi số nhân M có giá trị bằng $2$. So sánh với công thức lãi suất kép $(1+p)^t$, với $p$ là lãi suất hàng năm (ví dụ: $0.02$ hay $2\%$) và $t$ là số năm tiết kiệm, **Phương trình** $\textbf{1.4}$ có thể được viết lại bằng cách thay $b = 1 + p$ và $n = t$. Theo **Phương trình** $\textbf{1.3}$, thời gian nhân đôi được trình bày dưới dạng:
+Qui luật $70$ được hình thành khi số nhân M có giá trị bằng $2$. So sánh với công thức lãi suất kép $(1+p)^t$, với $p$ là lãi suất hàng năm (ví dụ: $0{,}02$ hay $2\%$) và $t$ là số năm tiết kiệm, **Phương trình** $\textbf{1.4}$ có thể được viết lại bằng cách thay $b = 1 + p$ và $n = t$. Theo **Phương trình** $\textbf{1.3}$, thời gian nhân đôi được trình bày dưới dạng:
 
 $$
 M = {e^{t\ln(1 + p)}} = e^{t\ln{2}/t_2}\tag{1.6}
@@ -110,7 +110,7 @@ $$
 t_2 = \ln{2} / \ln(1+p) \tag{1.7}
 $$
 
-Với $p$ nhận giá trị nhỏ (nhỏ hơn nhiều so với $1$), logarit tự nhiên của $1 + p$ xấp xỉ bằng $p$. Theo đó, khi $p = 0{,}02$, thì $\ln{1{,}02} ≈ 0{,}02 ≈ p$. Đây là một phần lí do chúng ta chọn $e$ là cơ số, vì nó “tự nhiên” theo toán học. Vì $\ln{2} ≈ 0{,}693 ≈ 0{,}7$, nên thời gian nhân đôi, $t_2$, xấp xỉ bằng $70$ chia cho tỉ lệ tăng trưởng hàng năm, $p$, tính theo phần trăm. Do đó ta gọi là qui luật $70$ cho thời gian nhân đôi (mà không phải là $60$ hay $80$) căn bản vì logarit tự nhiên của $2$ (nhân đôi) gần bằng $0{,}7$.
+Với $p$ nhận giá trị nhỏ (nhỏ hơn nhiều so với $1$), logarit tự nhiên của $1 + p$ xấp xỉ bằng $p$. Theo đó, khi $p = 0{,}02$, thì $\ln{1{,}02} ≈ 0{,}02 ≈ p$. Đây là một phần lí do chúng ta chọn $e$ là cơ số, vì nó “tự nhiên” theo toán học. Vì $\ln{2} ≈ 0{,}693 ≈ 0{,}7$, nên thời gian nhân đôi, $t_2$, xấp xỉ bằng $70$ chia cho tỉ lệ tăng trưởng hàng năm, $p$, tính theo phần trăm. Do đó ta gọi là qui luật $70$ cho thời gian nhân đôi (mà không phải là $60$ hay $80$) căn bản vì logarit tự nhiên của $2$, hay $\ln{2}$, gần bằng $0{,}7$.
 
 Ví dụ 1.1.2 Để ôn lại toàn bộ, chúng ta hãy cùng nhau sử dụng ví dụ sau, với giả định tăng trưởng hàng năm là 5%.
 
