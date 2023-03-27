@@ -22,7 +22,25 @@ Một khái niệm quan trọng và thuận tiện chúng ta sẽ sử dùng th�
 
     Thời gian cần thiết để nhân đôi được liên hệ với tỉ lệ phần trăm tăng trưởng bằng công thức lấy $70$ chia cho tỉ lệ phần trăm ấy. Ví dụ, $1\%$ tăng trưởng sẽ nhân đôi giá trị thực qua $70$ năm, trong khi với tỉ lệ $2\%$, thời gian ấy à $35$ năm, và với $10\%$ là $7$ năm. Điều này cũng đúng với những khung thời gian khác: nếu những ca nhiễm bệnh trong một đại dịch tăng trưởng với mức độ $3{,}5\%$ một ngày, số ca bệnh sẽ gấp đôi trong vòng $20$ ngày.
 
-Chúng ta sẽ thấy qui luật $70$ xuất hiện trong toán học như thế nào vào cuối chương này. Nhưng trước hết, việc thấu hiểu về hệ quả (*consequences*) của nó thực chất quan trọng hơn. Để giản tiện, lấy ví dụ một thị trấn gấp đôi dân số của mình mỗi $10$ năm (hay theo qui luật $70$, chúng ta có tỉ lệ tăng dân số là $7\%$/năm). Bắt đầu vào năm $1900$ với $100$ cư dân, chúng ta kì vọng dân số sẽ là $200$ người vào năm $1910$, $400$ người vào năm $1920$, $800$ người vào năm $1930$, và sau đó đạt đến ngưỡng $100.000$ người vào năm $2000$ (xem bảng $1.1$). Nếu giữ nguyên tỉ lệ tăng trưởng này, dân số thị trấn sẽ bằng với dân số thế giới chỉ sau $260$ năm từ khi bắt đầu theo ví dụ trên.
+Chúng ta sẽ thấy qui luật $70$ xuất hiện trong toán học như thế nào vào cuối chương này. Nhưng trước hết, việc thấu hiểu về hệ quả (*consequences*) của nó thực chất quan trọng hơn. Để giản tiện, lấy ví dụ một thị trấn gấp đôi dân số của mình mỗi $10$ năm (hay theo qui luật $70$, chúng ta có tỉ lệ tăng dân số là $7\%$/năm). Bắt đầu vào năm $1900$ với $100$ cư dân, chúng ta kì vọng dân số sẽ là $200$ người vào năm $1910$, $400$ người vào năm $1920$, $800$ người vào năm $1930$, và sau đó đạt đến ngưỡng $100.000$ người vào năm $2000$ (xem **Bảng** $\textbf{1.1}$). Nếu giữ nguyên tỉ lệ tăng trưởng này, dân số thị trấn sẽ bằng với dân số thế giới chỉ sau $260$ năm từ khi bắt đầu theo ví dụ trên.
+
+<div markdown="1" class="row-content">
+
+!!! info "Bảng 1.1. Ví dụ $7\%$ tăng trưởng hàng năm"
+    
+    Số lượng vi khuẩn nhân trong mỗi $10$ phút chỉ là một ví dụ (thực tế có thể là $20-30$ phút).
+
+| Năm  | Dân số  |
+| :--: | :-----: |
+| 1900 | 100     |
+| 1910 | 200     |
+| 1920 | 400     |
+| 1930 | 800     |
+| 1940 | 1600    |
+| ...  | ...     |
+| 2000 | 102.400 |
+
+</div>
 
 Nhưng hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm của chúng ta đối với tăng trưởng theo cấp số nhân. Ở đây có một hũ thủy tinh chứa nhiều chất dinh dưỡng, chúng ta cho thêm vi khuẩn với số lượng chính xác sao cho mỗi lần vi khuẩn nhân đôi diễn ra sau $10$ phút, và hũ này sẽ chứa đầy vi khuẩn sau đúng $24$ giờ. Thí nghiệm này bắt đầu từ lúc nửa đêm. Câu hỏi: vào lúc nào thì hũ này sẽ đầy một nửa?
 
@@ -30,7 +48,11 @@ Hãy dành khoảng một phút suy nghĩ. Trực giác thông thường mách b
 
 Câu trả lời: chúng ta chỉ cần bớt đi một lần thời gian nhân đôi, hay $11$ giờ $50$ phút đêm. Hình $1.1$ biểu diễn câu chuyện này. Vào lúc $11$ giờ đêm, hũ chỉ đầy $1/64$ dung tích thực, hay $1{,}7\%$. Vậy thì, trong $23$ giờ đầu tiên của $24$ giờ thí nghiệm, hũ này gần như trống không. Tất cả những hoạt động chỉ diễn ra vào thời điểm cuối, với tốc độ chóng mặt. 
 
-Hình $1.1$: $90$ phút cuối trong quá trình vi khuẩn (phần màu xanh) phát triển trong hũ, nhân đôi mỗi $10$ phút. Gần như chẳng có gì rõ rệt trong $22{,}5$ giờ đầu tiên. Hãy chú ý đường dâng lên của vi khuẩn đã vẽ lên đồ thị của một hàm số mũ.
+![Bacteria-Light](../../../assets/images/bacteria-light.svg#only-light)
+![Bacteria-Dark](../../../assets/images/bacteria-dark.svg#only-dark)
+
+
+> **Hình** $\textbf{1.1}$: <i>$\textit{90}$ phút cuối trong quá trình vi khuẩn (phần màu xanh) phát triển trong hũ, nhân đôi mỗi $\textit{10}$ phút. Gần như chẳng có gì rõ rệt trong $\textit{22,5}$ giờ đầu tiên. Hãy chú ý đường dâng lên của vi khuẩn đã vẽ lên đồ thị của một hàm số mũ.</i>
 
 Giờ hãy cùng tưởng tượng một tình huống khác cũng với hũ vi khuẩn. Thời gian là $11$ giờ $30$ phút tối hôm sau, hay nửa giờ trước khi kết thúc thí nghiệm. Hũ lúc này đầy $1/8$ vi khuẩn. Những người thận trọng và biết lo xa trong dự án nuôi cấy vi khuẩn này khi dự đoán về tương lai, quyết định rằng cần tìm thêm những hũ trống chứa đầy dinh dưỡng trong thời gian ngắn để vi khuẩn có thể tiếp tục sinh trưởng với tốc độ cũ. Nhưng hãy thử hình dung và đồng cảm với sự khó tin của nhiều người khác cùng trong dự án: hũ còn lâu mới đầy, và vi khuẩn trong đó đã sinh trưởng qua $141$ thế hệ (hay số lần nhân đôi) - một khoảng thời gian dường như vô tận. Tuy nhiên, một người trở về thông báo đã tìm ra được thêm ba hũ trống đựng dinh dưỡng tương tự. Thật đáng hoan nghênh người hùng đó! Vậy sự sinh trưởng của vi khuẩn sẽ tiếp diễn trong bao lâu? Câu trả lời của bạn như thế nào?
 
@@ -54,12 +76,12 @@ Nhưng chuyên gia thường đọc các đoạn văn có nội dung khó hiểu
 Đặc điểm chủ yếu của tăng trưởng theo cấp số nhân: sự tăng trưởng được hình thành theo lũy thừa một cơ số nào đó và số mũ là đơn vị khoảng thời gian. Theo thời gian nhân đôi, chúng ta bắt đầu với $1\times$ ($1$ lần), mức băn bản, tiếp theo đến $2\times$, rồi $4\times$, $8\times$, v.v… Với mỗi khoảng thời gian, chúng ta nhân với $2$ (cơ số). Ví dụ, sau 5 khoảng thời gian, chúng ta có $2 \times 2 \times 2\times 2 \times 2$, hay $2^5= 32$. Một cách tổng quát, sau n lần nhân đôi, chúng ta đã nhân lên với $2^n$ lần, với $2$ là cơ số, $n$ là số lần nhân đôi. Công thức được tổng quát như sau:
 
 $$
-M = 2^n = 2^{t/t_2}, \tag{1.1}
+M = 2^n = 2^{t/t_2}, \tag{1.1}\label{1.1}
 $$
 
 với M là số nhân, $t$ là tổng thời gian, và $t_2$ là kí hiệu chỉ thời gian để nhân đôi&mdash;nên $n = t / t_2$ tương đương số lần nhân đôi.
 
-!!! example "Mục $\textbf{1.2}$: Ví dụ Lãi suất"
+!!! example "**Mục** $\textbf{1.2}$: Ví dụ Lãi suất"
     
     Qui trình tương tự diễn ra trong một tài khoản ngân hàng có tính lãi suất gộp (tài khoản tiền gửi tiết kiệm tính lãi kép, lãi suất dùng để tiết kiệm thay vì rút ra hàng năm). Cho rằng bạn gửi $\$100$ vào trong ngân hàng với lãi suất $2\%$ một năm. Vào cuối năm đầu tiên, bạn sẽ có $\$102$, hay $1{,}02$ lần tiền gửi ban đầu. Năm tiếp theo, đó là $1{,}02$ lần nhân với $\$102$, hay $\$104{,}04$, tương đương $\$100$ nhân với $1{,}02 \times 1{,}02$. Sau ba năm, số tiền trở thành $\$106{,}18$, hay $\$100$ nhân với $1{,}023$. Theo qui luật này, sau $35$ năm, số tiền tiết kiệm sẽ là $\$100$ nhân $1{,}02^{35}$, tương đương gần $\$199{,}99$. Để ý rằng thời gian nhân đôi trong $35$ năm với $2\%$ lãi suất tuân theo qui luật $70$. Bảng $1.2$ tóm tắt ví dụ này.
 
@@ -67,29 +89,29 @@ Dù là nhân đôi, hay nhân với một số lãi suất hàng năm như tron
 
 
 $$
-M = b^n \tag{1.2}
+M = b^n \tag{1.2}\label{1.2}
 $$
 
 Có một thủ thuật toán học giúp chúng ta dễ giải quyết các khía cạnh của tăng trưởng. Cấp số nhân và logarit tự nhiên là hàm nghịch của nhau. Do đó $\ln{(e^x)} = x$ và $e^{\ln{x}} = x$. Dùng thủ thuật: $2 = e^{\ln{2}}$, hay với bất kì cơ số nào: $b = e^{\ln{b}}$. Với trường hợp đặc biệt khi $b = 2$ (nhân đôi), chúng ta có:
 
 $$
-M = 2^{t/t_2} = {(e^{\ln{2}})}^{t/t_2} = e^{t\ln{2}/t_2} \tag{1.3}
+M = 2^{t/t_2} = {(e^{\ln{2}})}^{t/t_2} = e^{t\ln{2}/t_2} \tag{1.3}\label{1.3}
 $$
 
 ??? question "Giải thích" 
     
     ${(5^3)}^4$ tương đương $(5\times 5\times 5)^4$ $=$ $(5\times 5\times 5)$ $\times$ $(5\times 5\times 5)$ $\times$ $(5\times 5\times 5)$ $\times$ $(5\times 5\times 5)$, hay lũy thừa mũ $12$ với cơ số $5$, hay $5^{12}$. Nên đơn giản chúng ta chỉ cần nhần $3$ với $4$ để có lũy thừa tương đương. Thường thường, chúng ta không cần ghi nhớ công thức toán: chỉ cần thử vài phép tính là có thể suy ra công thức.
 
- Khi chúng ta bắt đầu với **Phương trình** $\textbf{1.1}$, được biểu diễn với cơ số $2$, sau đó áp dụng qui tắc lũy thừa của lũy thừa với cùng cơ số. Sử dụng thủ thuật này, chúng ta có thể biến bất kì lũy thừa một cơ số nào, như $b^x$ thành $e^{x\ln{b}}$, từ đó chuyển đổi bất kì hàm số mũ nào thành lũy thừa cơ số $e ≈ 2,7183$. Biến đổi **Phương trình** $\textbf{1.2}$ dưới dạng:
+ Khi chúng ta bắt đầu với **Phương trình** $\eqref{1.1}$, được biểu diễn với cơ số $2$, sau đó áp dụng qui tắc lũy thừa của lũy thừa với cùng cơ số. Sử dụng thủ thuật này, chúng ta có thể biến bất kì lũy thừa một cơ số nào, như $b^x$ thành $e^{x\ln{b}}$, từ đó chuyển đổi bất kì hàm số mũ nào thành lũy thừa cơ số $e ≈ 2,7183$. Biến đổi **Phương trình** $\eqref{1.2}$ dưới dạng:
 
 $$
-M = b^n = e^{n\ln{b}} \tag{1.4}
+M = b^n = e^{n\ln{b}} \tag{1.4}\label{1.4}
 $$
 
 Nếu muốn tính số nhân M, chúng ta có thể lấy logarit tự nhiên hai vế:
 
 $$
-\ln{M} = n\ln{b} \tag{1.5}
+\ln{M} = n\ln{b} \tag{1.5}\label{1.5}
 $$
 
 Vì thế, để tìm số lần nhân đôi $n$, chúng ta giải phương trình $n = \ln{M} / \ln {b}$.
@@ -98,35 +120,39 @@ Vì thế, để tìm số lần nhân đôi $n$, chúng ta giải phương trì
     
     Thời gian để tăng gấp $1.000$ lần $(M = 1000)$ với số nhân $1{,}07$ (hay tỉ lệ tăng trưởng hàng năm là $7\%$; $b = 1{,}07$) là $n = \ln{M} / \ln{1{,}07} = 102$ năm.
 
-Qui luật $70$ được hình thành khi số nhân M có giá trị bằng $2$. So sánh với công thức lãi suất kép $(1+p)^t$, với $p$ là lãi suất hàng năm (ví dụ: $0{,}02$ hay $2\%$) và $t$ là số năm tiết kiệm, **Phương trình** $\textbf{1.4}$ có thể được viết lại bằng cách thay $b = 1 + p$ và $n = t$. Theo **Phương trình** $\textbf{1.3}$, thời gian nhân đôi được trình bày dưới dạng:
+Qui luật $70$ được hình thành khi số nhân M có giá trị bằng $2$. So sánh với công thức lãi suất kép $(1+p)^t$, với $p$ là lãi suất hàng năm (ví dụ: $0{,}02$ hay $2\%$) và $t$ là số năm tiết kiệm, **Phương trình** $\eqref{1.4}$ có thể được viết lại bằng cách thay $b = 1 + p$ và $n = t$. Theo **Phương trình** $\eqref{1.3}$, thời gian nhân đôi được trình bày dưới dạng:
 
 $$
-M = {e^{t\ln(1 + p)}} = e^{t\ln{2}/t_2}\tag{1.6}
+M = {e^{t\ln(1 + p)}} = e^{t\ln{2}/t_2}\tag{1.6}\label{1.6}
 $$
 
 từ đó, $\ln(1+p) = \ln{2}/t_2$ (cùng cơ số nên số mũ bằng nhau), và thời gian nhân đôi được tính bằng: 
 
 $$
-t_2 = \ln{2} / \ln(1+p) \tag{1.7}
+t_2 = \ln{2} / \ln(1+p) \tag{1.7}\label{1.7}
 $$
 
 Với $p$ nhận giá trị nhỏ (nhỏ hơn nhiều so với $1$), logarit tự nhiên của $1 + p$ xấp xỉ bằng $p$. Theo đó, khi $p = 0{,}02$, thì $\ln{1{,}02} ≈ 0{,}02 ≈ p$. Đây là một phần lí do chúng ta chọn $e$ là cơ số, vì nó “tự nhiên” theo toán học. Vì $\ln{2} ≈ 0{,}693 ≈ 0{,}7$, nên thời gian nhân đôi, $t_2$, xấp xỉ bằng $70$ chia cho tỉ lệ tăng trưởng hàng năm, $p$, tính theo phần trăm. Do đó ta gọi là qui luật $70$ cho thời gian nhân đôi (mà không phải là $60$ hay $80$) căn bản vì logarit tự nhiên của $2$, hay $\ln{2}$, gần bằng $0{,}7$.
 
-Ví dụ 1.1.2 Để ôn lại toàn bộ, chúng ta hãy cùng nhau sử dụng ví dụ sau, với giả định tăng trưởng hàng năm là 5%.
+!!! example "**Ví dụ** $\textbf{1.2}$: Để ôn lại toàn bộ, chúng ta hãy cùng nhau sử dụng các phương trình trên, với giả định tăng trưởng hàng năm là 5%."
 
-Qui luật 70 (Định nghĩa 1.1.1) cho biết thời gian nhân đôi là 14 năm (70 / 5), vì thế chúng ta có thể định nghãi t2 trong phương trình 1.1, 1.3, 1.6, 1.7 là 14 năm. Tính toán chính xác từ phương trình 1.7 cho kết quả 14,2 năm. 
+    Qui luật $70$ (**Định nghĩa** $\textbf{1.1})$ cho biết thời gian nhân đôi là $14$ năm ($70 / 5$), vì thế chúng ta có thể định nghĩa $t_2$ trong **Phương trình** $\eqref{1.1}$, $\eqref{1.3}$, $\eqref{1.6}$, $\eqref{1.7}$ là $14$ năm. Tính toán chính xác từ **Phương trình** $\eqref{1.7}$ cho kết quả $14{,}2$ năm. 
 
-Để đánh giá mức độ tăng trưởng trong 10 năm, chúng ta có thể dùng Phương trình 1.1 với t = 10 và t2 = 14.2 để tính được M = 1.63, có nghĩa là tăng 63% kích thước so với ban đầu. Hay chúng ta cũng có thể áp dụng Phương trình 1.2 với b = 1,05 và n = 10 để ra cùng một kết quả. Chú ý rằng chúng ta có thể tự do lựa chọn cơ số 1,05 hay 2, và số lần cấp số nhân n tương ứng là 10 hay t / t2 = 0.04 để ra cùng một kết quả. Với dạng hàm số mũ cơ số e trong phương trình 1.4, với đôi b và n đều cho ra e0.488.
+    Để đánh giá mức độ tăng trưởng trong $10$ năm, chúng ta có thể dùng **Phương trình** $\eqref{1.1}$ với $t = 10$ và $t_2 = 14{,}2$ để tính được $M = 1{,}63$, có nghĩa là tăng $63\%$ kích thước so với ban đầu. Hay chúng ta cũng có thể áp dụng **Phương trình** $\eqref{1.2}$ với $b = 1{,}05$ và $n = 10$ để ra cùng một kết quả. Chú ý rằng chúng ta có thể tự do lựa chọn cơ số $1{,}05$ hay $2$, và số lần cấp số nhân ($n$) tương ứng là $10$ hay $t / t_2 = 0{,}04$ để ra cùng một kết quả. Với dạng hàm số mũ cơ số $e$ trong **Phương trình** $\eqref{1.4}$, với cặp $b$ và $n$ đều cho ra $eˆ0.488$.
 
-Nếu chúng ta muốn “làm ngược lại” và tính xem khi nào mức gia tăng gấp 3 lần ban đầu (M = 3),  chúng ta có thể dùng Phương trình 1.5 để tim ra n bằng 22,5 với b là 1,05 (hay 22,5 năm, do cơ số này tăng mỗi năm). Nếu dùng b = 2, chúng ta tính được n = 1.58, hay sự gia tăng 3 lần so với ban đầu sau 1,8 lần nhân đôi, hay 1,58 t2 = 22.5 years. Chúng ta có thể kiểm tra kết quả với Phương trình 1.6 bằng cách đặt t = 2.. và p = 0.05 hay t2 = 14.2.
+    Nếu chúng ta muốn  "giải ngược từ cuối" và tính xem khi nào mức tăng đạt gấp 3 lần ban đầu ($M = 3$),  chúng ta có thể dùng **Phương trình** $\eqref{1.5}$ để tìm ra $n$ bằng $22{,}5$ với $b$ là $1{,}05$ (hay $22{,}5$ năm, do cơ số này tăng mỗi năm). Nếu dùng $b = 2$, chúng ta tính được $n = 1.58$, hay gấp $3$ lần so với ban đầu sau $1{,}8$ lần nhân đôi, hay $1{,}58\times t_2 = 22{,}5$ năm. Chúng ta có thể kiểm tra kết quả với **Phương trình** $\eqref{1.6}$ bằng cách đặt $t = 22{,}5$ và $p = 0{,}05$ hay $t_2 = 14{,}2$.
 
 ## Dự đoán tăng trưởng năng lượng theo hàm số mũ
 
-Một khi thiết lập nguyên lí của tăng trưởng theo hàm số mũ, giờ là lúc chúng ta sử dụng toán học để chứng minh  những giới hạn có thể đạt được cho những kì vọng của mình. Chúng ta sẽ tập trung vào việc sử dụng năng lượng. Ban quản trị thông tin 
-Do thiếu dữ liệu so sánh của thế giới, chúng ta sử dụng dữ liệu của Hoa Kỳ đơn giản để mô tả xu hướng toàn cầu. Ngay cả các quốc gia nghèo đang tăng trưởng năng lượng sử dụng- thường thường nhanh hơn mức 3% hàng năm của Hoa Kì theo lịch sử.
+Một khi đã thiết lập được nguyên lí của tăng trưởng theo hàm số mũ, giờ là lúc chúng ta sử dụng toán học để dẫn chứng về những giới hạn mà kì vọng của chúng ta có thể đạt đến. Chúng ta sẽ tập trung vào việc sử dụng năng lượng. Ban quản trị thông tin Năng lượng Hoa Kì (EIA) cung cấp thông tin về việc sử dụng năng lượng từ năm 1949 đến nay. Phụ lục (E1: [3]) trình bày ước tính năng lượng sử dụng từ năm 1635 đến 1945. Hình 1.2 hiển thị quá trình lịch sử gần đây hơn.
 
-Năng lượng Hoa Kì (EIA) cung cấp thông tin về việc sử dụng năng lượng từ năm 1949 đến nay. Phụ lục (E1: [3]) trình bày ước tính năng lượng sử dụng từ năm 1635 đến 1945. Hình 1.2 hiển thị quá trình lịch sử gần đây hơn.
+![US-Energy-Light](../../../assets/images/energy-us-light.svg#only-light)
+![US-Energy-Dark](../../../assets/images/energy-us-dark.svg#only-dark)
 
-Figure 1.2: Năng lượng sử dụng ở Hoa Kỳ trong hơn 200 năm, cho thấy sự tăng trưởng nhanh chóng gần như phụ thuộc hoàn toàn vào nhiên liệu hóa thạch. Đường màu đỏ là đường phù hợp theo tăng trưởng hàm số mũ áp dụng vào dữ liệu trong Hình 1.3
+> **Hình** $\textbf{1.2}$: <i>Năng lượng sử dụng ở Hoa Kỳ trong hơn 200 năm, cho thấy sự tăng trưởng nhanh chóng gần và như phụ thuộc hoàn toàn vào nhiên liệu hóa thạch. Đường màu đỏ là đường phù hợp theo tăng trưởng hàm số mũ áp dụng vào dữ liệu trong **Hình** $\textbf{1.3}$</i>
 
-Chú ý rằng tốc độ tăng trưởng năng lượng ở cạnh trái trong hình 1.2 đã trở nên rất nhỏ đến nỗi không đáng kể. Trình bày dữ liệu dưới dạng biểu đồ logarit, như Hình 1.3, chúng ta có thể hiểu rõ hơn toàn bộ quá trình phát triển năng lượng. Trong hình này, tăng trưởng đã trở thành những đường thẳng. Xu hướng này nhất quán một cách đáng ngạc nhiên với sự tăng trưởng hàm số mũ (đường màu đỏ) trong phần lớn lịch sử, với tốc độ gia tăng chỉ 3% một năm. Chú ý rằng hiệu ứng tổng quát này bao gồm cả sự gia tăng dân số, nhưng dân số không tăng nhanh bằng tốc độ tăng của năng lượng sử dụng, nên mức sử dụng năng lượng trên đầu người cũng tăng. Điều này khá hợp lí: cuộc sống hiện đại sử dụng nhiều năng lượng hơn nhiều so với trước đây, tính bình quân theo đầu người.
+??? info "Lưu ý"
+    
+    Do thiếu dữ liệu so sánh của thế giới, chúng ta sử dụng dữ liệu của Hoa Kỳ đơn giản để mô tả xu hướng toàn cầu. Ngay cả việc sử dụng năng lượng các quốc gia nghèo cũng đang tăng trưởng nhanh chóng&mdash;thường nhanh hơn mức 3% hàng năm của Hoa Kì theo lịch sử.
+
+Chú ý rằng tốc độ tăng trưởng sản lượng năng lượng ở cạnh trái trong **Hình** $\textbf{1.2}$ đã trở nên rất nhỏ đến nỗi không đáng kể (từ những năm $1800$ trở về trước). Trình bày dữ liệu dưới dạng biểu đồ logarit, như **Hình** $\textbf{1.3}$, chúng ta có thể hiểu rõ hơn toàn bộ quá trình phát triển năng lượng. Trong hình này, tăng trưởng đã trở thành những đường thẳng. Xu hướng này nhất quán một cách đáng ngạc nhiên với sự tăng trưởng hàm số mũ (đường màu đỏ) trong phần lớn lịch sử, với tốc độ gia tăng chỉ $3\%$ một năm. Chú ý rằng hiệu ứng tổng quát này bao gồm cả sự gia tăng dân số, nhưng dân số không tăng nhanh bằng tốc độ sản lượng năng lượng tăng, nên mức sử dụng năng lượng trên đầu người cũng tăng. Điều này khá hợp lí: cuộc sống hiện đại sử dụng nhiều năng lượng hơn nhiều so với trước đây, tính bình quân theo đầu người.
