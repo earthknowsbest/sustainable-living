@@ -118,6 +118,10 @@ html .md-typeset details>:last-child {
 }
 
 /* Table */
+.md-typeset__table {
+    padding: 0rem;
+}
+
 .md-typeset table:not([class]) {
     font-size: 1rem;
 }
@@ -131,7 +135,7 @@ html .md-typeset details>:last-child {
 
 .md-typeset table:not([class]) td {
     /* border-top: .05rem solid var(--md-typeset-table-color); */
-    padding: 0.1rem 1.25rem;
+    padding: 0.1rem 0.25rem;
     /* vertical-align: top; */
 }
 

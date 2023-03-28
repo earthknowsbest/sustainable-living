@@ -82,8 +82,16 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
   - javascripts/mathjax.js
