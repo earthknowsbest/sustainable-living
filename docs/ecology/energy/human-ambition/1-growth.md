@@ -1,6 +1,6 @@
 # Tăng trưởng theo cấp số nhân (*Exponential Growth*)
 
-Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người cũng có những điểm yếu chí mạng. Một trong số đó có lẽ là sự thấu hiểu về những hệ quả của cái gọi là **tăng trưởng theo cấp số nhân** (*exponential growth*). [^1] Trớ trêu thay, những mục tiêu kinh tế chính trị của chúng ta thường hướng đến việc hỗ trợ tăng trưởng kinh tế. Do sự kì vọng và ham muốn tăng tưởng không ngừng đã ăn sâu vào tư duy xã hội, việc khảo sát kĩ lưỡng về hiện tượng này là một điều hệ trọng, nhằm tránh cho chúng ta những sai lầm căn bản về nhận thức. Trong chương này, chúng ta hãy cùng tìm hiểu bản chất chung của tăng trưởng theo cấp số nhân, để nắm được tính bất khả thi và những hệ quả vô lí của việc tiếp diễn tăng trưởng từ năm này sang năm khác. Kết quả cho thấy kết cấu xã hội của chúng ta (dựa trên tăng trưởng) sớm muộn gì cũng phải đối mặt với những biến cố đáng kể so với cuộc sống hiện tại&mdash;một điều cần hết sức lưu tâm.[^2] Các chương sau sẽ tập trung vào những ứng dụng về kinh tế và tăng trưởng dân số&mdash;bao gồm đường tăng trưởng hàm logistic, và sau đó nhấn mạnh đến những giới hạn (*limits*) mà hành tinh hữu hạn (*finite planet*) của chúng ta đặt ra.
+Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người cũng có những điểm yếu chí mạng. Một trong số đó có lẽ là thiếu nhận thức đầy đủ về những hệ quả của cái gọi là **tăng trưởng theo cấp số nhân** (*exponential growth*). [^1] Trớ trêu thay, những mục tiêu kinh tế chính trị của chúng ta thường hướng đến việc hỗ trợ tăng trưởng kinh tế. Do sự kì vọng và ham muốn tăng tưởng không ngừng đã ăn sâu vào tư duy xã hội, việc khảo sát kĩ lưỡng về hiện tượng này là một điều hệ trọng, nhằm tránh cho chúng ta những sai lầm căn bản về nhận thức. Trong chương này, chúng ta hãy cùng tìm hiểu bản chất chung của tăng trưởng theo cấp số nhân, để nắm được tính bất khả thi và những hệ quả vô lí của việc tiếp diễn tăng trưởng từ năm này sang năm khác. Kết quả cho thấy kết cấu xã hội của chúng ta (dựa trên tăng trưởng) sớm muộn gì cũng phải đối mặt với những biến cố đáng kể so với cuộc sống hiện tại&mdash;một điều cần hết sức lưu tâm.[^2] Các chương sau sẽ tập trung vào những ứng dụng về kinh tế và tăng trưởng dân số&mdash;bao gồm đường tăng trưởng hàm logistic, và sau đó nhấn mạnh đến những giới hạn (*limits*) mà hành tinh hữu hạn (*finite planet*) của chúng ta đặt ra.
 
 [^1]:
     ... cảm ơn Al Bartlett đã nỗ lực nâng cao sự nhận thức cộng đồng về tăng trưởng hàm số mũ
@@ -44,7 +44,7 @@ Chúng ta sẽ thấy qui luật $70$ xuất hiện trong toán học như thế
 
 Nhưng hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm của chúng ta đối với tăng trưởng theo cấp số nhân. Ở đây có một hũ thủy tinh chứa nhiều chất dinh dưỡng, chúng ta cho thêm vi khuẩn với số lượng chính xác sao cho mỗi lần vi khuẩn nhân đôi diễn ra sau $10$ phút, và hũ này sẽ chứa đầy vi khuẩn sau đúng $24$ giờ. Thí nghiệm này bắt đầu từ lúc nửa đêm. Câu hỏi: vào lúc nào thì hũ này sẽ đầy một nửa?
 
-Hãy dành khoảng một phút suy nghĩ. Trực giác thông thường mách bảo: hũ này sẽ đầy một nửa vào giữa trưa hôm sau - bằng một nửa tổng thời gian thí nghiệm. Nhưng sẽ thế nào khi chúng ta giải quyết bài toán ngược lại từ lúc đầy? Hũ sẽ đầy vào nửa đêm hôm sau, và thời gian nhân đôi là $10$ phút. Vậy khi nào hũ sẽ đầy một nửa?
+Hãy dành khoảng một phút suy nghĩ. Trực giác thông thường mách bảo: hũ này sẽ đầy một nửa vào giữa trưa hôm sau&mdash;bằng một nửa tổng thời gian thí nghiệm. Nhưng sẽ thế nào khi chúng ta giải quyết bài toán ngược lại từ lúc đầy? Hũ sẽ đầy vào nửa đêm hôm sau, và thời gian nhân đôi là $10$ phút. Vậy khi nào hũ sẽ đầy một nửa?
 
 Câu trả lời: chúng ta chỉ cần bớt đi một lần thời gian nhân đôi, hay $11$ giờ $50$ phút đêm. Hình $1.1$ biểu diễn câu chuyện này. Vào lúc $11$ giờ đêm, hũ chỉ đầy $1/64$ dung tích thực, hay $1{,}7\%$. Vậy thì, trong $23$ giờ đầu tiên của $24$ giờ thí nghiệm, hũ này gần như trống không. Tất cả những hoạt động chỉ diễn ra vào thời điểm cuối, với tốc độ chóng mặt. 
 
@@ -64,7 +64,7 @@ Giờ chúng ta có thể hiểu những viễn cảnh tương tự. Một hành
 
     Nếu hiện tại chúng ta ở mức $1/8$ và nhân đôi sau mỗi $35$ năm, chúng ta sẽ ở mức $1/4$ sau $35$ năm, $1/2$ sau $70$ năm, và đầy trong $105$ năm. 
 
-Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng ta không có thêm hũ nào nữa ({==Chương $4$ sẽ trả lời cho hiện thực về du hành không gian==}). Thêm một hành tinh (sao hỏa) có thể ứng với thêm một hũ. Nhưng nó không tương thích với cuộc sống con người, không có thực phẩm, và ở khá xa. Chúng ta cũng chẳng có thêm bất kì một trạm tiếp tế nào. Và ngay cả khi vượt qua những khó khăn thực tế đó, một hành tinh thứ hai sẽ mua được bao nhiều thời gian với việc tăng trưởng không ngừng? 35 năm nữa chăng với mức tăng trưởng $2\%$ một năm?
+Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng ta không có thêm hũ nào nữa {==(Chương $4$ sẽ trả lời cho hiện thực về du hành không gian)==}. Thêm một hành tinh (sao hỏa) có thể ứng với thêm một hũ. Nhưng nó không tương thích với cuộc sống con người, không có thực phẩm, và ở khá xa. Chúng ta cũng chẳng có thêm bất kì một trạm tiếp tế nào. Và ngay cả khi vượt qua những khó khăn thực tế đó, một hành tinh thứ hai sẽ mua được bao nhiều thời gian với việc tăng trưởng không ngừng? 35 năm nữa chăng với mức tăng trưởng $2\%$ một năm?
 
 ### Tăng trưởng cấp số nhân theo toán học
 
@@ -93,9 +93,7 @@ với M là số nhân, $t$ là tổng thời gian, và $t_2$ là kí hiệu ch�
 
 !!! example "**Mục** $\textbf{1.2}$: Ví dụ Lãi suất"
     
-    Qui trình tương tự diễn ra trong một tài khoản ngân hàng có tính lãi suất gộp (tài khoản tiền gửi tiết kiệm tính lãi kép, lãi suất dùng để tiết kiệm thay vì rút ra hàng năm). Cho rằng bạn gửi $\$100$ vào trong ngân hàng với lãi suất $2\%$ một năm. Vào cuối năm đầu tiên, bạn sẽ có $\$102$, hay $1{,}02$ lần tiền gửi ban đầu. Năm tiếp theo, đó là $1{,}02$ lần nhân với $\$102$, hay $\$104{,}04$, tương đương $\$100$ nhân với $1{,}02 \times 1{,}02$. Sau ba năm, số tiền trở thành $\$106{,}18$, hay $\$100$ nhân với $1{,}023$. Theo qui luật này, sau $35$ năm, số tiền tiết kiệm sẽ là $\$100$ nhân $1{,}02^{35}$, tương đương gần $\$199{,}99$. Để ý rằng thời gian nhân đôi trong $35$ năm với $2\%$ lãi suất tuân theo qui luật $70$. Bảng $1.2$ tóm tắt ví dụ này.
-
-<!-- <div markdown="1" class="row-content"> -->
+    Qui trình tương tự diễn ra trong một tài khoản ngân hàng có tính lãi suất gộp (tài khoản tiền gửi tiết kiệm tính lãi kép, lãi suất dùng để tiết kiệm thay vì rút ra hàng năm). Cho rằng bạn gửi $\$100$ vào trong ngân hàng với lãi suất $2\%$ một năm. Vào cuối năm đầu tiên, bạn sẽ có $\$102$, hay $1{,}02$ lần tiền gửi ban đầu. Năm tiếp theo, đó là $1{,}02$ lần nhân với $\$102$, hay $\$104{,}04$, tương đương $\$100$ nhân với $1{,}02 \times 1{,}02$. Sau ba năm, số tiền trở thành $\$106{,}18$, hay $\$100$ nhân với $1{,}023$. Theo qui luật này, sau $35$ năm, số tiền tiết kiệm sẽ là $\$100$ nhân $1{,}02^{35}$, tương đương gần $\$199{,}99$. Để ý rằng thời gian nhân đôi trong $35$ năm với $2\%$ lãi suất tuân theo qui luật $70$. **Bảng** $\textbf{1.2}$ tóm tắt ví dụ này.
 
 !!! info "Bảng 1.2. Ví dụ Lãi suất"
     
@@ -114,10 +112,7 @@ với M là số nhân, $t$ là tổng thời gian, và $t_2$ là kí hiệu ch�
 | 25   | $1{,}9999$ | $\$199{,}99$ |
 </div>
 
-<!-- </div> -->
-
 Dù là nhân đôi, hay nhân với một số lãi suất hàng năm như trong **Mục $\textbf{1.2}$**, chúng ta đều nhân với một cơ số hết lần này đến lần khác. Điều này tương đương với việc lũy thừa một cơ số với một số mũ nào đó&mdash;số mũ chính là số lần chúng ta cấp số nhân cơ số lên. Từ đó, nếu gọi cơ số là $b$ và số lần nhân lên là $n$, chúng ta có:
-
 
 $$
 M = b^n \tag{1.2}\label{1.2}
@@ -139,7 +134,7 @@ $$
 M = b^n = e^{n\ln{b}} \tag{1.4}\label{1.4}
 $$
 
-Nếu muốn tính số nhân M, chúng ta có thể lấy logarit tự nhiên hai vế:
+Để tính số nhân M, chúng ta lấy logarit tự nhiên hai vế:
 
 $$
 \ln{M} = n\ln{b} \tag{1.5}\label{1.5}
@@ -151,7 +146,7 @@ Vì thế, để tìm số lần nhân đôi $n$, chúng ta giải phương trì
     
     Thời gian để tăng gấp $1.000$ lần $(M = 1000)$ với số nhân $1{,}07$ (hay tỉ lệ tăng trưởng hàng năm là $7\%$; $b = 1{,}07$) là $n = \ln{M} / \ln{1{,}07} = 102$ năm.
 
-Qui luật $70$ được hình thành khi số nhân M có giá trị bằng $2$. So sánh với công thức lãi suất kép $(1+p)^t$, với $p$ là lãi suất hàng năm (ví dụ: $0{,}02$ hay $2\%$) và $t$ là số năm tiết kiệm, **Phương trình** $\eqref{1.4}$ có thể được viết lại bằng cách thay $b = 1 + p$ và $n = t$. Theo **Phương trình** $\eqref{1.3}$, thời gian nhân đôi được trình bày dưới dạng:
+Qui luật $70$ được hình thành khi số nhân M có giá trị bằng $2$. So sánh với công thức lãi suất kép $(1+p)^t$, với $p$ là lãi suất hàng năm (ví dụ: $0{,}02$ hay $2\%$) và $t$ là số năm tiết kiệm, **Phương trình** $\eqref{1.4}$ có thể được viết lại bằng cách thay $b = 1 + p$ và $n = t$. Theo **Phương trình** $\eqref{1.3}$, thời gian nhân đôi có thể được biểu diễn lại dưới dạng:
 
 $$
 M = {e^{t\ln(1 + p)}} = e^{t\ln{2}/t_2}\tag{1.6}\label{1.6}
@@ -193,7 +188,7 @@ Chú ý rằng tốc độ tăng trưởng sản lượng năng lượng ở c�
 
 > **Hình** $\textbf{1.3}$: <i>Quỹ đạo sản lượng năng lượng của Hoa Kì theo thời gian. Đường màu đỏ là đường hàm số mũ với tỉ lệ tăng trưởng $2{,}9\%$ một năm, được biểu diễn dưới dạng đường thẳng trên biểu đồ logarit trục tung.</i>
 
-Chúng ta đã thiết lập được phương trình hàm số mũ dựa trên dữ liệu tăng trưởng trong quá khứ, hãy cùng xem xét các hệ quả về việc tiếp diễn xu hướng này trong tương lai. Bắt đầu với sản lượng năng lượng toàn cầu ở thời điểm hiện tại (năm $2020$) là $8\times10^{15}$ Watts ($18$ $TW$, hay TeraWatts), giả sử với mức tăng trưởng $2{,}3\%$ một năm. Chúng ta chọn mức tăng trưởng này bởi hai lí do: :one: mức tăng trưởng này nhỏ hơn một chút so với mức tăng trong lịch sử, nên nó không trở nên phi thức tế; :two: đây là con số thuận tiện cho việc tính toán với mức tăng gấp 10 lần mỗi thế kỉ.
+Chúng ta đã thiết lập được phương trình hàm số mũ dựa trên dữ liệu tăng trưởng trong quá khứ, hãy cùng xem xét các hệ quả về việc tiếp diễn xu hướng này trong tương lai. Bắt đầu với sản lượng năng lượng toàn cầu ở thời điểm hiện tại (năm $2020$) là $8\times10^{15}$ Watts ($18$ $TW$, hay TeraWatts), giả sử với mức tăng trưởng $2{,}3\%$ một năm. Chúng ta chọn mức tăng trưởng này bởi hai lí do: :one: mức tăng trưởng này nhỏ hơn một chút so với mức tăng trung bình trong lịch sử, nên nó không trở nên phi thức tế; :two: đây là con số thuận tiện cho việc tính toán với mức tăng gấp 10 lần mỗi thế kỉ.
 
 ??? info "Giải thích"
 
@@ -203,15 +198,20 @@ Theo lộ trình này, mặc kết quả thu được thật sự đáng kinh ng
 
 Mặt trời cung cấp năng lượng đến bề mặt Trái đất với sản lượng $1000$ $W/{m^2}$ ($1{,}000$ Watts mỗi mét vuông; chúng ta sẽ tìm hiểu sâu hơn về đơn vị này trong **Chương 5**). Bỏ qua hiệu ứng che phản xạ của mây, diện tích hứng sáng của trái đất là $A = \pi{R_\oplus^2}$, với $R_\oplus^2$ là bán kính của Trái đất, khoảng $6{,}400$ km. Khoảng một phần tư bề mặt Trái đất là đất liền; cộng tất cả lại ta có khoảng $30\times10^{15}$ $W$ chiếu xuống đất liền. Con số này gấp hơn $300$ lần sản lưởng điện tiêu thụ toàn cầu ($18$ $TW$). Thật là một con số  ngợp. Nếu tiếp tục tăng trưởng lượng năng lượng như hiện tại, sau một thế kỉ, chúng ta sẽ tiêu thụ gấp 10 lần, và 100 lần chỉ sau hai thế kỉ, và chạm ngưỡng giới hạn (năng lượng khai thác từ mặt trời trên đất liền) chỉ sau $2{,}5$ thế kỉ ($250$ năm). Sau đó sẽ không còn tăng trưởng thêm được nữa.
 
-Đợi một chút, tại sao không lắp tất cả các tấm pin mặt trời trên toàn bộ đại dương, và nâng cao hiệu suất tấm pin lên mức $100\%$ (theo một cách kì diệu nào đó)? Nếu làm được như thế, chúng ta sẽ "thu hoạch" được $130\times10^{15}$ $W$, gấp $7.000$ lần mức độ tiêu thụ hiện tại. Giờ đây, để chạm tới giới hạn chúng ta có 400 năm: mỗi lần gấp $10$ mức độ tiêu thụ năng lượng mất $100$ năm, với $7.000$ lần (hay khoảng $10^4$ lần), chúng ta sẽ cần chưa đến $100\times4$ năm, hay bốn thế kỉ.
+Đợi một chút, tại sao không lắp tất cả các tấm pin mặt trời trên toàn bộ đại dương, và nâng cao hiệu suất tấm pin lên mức $100\%$ (theo một cách kì diệu nào đó)? Nếu làm được như thế, chúng ta sẽ “thu hoạch” được $130\times10^{15}$ $W$, gấp $7.000$ lần mức độ tiêu thụ hiện tại. Giờ đây, để chạm tới giới hạn chúng ta có 400 năm: mỗi lần gấp $10$ mức độ tiêu thụ năng lượng mất $100$ năm, với $7.000$ lần (hay khoảng $10^4$ lần), chúng ta sẽ cần chưa đến $100\times4$ năm, hay bốn thế kỉ.
 
-Do đó, trong khoảng $400$ năm, chúng ta sẽ chạm tới giới hạn khai thác toàn bộ năng lượng mặt trời trên trái đất với hiệu suất $100\%$. Nhưng Trái đất cũng chỉ là một đốm nhỏ trong không gian. Tại sao chúng ta không thâu tóm "tất cả" năng lượng phát ra từ mặt trời, trong một bề mặt cầu (gọi là **mặt cầu Dyson**, xem **Hộp** $\textbf{1.3}$)? Giờ đây, chúng ta mới thực sự chiêm ngưỡng nguồn năng lượng khổng lồ! Mặt trời tỏa ra năng lượng $4\times{10^{26}}$ $W$. Nếu đây là bóng đèn, nó sẽ có nhãn hiệu này, thay vì con số "li ti" $100$ $W$. Thật khó hình dung con số lớn như vậy. Nhưng thực ra khá dễ hiểu theo toán học. (Toán học thực ra sẽ dễ hiểu hơn nếu bạn thử không quá chú ý đến tiểu tiết, mà chỉ quan tâm đến phần số mũ, hay lũy thừa. Trong trường hợp này, với mức tăng trưởng sản xuất năng lượng $2{,}3\%$, mỗi thế kỉ mức tiêu thụ tăng lên 10 lần). So với sản lượng của chúng ta hiện nay ($18\times{10^{12}}$$W$), sản lượng của mặt trời nhiều hơn khoảng $10^{14}$ lần. Nên sau $1.400$ năm ($14\times{10}$) (thực tế là khoảng $1.335$ năm, những hãy tạm bỏ qua tính chính xác đến hàng trăm), chúng ta sẽ đạt ngưỡng $18\times{10^{26}}$ $W$, hơn $4{,}5$ lần sản lượng của mặt trời. Từ đó suy ra, chúng ta sẽ sử dụng hết công suất của toàn bộ mặt trời phát ra trong khoảng thời gian ngắn hơn $2.000$ năm.   
+Do đó, trong khoảng $400$ năm, chúng ta sẽ chạm tới giới hạn khai thác toàn bộ năng lượng mặt trời trên trái đất với hiệu suất $100\%$. Nhưng Trái đất cũng chỉ là một đốm nhỏ trong không gian. Tại sao chúng ta không thâu tóm “tất cả” năng lượng phát ra từ mặt trời, trong một bề mặt cầu (gọi là **mặt cầu Dyson**, xem **Hộp** $\textbf{1.3}$)? Giờ đây, chúng ta mới thực sự chiêm ngưỡng nguồn năng lượng khổng lồ! Mặt trời tỏa ra năng lượng $4\times{10^{26}}$ $W$. Nếu đây là bóng đèn, nó sẽ có nhãn hiệu này, thay vì con số “li ti” $100$ $W$. Thật khó hình dung con số lớn như vậy. Nhưng thực ra khá dễ hiểu theo toán học. (Toán học thực ra sẽ dễ hiểu hơn nếu bạn thử không quá chú ý đến tiểu tiết, mà chỉ quan tâm đến phần số mũ, hay lũy thừa. Trong trường hợp này, với mức tăng trưởng sản xuất năng lượng $2{,}3\%$, mỗi thế kỉ mức tiêu thụ tăng lên 10 lần). So với sản lượng của chúng ta hiện nay ($18\times{10^{12}}$$W$), sản lượng của mặt trời nhiều hơn khoảng $10^{14}$ lần. Nên sau $1.400$ năm ($14\times{10}$) (thực tế là khoảng $1.335$ năm, những hãy tạm bỏ qua tính chính xác đến hàng trăm), chúng ta sẽ đạt ngưỡng $18\times{10^{26}}$ $W$, hơn $4{,}5$ lần sản lượng của mặt trời. Từ đó suy ra, chúng ta sẽ sử dụng hết công suất của toàn bộ mặt trời phát ra trong khoảng thời gian ngắn hơn $2.000$ năm.   
 
 !!! note "**Hộp** $\textbf{1.3}$: Xây dựng **Mặt cầu Dyson**"
 
-    Nếu chúng ta lấy toàn bộ vật chất hình thành nên Trái đất (hay Sao Kim (<i>Venus</i>)) và tạo ra một mặt cầu xung quanh mặt trời với khoảng cách bằng khoảng cách từ Trái đất đến Mặt trời, mặt cầu này sẽ chỉ dày $4$ $mm$! Tất nhiên, trong tất cả số vật chất này chỉ có một số hữu dụng để xây dựng mặt cầu bằng công nghệ cao và các tấm pin mặt trời. Toàn bộ bầu khí quyển của Trái đất nếu trải ra trên bề mặt này chỉ dày khoảng $0.015$ $m$. Có lẽ bạn không cần chờ đợi cho đến khi điều này xảy ra.  
+    Nếu chúng ta lấy toàn bộ vật chất hình thành nên Trái đất, hay Sao Kim (<i>Venus</i>), và tạo ra một mặt cầu xung quanh mặt trời với khoảng cách bằng khoảng cách từ Trái đất đến Mặt trời, mặt cầu này sẽ chỉ dày $4$ $mm$! Tất nhiên, trong tất cả số vật chất này chỉ có một số hữu dụng để xây dựng mặt cầu bằng công nghệ cao và các tấm pin mặt trời. Toàn bộ bầu khí quyển của Trái đất nếu trải ra trên bề mặt này chỉ dày khoảng $0.015$ $m$. Có lẽ bạn không cần chờ đợi cho đến khi điều này xảy ra.  
 
 Bỏ qua hiện thực nhàm chán, chúng ta nhận ra rằng mặt trời không phải là ngôi sao duy nhất trong dải Ngân Hà; trên thực tế, ước tính nó có tới $100$ tỉ ngôi sao! Một tỉ giây qua đi đã là hơn 30 năm, vì thế chẳng ai có thể đếm đến $100$ tỉ trong đời mình cả. Hãy cùng xem xét thêm: $100$ tỉ là $10^{11}$. Chúng ta biết ngay rằng mức tiêu thụ năng lượng $2{,}3\%$ có thể tiếp tục trong vòng $11$ thế kỉ nữa. Vậy nên để tiêu thụ toàn bộ công suất của tất cả các ngôi sao trong hệ ngân hà mất khoảng $1.100$ năm! Cộng với khoảng thời gian cần để tiêu thụ mặt trời, chúng ta cần tổng cộng $2.500$ năm, bằng một khoảng thời gian chúng ta đã xây dựng nên các nền văn minh trên thế giới. Ngay cả khi bỏ qua sự thực rằng dải ngân hà của chúng ta rộng khoảng $100.000$ năm ánh sáng, có nghĩa là trong $2.500$, việc khai thác năng lượng của tất cả các ngôi sao là bất khả thi. Từ ví dụ toán học này, ta có thể thấy thế giới vật lý đã đặt ra những giới hạn cho việc tăng trưởng tiêu thụ năng lượng của loài người.
+
+!!! info ""
+    
+    Một cách trùng hợp, vũ trụ nhìn thấy có số lượng thiên hà nhiều như số sao trong dải Ngân Hà của chúng ta. Vũ trụ “thấy được”, hay “quan sát được”, có nghĩa là mọi vật trong khoảng $13{,}8$ tỉ năm ánh sáng, quãng đường xa nhất mà ánh sáng có thể di chuyển được từ vụ nổ **Big Bang** 
+    <!-- (xem thêm Phần D.1; trang 392). -->
 
 Hãy tiếp tục với ví dụ trên với giả sử rằng chúng ta có thể thu hoạch tất cả năng lượng từ ánh sáng phát ra từ tất cả các ngôi sao trong tất cả các thiên hà trong vũ trụ quan sát được. Vũ trụ được nhìn thấy có khoảng $100$ tỉ thiên hà. Với mức tăng trưởng như cũ, ta sẽ có thêm $1.100$ năm. Xa hơn nữa, cho rằng chúng ta có khả năng chuyển đổi tất cả các vật chất trong vũ trụ (ngôi sao, khí gas và bụi) thành năng lượng thuần túy ($E = mc^2$), không chỉ là từ ánh sáng các ngôi sao, điều này sẽ chỉ kéo dài thêm trong 5.000 năm với tốc độ tăng trưởng $2{,}3\%$ một năm. Tăng trưởng hàm cấp số nhân có tác dụng ghê gớm như thế. **Bảng** $\textbf{1.3}$ tóm tắt kết quả của toàn bộ quá trình này.
 
@@ -231,6 +231,57 @@ Hãy tiếp tục với ví dụ trên với giả sử rằng chúng ta có th�
 | Vật chất vũ trụ           | 5.000    |
 
 </div>
+
+Những ví dụ đặt ra trên đây không phải là viễn cảnh chinh phục hệ mặt trời hay thiên hà để chúng ta nên hi vọng vào. Chúng được sử dụng như một bài tập về tư duy, làm nổi bật lên sự vô lí của quá trình tăng trưởng theo cấp số nhân nếu kéo dài mãi mãi. Tất cả các lí luận trên đây đã phủ nhận sự tăng trưởng sản lượng năng lượng không ngừng, bao gồm sự thật rằng dân số nhân loại sẽ không thể tăng mãi mãi trên hành tinh này. Chúng ta sẽ đề cập đễ viễn tưởng về khả năng loài người sống trên hành tinh khác vào **Chương 4**.   
+
+## Hệ quả theo nhiệt động học (Thermodynamic Consequences)
+
+Vật lí tiếp tục đặt ra một giới nữa cho mức tăng trưởng: nhiệt hao phí (waste heat). Gần như tất cả năng lượng chúng ta sử dụng cuối cùng sẽ chuyển hóa thành nhiệt năng. Nhiều hoạt động của con người vốn cần đến việc sản sinh nhiệt: bếp, lò nướng, lò sưởi, máy sấy, v.v. Ngay cả những thiết bị làm lạnh cũng tạo ra nhiệt.
+
+<!-- [^3]
+    [Tham khảo trên trên Wikipedia](https://vi.wikipedia.org/wiki/Nhi%E1%BB%87t_%C4%91%E1%BB%99ng_l%E1%BB%B1c_h%E1%BB%8Dc#) -->
+
+??? example "Thử nghiệm"
+
+    Bạn có thể thử cảm nhận luồng gió ra phía sau máy điều hòa khi bật, hay nhiệt tỏa ra phía sau và phía dưới của tủ lạnh. Dù đây là những thiết bị làm lạnh, chúng tỏa ra nhiều nhiệt hơn là làm mát
+    
+Hầu hết các đồ vật tiêu thụ điện năng trong nhà đều thải nhiệt lượng ra môi trường xung quanh. Một chiếc xe hơi chạy trên đường đi từ A đến B, làm nóng động cơ và không khí xung quanh, tạo ra nhiệt trên má phanh và rô tơ, trên lốp xe và trên đường. 
+    
+!!! info ""
+
+    Không khí bị xe hơi làm xao động cuối cùng cũng dừng lại vì ma sát, trở thành nhiệt.
+    
+Năng lượng trao đổi chất trong cơ thể chúng ta phần lớn (khoảng $60\%$) dùng để duy trì nhiệt độ cơ thể. Ngay cả những hoạt động thể chất của chúng ta cuối cùng cũng tạo ra nhiệt trong môi trường xung quanh. Chỉ có một vài ngoài lệ: những tia năng lượng chiếu ra ngoài trái đất (như ánh sáng và radio) hay năng lượng được lưu trữ (như pin) (để rồi cũng chuyển hóa thành nhiệt năng). Những ngoại lệ này quả thực chẳng có gì đáng kể.
+
+Điều gì sẽ xảy ra với toàn bộ nhiệt hao phí này? Nếu năng lượng đó ở nguyên trên Trái đất, nhiệt độ toàn cầu sẽ không ngừng tăng lên. Nhưng nguồn nhiệt này có một cách để thoát ra ngoài không gian: thông qua **bức xạ hồng ngoại**.[^4] Trái đât luôn ở trong trạng thái cân bằng nhiệt động học thông qua việc hấp thụ năng lượng mặt trời và bức xạ hồng ngoại vào không gian.  Chúng ta sẽ tìm hiểu thêm ở **Chương 5**, *tốc độ*  dòng năng lượng được gọi là **công suất** (như dòng điện năng trong một đơn vị thời gian). Công suất có thể được dùng để biểu diễn các dòng năng lượng liên tục ra vào hệ thống trái đất. Trong vật lí có một công thức đơn giản, được định nghĩa rõ ràng về công suất bức xạ của một vật thể, gọi là **Định luật Stefan-Boltzmann**:
+
+[^4]: 
+    ...một dạng của bức xạ điện từ (*electro-magnetic radiation*)
+
+$$
+P = A_{s}\sigma(T_{hot}^4 - T_{cold}^4) \tag{1.8}\label{1.8}
+$$
+
+$P$ là công suất bức xạ, $A_{s}$ là diện tích bề mặt, $T_{hot}$ là nhiệt độ bức xạ của vật theo thang độ Kelvin (không phải độ C!), $T_{cold}$ là nhiệt độ môi trường (cũng đo theo độ Kelvin), và $\sigma$ là **hằng số Stefan-Boltzmann**: $\sigma = 5{,}67\times10^{-8}$ $W/m_2/K^4$ (Để dễ nhớ: ghi nhớ dãy 5&ndash;6&ndash;7&ndash;8 cùng với dấu mũ âm). Chú ý rằng định luật này sử dụng sự khác biệt lũy thừa mũ $4$ của nhiệt độ.
+
+!!! note "Công thức đổi nhiệt độ"
+
+    Chuyển đổi từ độ Kelvin sang độ C (*Celsius*)  độ F (Fahrenheit): <br>
+    $T(^\circ{K}) = T(^\circ{C}) + 273{,}15$ <br>
+    $T(^\circ{C}) = (T(^\circ{F}) − 32)/1{,}8$
+
+!!! example "Ví dụ $\textbf{1.3}$:"
+
+    Một chiếc bàn trong một phòng kín, có nhiệt độ bàn và nhiệt độ tường giống nhau, bức xạ luân chuyển trong môi trường không đáng kể, vì theo Phương trình $\eqref{1.8}$, nhiệt độ bàn và tường bằng nhau nên triệt tiêu lẫn nhau. Trong tường hợp này, bức xạ từ bàn đến tường cũng bằng bức xạ từ tường đến bàn. Nhưng một vật với mức nhiệt-độ-phòng là $300$ $K$ (khoảng gần $23^\circ{C}$), bức xạ gần $450$ $W$ mỗi mét vuông ra không gian.
+
+
+
+
+
+
+
+
+
 
 
 
