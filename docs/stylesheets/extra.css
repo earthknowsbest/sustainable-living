@@ -188,5 +188,5 @@ html .md-typeset details>:last-child {
 mjx-container[jax="CHTML"][display="true"] {
     display: block;
     text-align: center;
-    margin: 0.5em 0;
+    margin: 0.5em auto !important;
 }

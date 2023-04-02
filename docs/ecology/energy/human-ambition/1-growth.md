@@ -68,7 +68,7 @@ Giờ chúng ta có thể hiểu những viễn cảnh tương tự. Một hành
 
     Nếu hiện tại chúng ta ở mức $1/8$ và nhân đôi sau mỗi $35$ năm, chúng ta sẽ ở mức $1/4$ sau $35$ năm, $1/2$ sau $70$ năm, và đầy trong $105$ năm. 
 
-Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng ta không có thêm hũ nào nữa {==(Chương $4$ sẽ trả lời cho hiện thực về du hành không gian)==}. Thêm một hành tinh (sao hỏa) có thể ứng với thêm một hũ. Nhưng nó không tương thích với cuộc sống con người, không có thực phẩm, và ở khá xa. Chúng ta cũng chẳng có thêm bất kì một trạm tiếp tế nào. Và ngay cả khi vượt qua những khó khăn thực tế đó, một hành tinh thứ hai sẽ mua được bao nhiều thời gian với việc tăng trưởng không ngừng? 35 năm nữa chăng với mức tăng trưởng $2\%$ một năm?
+Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng ta không có thêm hũ nào nữa (Chương $4$ sẽ trả lời cho hiện thực về du hành không gian). Thêm một hành tinh, như sao hỏa, có thể ứng với việc có thêm một hũ. Nhưng trên đó không thích hợp cho cuộc sống con người, không có thực phẩm, và lại ở khá xa. Chúng ta cũng chẳng có thêm bất kì một trạm tiếp tế nào. Và ngay cả khi vượt qua muôn vàn khó khăn thực tế đó, một hành tinh thứ hai sẽ mua được cho chúng ta bao nhiều thời gian với việc tăng trưởng không ngừng? 35 năm nữa chăng với mức tăng trưởng $2\%$ một năm?
 
 ### Tăng trưởng cấp số nhân theo toán học
 
@@ -228,7 +228,7 @@ Hãy tiếp tục với ví dụ trên với giả sử rằng chúng ta có th�
 | Khai thác                       |  #Năm  |
 | :-----------------------------: | :------: |
 | :octicons-sun-16::material-arrow-right-thin:đất liền, $20\%$ | 250      |
-| :octicons-sun-16::material-arrow-right-thin:trái đất, $100\%$   | 390      |
+| :octicons-sun-16::material-arrow-right-thin::fontawesome-solid-earth-americas:, $100\%$   | 390      |
 | Toàn bộ Mặt trời                | 1.400    |
 | Toàn bộ Ngân Hà                 | 2.500    |
 | Ánh sáng vũ trụ           | 3.600    |
@@ -250,7 +250,7 @@ Vật lí tiếp tục đặt ra một giới nữa cho mức tăng trưởng: n
 
     Bạn có thể thử cảm nhận luồng gió ra phía sau máy điều hòa khi bật, hay nhiệt tỏa ra phía sau và phía dưới của tủ lạnh. Dù đây là những thiết bị làm lạnh, chúng tỏa ra nhiều nhiệt hơn là làm mát
     
-Hầu hết các đồ vật tiêu thụ điện năng trong nhà đều thải nhiệt lượng ra môi trường xung quanh. Một chiếc xe hơi chạy trên đường đi từ A đến B, làm nóng động cơ và không khí xung quanh, tạo ra nhiệt trên má phanh và rô tơ, trên lốp xe và trên đường. 
+Hầu hết các đồ vật tiêu thụ điện năng trong nhà đều thải nhiệt lượng ra môi trường xung quanh. Một chiếc xe hơi chạy trên đường đi từ A đến B, làm nóng động cơ và không khí xung quanh, tạo ra nhiệt trên má phanh và rô-tơ, trên lốp xe và trên đường. 
     
 !!! info ""
 
@@ -344,7 +344,7 @@ Nhờ **Phương trình** $\eqref{1.11}$, giờ đây ta có thể ước tính 
 | $1.000$ | $1{,}4 \times 10^9$ | $8.600$ | $8.300$ |
 </div>
 
-Từ những ví dụ trên, ta thấy nếu tăng trưởng công suất tiêu thụ năng lượng ở mức $2{,}3\%$ một năm, chúng ta sẽ dụng hết công suất năng lượng mặt trời chỉ sau $1.400$ năm. Và việc sử dụng toàn bộ năng lượng này trên bề mặt của Trái đất (nhỏ hơn của mặt trời rất nhiều) cũng đồng nghĩa với việc nhiệt độ bề mặt Trái đất sẽ nóng hơn bề mặt mặt trời (chỉ sau $1.400$ năm); tương tự như bóng đèn dây tóc nóng hơn nhiệt độ da người nhiều mặt dù tiêu thụ cùng một mức năng lượng (khoảng $100$$W$)&mdash;vì diện tích bề mặt khác nhau. (Tham khảo **Phương trình** $\eqref{1.8}$ và $\eqref{1.9}$)
+Từ những ví dụ trên, ta thấy nếu tăng trưởng công suất tiêu thụ năng lượng ở mức $2{,}3\%$ một năm, chúng ta sẽ dụng hết công suất năng lượng mặt trời chỉ sau $1.400$ năm. Và việc sử dụng toàn bộ năng lượng này trên bề mặt của Trái đất (nhỏ hơn của mặt trời rất nhiều) cũng đồng nghĩa với việc nhiệt độ bề mặt Trái đất sẽ nóng hơn bề mặt mặt trời (chỉ sau $1.400$ năm); tương tự như bóng đèn dây tóc nóng hơn nhiệt độ da người nhiều mặt dù tiêu thụ cùng một mức năng lượng (khoảng $100$ $W$)&mdash;vì diện tích bề mặt khác nhau. (Tham khảo **Phương trình** $\eqref{1.8}$ và $\eqref{1.9}$)
 
 Một trong những điểm quan trọng của viễn cảnh bức xạ nhiệt như trên là nó *không phụ thuộc vào nguồn cung cấp năng lượng*. Năng lượng đó có thể là nhiên liệu hóa thạch, năng lượng từ phản ứng phân hạch hay nhiệt hạch  (chia tách hay tổng hợp hạt nhân), hay cả những nguồn năng lượng chúng ta còn chưa biết đến! Dù là nguồn năng lượng nào, nó cũng phải tuân thủ những định luật nhiệt động học. Vì thế, nhiệt động học đã đặt ra giới hạn cho việc tăng trưởng công suất năng lượng trên hành tinh này.
 
@@ -363,9 +363,9 @@ Tiếp theo, chúng ta thấy việc tiếp tục tăng trưởng tiêu thụ n�
 
     
 
-Kết luận, vật lí đã đặt ra những giới hạn về kì vọng của chúng ta trong việc tăng trưởng tiêu thụ năng lượng trên Trái đất. Có thể khung thời gian $∼300$ năm chưa đủ báo động, những nó đã đặt ra những rào cản về vật lí không thể vượt qua cho mức tăng trưởng quá khứ được tiếp diễn trong tương lai. Trên thực tế, những giới hạn này có thể bị chạm tới trong thời gian ngắn hơn. Quá trình tăng trưởng không ngừng đã diễn ra trong một thời gian dài. Chúng ta đang ở gần điểm kết thúc hơn bao giờ hết, trong khi nhân loại không chuẩn bị gì cho thực tế này, thực là thiếu khôn ngoan. Chugns ta sẽ đánh giá chi tiết hơn vào những chương tiếp theo.
+Kết luận, vật lí đã đặt ra những giới hạn về kì vọng của chúng ta trong việc tăng trưởng tiêu thụ năng lượng trên Trái đất. Có thể khung thời gian $∼300$ năm chưa đủ báo động, những nó đã đặt ra những rào cản về vật lí không thể vượt qua cho mức tăng trưởng quá khứ được tiếp diễn trong tương lai. Trên thực tế, những giới hạn này có thể bị chạm tới trong thời gian ngắn hơn. Quá trình tăng trưởng không ngừng đã diễn ra trong một thời gian dài. Chúng ta đang ở gần điểm kết thúc hơn bao giờ hết, trong khi nhân loại không chuẩn bị gì cho thực tế này, thực là thiếu khôn ngoan. Chúng ta sẽ đánh giá chi tiết hơn vào những chương tiếp theo.
 
-Có rất nhiều yếu tốt khác có thể can thiệp vào quá trình giới hạn tăng trưởng ở cả qui mô dân số lẫn tài nguyên sử dụng: sự khan hiếm các nguồn tài nguyên, ô nhiễm, tầng nước ngầm cạn kiệt, thiếu nước ngọt, biến đổi khí hậu, chiến tranh, sự sụp đổ của nghề đánh bắt thủy sản, diện tích đất trông trọt thu hẹp (do sa mạc hóa), nạn phá rừng, bệnh tật, v.v. Những yếu tố này đều ngăn cản việc tăng trưởng không ngừng. Bằng cách này hay cách khác, chúng ta cần xem giai đoạn tăng trưởng hiện tại chỉ là một quá trình ngắn hạn: một chớp mắt trong lịch sử nhân loại.
+Có rất nhiều yếu tốt khác có thể can thiệp vào quá trình giới hạn tăng trưởng ở cả qui mô dân số lẫn tài nguyên sử dụng: sự khan hiếm các nguồn tài nguyên, ô nhiễm, tầng nước ngầm cạn kiệt, thiếu nước ngọt, biến đổi khí hậu, chiến tranh, sự sụp đổ của nghề đánh bắt thủy sản, diện tích đất trồng trọt thu hẹp (do sa mạc hóa), nạn phá rừng, bệnh tật, v.v. Những yếu tố này đều ngăn cản việc tăng trưởng không ngừng. Bằng cách này hay cách khác, chúng ta cần xem giai đoạn tăng trưởng hiện tại chỉ là một quá trình ngắn hạn: một chớp mắt trong lịch sử nhân loại.
 
 
 
