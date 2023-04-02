@@ -26,9 +26,9 @@ Chúng ta sẽ thấy qui luật $70$ xuất hiện trong toán học như thế
 
 <div markdown="1" class="row-content">
 
-!!! info "Bảng 1.1. Ví dụ $7\%$ tăng trưởng hàng năm"
+!!! info "Bảng $\textbf{1.1}$. Ví dụ $7\%$ tăng trưởng hàng năm"
     
-    Chỉ sau 100 năm, dân số đã tăng gấp hơn $1.000$ lần so với ban đầu. 
+    Chỉ sau $100$ năm, dân số đã tăng gấp hơn $1.000$ lần so với ban đầu. 
 
 | Năm  | Dân số  |
 | :--: | :-----: |
@@ -50,7 +50,7 @@ Hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm c�
 
 Hãy dành khoảng một phút suy nghĩ. Trực giác thông thường mách bảo: hũ này sẽ đầy một nửa vào giữa trưa hôm sau&mdash;bằng một nửa tổng thời gian thí nghiệm. Nhưng sẽ thế nào khi chúng ta giải quyết bài toán ngược lại từ lúc đầy? Hũ sẽ đầy vào nửa đêm hôm sau, và thời gian nhân đôi là $10$ phút. Vậy khi nào hũ sẽ đầy một nửa?
 
-Câu trả lời: chúng ta chỉ cần bớt đi một lần thời gian nhân đôi, hay $11$ giờ $50$ phút đêm. Hình $1.1$ biểu diễn câu chuyện này. Vào lúc $11$ giờ đêm, hũ chỉ đầy $1/64$ dung tích thực, hay $1{,}7\%$. Vậy thì, trong $23$ giờ đầu tiên của $24$ giờ thí nghiệm, hũ này gần như trống không. Tất cả những hoạt động chỉ diễn ra vào thời điểm cuối, với tốc độ chóng mặt. 
+Câu trả lời: chúng ta chỉ cần bớt đi một lần thời gian nhân đôi, hay $11$ giờ $50$ phút đêm. **Hình** $\textbf{1.1}$ biểu diễn câu chuyện này. Vào lúc $11$ giờ đêm, hũ chỉ đầy $1/64$ dung tích thực, hay $1{,}7\%$. Vậy thì, trong $23$ giờ đầu tiên của $24$ giờ thí nghiệm, hũ này gần như trống không. Tất cả những hoạt động chỉ diễn ra vào thời điểm cuối, với tốc độ chóng mặt. 
 
 ![Bacteria-Light](../../../assets/images/bacteria-light.svg#only-light)
 ![Bacteria-Dark](../../../assets/images/bacteria-dark.svg#only-dark)
@@ -73,7 +73,7 @@ Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng t
 ### Tăng trưởng cấp số nhân theo toán học
 
 !!! note "Hộp $\textbf{1.1}$: Lời khuyên khi đọc công thức toán"
-    Đây là là một trong những chương chứa nhiều công thức toán phức tạp nhất trong cuốn sách. Nhưng đừng để điều đó gây khó khăn cho bạn, mà hãy từ từ xem xét cẩn thận. Bạn chỉ cần nhận diện tăng trưởng theo cấp số nhân tuân theo một số quy luật không đổi, được trình bày chỉ trong vài trang sách. Đọc đi đọc lại phần này nhiều lần sẽ giúp bạn hiểu được rõ hơn nội dung được trình bày. Những công thức chỉ là những câu ngắn gọn giúp thâu tóm nội dung khái niệm. Nên thay vì chỉ đọc và sử dụng những công thức, tốt hơn bạn cần hiểu ý nghĩa của chúng và lí do tại sao chúng được sử dụng. Theo đó, dù sách được trình bày theo kết cấu cả câu văn và công thức đan xen, một tư tưởng xuyên suốt được phát triển qua cả hai thứ ngôn ngữ này. Phần Giới thiệu sẽ làm rõ hơn nội dung trong chương này, và phần Phụ lục A nhắc bạn về toán học căn bản.
+    Đây là một trong những chương chứa nhiều công thức toán phức tạp nhất trong cuốn sách. Nhưng đừng để điều đó gây khó khăn cho bạn, mà hãy từ từ xem xét cẩn thận. Bạn chỉ cần nhận diện tăng trưởng theo cấp số nhân tuân theo một số quy luật không đổi, được trình bày chỉ trong vài trang sách. Đọc đi đọc lại phần này nhiều lần sẽ giúp bạn hiểu được rõ hơn nội dung được trình bày. Những công thức chỉ là những câu ngắn gọn giúp thâu tóm nội dung khái niệm. Nên thay vì chỉ đọc và sử dụng những công thức, tốt hơn bạn cần hiểu ý nghĩa của chúng và lí do tại sao chúng được sử dụng. Theo đó, dù sách được trình bày theo kết cấu cả câu văn và công thức đan xen, một tư tưởng xuyên suốt được phát triển qua cả hai thứ ngôn ngữ này. Phần Giới thiệu sẽ làm rõ hơn nội dung trong chương này, và phần Phụ lục A nhắc bạn về toán học căn bản.
 
 !!! tip ""
 
@@ -99,7 +99,7 @@ với M là số nhân, $t$ là tổng thời gian, và $t_2$ là kí hiệu ch�
     
     Qui trình tương tự diễn ra trong một tài khoản ngân hàng có tính lãi suất gộp (tài khoản tiền gửi tiết kiệm tính lãi kép, lãi suất dùng để tiết kiệm thay vì rút ra hàng năm). Cho rằng bạn gửi $\$100$ vào trong ngân hàng với lãi suất $2\%$ một năm. Vào cuối năm đầu tiên, bạn sẽ có $\$102$, hay $1{,}02$ lần tiền gửi ban đầu. Năm tiếp theo, đó là $1{,}02$ lần nhân với $\$102$, hay $\$104{,}04$, tương đương $\$100$ nhân với $1{,}02 \times 1{,}02$. Sau ba năm, số tiền trở thành $\$106{,}18$, hay $\$100$ nhân với $1{,}023$. Theo qui luật này, sau $35$ năm, số tiền tiết kiệm sẽ là $\$100$ nhân $1{,}02^{35}$, tương đương gần $\$199{,}99$. Để ý rằng thời gian nhân đôi trong $35$ năm với $2\%$ lãi suất tuân theo qui luật $70$. **Bảng** $\textbf{1.2}$ tóm tắt ví dụ này.
 
-!!! info "Bảng 1.2. Ví dụ Lãi suất"
+!!! info "Bảng $\textbf{1.2}$. Ví dụ Lãi suất"
     
      Biểu diễn mức tài khoản tiền gửi ngân hàng theo lãi suất kép $7\%$ một năm
 

@@ -22,8 +22,10 @@ theme:
   name: material
   language: en
   font:
-    text: Noto Serif
-    # text: Source Sans Pro
+    # text: Source Serif Pro
+    # text: Playfair Display
+    # text: Noto Serif
+    text: Literata
   icon:
     repo: fontawesome/brands/github-alt
   palette:
