@@ -1,12 +1,12 @@
 # Tăng trưởng theo cấp số nhân (*Exponential Growth*)
 
-Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người cũng có những điểm yếu chí mạng. Một trong số đó có lẽ là thiếu nhận thức đầy đủ về những hệ quả của cái gọi là **tăng trưởng theo cấp số nhân** (*exponential growth*). [^1] Trớ trêu thay, những mục tiêu kinh tế chính trị của chúng ta thường hướng đến việc hỗ trợ tăng trưởng kinh tế. Do sự kì vọng và ham muốn tăng tưởng không ngừng đã ăn sâu vào tư duy xã hội, việc khảo sát kĩ lưỡng về hiện tượng này là một điều hệ trọng, nhằm tránh cho chúng ta những sai lầm căn bản về nhận thức. Trong chương này, chúng ta hãy cùng tìm hiểu bản chất chung của tăng trưởng theo cấp số nhân, để nắm được tính bất khả thi và những hệ quả vô lí của việc tiếp diễn tăng trưởng từ năm này sang năm khác. Kết quả cho thấy kết cấu xã hội của chúng ta (dựa trên tăng trưởng) sớm muộn gì cũng phải đối mặt với những biến cố đáng kể so với cuộc sống hiện tại&mdash;một điều cần hết sức lưu tâm.[^2] Các chương sau sẽ tập trung vào những ứng dụng về kinh tế và tăng trưởng dân số&mdash;bao gồm đường tăng trưởng hàm logistic, và sau đó nhấn mạnh đến những giới hạn (*limits*) mà hành tinh hữu hạn (*finite planet*) của chúng ta đặt ra.
+Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người cũng có những điểm yếu chí mạng. Một trong số đó có lẽ là sự thiếu nhận thức đầy đủ về những hệ quả của cái gọi là **tăng trưởng theo cấp số nhân** (*exponential growth*). [^1] Trớ trêu thay, những mục tiêu kinh tế chính trị của chúng ta thường hướng đến việc hỗ trợ tăng trưởng kinh tế. Do sự kì vọng và ham muốn tăng tưởng không ngừng đã ăn sâu vào tư duy xã hội, việc khảo sát kĩ lưỡng về hiện tượng này là một điều hệ trọng, nhằm tránh cho chúng ta những sai lầm căn bản về nhận thức. Trong chương này, chúng ta hãy cùng tìm hiểu bản chất chung của tăng trưởng theo cấp số nhân, để nắm được tính bất khả thi và những hệ quả vô lí của việc tiếp diễn tăng trưởng từ năm này sang năm khác. Kết quả cho thấy kết cấu xã hội của chúng ta (dựa trên tăng trưởng) sớm muộn gì cũng phải đối mặt với những biến cố đáng kể so với cuộc sống hiện tại&mdash;một điều cần hết sức lưu tâm.[^2] Các chương sau sẽ tập trung vào những ứng dụng về kinh tế và tăng trưởng dân số&mdash;bao gồm đường tăng trưởng hàm logistic, và sau đó nhấn mạnh đến những giới hạn (*limits*) mà hành tinh hữu hạn (*finite planet*) của chúng ta đặt ra.
 
 [^1]:
     ... cảm ơn Al Bartlett đã nỗ lực nâng cao sự nhận thức cộng đồng về tăng trưởng hàm số mũ
 
 [^2]:
-    Chúng ta có thể đọc thêm về hệ quả và tóm tắt ở phần cuối mỗi chương
+    Chúng ta có thể đọc thêm phần Kết luận về hệ quả và tóm tắt ở phần cuối mỗi chương
 
 ## Vi khuẩn trong hũ
 
@@ -28,7 +28,7 @@ Chúng ta sẽ thấy qui luật $70$ xuất hiện trong toán học như thế
 
 !!! info "Bảng 1.1. Ví dụ $7\%$ tăng trưởng hàng năm"
     
-    Số lượng vi khuẩn nhân trong mỗi $10$ phút chỉ là một ví dụ (thực tế có thể là $20-30$ phút).
+    Chỉ sau 100 năm, dân số đã tăng gấp hơn $1.000$ lần so với ban đầu. 
 
 | Năm  | Dân số  |
 | :--: | :-----: |
@@ -42,7 +42,11 @@ Chúng ta sẽ thấy qui luật $70$ xuất hiện trong toán học như thế
 
 </div>
 
-Nhưng hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm của chúng ta đối với tăng trưởng theo cấp số nhân. Ở đây có một hũ thủy tinh chứa nhiều chất dinh dưỡng, chúng ta cho thêm vi khuẩn với số lượng chính xác sao cho mỗi lần vi khuẩn nhân đôi diễn ra sau $10$ phút, và hũ này sẽ chứa đầy vi khuẩn sau đúng $24$ giờ. Thí nghiệm này bắt đầu từ lúc nửa đêm. Câu hỏi: vào lúc nào thì hũ này sẽ đầy một nửa?
+Hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm của chúng ta đối với tăng trưởng theo cấp số nhân. Ở đây có một hũ thủy tinh chứa nhiều chất dinh dưỡng, chúng ta cho thêm vi khuẩn với số lượng chính xác sao cho mỗi lần vi khuẩn nhân đôi diễn ra sau $10$ phút, và hũ này sẽ chứa đầy vi khuẩn sau đúng $24$ giờ. Thí nghiệm này bắt đầu từ lúc nửa đêm. Câu hỏi: vào lúc nào thì hũ này sẽ đầy một nửa?
+
+!!! info ""
+
+    Số lượng vi khuẩn nhân đôi trong mỗi $10$ phút chỉ là một ví dụ, trong thực tế có thể là $20-30$ phút).
 
 Hãy dành khoảng một phút suy nghĩ. Trực giác thông thường mách bảo: hũ này sẽ đầy một nửa vào giữa trưa hôm sau&mdash;bằng một nửa tổng thời gian thí nghiệm. Nhưng sẽ thế nào khi chúng ta giải quyết bài toán ngược lại từ lúc đầy? Hũ sẽ đầy vào nửa đêm hôm sau, và thời gian nhân đôi là $10$ phút. Vậy khi nào hũ sẽ đầy một nửa?
 
@@ -68,18 +72,18 @@ Từ ví dụ vi khuẩn, chúng ta đã khám phá ra nhiều điều. Chúng t
 
 ### Tăng trưởng cấp số nhân theo toán học
 
-!!! note "Mục $\textbf{1.1}$: Lời khuyên khi đọc công thức toán"
+!!! note "Hộp $\textbf{1.1}$: Lời khuyên khi đọc công thức toán"
     Đây là là một trong những chương chứa nhiều công thức toán phức tạp nhất trong cuốn sách. Nhưng đừng để điều đó gây khó khăn cho bạn, mà hãy từ từ xem xét cẩn thận. Bạn chỉ cần nhận diện tăng trưởng theo cấp số nhân tuân theo một số quy luật không đổi, được trình bày chỉ trong vài trang sách. Đọc đi đọc lại phần này nhiều lần sẽ giúp bạn hiểu được rõ hơn nội dung được trình bày. Những công thức chỉ là những câu ngắn gọn giúp thâu tóm nội dung khái niệm. Nên thay vì chỉ đọc và sử dụng những công thức, tốt hơn bạn cần hiểu ý nghĩa của chúng và lí do tại sao chúng được sử dụng. Theo đó, dù sách được trình bày theo kết cấu cả câu văn và công thức đan xen, một tư tưởng xuyên suốt được phát triển qua cả hai thứ ngôn ngữ này. Phần Giới thiệu sẽ làm rõ hơn nội dung trong chương này, và phần Phụ lục A nhắc bạn về toán học căn bản.
 
 !!! tip ""
 
-    Những chuyên gia thường đọc các đoạn văn có nội dung khó hiểu nhiều lần trước khi thực sự hiểu. Có lẽ đó do thói quen bình tĩnh đó giúp họ trở thành chuyên gia!
+    Những chuyên gia thường đọc các đoạn văn bản có nội dung khó hiểu nhiều lần trước khi thực sự hiểu. Có lẽ thói quen bình tĩnh đó giúp họ trở thành chuyên gia!
 
 ??? question "Lưu ý"
 
-    Không giống như từ ngữ hay ngôn ngữ, các kí hiệu toán học dùng trong các phương trình chỉ là những nhãn hiệu và không có ý nghĩa thực chất&mdash;vì thế sử dụng kí hiệu **$x$**, **$n$**, **$t$**, **$b$**, **$M$**, v.v phản ánh những lựa chọn nhất định nào đó và có thể được thay thế bởi các kí hiệu khác, để mô tả cùng một khái niệm một cách nhất quán. Nội dung của công thức toán học thực chất nằm ở cấu trúc của phương trình, công thức đó.
+    Không giống như từ ngữ hay ngôn ngữ, các kí hiệu toán học dùng trong các phương trình chỉ là những nhãn hiệu và không có ý nghĩa thực chất&mdash;vì thế sử dụng kí hiệu $\pmb{x}$, $\pmb{n}$, $\pmb{t}$, $\pmb{b}$, $\pmb{M}$, v.v. phản ánh những lựa chọn nhất định nào đó và có thể được thay thế bởi các kí hiệu khác, để mô tả cùng một khái niệm một cách nhất quán. Nội dung của công thức toán học thực chất nằm ở cấu trúc của phương trình, công thức đó.
 
-Đặc điểm chủ yếu của tăng trưởng theo cấp số nhân: sự tăng trưởng được hình thành theo lũy thừa một cơ số nào đó và số mũ là đơn vị khoảng thời gian. Theo thời gian nhân đôi, chúng ta bắt đầu với $1\times$ ($1$ lần), mức băn bản, tiếp theo đến $2\times$, rồi $4\times$, $8\times$, v.v… Với mỗi khoảng thời gian, chúng ta nhân với $2$ (cơ số). Ví dụ, sau 5 khoảng thời gian, chúng ta có $2 \times 2 \times 2\times 2 \times 2$, hay $2^5= 32$. Một cách tổng quát, sau n lần nhân đôi, chúng ta đã nhân lên với $2^n$ lần, với $2$ là cơ số, $n$ là số lần nhân đôi. Công thức được tổng quát như sau:
+Đặc điểm chủ yếu của tăng trưởng theo cấp số nhân: sự tăng trưởng được hình thành theo lũy thừa một cơ số nào đó và số mũ là đơn vị khoảng thời gian. Theo thời gian nhân đôi, chúng ta bắt đầu với $1\times$ ($1$ lần), mức băn bản, tiếp theo đến $2\times$, rồi $4\times$, $8\times$, v.v. Với mỗi khoảng thời gian, chúng ta nhân với $2$ (cơ số). Ví dụ, sau 5 khoảng thời gian, chúng ta có $2 \times 2 \times 2\times 2 \times 2$, hay $2^5= 32$. Một cách tổng quát, sau n lần nhân đôi, chúng ta đã nhân lên với $2^n$ lần, với $2$ là cơ số, $n$ là số lần nhân đôi. Công thức được tổng quát như sau:
 
 $$
 M = 2^n = 2^{t/t_2}, \tag{1.1}\label{1.1}
@@ -91,7 +95,7 @@ với M là số nhân, $t$ là tổng thời gian, và $t_2$ là kí hiệu ch�
     
     Ví dụ, thời gian nhân đôi có $M = 2$, nhân ba có $M = 3$, và khi tăng $29\%$ có nghĩa là $M = 1{,}29$
 
-!!! example "**Mục** $\textbf{1.2}$: Ví dụ Lãi suất"
+!!! note "**Hộp** $\textbf{1.2}$: Ví dụ Lãi suất"
     
     Qui trình tương tự diễn ra trong một tài khoản ngân hàng có tính lãi suất gộp (tài khoản tiền gửi tiết kiệm tính lãi kép, lãi suất dùng để tiết kiệm thay vì rút ra hàng năm). Cho rằng bạn gửi $\$100$ vào trong ngân hàng với lãi suất $2\%$ một năm. Vào cuối năm đầu tiên, bạn sẽ có $\$102$, hay $1{,}02$ lần tiền gửi ban đầu. Năm tiếp theo, đó là $1{,}02$ lần nhân với $\$102$, hay $\$104{,}04$, tương đương $\$100$ nhân với $1{,}02 \times 1{,}02$. Sau ba năm, số tiền trở thành $\$106{,}18$, hay $\$100$ nhân với $1{,}023$. Theo qui luật này, sau $35$ năm, số tiền tiết kiệm sẽ là $\$100$ nhân $1{,}02^{35}$, tương đương gần $\$199{,}99$. Để ý rằng thời gian nhân đôi trong $35$ năm với $2\%$ lãi suất tuân theo qui luật $70$. **Bảng** $\textbf{1.2}$ tóm tắt ví dụ này.
 
@@ -168,9 +172,9 @@ Với $p$ nhận giá trị nhỏ (nhỏ hơn nhiều so với $1$), logarit t�
 
     Nếu chúng ta muốn  "giải ngược từ cuối" và tính xem khi nào mức tăng đạt gấp 3 lần ban đầu ($M = 3$),  chúng ta có thể dùng **Phương trình** $\eqref{1.5}$ để tìm ra $n$ bằng $22{,}5$ với $b$ là $1{,}05$ (hay $22{,}5$ năm, do cơ số này tăng mỗi năm). Nếu dùng $b = 2$, chúng ta tính được $n = 1.58$, hay gấp $3$ lần so với ban đầu sau $1{,}8$ lần nhân đôi, hay $1{,}58\times t_2 = 22{,}5$ năm. Chúng ta có thể kiểm tra kết quả với **Phương trình** $\eqref{1.6}$ bằng cách đặt $t = 22{,}5$ và $p = 0{,}05$ hay $t_2 = 14{,}2$.
 
-## Dự đoán tăng trưởng năng lượng theo hàm số mũ
+## Dự đoán tăng trưởng năng lượng theo cấp số nhân
 
-Một khi đã thiết lập được nguyên lí của tăng trưởng theo hàm số mũ, giờ là lúc chúng ta sử dụng toán học để dẫn chứng về những giới hạn mà kì vọng của chúng ta có thể đạt đến. Chúng ta sẽ tập trung vào việc sử dụng năng lượng. Ban quản trị thông tin Năng lượng Hoa Kì (EIA) cung cấp thông tin về việc sử dụng năng lượng từ năm 1949 đến nay. Phụ lục (E1: [3]) trình bày ước tính năng lượng sử dụng từ năm 1635 đến 1945. Hình 1.2 hiển thị quá trình lịch sử gần đây hơn.
+Một khi đã thiết lập được nguyên lí của tăng trưởng theo cấp số nhân, giờ là lúc chúng ta sử dụng toán học để dẫn chứng về những giới hạn mà kì vọng của chúng ta có thể đạt đến. Chúng ta sẽ tập trung vào việc sử dụng năng lượng. Ban quản trị thông tin Năng lượng Hoa Kì (EIA) cung cấp thông tin về việc sử dụng năng lượng từ năm 1949 đến nay. Phụ lục (E1: [3]) trình bày ước tính năng lượng sử dụng từ năm 1635 đến 1945. **Hình** $\textbf{1.2}$ hiển thị quá trình lịch sử gần đây hơn.
 
 ![US-Energy-Light](../../../assets/images/energy-us-light.svg#only-light)
 ![US-Energy-Dark](../../../assets/images/energy-us-dark.svg#only-dark)
@@ -194,9 +198,9 @@ Chúng ta đã thiết lập được phương trình hàm số mũ dựa trên 
 
     Chúng ta chọn mức tăng trưởng này vì logarit tự nhiên của $10$ là $2{,}3\%$. Tương tự như việc sử dụng **Phương trình** $\eqref{1.7}$ với $10$ thay cho $2$ và $p = 0{,}023$ với mức tăng trưởng $2{,}3\%$ cho kết quả tăng gấp 10 lần sau khoảng thời gian $t_{10} ≈ 100$ năm.
 
-Theo lộ trình này, mặc kết quả thu được thật sự đáng kinh ngạc, nhưng điều đó làm cho chúng ta hiểu sâu sắc hơn về hiện thực qua những khám phá thú vị về điều gì làm cho việc tăng trưởng không ngừng trở nên bất khả thi, qua đó loại bỏ dần những tương lai phi thực tế.
+Kết quả thu được theo tiến trình này thật sự đáng kinh ngạc, làm cho chúng ta hiểu sâu sắc hơn về hiện thực. Những khám phá lí thú về lí do khiến cho tăng trưởng không ngừng trở nên bất khả thi, đã loại bỏ dần những tương lai phi thực tế.
 
-Mặt trời cung cấp năng lượng đến bề mặt Trái đất với sản lượng $1000$ $W/{m^2}$ ($1{,}000$ Watts mỗi mét vuông; chúng ta sẽ tìm hiểu sâu hơn về đơn vị này trong **Chương 5**). Bỏ qua hiệu ứng che phản xạ của mây, diện tích hứng sáng của trái đất là $A = \pi{R_\oplus^2}$, với $R_\oplus^2$ là bán kính của Trái đất, khoảng $6{,}400$ km. Khoảng một phần tư bề mặt Trái đất là đất liền; cộng tất cả lại ta có khoảng $30\times10^{15}$ $W$ chiếu xuống đất liền. Con số này gấp hơn $300$ lần sản lưởng điện tiêu thụ toàn cầu ($18$ $TW$). Thật là một con số  ngợp. Nếu tiếp tục tăng trưởng lượng năng lượng như hiện tại, sau một thế kỉ, chúng ta sẽ tiêu thụ gấp 10 lần, và 100 lần chỉ sau hai thế kỉ, và chạm ngưỡng giới hạn (năng lượng khai thác từ mặt trời trên đất liền) chỉ sau $2{,}5$ thế kỉ ($250$ năm). Sau đó sẽ không còn tăng trưởng thêm được nữa.
+Mặt trời cung cấp năng lượng đến bề mặt Trái đất với sản lượng $1000$ $W/{m^2}$ ($1{,}000$ Watts mỗi mét vuông; chúng ta sẽ tìm hiểu sâu hơn về đơn vị này trong **Chương 5**). Bỏ qua hiệu ứng che phản xạ của mây, diện tích hứng sáng của trái đất là $A = \pi{R_\oplus^2}$, với $R_\oplus^2$ là bán kính của Trái đất, khoảng $6{,}400$ km. Khoảng một phần tư bề mặt Trái đất là đất liền; cộng tất cả lại ta có khoảng $30\times10^{15}$ $W$ chiếu xuống mặt đất. Con số này gấp hơn $300$ lần sản lưởng điện tiêu thụ toàn cầu ($18$ $TW$). Thật là một con số  ngợp. Nếu tiếp tục tăng trưởng lượng năng lượng như hiện tại, sau một thế kỉ, chúng ta sẽ tiêu thụ gấp 10 lần, và 100 lần chỉ sau hai thế kỉ, và chạm ngưỡng giới hạn (năng lượng khai thác từ mặt trời trên đất liền) chỉ sau $2{,}5$ thế kỉ ($250$ năm). Sau đó sẽ không còn tăng trưởng thêm được nữa.
 
 Đợi một chút, tại sao không lắp tất cả các tấm pin mặt trời trên toàn bộ đại dương, và nâng cao hiệu suất tấm pin lên mức $100\%$ (theo một cách kì diệu nào đó)? Nếu làm được như thế, chúng ta sẽ “thu hoạch” được $130\times10^{15}$ $W$, gấp $7.000$ lần mức độ tiêu thụ hiện tại. Giờ đây, để chạm tới giới hạn chúng ta có 400 năm: mỗi lần gấp $10$ mức độ tiêu thụ năng lượng mất $100$ năm, với $7.000$ lần (hay khoảng $10^4$ lần), chúng ta sẽ cần chưa đến $100\times4$ năm, hay bốn thế kỉ.
 
@@ -236,12 +240,13 @@ Những ví dụ đặt ra trên đây không phải là viễn cảnh chinh ph�
 
 ## Hệ quả theo nhiệt động học (Thermodynamic Consequences)
 
-Vật lí tiếp tục đặt ra một giới nữa cho mức tăng trưởng: nhiệt hao phí (waste heat). Gần như tất cả năng lượng chúng ta sử dụng cuối cùng sẽ chuyển hóa thành nhiệt năng. Nhiều hoạt động của con người vốn cần đến việc sản sinh nhiệt: bếp, lò nướng, lò sưởi, máy sấy, v.v. Ngay cả những thiết bị làm lạnh cũng tạo ra nhiệt.
+Vật lí tiếp tục đặt ra một giới nữa cho mức tăng trưởng: nhiệt hao phí (waste heat).[^3] Gần như tất cả năng lượng chúng ta sử dụng cuối cùng sẽ chuyển hóa thành nhiệt năng. Nhiều hoạt động của con người vốn cần đến việc sản sinh nhiệt: bếp, lò nướng, lò sưởi, máy sấy, v.v. Ngay cả những thiết bị làm lạnh cũng tạo ra nhiệt.
 
-<!-- [^3]
-    [Tham khảo trên trên Wikipedia](https://vi.wikipedia.org/wiki/Nhi%E1%BB%87t_%C4%91%E1%BB%99ng_l%E1%BB%B1c_h%E1%BB%8Dc#) -->
+[^3]:
 
-??? example "Thử nghiệm"
+    [Tham khảo thêm trên Wikipedia](https://vi.wikipedia.org/wiki/Nhi%E1%BB%87t_%C4%91%E1%BB%99ng_l%E1%BB%B1c_h%E1%BB%8Dc#)
+
+!!! info ""
 
     Bạn có thể thử cảm nhận luồng gió ra phía sau máy điều hòa khi bật, hay nhiệt tỏa ra phía sau và phía dưới của tủ lạnh. Dù đây là những thiết bị làm lạnh, chúng tỏa ra nhiều nhiệt hơn là làm mát
     
@@ -256,23 +261,111 @@ Năng lượng trao đổi chất trong cơ thể chúng ta phần lớn (khoả
 Điều gì sẽ xảy ra với toàn bộ nhiệt hao phí này? Nếu năng lượng đó ở nguyên trên Trái đất, nhiệt độ toàn cầu sẽ không ngừng tăng lên. Nhưng nguồn nhiệt này có một cách để thoát ra ngoài không gian: thông qua **bức xạ hồng ngoại**.[^4] Trái đât luôn ở trong trạng thái cân bằng nhiệt động học thông qua việc hấp thụ năng lượng mặt trời và bức xạ hồng ngoại vào không gian.  Chúng ta sẽ tìm hiểu thêm ở **Chương 5**, *tốc độ*  dòng năng lượng được gọi là **công suất** (như dòng điện năng trong một đơn vị thời gian). Công suất có thể được dùng để biểu diễn các dòng năng lượng liên tục ra vào hệ thống trái đất. Trong vật lí có một công thức đơn giản, được định nghĩa rõ ràng về công suất bức xạ của một vật thể, gọi là **Định luật Stefan-Boltzmann**:
 
 [^4]: 
+
     ...một dạng của bức xạ điện từ (*electro-magnetic radiation*)
 
 $$
 P = A_{s}\sigma(T_{hot}^4 - T_{cold}^4) \tag{1.8}\label{1.8}
 $$
 
-$P$ là công suất bức xạ, $A_{s}$ là diện tích bề mặt, $T_{hot}$ là nhiệt độ bức xạ của vật theo thang độ Kelvin (không phải độ C!), $T_{cold}$ là nhiệt độ môi trường (cũng đo theo độ Kelvin), và $\sigma$ là **hằng số Stefan-Boltzmann**: $\sigma = 5{,}67\times10^{-8}$ $W/m_2/K^4$ (Để dễ nhớ: ghi nhớ dãy 5&ndash;6&ndash;7&ndash;8 cùng với dấu mũ âm). Chú ý rằng định luật này sử dụng sự khác biệt lũy thừa mũ $4$ của nhiệt độ.
+$P$ là công suất bức xạ, $A_{s}$ là diện tích bề mặt, $T_{hot}$ là nhiệt độ bức xạ của vật theo thang độ Kelvin (không phải độ $C$!), $T_{cold}$ là nhiệt độ môi trường (cũng đo theo độ Kelvin), và $\sigma$ (*sigma*) là **hằng số Stefan-Boltzmann**: $\sigma = 5{,}67\times10^{-8}$ $W/m_2/K^4$ (Để dễ nhớ: ghi nhớ dãy 5&ndash;6&ndash;7&ndash;8 cùng với dấu mũ âm). Chú ý rằng định luật này sử dụng sự khác biệt lũy thừa mũ $4$ của nhiệt độ.
+
+!!! info ""
+
+    Ngoài **Phương trình** $\eqref{1.8}$, chúng ta tạm thời bỏ qua <a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_ph%C3%A1t_x%E1%BA%A1" target="_blank">Độ phát xạ</a> (*emmissivity*) (của bề mặt vật liệu)
 
 !!! note "Công thức đổi nhiệt độ"
 
-    Chuyển đổi từ độ Kelvin sang độ C (*Celsius*)  độ F (Fahrenheit): <br>
+    Chuyển đổi từ độ Kelvin sang độ $C$ (*Celsius*)  độ F (Fahrenheit): <br>
     $T(^\circ{K}) = T(^\circ{C}) + 273{,}15$ <br>
     $T(^\circ{C}) = (T(^\circ{F}) − 32)/1{,}8$
 
 !!! example "Ví dụ $\textbf{1.3}$:"
 
-    Một chiếc bàn trong một phòng kín, có nhiệt độ bàn và nhiệt độ tường giống nhau, bức xạ luân chuyển trong môi trường không đáng kể, vì theo Phương trình $\eqref{1.8}$, nhiệt độ bàn và tường bằng nhau nên triệt tiêu lẫn nhau. Trong tường hợp này, bức xạ từ bàn đến tường cũng bằng bức xạ từ tường đến bàn. Nhưng một vật với mức nhiệt-độ-phòng là $300$ $K$ (khoảng gần $23^\circ{C}$), bức xạ gần $450$ $W$ mỗi mét vuông ra không gian.
+    Một chiếc bàn trong một phòng kín, có nhiệt độ bàn và nhiệt độ tường giống nhau, bức xạ luân chuyển trong môi trường không đáng kể, vì theo Phương trình $\eqref{1.8}$, nhiệt độ bàn và tường bằng nhau nên triệt tiêu lẫn nhau. Trong tường hợp này, bức xạ từ bàn đến tường cũng bằng bức xạ từ tường đến bàn. Nhưng một vật với mức nhiệt-độ-phòng là $300$ $K$ (khoảng gần $23^\circ{C}$), bức xạ gần $450$ $W$ mỗi mét vuông ra ngoài không gian.
+
+Vì không gian rất lạnh (hàng chục độ K, trừ khi ánh sáng mặt trời chiếu đến), lũy thừa mũ bốn của nhiệt độ này quá nhỏ so với lũy thừa mũ bốn của nhiệt độ phòng ($300$ $K$) nên chúng ta có thể bỏ qua khi tính bức xạ ngoài không gian ($P_{space}$):
+
+$$
+P_{space} ≈ A_{s}\sigma(T^4) \tag{1.9}\label{1.9}
+$$
+
+Ở đây, chúng ta chỉ có một nhiệt độ: nhiệt độ của vật trong không gian.
+
+Trái đất đạt đến trạng thái cân bằng khi năng lượng hấp thụ và phát ra bằng nhau.[^5] Nếu năng lượng hấp thụ bởi Trái đất nhiều hơn, nhiệt độ sẽ tăng ($\sigma(T^4)$ tăng) để cân bằng lại. 
+
+[^5]:
+
+    Biến đổi khí hậu là do khí nhà kính (greenhouse gases) chặn một phần bức xạ ra không gian, làm tăng mức cân bằng nhiệt độ khoảng $∼0{,}1\%$. Điều này sẽ được nói đến trong **Chương 9**.
+
+Mối liên hệ giữa các đại lượng trong **Phương trình** $\eqref{1.9}$ là rất quan trọng để hiểu được cân bằng nhiệt độ trên Trái đất, vốn được áp dụng một cách phổ quát khắp nơi trên địa cầu.
+
+!!! note "Hộp $\textbf{1.4}$: Mọi vật đều bức xạ"
+
+    **Phương trình** $\eqref{1.8}$ chỉ ra qui luật chung cho bề mặt mặt trời, dây tóc bóng đèn điện, than đá được đốt cháy, và ngay cả cơ thể người. Mức chuyển hóa căn bản của một người cần tiêu thụ năng lượng tương đương với một bóng đèn dây tóc (khoảng $100$ $W$), nhưng bóng đèn lại có nhiệt độ cao hơn, vì diện tích bề mặt nhỏ hơn.
+
+> **Hình** $\textbf{1.4}$: Trái đất&mdash;được minh họa như hình, trong mùa hè ở bán cầu bắc&mdash;hứng ánh sáng qua bề mặt hứng sáng (đường tròn có diện tích $πR^2$), trong khi bức xạ ánh ra bên ngoài không gian từ mọi phía (diện tích bề mặt Trái đất lớn gấp 4 lần diện tích hứng sáng, hay $4πR^2$)
+
+![Radiation-Light](../../../assets/images/radiation-light.svg#only-light)
+![Radiation-Dark](../../../assets/images/radiation-dark.svg#only-dark)
+
+Để đánh giá nhiệt độ kì vọng của Trái đất, chúng ta biết năng lượng của mặt trời chiếu đến bề mặt hứng ánh sáng của Trái đất là khoảng $1.360$ $W/m^2$ vào *bên trên* tầng khí quyển (bề mặt Trái đất nhận được ít hơn một chút). Chúng ta cũng biết khoảng $29{,}3\%$ năng lượng này phản xạ bởi mây, tuyết, cho đến nước và địa hình. Vì thế Trái đất *hấp thụ* khoảng $960$ $W/m^2$. Năng lượng này được hấp thụ bởi phần hứng sáng: diện tích hình tròn $A = π{R_\oplus^2}$. Nhưng toàn bộ diện tích bề mặt trái đất, vốn lớn hơn bốn lần diện tích hứng sáng, lại bức xạ ra ngoài không gian (**Hình** $\textbf{1.4}$). Do năng lượng của trái đất cân bằng (năng lượng vào $P_{in}$ bằng năng lượng ra $P_{out}$), ta có:
+
+$$
+P_{in} = (1 - 29.3\%) \times 1.360 W/m^2 \times π{R_\oplus^2} = P_{out} = 4π{R_\oplus^2}\sigma(T^4) \tag{1.10}\label{1.10}
+$$
+
+Chúng ta có thể triệt tiêu và đổi vế để tính nhiệt độ Trái đất khi cân bằng năng lượng:
+
+$$
+T^4 = \frac{0{,}707 \times 1.360 W/m^2}{4\sigma} \tag{1.11}\label{1.11}
+$$
+
+Giải ra ta được $T ≈ 255 K$, hay $-18^\circ{C}$, khoảng ($0^\circ{F}$). Nhiệt độ này quá lạnh. Hiện tại chúng ta đo được nhiệt độ trung bình trên Trái đất khoảng $288 K$, hay $15^\circ{C}$ ($59^\circ{F}$). Sự khác biệt tới $33^\circ{C}$ này gây ra chủ yếu bởi khí nhà kính&mdash;mà phần lớn là hơi nước, $H_2O$&mdash;làm ảnh hưởng đến cân bằng nhiệt bằng cách ngăn không cho bức xạ thoát ra trực tiếp ngoài không gian. Chúng ta sẽ tìm hiểu phần này sâu hơn trong **Chương 9**.
+
+Nhờ **Phương trình** $\eqref{1.11}$, giờ đây ta có thể ước tính được ảnh hưởng của nhiệt hao phí lên sự cân bằng nhiệt độ của Trái đất. Sử dụng năng lượng mặt trời làm mốc, chúng ta có thể thêm vào các nguồn năng lượng theo cấp số nhân từ ví dụ trong các phần trước: bắt đầu với năng lượng tiêu thụ của con người $18$ $TW$ và tăng trưởng ở mức $2{,}3\%$ một năm (tương đương gấp 10 lần mỗi thế kỉ). Để đơn giản, chúng ta biểu diễn năng lượng con người tiêu thụ qua năng lượng mặt trời chiếu xuống và chỉ cần cấp số nhân tử số trong **Phương trình** $\eqref{1.11}$. Theo đó, sản lượng $18$ $TW$ thêm vào trong diện tích hứng sáng $π{R_\oplus^2}$ khoảng $0{,}14$$W/m^2$ cùng với năng lượng mặt trời (hiện tại đang là một con số vô cùng khiêm tốn), tăng lên gấp 10 cứ mỗi thế kỉ. Sau một thế kỉ, nhiệt độ đã tăng thêm khoảng $33$ $K$ nhờ có khí nhà kính&mdash;được biểu thị trong **Bảng** $\textbf{1.4}$. Ban đầu, tác dụng có vẻ nhỏ, nhưng sau $300$ năm, sản lượng này đã vượt quá nhiều lần mức tăng nhiệt độ hiện tại, và đạt đến nhiệt độ sôi ($100^\circ{C}$) sau hơn $400$ năm! Nếu chúng ta tiếp tục (mặc dù phi thực tế), nhiệt độ Trái đất sẽ nóng hơn nhiệt độ trên bề mặt mặt trời chỉ trong khoảng $1.000\%$ năm! [^6]
+
+[^6]:
+
+    Cách chúng ta đặt ra bài toàn có vẻ chưa thỏa đáng hoàn toàn, vì nguồn năng lượng loài người có thể tiêu thụ ở đây chỉ là mặt trời. Nhưng ngay cả khi việc khai thác năng lượng từ những vì sao khác trở nên khả thi, với mức tăng năng lượng tiêu thụ $2{,}3\%$ một năm sẽ chỉ giúp chúng ta có thêm một vài thế kỉ.
+
+!!! info "Bảng 1.4. Tăng trưởng năng lượng"
+    
+    Ở mức $2{,}3\%$ một năm, nhiệt độ tăng do nhiệt hao phí (không phải do phát thải khí $CO_2$) ban đầu chậm, nhưng tăng tốc đột ngột chỉ trong vài trăm năm, đạt đến nhiệt độ sôi chỉ sau hơn 400 năm; và sau 900 năm, nhiệt độ Trái đất thậm chí còn nóng hơn bề mặt mặt trời! Viễn cảnh tăng trưởng thế này thực sự rất phi lý.
+
+<div markdown="1" align="center">
+| Năm | Mật độ Công suất <br>$W/m^2$ | $T^\circ{K}$   | $Δ{T}^\circ{C}$ |
+|:---: | :------: | :------: | :-------: |
+| $100$ | $1{,}4$ | $288{,}1$ | $0{,}1$ |
+| $200$ | $14$    | $288{,}9$ | $∼1$    |
+| $300$ | $140$   | $296{,}9$ | $∼9$    |
+| $400$ | $1{,}400$ | $344$   | $56$    |
+| $417$ | $2{,}070$ | $373$   | $100$   |
+| $1.000$ | $1{,}4 \times 10^9$ | $8.600$ | $8.300$ |
+</div>
+
+Từ những ví dụ trên, ta thấy nếu tăng trưởng tiêu thụ năng lượng ở mức $2{,}3\%$ một năm, chúng ta sẽ dụng hết năng lượng mặt trời chỉ sau $1.400$ năm. Và việc sử dụng toàn bộ năng lượng này trên bề mặt của Trái đất (nhỏ hơn của mặt trời rất nhiều) cũng đồng nghĩa với việc nhiệt độ bề mặt Trái đất sẽ nóng hơn bề mặt mặt trời (chỉ sau $1.400$ năm); tương tự như bóng đèn dây tóc nóng hơn nhiệt độ da người nhiều mặt dù tiêu thụ cùng một mức năng lượng (khoảng $100$$W$)&mdash;vì diện tích bề mặt khác nhau. (Tham khảo **Phương trình** $\eqref{1.8}$ và $\eqref{1.9}$)
+
+Một trong những điểm quan trọng của viễn cảnh bức xạ nhiệt như trên là nó *không phụ thuộc vào nguồn cung cấp năng lượng*. Năng lượng đó có thể là nhiên liệu hóa thạch, năng lượng từ phản ứng phân hạch hay nhiệt hạch  (chia tách hay tổng hợp hạt nhân), hay cả những nguồn năng lượng chúng ta còn chưa biết đến! Dù là nguồn năng lượng nào, nó cũng phải tuân thủ những định luật nhiệt động học. Vì thế, nhiệt động học đã đặt ra giới hạn cho việc tăng trưởng năng lượng trên hành tinh này.
+
+
+## Kết luận: Những giới hạn vật lí của tăng trưởng
+
+Chúng ta đã thấy ở chương này hệ quả của việc tăng trưởng liên tục dẫn đến sự vô lí như thế nào. Trước hết, chúng ta nhận thức được đôi khi trực giác cũng đánh lừa mình qua ví dụ về sinh sản của vi khuẩn trong hũ. Điểm mấu chốt ở đây là việc hũ đầy một nửa cho đến khi đầy vi khuẩn hoàn toàn chỉ cách nhau thời gian bằng một lần nhân đôi. Điều này  vẻ hiển nhiên, nhưng khi quan sát chúng ta thấy sự gia tăng nhanh chóng này chỉ diễn ra ở những thời gian cuối cùng của toàn bộ quá trình sinh trưởng của vi khuẩn, khiến cho trực giác của chúng ta vốn quen với việc diễn tiến tuần tự của thực tại trở nên ngạc nhiên hết sức. Sự tăng trưởng mới đầu không có gì nghiêm trọng bỗng chốc thay đổi hoàn toàn chỉ trong một vài lần nhân đôi cuối cùng.
+
+Tiếp theo, chúng ta thấy việc tiếp tục một mức tăng trưởng tiêu thụ năng lượng nhỏ (giả sử $2{,}3\%$ một năm) đã trở nên hoàn toàn vô lí chỉ sau vài trăm năm. Từ ví dụ trong chương, nhiệt độ bề mặt của trái đất tăng nhanh kinh ngạc nếu tốc độ tăng trưởng này giữ nguyên trong vài trăm năm. [^7]
+
+[^7]:
+
+    Những ví dụ trong chương này là vô ích chăng, vì kết quả toán học dẫn đến sự vô lí? Hay chúng ta tính toán sai lầm? Không&mdash;đó là những bài tập vô cùng giá trị để nhận ra rằng: nhưng giả định về việc tăng trưởng không ngừng (thông qua việc tính toán) sẽ dẫn đến những kết quả phi lý. Kết luận logic: tăng trưởng không thể tiếp tục mãi mãi. 
+
+    Để ý rằng việc thay đổi tỉ lệ tăng trưởng $2{,}3\%$ một năm sẽ thay đổi toàn bộ các tính toán. Điều này cũng giúp gợi ý cho giải pháp: giảm tăng trưởng!
+
+    
+
+Kết luận, vật lí đã đặt ra những gioiws hạn về kì vọng của chúng ta trong việc tăng trưởng tiêu thụ năng lượng trên Trái đất. Có thể khung thời gian $∼300$ năm chưa đủ báo động, những nó đã đặt ra những rào cản về vật lí không thể vượt qua cho mức tăng trưởng quá khứ được tiếp diễn trong tương lai. Trên thực tế, những giới hạn này có thể bị chạm tới trong thời gian ngắn hơn. Quá trình tăng trưởng không ngừng đã diễn ra trong một thời gian dài. Chúng ta đang ở gần điểm kết thúc hơn bao giờ hết, trong nhân loại không chuẩn bị gì cho thực tế này, thực thiếu khôn ngoan. Chugns ta sẽ đánh giá chi tiết hơn vào những chương tiếp theo.
+
+Có rất nhiều yếu tốt khác có thể can thiệp vào quá trình giới hạn tăng trưởng ở cả qui mô dân số lẫn tài nguyên sử dụng: sự khan hiếm các nguồn tài nguyên, ô nhiễm, tầng nước ngầm cạn kiệt, thiếu nước ngọt, biến đổi khí hậu, chiến tranh, sự sụp đổ của nghề đánh bắt thủy sản, diện tích đất trông trọt thu hẹp (do sa mạc hóa), nạn phá rừng, bệnh tật, v.v. Những yếu tố này đều ngăn cản việc tăng trưởng không ngừng. Bằng cách này hay cách khác, chúng ta cần xem giai đoạn tăng trưởng hiện tại chỉ là một quá trình ngắn hạn: một chớp mắt trong lịch sử nhân loại.
 
 
 
