@@ -17,6 +17,7 @@ nav:
       - Khát vọng con người:
         - ecology/energy/human-ambition/index.md
         - Tăng trưởng: ecology/energy/human-ambition/1-growth.md
+        - Kinh tế: ecology/energy/human-ambition/2-econ.md
 
 theme: 
   name: material
