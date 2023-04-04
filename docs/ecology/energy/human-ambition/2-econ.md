@@ -116,4 +116,42 @@ Những thành tựu tiến bộ trong quá khứ có thể đánh lừa chúng 
  
 	Số phận của Concorde&mdash;máy bay siêu âm đầu tiên với dịch vụ hành khách vượt qua biển Đại Tây Dương từ năm $1976$ đến $2003$&mdash;có thể là một bài học hữu ích: không phải cứ điều gì *có thể* (như chế tạo máy bay hành khách với vận tốc siêu âm) đều có nghĩa rằng sẽ có đủ người chi trả để thực hiện những chuyến bay vượt biển một cách *khả thi* về mặt kinh tế. Người tiêu dùng giờ đây không còn có lựa chọn cho những chuyến bay siêu âm nữa, mặc dù nó được cho là tương lai cách đây 50 năm. Đôi khi khi chúng ngược dòng thời gian, những ước mơ một thời không còn phù hợp với thực tại nữa.
  	
- Nói chung, có những thời điểm giải pháp tốt nhất và những công nghệ "tiên tiến nhất" đã đến sớm trong lịch sử. Dù có lục tung bảng tuần hoàn hoàn hóa học với kĩ thuật hiện đại, chúng ta cũng không thể tìm ra một chất nào sánh được với nước, $H_2O$, về mức độ cần thiết cho sự sống.
+ Nói chung, có những thời điểm giải pháp tốt nhất và những công nghệ "tiên tiến nhất" đã đến sớm trong lịch sử. Dù có lục tung bảng tuần hoàn hoàn hóa học với kĩ thuật hiện đại, chúng ta cũng không thể tìm ra một chất nào sánh được với nước, $H_2O$, về mức độ cần thiết cho sự sống[^11]. Những người làm marketing có thể quảng cáo $H_2O_2$ như một hợp chất tiên tiến, với lợi ích có thêm một nguyên tử oxy đi kèm, nhưng *xin các bạn đừng uống hydrogen peroxide* (có tên gọi khác là oxy già, dùng để tẩy trắng)! Một vài công nghệ được sử dụng hiện nay vẫn có thể được nhận ra bởi những người sống trong thời kì tiền công nghiệp hóa: bánh xe, dây, bát, kính và quần áo. Không phải lúc nào chúng ta cũng làm ra được những thức tốt hơn. Không phải vật dụng nào cũng trải qua quá trình phát triển mang tính đột phá.
+ 
+ [^11]:
+ 
+ 	Một cách tương đối, bảng tuần hoàn hóa học chứa một số hữu hạn các nguyên tố, có thể in ra dễ dàng chỉ trên một trang giấy. Chúng ta không có vô hạn những nguyên tố hay hợp chất thay thế. Những đo lường trong thiên văn học đã cho thấy: tất cả vật chất trong vũ trụ đều giới hạn trong các nguyên tố đó.
+ 	
+ Tóm lại, giảm tính phụ thuộc vào tài nguyên (*decoupling*) và việc tìm ra sản phẩm thay thế (*substitution*) thường được xem là cách thức mà tăng trưởng kinh tế không cần thiết phải chậm lại khi năng lượng và các tài nguyên trở nên khan hiếm. Lối tư duy đó như thế này: chúng ta có thể kiếm được nhiều tiền hơn bằng cách sử dụng ít hơn tài nguyên, hay chỉ cần tìm ra sản phẩm thay thế để giải quyết vấn đề. Có nhiều dẫn chứng trong quá khứ để chứng tỏ và giải thích những phát minh trong quá khứ *đã* thực hiện được những điều đó như thế nào. Sẽ là không khôn ngoan khi cho rằng chúng ta đã phát triển đến điểm tận cùng, và không thể giảm tính phụ thuộc vào tài nguyên hay tìm ra vật liệu thay thế tốt hơn. Những cũng sẽ không khôn ngoan khi cho rằng chúng ta có thể liên tục làm điều đó chỉ để duy trì tăng trưởng kinh tế.
+ 
+ !!! note "Hộp $\textbf{2.3}$: Giới hạn hiệu năng"
+ 
+ 	Những tiến bộ về hiệu năng có thể được xem là phương thức hữu hiệu để đương đầu với sự khan hiếm dần tài nguyên năng lượng. Hiệu năng tốt hơn trong khi sử dụng ít năng lượng hơn luôn có vẻ hấp dẫn. Đúng là chúng ta cần tăng hiệu năng sử dụng; nhưng đây không phải là câu trả lời cho nhưng giới hạn tăng trưởng, với nhiều lí do sau đây.
+ 	
+ 	1. Hiện tại, hầu hết các thiết bị đã gần đạt đến hay chỉ cách hiệu năng lí tưởng một phần hai[^12]. Một động cơ hay máy phát vận hành với hiệu suất $90\%$ sẽ chẳng còn nâng cấp được nhiều hơn nữa. Nếu hiệu năng chỉ nhỏ hơn $1\%$, chúng ta sẽ còn tìm ra nhiều phương pháp để nâng cao con số này; nhưng không còn thiêt bị nào có hiệu suất thấp như vậy nữa.
+ 
+ [^12]:
+ 	
+ 	**Chương 6** sẽ nói về giới hiệu năng lí tưởng đối với các nguồn năng lượng nhiệt như năng lượng hóa thạch (*fossil fuels*) 
+ 	
+ 	2. Nâng cao hiệu suất sử dụng năng lượng đã tăng trưởng với mức $∼1\%$ một năm[^13], đôi khi đến $2\%$ một năm. **Thời gian nhân đôi** theo đó chỉ khoảng một vài thập kỉ. Điều này kết hợp với lí do ở trên cho thấy chúng ta đã bắt đầu đến ga cuối của quá trình tăng hiệu suất chỉ trong một thế kỉ[^14]. 
+ 	 
+[^13]:
+	
+	... có nghĩa hiệu suất $30\%$ nay trước sẽ thành $30.3\%$ năm sau (không phải là $31\%$, tương ứng với tỉ lệ tăng $∼3\%$ một năm 
+  
+ [^14]:
+ 	
+ 	... tương tự như công nghệ chiếu sáng, đề cập ở **Hộp** $\textbf{2.1}$ và **Hình** *\textbf{2.3}*
+ 	
+ 	3. Cải thiện hiệu suất có thể mang lại tác dụng không mong muốn, được gọi là **hiệu ứng ngược**(*rebound effect*) hay **nghịch lí Jevons**(*Jevons paradox*). Nhu cầu gia tăng khi công nghệ trở nên hiệu quả hơn dẫn đến *nhiều hơn nữa* nhu cầu đối với tài nguyên. Ví dụ, hiệu suất tủ lạnh tăng dẫn đến việc sản xuất nhiều tủ lạnh hơn và tủ lớn hơn trước[^15], hệ quả là làm cho nhu cầu năng lượng làm lạnh nói chung tăng. Chúng ta có thể quan sát được thấy năng lượng sử dụng và tài nguyên vật chất toàn cầu tính theo đầu người không ngừng gia tăng trong khi hiệu năng sử dụng đã tăng đáng kể trong thế kỉ vừa qua[^16].
+ 	
+ 	Nâng cao hiệu năng không thể giải quyết được nhu cầu về tài nguyên ngày càng tăng.
+ 	
+ [^15]:
+ 	
+ 	 ... ví dụ, để đặt trong tầng hầm, ga-ra hay văn phòng 
+ 
+ [^16]:
+ 
+ 	[Nghịch lí Jevons](https://www.inscc.utah.edu/~tgarrett/jevons-paradox.html) 
