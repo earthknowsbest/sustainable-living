@@ -28,9 +28,12 @@ Nhưng tài nguyên vẫn luôn là yếu tố quyết định. Hoa Kì sở dĩ
 
 Những điều trong quá khứ vẫn còn nguyên giá trị đến tận bây giờ: tài nguyên như dầu mỏ, thép, kim loại, các sản phẩm nông nghiệp, máy móc hạng nặng tiếp tục có giá trị cao trên thị trường quốc tế. Tài nguyên làm nên tảng cho sự thịnh vượng. Đó không phải là nguồn lực *duy nhất*, những là một bộ phận vô cùng thiết yếu và đáng tin cậy. **Hình** $\textbf{2.1}$ cho thấy mối liên hệ phụ thuộc rất lớn giữa qui mô kinh tế vào sản lượng năng lượng sử dụng.
 
-> **Hình** $\textbf{2.1}$ *Năng lượng sử dụng theo đầu người là một hàm của GDP theo thang logarit (mỗi vạch chia gấp 10 lần). GDP theo đầu người là tổng sản phẩm quốc nội chia cho số dân trong nước đó, có thể xem như thu thập trung bình hàng năm. Tốc độ mỗi người sử dụng năng lượng được biểu diễn qua công suất, tính theo Watts. Tồn tại một mối liên hệ này khá chặt chẽ xuyên suốt các quốc gia: những nước giàu sử dụng nhiều năng lượng hơn, theo đầu người. Một số quốc gia điển hình được chấm đỏ. Kích cỡ các chấm được tỉ lệ theo qui mô dân số.*
+![Energy-Capita-Light](../../../assets/images/energy-capita-21-light.svg#only-light)
+![Energy-Capita-Dark](../../../assets/images/energy-capita-21-dark.svg#only-dark)
 
-Để hinh dung được mối liên hệ giữa các hoạt động kinh tế với thế giới vật chất, chúng ta có thể biểu diễn năng lượng tiêu thụ gắn với mỗi Đô-la (hay bất kì loại tiền tệ nào) tiêu dùng. **Độ thâm dụng năng lượng** (*energy intensity*) theo mức kinh tế (xem Định nghĩa 2.1) của một quốc gia là năng lượng tiêu thụ của toàn xã hội chia cho tổng sản phẩm quốc nội GDP. 
+> **Hình** $\textbf{2.1}$ *Năng lượng sử dụng theo đầu người là một hàm của GDP theo thang logarit (mỗi vạch chia gấp 10 lần). GDP theo đầu người là tổng sản phẩm quốc nội chia cho số dân trong nước đó, có thể xem như thu thập trung bình hàng năm. Tốc độ mỗi người sử dụng năng lượng được biểu diễn qua công suất, tính theo Watts. Tồn tại một mối liên hệ này khá chặt chẽ xuyên suốt các quốc gia: những nước giàu sử dụng nhiều năng lượng hơn, theo đầu người. Một số quốc gia điển hình được chấm đỏ :red_circle:. Kích cỡ các chấm được tỉ lệ theo qui mô dân số.*
+
+Để hình dung được mối liên hệ giữa các hoạt động kinh tế với thế giới vật chất, chúng ta có thể biểu diễn năng lượng tiêu thụ gắn với mỗi Đô-la (hay bất kì loại tiền tệ nào) tiêu dùng. **Độ thâm dụng năng lượng** (*energy intensity*) theo mức kinh tế (xem Định nghĩa 2.1) của một quốc gia là năng lượng tiêu thụ của toàn xã hội chia cho tổng sản phẩm quốc nội GDP. 
 
 !!! tip ""
 
@@ -48,7 +51,12 @@ Trong một thế giới hữu hạn tài nguyên (hữu hạn về tài nguyên
 
 Độ thâm dụng năng lượng vì thế cung cấp một thước đo cho mức độ thâm dụng tài nguyên của một quốc gia theo qui mô kinh tế quốc gia đó. Ví dụ, Hoa Kì sử dụng $10^{20}$ Joules ($J$) năng lượng mỗi năm và có GDP khoảng $20$ nghìn tỉ Đô-la. Chia ra ta có độ thâm dụng năng lượng $5 \times 10^6$ $J/\$$, hay $5$ $MJ/\$$ (có nhiều biến thể đơn vị khác nhau). Thế giới nói chung sử dụng khoảng $4{,}5 \times 10^{20}$ $J$ một năm với ước tính $\$90$ nghìn tỉ GDP, chia ra cũng được $5$ $MJ/\$$. Sự khác biệt về con số này giữa các quốc gia phát triển không quá lớn&mdash;thường ở mức một con số $MJ/\$$.
 
-> **Hình** $\textbf{2.2}$ biểu diễn độ thâm dụng năng lượng của tất cả các quốc gia trên thế giới. Những yếu tố dẫn dắt mức độ sử dụng năng lượng: địa lí (quốc gia rộng hơn đòi hỏi việc vận chuyển trên quãng đường xa hơn), khí hậu (quốc gia lạnh đòi hỏi nhiệt lượng sưởi ấm nhiều hơn), hiệu quả sử dụng năng lượng, và phong cách tiêu dùng. Nga, Canada, và Hoa Kì đều có lãnh thổ rộng lớn, và hai quốc gia đầu tiên cần nhiều năng lượng sưởi ấm hơn hầu hết các quốc gia. Ngược lại, Thụy Sĩ có lãnh thổ nhỏ và thuê ngoài hầu hết các ngành công nghiệp nặng. Bạn có thể xem thử tại sao Venezuela lại có độ thâm dụng năng lượng lớn như thế không?
+![Energy-Intensity-Light](../../../assets/images/energy-intensity-22-light.svg#only-light)
+![Energy-Intensity-Dark](../../../assets/images/energy-intensity-22-dark.svg#only-dark)
+
+> **Hình** $\textbf{2.2}$: Độ thâm dụng năng lượng của các quốc gia, trình bay trên thang logarit ở cả hai trục. Trục đứng cho biết mức độ "ngốn" năng lượng của mỗi quốc gia theo sản lượng của nền kinh tế, trong khi trục nằm ngang sắp xếp các quốc gia theo thu nhập trên đầu người. Một số quốc gia được làm nổi bật bởi chấm đỏ :red_circle:. Diện tích chấm này được tỉ lệ theo số dân của nước đó. Những quốc gia giàu có thường có độ thâm dụng năng lượng thấp hơn, một phần do chuyển dịch công nghiệp chế tạo sang nước khác. 
+
+**Hình** $\textbf{2.2}$ biểu diễn độ thâm dụng năng lượng của tất cả các quốc gia trên thế giới. Những yếu tố dẫn dắt mức độ sử dụng năng lượng: địa lí (quốc gia rộng hơn đòi hỏi việc vận chuyển trên quãng đường xa hơn), khí hậu (quốc gia lạnh đòi hỏi nhiệt lượng sưởi ấm nhiều hơn), hiệu quả sử dụng năng lượng, và phong cách tiêu dùng. Nga, Canada, và Hoa Kì đều có lãnh thổ rộng lớn, và hai quốc gia đầu tiên cần nhiều năng lượng sưởi ấm hơn hầu hết các quốc gia. Ngược lại, Thụy Sĩ có lãnh thổ nhỏ và thuê ngoài hầu hết các ngành công nghiệp nặng. Bạn có thể xem thử tại sao Venezuela lại có độ thâm dụng năng lượng lớn như thế không?
 
 ## Phát triển kinh tế không phụ thuộc vào tài nguyên (*Decoupling*) và Sự thay thế (*Substitution*)
 
@@ -102,6 +110,9 @@ Những ví dụ về sự thay thế có rất nhiều trong quá khứ (**Đ�
  
  	[Nghiên cứu](https://aip.scitation.org/doi/10.1063/1.4721897)
  		
+![Luminosity-Light](../../../assets/images/luminosity-23-light.svg#only-light)
+![Luminosity-Dark](../../../assets/images/luminosity-23-dark.svg#only-dark)
+		
 > **Hình** $\textbf{2.3}$: *Tiến bộ về hiệu quả chiếu sáng trong lịch sử theo thang logarit, sử dụng những đoạn thẳng để biểu thị khoảng thời gian sử dụng và hiệu suất chiếu sáng. Đường gạch nối ở phía trên đồ thì trình bày hiệu suất lí thuyết cao nhất có thể đạt được đối với ánh sáng trắng (không có nhiệt hao phí). Đường chấm chấm biểu thị hiệu năng chiếu sáng tăng gấp 10 lần mỗi thế kỉ (với $2{,}3\%$ tăng trưởng hàng năm). Lưu ý rằng đường này cắt hiệu suất cao nhất vào khoảng giữa thế kỉ này (hình ngôi sao đỏ), cho thấy xu hướng tăng hiệu suất không thể tiếp diễn lâu hơn[^10].*
 
 [^10]:
@@ -110,48 +121,48 @@ Những ví dụ về sự thay thế có rất nhiều trong quá khứ (**Đ�
 	
 Những thành tựu tiến bộ trong quá khứ có thể đánh lừa chúng ta với với suy nghĩ rằng **sự thay thế** (sang vật liệu khác hay vật liệu tốt hơn) sẽ tiếp diễn trong tương lai. Sau khi đã chứng kiến hàng tá những "trò ảo thuật", tương ứng với những phát minh trong công nghệ chiếu sáng (**Hộp** $\textbf{2.1}$), chúng ta tự tin rằng những sáng chế mới sẽ tiếp tục nâng cao hiệu suất chiếu sáng. Trên thực thế, điều đó không còn đúng nữa (**Hình** $\textbf{2.3}$). Mỗi phát minh tương ưng với một trò ảo thuật; việc trình diễn thành công đến sáu lần trong lịch sử không có nghĩa là trò ảo thuật sẽ tiếp diễn mãi mãi.
 
- Đối với những người có tài chính vững chắc ở trên top phân phối thu nhập cá nhân, sẽ rất dễ để họ mường tượng và tin tưởng vào **sự thay thế** sẽ diễn ra trong tương lai. Nhiều thành quả họ đã đạt được từ một đời sống khiêm tốn, thậm chí nghèo khó trước kia, liên tục nâng cấp những cơ ngơi của mình: nhà cửa, phương tiện đi lại, áo quần, thực phẩm, du lịch, v.v. Đối với những người đã giàu có từ nhỏ, cuộc sống của họ được bao quanh bởi những tiện nghi và vật chất; mỗi sản phẩm mới nhất ra đời họ đều có khả năng mua sắm. Nhưng tất cả những khả năng này của giới tài phiệt không thể áp dụng được cho đại đa số dân chúng. Bởi không phải thứ gì cũng nhân rộng được.
+Đối với những người có tài chính vững chắc ở trên top phân phối thu nhập cá nhân, sẽ rất dễ để họ mường tượng và tin tưởng vào **sự thay thế** sẽ diễn ra trong tương lai. Nhiều thành quả họ đã đạt được từ một đời sống khiêm tốn, thậm chí nghèo khó trước kia, liên tục nâng cấp những cơ ngơi của mình: nhà cửa, phương tiện đi lại, áo quần, thực phẩm, du lịch, v.v. Đối với những người đã giàu có từ nhỏ, cuộc sống của họ được bao quanh bởi những tiện nghi và vật chất; mỗi sản phẩm mới nhất ra đời họ đều có khả năng mua sắm. Nhưng tất cả những khả năng này của giới tài phiệt không thể áp dụng được cho đại đa số dân chúng. Bởi không phải thứ gì cũng nhân rộng được.
  
 !!! note "Hộp $\textbf{2.2}$: Số phận của Concorde"
  
 	Số phận của Concorde&mdash;máy bay siêu âm đầu tiên với dịch vụ hành khách vượt qua biển Đại Tây Dương từ năm $1976$ đến $2003$&mdash;có thể là một bài học hữu ích: không phải cứ điều gì *có thể* (như chế tạo máy bay hành khách với vận tốc siêu âm) đều có nghĩa rằng sẽ có đủ người chi trả để thực hiện những chuyến bay vượt biển một cách *khả thi* về mặt kinh tế. Người tiêu dùng giờ đây không còn có lựa chọn cho những chuyến bay siêu âm nữa, mặc dù nó được cho là tương lai cách đây 50 năm. Đôi khi khi chúng ngược dòng thời gian, những ước mơ một thời không còn phù hợp với thực tại nữa.
  	
- Nói chung, có những thời điểm giải pháp tốt nhất và những công nghệ "tiên tiến nhất" đã đến sớm trong lịch sử. Dù có lục tung bảng tuần hoàn hoàn hóa học với kĩ thuật hiện đại, chúng ta cũng không thể tìm ra một chất nào sánh được với nước, $H_2O$, về mức độ cần thiết cho sự sống[^11]. Những người làm marketing có thể quảng cáo $H_2O_2$ như một hợp chất tiên tiến, với lợi ích có thêm một nguyên tử oxy đi kèm, nhưng *xin các bạn đừng uống hydrogen peroxide* (có tên gọi khác là oxy già, dùng để tẩy trắng)! Một vài công nghệ được sử dụng hiện nay vẫn có thể được nhận ra bởi những người sống trong thời kì tiền công nghiệp hóa: bánh xe, dây, bát, kính và quần áo. Không phải lúc nào chúng ta cũng làm ra được những thức tốt hơn. Không phải vật dụng nào cũng trải qua quá trình phát triển mang tính đột phá.
+Nói chung, có những thời điểm giải pháp tốt nhất và những công nghệ "tiên tiến nhất" đã đến sớm trong lịch sử. Dù có lục tung bảng tuần hoàn hoàn hóa học với kĩ thuật hiện đại, chúng ta cũng không thể tìm ra một chất nào sánh được với nước, $H_2O$, về mức độ cần thiết cho sự sống[^11]. Những người làm marketing có thể quảng cáo $H_2O_2$ như một hợp chất tiên tiến, với lợi ích có thêm một nguyên tử oxy đi kèm, nhưng *xin các bạn đừng uống hydrogen peroxide* (có tên gọi khác là oxy già, dùng để tẩy trắng)! Một vài công nghệ được sử dụng hiện nay vẫn có thể được nhận ra bởi những người sống trong thời kì tiền công nghiệp hóa: bánh xe, dây, bát, kính và quần áo. Không phải lúc nào chúng ta cũng làm ra được những thức tốt hơn. Không phải vật dụng nào cũng trải qua quá trình phát triển mang tính đột phá.
+
+[^11]:
  
- [^11]:
- 
- 	Một cách tương đối, bảng tuần hoàn hóa học chứa một số hữu hạn các nguyên tố, có thể in ra dễ dàng chỉ trên một trang giấy. Chúng ta không có vô hạn những nguyên tố hay hợp chất thay thế. Những đo lường trong thiên văn học đã cho thấy: tất cả vật chất trong vũ trụ đều giới hạn trong các nguyên tố đó.
+	Một cách tương đối, bảng tuần hoàn hóa học chứa một số hữu hạn các nguyên tố, có thể in ra dễ dàng chỉ trên một trang giấy. Chúng ta không có vô hạn những nguyên tố hay hợp chất thay thế. Những đo lường trong thiên văn học đã cho thấy: tất cả vật chất trong vũ trụ đều giới hạn trong các nguyên tố đó.
  	
- Tóm lại, giảm tính phụ thuộc vào tài nguyên (*decoupling*) và việc tìm ra sản phẩm thay thế (*substitution*) thường được xem là cách thức mà tăng trưởng kinh tế không cần thiết phải chậm lại khi năng lượng và các tài nguyên trở nên khan hiếm. Lối tư duy đó như thế này: chúng ta có thể kiếm được nhiều tiền hơn bằng cách sử dụng ít hơn tài nguyên, hay chỉ cần tìm ra sản phẩm thay thế để giải quyết vấn đề. Có nhiều dẫn chứng trong quá khứ để chứng tỏ và giải thích những phát minh trong quá khứ *đã* thực hiện được những điều đó như thế nào. Sẽ là không khôn ngoan khi cho rằng chúng ta đã phát triển đến điểm tận cùng, và không thể giảm tính phụ thuộc vào tài nguyên hay tìm ra vật liệu thay thế tốt hơn. Những cũng sẽ không khôn ngoan khi cho rằng chúng ta có thể liên tục làm điều đó chỉ để duy trì tăng trưởng kinh tế.
+Tóm lại, giảm tính phụ thuộc vào tài nguyên (*decoupling*) và việc tìm ra sản phẩm thay thế (*substitution*) thường được xem là cách thức mà tăng trưởng kinh tế không cần thiết phải chậm lại khi năng lượng và các tài nguyên trở nên khan hiếm. Lối tư duy đó như thế này: chúng ta có thể kiếm được nhiều tiền hơn bằng cách sử dụng ít hơn tài nguyên, hay chỉ cần tìm ra sản phẩm thay thế để giải quyết vấn đề. Có nhiều dẫn chứng trong quá khứ để chứng tỏ và giải thích những phát minh trong quá khứ *đã* thực hiện được những điều đó như thế nào. Sẽ là không khôn ngoan khi cho rằng chúng ta đã phát triển đến điểm tận cùng, và không thể giảm tính phụ thuộc vào tài nguyên hay tìm ra vật liệu thay thế tốt hơn. Những cũng sẽ không khôn ngoan khi cho rằng chúng ta có thể liên tục làm điều đó chỉ để duy trì tăng trưởng kinh tế.
  
- !!! note "Hộp $\textbf{2.3}$: Giới hạn hiệu năng"
+!!! note "Hộp $\textbf{2.3}$: Giới hạn hiệu năng"
  
- 	Những tiến bộ về hiệu năng có thể được xem là phương thức hữu hiệu để đương đầu với sự khan hiếm dần tài nguyên năng lượng. Hiệu năng tốt hơn trong khi sử dụng ít năng lượng hơn luôn có vẻ hấp dẫn. Đúng là chúng ta cần tăng hiệu năng sử dụng; nhưng đây không phải là câu trả lời cho nhưng giới hạn tăng trưởng, với nhiều lí do sau đây.
- 	
- 	1. Hiện tại, hầu hết các thiết bị đã gần đạt đến hay chỉ cách hiệu năng lí tưởng một phần hai[^12]. Một động cơ hay máy phát vận hành với hiệu suất $90\%$ sẽ chẳng còn nâng cấp được nhiều hơn nữa. Nếu hiệu năng chỉ nhỏ hơn $1\%$, chúng ta sẽ còn tìm ra nhiều phương pháp để nâng cao con số này; nhưng không còn thiêt bị nào có hiệu suất thấp như vậy nữa.
+	Những tiến bộ về hiệu năng có thể được xem là phương thức hữu hiệu để đương đầu với sự khan hiếm dần tài nguyên năng lượng. Hiệu năng tốt hơn trong khi sử dụng ít năng lượng hơn luôn có vẻ hấp dẫn. Đúng là chúng ta cần tăng hiệu năng sử dụng; nhưng đây không phải là câu trả lời cho nhưng giới hạn tăng trưởng, với nhiều lí do sau đây.
+
+	i. Hiện tại, hầu hết các thiết bị đã gần đạt đến hay chỉ cách hiệu năng lí tưởng một phần hai[^12]. Một động cơ hay máy phát vận hành với hiệu suất $90\%$ sẽ chẳng còn nâng cấp được nhiều hơn nữa. Nếu hiệu năng chỉ nhỏ hơn $1\%$, chúng ta sẽ còn tìm ra nhiều phương pháp để nâng cao con số này; nhưng không còn thiêt bị nào có hiệu suất thấp như vậy nữa.
+
+	ii. Nâng cao hiệu suất sử dụng năng lượng đã tăng trưởng với mức $∼1\%$ một năm[^13], đôi khi đến $2\%$ một năm. **Thời gian nhân đôi** theo đó chỉ khoảng một vài thập kỉ. Điều này kết hợp với lí do ở trên cho thấy chúng ta đã bắt đầu đến ga cuối của quá trình tăng hiệu suất chỉ trong một thế kỉ[^14]. 
  
- [^12]:
+	iii. Cải thiện hiệu suất có thể mang lại tác dụng không mong muốn, được gọi là **hiệu ứng ngược**(*rebound effect*) hay **nghịch lí Jevons**(*Jevons paradox*). Nhu cầu gia tăng khi công nghệ trở nên hiệu quả hơn dẫn đến *nhiều hơn nữa* nhu cầu đối với tài nguyên. Ví dụ, hiệu suất tủ lạnh tăng dẫn đến việc sản xuất nhiều tủ lạnh hơn và tủ lớn hơn trước[^15], hệ quả là làm cho nhu cầu năng lượng làm lạnh nói chung tăng. Chúng ta có thể quan sát được thấy năng lượng sử dụng và tài nguyên vật chất toàn cầu tính theo đầu người không ngừng gia tăng trong khi hiệu năng sử dụng đã tăng đáng kể trong thế kỉ vừa qua[^16].
+
+	Nâng cao hiệu năng không thể giải quyết được nhu cầu về tài nguyên ngày càng tăng.
+
+[^12]:
  	
- 	**Chương 6** sẽ nói về giới hiệu năng lí tưởng đối với các nguồn năng lượng nhiệt như năng lượng hóa thạch (*fossil fuels*) 
+	**Chương 6** sẽ nói về giới hiệu năng lí tưởng đối với các nguồn năng lượng nhiệt như năng lượng hóa thạch (*fossil fuels*) 
  	
- 	2. Nâng cao hiệu suất sử dụng năng lượng đã tăng trưởng với mức $∼1\%$ một năm[^13], đôi khi đến $2\%$ một năm. **Thời gian nhân đôi** theo đó chỉ khoảng một vài thập kỉ. Điều này kết hợp với lí do ở trên cho thấy chúng ta đã bắt đầu đến ga cuối của quá trình tăng hiệu suất chỉ trong một thế kỉ[^14]. 
- 	 
 [^13]:
 	
-	... có nghĩa hiệu suất $30\%$ nay trước sẽ thành $30.3\%$ năm sau (không phải là $31\%$, tương ứng với tỉ lệ tăng $∼3\%$ một năm 
+	...có nghĩa hiệu suất $30\%$ nay trước sẽ thành $30.3\%$ năm sau (không phải là $31\%$, tương ứng với tỉ lệ tăng $∼3\%$ một năm 
   
- [^14]:
+[^14]:
  	
- 	... tương tự như công nghệ chiếu sáng, đề cập ở **Hộp** $\textbf{2.1}$ và **Hình** *\textbf{2.3}*
+	...tương tự như công nghệ chiếu sáng, đã đề cập ở **Hộp** $\textbf{2.1}$ và **Hình** $\textbf{2.3}$
  	
- 	3. Cải thiện hiệu suất có thể mang lại tác dụng không mong muốn, được gọi là **hiệu ứng ngược**(*rebound effect*) hay **nghịch lí Jevons**(*Jevons paradox*). Nhu cầu gia tăng khi công nghệ trở nên hiệu quả hơn dẫn đến *nhiều hơn nữa* nhu cầu đối với tài nguyên. Ví dụ, hiệu suất tủ lạnh tăng dẫn đến việc sản xuất nhiều tủ lạnh hơn và tủ lớn hơn trước[^15], hệ quả là làm cho nhu cầu năng lượng làm lạnh nói chung tăng. Chúng ta có thể quan sát được thấy năng lượng sử dụng và tài nguyên vật chất toàn cầu tính theo đầu người không ngừng gia tăng trong khi hiệu năng sử dụng đã tăng đáng kể trong thế kỉ vừa qua[^16].
+[^15]:
  	
- 	Nâng cao hiệu năng không thể giải quyết được nhu cầu về tài nguyên ngày càng tăng.
- 	
- [^15]:
- 	
- 	 ... ví dụ, để đặt trong tầng hầm, ga-ra hay văn phòng 
+	... ví dụ, để đặt trong tầng hầm, ga-ra hay văn phòng 
  
- [^16]:
+[^16]:
  
- 	[Nghịch lí Jevons](https://www.inscc.utah.edu/~tgarrett/jevons-paradox.html) 
+	[Nghịch lí Jevons](https://www.inscc.utah.edu/~tgarrett/jevons-paradox.html) 

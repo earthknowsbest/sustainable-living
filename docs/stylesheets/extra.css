@@ -102,7 +102,7 @@ input {
 
 html .md-typeset .admonition>:not(:first-child):not(:last-child) {
     /* ,html .md-typeset details>:not(:last-child) { */
-    padding: 0 1.3rem 0.7rem;
+    padding: 0 1.3rem 0.1rem;
 }
 
 html .md-typeset .admonition>:last-child,
