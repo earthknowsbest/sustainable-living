@@ -18,6 +18,7 @@ nav:
         - ecology/energy/human-ambition/index.md
         - Tăng trưởng: ecology/energy/human-ambition/1-growth.md
         - Kinh tế: ecology/energy/human-ambition/2-econ.md
+      - Năng lượng tái tạo: ecology/energy/renewable-sceptics.md
 
 theme: 
   name: material
