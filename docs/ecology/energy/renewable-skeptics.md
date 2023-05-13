@@ -18,7 +18,7 @@ Tác giả, là những người theo hiện chủ nghĩa hiện thực (*realis
 2. Sự thật hay thực tế cho thấy không tuân theo tuyến tính, hay tuần tự (*linear*)&mdash;ví dụ, các hiện tượng thời tiết cực đoan diễn ra bất ngờ, sự sụp đổ của hệ sinh thái và đa dạng sinh học tại một địa phương diễn ra rất nhanh chóng.
 3. Thế giới cần có phương án tốt hơn để chống lại sự sụp đổ toàn cầu, không phải bằng cách thay thế hệ thống nhiên liệu hóa thạch không bền vững bằng một hệ thống khai thác tài nguyên khác thậm chí còn tiêu tốt nhiều năng lương hơn. Nói cách khác, điện khí hóa (*electrification*) tàu Titanic sẽ không làm tan những tảng băng trên hành trình phía trước.
 
-### Đầu tư vào sai lầm
+## Đầu tư vào sai lầm
 
 Bằng lí tưởng của mình, những nhà chuyển đổi (sang năng lượng tái tạo) (*transitionists*) và những người cổ vũ công nghệ xanh đã trình bày quá trình này như một con đường bằng phẳng mà không có chướng ngại nào.
 

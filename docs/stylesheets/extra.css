@@ -53,9 +53,20 @@ input {
     font-weight: 700;
 }
 
+.md-nav__link {
+    padding: .05rem;
+}
+
 .md-nav__link:focus,
 .md-nav__link:hover {
     text-decoration: underline;
+}
+
+@media screen and (min-width: 76.25em) {
+    .md-nav__icon {
+        height: 1.1rem;
+        width: 1.1rem;
+    }
 }
 
 .md-tabs__item {
@@ -155,6 +166,10 @@ html .md-typeset details>:last-child {
     .row-content>* {
         margin-block-start: -3rem;
     }
+}
+
+.md-typeset blockquote {
+    margin-top: -0.5rem;
 }
 
 .row-content>div,
