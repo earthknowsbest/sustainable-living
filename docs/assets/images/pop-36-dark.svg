@@ -1,8 +1,9 @@
-<svg viewBox="0 0 197 127" style="width: 50%; padding-bottom: 92%; height: 1px; overflow: visible" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 309 137" style="width: 100%; padding-bottom: 92%; height: 1px; overflow: visible" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="A2" transform="translate(-1217.000000, -472.000000)">
-            <g id="Group-39" transform="translate(1217.000000, 474.000000)">
-                <g id="Group-25" transform="translate(28.000000, 0.000000)">
+        <g id="A2" transform="translate(-1198.000000, -476.000000)">
+            <g id="Group-39" transform="translate(1198.000000, 476.000000)">
+                <rect id="Rectangle" x="0" y="0" width="309" height="137"></rect>
+                <g id="Group-25" transform="translate(85.000000, 6.000000)">
                     <line x1="7" y1="22.5" x2="30" y2="22.5" id="Stroke-22" stroke="#FF0000" stroke-width="1.5" stroke-dasharray="2,2"></line>
                     <line x1="146.5" y1="109" x2="146.5" y2="83" id="Stroke-24" stroke="#FF0000" stroke-width="1.5" stroke-dasharray="2"></line>
                     <path id="Line-2" d="M1.88635889,0.0516671284 C2.05579046,-0.301929182 2.46784472,-0.445252405 2.80670785,-0.26845425 C2.93946525,-0.199189519 3.04711214,-0.0868623335 3.11349084,0.0516671284 L3.11349084,0.0516671284 L8.17742809,10.619884 C8.34685966,10.9734803 8.20950823,11.40345 7.8706451,11.5802481 C7.775392,11.6299454 7.67035833,11.6558185 7.56386212,11.6558185 L7.56386212,11.6558185 L3.25,11.655 L3.25,108.677515 C3.25,109.091728 2.91421356,109.427515 2.5,109.427515 C2.12030423,109.427515 1.80650904,109.145361 1.75684662,108.779285 L1.75,108.677515 L1.75,11.655 L-2.56401239,11.6558185 C-2.91130118,11.6558185 -3.198314,11.3865259 -3.24373774,11.037137 L-3.25,10.9400054 C-3.25,10.8288789 -3.22520491,10.7192785 -3.17757836,10.619884 L-3.17757836,10.619884 Z" fill="#B99C9A" fill-rule="nonzero"></path>
@@ -11,18 +12,18 @@
                     <path d="M149,109.49993 C149,110.881599 147.881599,112 146.49993,112 C145.11826,112 144,110.881599 144,109.49993 C144,108.11826 145.11826,107 146.49993,107 C147.881599,107 149,108.11826 149,109.49993" id="Fill-20" fill="#FF0000"></path>
                     <line x1="3" y1="23" x2="147" y2="110" id="Stroke-16" stroke="#FF0000" stroke-width="1.5"></line>
                 </g>
-                <text id="Tốc-độ-tăng-trưởng" transform="translate(12.000000, 61.000000) rotate(-90.000000) translate(-12.000000, -61.000000) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#B99C9A">
-                    <tspan x="-5.51241155" y="59">Tốc độ </tspan>
-                    <tspan x="-19.4684739" y="71">tăng trưởng</tspan>
+                <text id="Tốc-độ-tăng-trưởng" transform="translate(69.000000, 67.000000) rotate(-90.000000) translate(-69.000000, -67.000000) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#B99C9A">
+                    <tspan x="51.4875884" y="65">Tốc độ </tspan>
+                    <tspan x="37.5315261" y="77">tăng trưởng</tspan>
                 </text>
                 <text id="Dân-số-(P)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#B99C9A">
-                    <tspan x="77" y="123">Dân số (P)</tspan>
+                    <tspan x="134" y="129">Dân số (P)</tspan>
                 </text>
                 <text id="r" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#FF0000">
-                    <tspan x="61" y="25">r</tspan>
+                    <tspan x="118" y="31">r</tspan>
                 </text>
                 <text id="Q" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#FF0000">
-                    <tspan x="170" y="77">Q</tspan>
+                    <tspan x="227" y="83">Q</tspan>
                 </text>
             </g>
         </g>

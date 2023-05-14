@@ -115,7 +115,7 @@ Chúng ta vừa mô tả một dạng **phản hồi ngược** (*negative feedb
 
     Đơn giản là sự sửa chữa và hiệu chỉnh được áp dụng vào hướng ngược lại với quĩ đạo chuyển động từ trước. Nếu một con lắc vận động sang phải, một lực phản hồi sẽ kéo nó sang trái, trong khi nếu nó đi sang trái quá nhiều sẽ dẫn đến lực đẩy sang phải. Một sự dao động của lò xo gắn với vật nặng cho thấy cùng một tính chất, cũng như tất cả các hệ hiện tượng cân bằng khác.
 
-!!! info 
+!!! info ""
 
     Từ **phản hồi ngược** làm chúng ta có cảm giác về một điều gì đó không đáng có, nhưng trên thực tế, **phản hồi xuôi** mới dẫn đến những hệ quả nghiêm trọng. Thí nghiệm về vi khuẩn ở **Chương 1** chính là một ví dụ về **phản hồi xuôi**: nhiều vi khuẩn hơn càng làm tăng tốc độ tăng trưởng. Hàm số mũ là một dấu hiệu của **phản hồi xuôi**, trong khi đó trạng thái cân bằng (*equilibrium*) báo hiệu **phản hồi ngược"**.
 
@@ -214,7 +214,7 @@ $$
 
 Đường logistic là một *viễn cảnh lí tưởng*. Quân thể sẽ đạt đến mức dân số cao nhất với sự chuyển dịch yên ả như đồ thị **Hình** $\textbf{3.7}$. Chúng ta có thể hình dung và hi vọng rằng dân số loài người cũng đi theo quá trình tương tự. Có lẽ chúng ta đang ở giai đoạn tuyến tính&mdash;việc thêm một tỉ người mỗi $12$ năm trở nên thường xuyên&mdash;là dấu hiệu cho thấy con người đang ở điểm uốn, và sẽ bắt đầu tiến dần đến giai đoạn ổn định ở cuối đồ thị. Nếu như vậy, căn cứ vào đồ thị đường logistic, từ phần tuyến tính chúng ta còn một nửa thời gian nữa để đi đến điểm cuối với mức dân số ổn định.
 
-!!! info
+!!! info ""
 
     Ba kì 12 năm liên tiếp xuất hiện trong **Bảng** $\textbf{3.2}$. Nếu điểm giữa chính là điểm chính giữa trong giai đoạn tuyến tính của hàm logistic&mdash;điều đó gợi ý rằng dân số của con người có thể đạt mức $14$ tỉ người.
 
@@ -244,11 +244,36 @@ Trên thực tế, các quyết định của con người đối với việc s
 
 !!! info "Ví dụ $\textbf{3.4}$"
 
-    Chúng ta chưa liệt kê những cơ chế của **phản hồi ngược** đối với quần thể nai trong **Ví dụ** $\textbf{3.3}$  để duy trì quần thể ở mức $Q$. Để minh hoạ việc **phản hồi ngược** làm chậm **sự quá tải**, chúng ta có thể xem các loài thiên địch như một ví dụ. Để tính toán cụ thể, cho rằng ở trạng thái cân bằng với mỗi 50 cá thể nai có một cá thể sư tử núi. Ban đầu, quân thể $100$ con nai tương ứng với hai con thú săn mồi. Khi quần thể nai đạt ngưỡng $Q = 840$, chúng ta có khoảng $17$ sư tử. Nhưng cần có thời gian để quần thể săn mồi thích nghi với số lượng con môi gia tăng, có lẽ tính bằng năm để sản sinh ra số lượng cá thể săn mồi tương ứng. Thiếu đi số lượng sư tử này trong một thời gian đồng nghĩa với việc quần thể nai sẽ đạt ngưỡng $840$ cho đến khi quần thể sư tử tăng tương ứng để đạt ngưỡng cân bằng. Trên thực tế, các loài thú săn mồi thường nhiều hơn so với quần thể của chúng ở mức cân bằng trong trò chơi đuổi bắt (về số lượng giữa loài săn mồi và con mồi) dẫn tới sự dao động như ở **Hình** $\textbf{3.8}$
+    Chúng ta chưa liệt kê những cơ chế của **phản hồi ngược** đối với quần thể nai trong **Ví dụ** $\textbf{3.3}$  để duy trì quần thể ở mức $Q$. Để minh hoạ việc **phản hồi ngược** làm chậm **sự quá tải**, chúng ta có thể xem các loài thiên địch như một ví dụ. Để tính toán cụ thể, cho rằng ở trạng thái cân bằng với mỗi $50$ cá thể nai có một cá thể sư tử núi. Ban đầu, quân thể $100$ con nai tương ứng với hai con thú săn mồi. Khi quần thể nai đạt ngưỡng $Q = 840$, chúng ta có khoảng $17$ sư tử. Nhưng cần có thời gian để quần thể săn mồi thích nghi với số lượng con môi gia tăng, có lẽ tính bằng năm để sản sinh ra số lượng cá thể săn mồi tương ứng. Thiếu đi số lượng sư tử này trong một thời gian đồng nghĩa với việc quần thể nai sẽ đạt ngưỡng $840$ cho đến khi quần thể sư tử tăng tương ứng để đạt ngưỡng cân bằng. Trên thực tế, các loài thú săn mồi thường nhiều hơn so với quần thể của chúng ở mức cân bằng trong trò chơi đuổi bắt (về số lượng giữa loài săn mồi và con mồi) dẫn tới sự dao động như ở **Hình** $\textbf{3.8}$
 
 Chúng ta có thể khám phá điều gì xảy ra với đường logistic nếu **phản hồi ngược** bị trễ lại ở các mức độ khác nhau. **Hình** $\textbf{3.8}$ đưa ra vài ví dụ về **sự quá tải** khi độ trễ tăng. Để tránh **sự quá tải**, độ trễ ($𝜏$) cần phải nhỏ hơn thời gian cần thiết để thiết lập quân bình: $1/r$, với $r$ trong **Phương trình** $\textbf{3.5}$ và $\textbf{3.6}$. Trong ví dụ về nai chúng ta lấy $r=0.5$, bất kì độ trễ nào lớn hơn khoảng $2$ năm sẽ dẫn đến **sự quá tải**. Với tốc độ tăng trưởng vừa phải (của dân số loài người), độ trễ tương ứng vào cỡ thập kỉ (xem **Hộp** $\textbf{3.1}$).
 
+![Pop-38-Light](../../../assets/images/pop-38-light.svg#only-light)
+![Pop-38-Dark](../../../assets/images/pop-38-dark.svg#only-dark)
+
 > **Hình** $\textbf{3.8}$: Phản hồi bị trì hoãn thường mang tới **sự quá tải** và dao động, được biểu diễn với các giá trị trễ ($𝜏$) khác nhau. Đường màu đen ($\tau=0$) là đường logistic không bị trễ. Khi độ trễ tăng dần, mức độ nghiêm trọng của **sự quá tải** gia tăng. Độ trễ được tăng thêm mỗi $0{,}5$ lần khoảng thời gian đặc trưng $1/r$ (sử dụng $r=0{,}5$ ở đây để phù hợp với ví dụ trước, sao cho độ trễ $\tau = 1{,}5/r$ bằng $3$ lần đơn vị trên đồ thị). Khoảng thời gian trễ cũng được tính bằng độ dài đơn vị trên đồ thị.
+
+Các đường trong đồ thị **Hình** $\textbf{3.8}$ hội tụ xung quanh một giá trị của trạng thái cân bằng, $100\%$[^16], nhưng dân số con người được xác định bởi nhiều điều kiện phức tạp không được đưa vào trong mô hình toán học[^17]. Các hiện tượng chung của **sự quá tải** khi **phản hồi ngược** bị trì hoàn thường diễn ra tương tự như một đặc tính, ngay cả khi sự dao động và hội tụ về giá trị của **ngưỡng chịu đựng** $Q$ chưa dự đoáng được hết các viễn cảnh dân số tương lai của con người.
+
+[^16]:
+
+    ...có nghĩa là dân số $P$ đã chạm ngưỡng $Q$
+
+[^17]:
+
+    Ví dụ, **sự quá tải** và sụp đổ nhanh chóng có thể gây ra những hậu quả khôn lường phá huỷ những cơ sở hạ tầng nông nghiệp vốn dựa trên nền tảng của nhiên liệu hoá thạch sao cho $Q$ bị điều chỉnh lại với một giá trị nhỏ hơn.
+
+![Pop-39-Light](../../../assets/images/pop-39-light.svg#only-light)
+![Pop-39-Dark](../../../assets/images/pop-39-dark.svg#only-dark)
+
+> **Hình** $\textbf{3.9}$: Dân số (các điểm màu xanh) và một đường logistic (màu đỏ) minh hoạ cho đồ thị đi qua các điểm dữ liệu dân số từ năm $1950$ trở lại đây. Hàm logistic này có $Q ≈ 12$ (tỷ người), $r=0{,}028$, và điểm giữa vào năm $1997$. Dữ liệu thực có một thời điểm dân số tăng đột biến vào năm $1950$ (Cách mạng Xanh?) làm cho việc xác định một hàm logistic đi qua tất cả các điểm dữ liệu trở nên khó khăn hơn. Điều này xảy ra khi dữ kiện thực tế có sự thay đổi lớn bất ngờ (về năng lượng và công nghệ trong trường hợp này).
+
+!!! info "Hộp $\textbf{3.1}$: Dân số con người sẽ bị quá tải?"
+
+    Dân số con người sẽ quá tải chăng? Giá trị $r$ của dân số là bao nhiêu? Thường thường chúng ta sẽ chọn giá trị $r = 0{,}01$ tương ứng với $1\%$ tăng trưởng. Điều này có nghĩa rằng bất cứ sự trì hoãn nào ngắn hơn $100$ năm sẽ không gây ra **sự quá tải**, vốn là một sự đảm bảo tương đối cho tương lai. Nhưng nếu dân số đi theo đường logistic hơn là hàm số mũ, với sự chi phối của lượng tài nguyên hiện có, dẫn dắt sự tăng trưởng dân số vào giai đoạn tuyến tính đến điểm giữa của đồ thị, chỉ còn một nửa đường nữa đến **ngưỡng chịu đựng**. Theo đường phù hợp trong **Hình** $\textbf{3.9}$, $r=0{,}028$, tương ứng với khoảng $36$ năm ($1/r$) trước khi **sự quá tải** diễn ra. Thời gian trễ này đáng để suy xét khi nó sẽ diễn ra chỉ trong một đời người hay vài thế hệ và những thay đổi xã hội, với viễn cảnh quá tải đang ở trước mắt.
+
+    
+
 
 
 

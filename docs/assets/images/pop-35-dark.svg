@@ -301,7 +301,7 @@
                     <path d="M1.5,3 C1.897805,3 2.27937,2.841951 2.56066,2.56066 C2.841951,2.27937 3,1.897805 3,1.5 C3,1.102195 2.841951,0.72063 2.56066,0.43934 C2.27937,0.158049 1.897805,0 1.5,0 C1.102195,0 0.72063,0.158049 0.43934,0.43934 C0.158049,0.72063 0,1.102195 0,1.5 C0,1.897805 0.158049,2.27937 0.43934,2.56066 C0.72063,2.841951 1.102195,3 1.5,3 Z" id="Fill-303" fill="#FF0000"></path>
                     <path d="M1.5,3 C1.897805,3 2.27937,2.841951 2.56066,2.56066 C2.841951,2.27937 3,1.897805 3,1.5 C3,1.102195 2.841951,0.72063 2.56066,0.43934 C2.27937,0.158049 1.897805,0 1.5,0 C1.102195,0 0.72063,0.158049 0.43934,0.43934 C0.158049,0.72063 0,1.102195 0,1.5 C0,1.897805 0.158049,2.27937 0.43934,2.56066 C0.72063,2.841951 1.102195,3 1.5,3 Z" id="Stroke-305" stroke="#FF0000" stroke-width="0.5" stroke-linejoin="round"></path>
                 </g>
-                <g id="Group-331" transform="translate(28.000000, 21.000000)" stroke="#000000" stroke-dasharray="1,3" stroke-linejoin="round">
+                <g id="Group-331" transform="translate(28.000000, 21.000000)" stroke="#B99C9A" stroke-dasharray="1,3" stroke-linejoin="round">
                     <g id="Group-309" transform="translate(0.000000, 138.250060)">
                         <path d="M0,0 L25.8765399,0 L25.8765399,19.7500086" id="Stroke-307"></path>
                     </g>
@@ -328,393 +328,393 @@
                     </g>
                 </g>
                 <g id="Group-677" transform="translate(26.473390, 0.000000)">
-                    <line x1="1.21094901" y1="1.2280922" x2="281.315661" y2="1.2280922" id="Stroke-332" stroke="#000000" stroke-linecap="square"></line>
-                    <line x1="281.315661" y1="178.771908" x2="281.315661" y2="1.2280922" id="Stroke-334" stroke="#000000" stroke-linecap="square"></line>
-                    <line x1="1.21094901" y1="178.771908" x2="281.315661" y2="178.771908" id="Stroke-336" stroke="#000000" stroke-linecap="square"></line>
-                    <line x1="1.21094901" y1="178.771908" x2="1.21094901" y2="1.2280922" id="Stroke-338" stroke="#000000" stroke-linecap="square"></line>
+                    <line x1="1.21094901" y1="1.2280922" x2="281.315661" y2="1.2280922" id="Stroke-332" stroke="#B99C9A" stroke-linecap="square"></line>
+                    <line x1="281.315661" y1="178.771908" x2="281.315661" y2="1.2280922" id="Stroke-334" stroke="#B99C9A" stroke-linecap="square"></line>
+                    <line x1="1.21094901" y1="178.771908" x2="281.315661" y2="178.771908" id="Stroke-336" stroke="#B99C9A" stroke-linecap="square"></line>
+                    <line x1="1.21094901" y1="178.771908" x2="1.21094901" y2="1.2280922" id="Stroke-338" stroke="#B99C9A" stroke-linecap="square"></line>
                     <g id="Group-343" transform="translate(21.546515, 170.004312)">
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-340" fill="#000000"></line>
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-342" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-340" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-342" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-347" transform="translate(21.546515, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-344" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-346" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-344" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-346" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-351" transform="translate(75.412790, 170.004312)">
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-348" fill="#000000"></line>
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-350" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-348" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-350" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-355" transform="translate(75.412790, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-352" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-354" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-352" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-354" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-359" transform="translate(129.279131, 170.004312)">
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-356" fill="#000000"></line>
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-358" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-356" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-358" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-363" transform="translate(129.279131, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-360" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-362" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-360" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-362" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-367" transform="translate(183.145364, 170.004312)">
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-364" fill="#000000"></line>
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-366" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-364" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-366" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-371" transform="translate(183.145364, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-368" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-370" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-368" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-370" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-375" transform="translate(237.011704, 170.004312)">
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-372" fill="#000000"></line>
-                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-374" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Fill-372" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="8.76759583" x2="1.21094901" y2="0" id="Stroke-374" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-379" transform="translate(237.011704, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-376" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-378" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Fill-376" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="8.76759583" id="Stroke-378" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-383" transform="translate(0.000000, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-380" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-382" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-380" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-382" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-387" transform="translate(0.000000, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-384" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-386" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-384" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-386" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-391" transform="translate(10.773257, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-388" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-390" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-388" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-390" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-395" transform="translate(10.773257, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-392" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-394" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-392" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-394" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-399" transform="translate(21.546515, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-396" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-398" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-396" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-398" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-403" transform="translate(21.546515, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-400" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-402" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-400" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-402" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-407" transform="translate(32.319772, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-404" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-406" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-404" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-406" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-411" transform="translate(32.319772, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-408" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-410" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-408" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-410" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-415" transform="translate(43.093029, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-412" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-414" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-412" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-414" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-419" transform="translate(43.093029, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-416" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-418" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-416" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-418" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-423" transform="translate(53.866341, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-420" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-422" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-420" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-422" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-427" transform="translate(53.866341, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-424" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-426" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-424" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-426" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-431" transform="translate(64.639566, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-428" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-430" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-428" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-430" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-435" transform="translate(64.639566, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-432" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-434" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-432" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-434" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-439" transform="translate(75.412790, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-436" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-438" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-436" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-438" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-443" transform="translate(75.412790, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-440" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-442" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-440" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-442" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-447" transform="translate(86.186015, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-444" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-446" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-444" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-446" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-451" transform="translate(86.186015, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-448" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-450" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-448" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-450" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-455" transform="translate(96.959348, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-452" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-454" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-452" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-454" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-459" transform="translate(96.959348, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-456" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-458" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-456" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-458" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-463" transform="translate(107.732573, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-460" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-462" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-460" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-462" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-467" transform="translate(107.732573, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-464" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-466" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-464" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-466" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-471" transform="translate(118.505798, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-468" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-470" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-468" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-470" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-475" transform="translate(118.505798, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-472" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-474" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-472" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-474" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-479" transform="translate(129.279131, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-476" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-478" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-476" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-478" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-483" transform="translate(129.279131, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-480" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-482" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-480" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-482" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-487" transform="translate(140.052356, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-484" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-486" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-484" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-486" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-491" transform="translate(140.052356, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-488" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-490" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-488" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-490" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-495" transform="translate(150.825581, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-492" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-494" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-492" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-494" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-499" transform="translate(150.825581, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-496" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-498" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-496" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-498" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-503" transform="translate(161.598914, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-500" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-502" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-500" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-502" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-507" transform="translate(161.598914, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-504" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-506" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-504" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-506" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-511" transform="translate(172.372139, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-508" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-510" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-508" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-510" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-515" transform="translate(172.372139, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-512" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-514" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-512" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-514" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-519" transform="translate(183.145364, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-516" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-518" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-516" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-518" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-523" transform="translate(183.145364, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-520" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-522" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-520" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-522" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-527" transform="translate(193.918697, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-524" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-526" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-524" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-526" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-531" transform="translate(193.918697, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-528" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-530" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-528" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-530" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-535" transform="translate(204.691922, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-532" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-534" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-532" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-534" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-539" transform="translate(204.691922, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-536" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-538" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-536" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-538" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-543" transform="translate(215.465146, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-540" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-542" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-540" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-542" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-547" transform="translate(215.465146, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-544" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-546" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-544" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-546" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-551" transform="translate(226.238371, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-548" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-550" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-548" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-550" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-555" transform="translate(226.238371, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-552" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-554" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-552" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-554" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-559" transform="translate(237.011704, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-556" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-558" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-556" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-558" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-563" transform="translate(237.011704, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-560" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-562" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-560" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-562" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-567" transform="translate(247.784929, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-564" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-566" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-564" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-566" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-571" transform="translate(247.784929, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-568" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-570" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-568" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-570" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-575" transform="translate(258.558154, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-572" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-574" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-572" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-574" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-579" transform="translate(258.558154, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-576" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-578" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-576" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-578" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-583" transform="translate(269.331487, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-580" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-582" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-580" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-582" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-587" transform="translate(269.331487, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-584" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-586" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-584" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-586" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-591" transform="translate(280.104712, 174.388110)">
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-588" fill="#000000"></line>
-                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-590" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Fill-588" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="4.38379792" x2="1.21094901" y2="0" id="Stroke-590" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-595" transform="translate(280.104712, 1.228092)">
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-592" fill="#000000"></line>
-                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-594" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Fill-592" fill="#B99C9A"></line>
+                        <line x1="1.21094901" y1="0" x2="1.21094901" y2="4.38379792" id="Stroke-594" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-599" transform="translate(1.210949, 177.543816)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-596" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-598" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-596" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-598" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-603" transform="translate(272.670454, 177.543816)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-600" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-602" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-600" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-602" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-607" transform="translate(1.210949, 157.816725)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-604" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-606" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-604" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-606" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-611" transform="translate(272.670454, 157.816725)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-608" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-610" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-608" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-610" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-615" transform="translate(1.210949, 138.089634)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-612" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-614" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-612" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-614" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-619" transform="translate(272.670454, 138.089634)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-616" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-618" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-616" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-618" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-623" transform="translate(1.210949, 118.362544)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-620" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-622" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-620" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-622" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-627" transform="translate(272.670454, 118.362544)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-624" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-626" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-624" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-626" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-631" transform="translate(1.210949, 98.635453)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-628" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-630" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-628" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-630" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-635" transform="translate(272.670454, 98.635453)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-632" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-634" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-632" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-634" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-639" transform="translate(1.210949, 78.908362)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-636" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-638" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-636" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-638" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-643" transform="translate(272.670454, 78.908362)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-640" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-642" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-640" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-642" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-647" transform="translate(1.210949, 59.181272)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-644" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-646" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-644" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-646" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-651" transform="translate(272.670454, 59.181272)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-648" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-650" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-648" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-650" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-655" transform="translate(1.210949, 39.454181)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-652" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-654" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-652" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-654" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-659" transform="translate(272.670454, 39.454181)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-656" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-658" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-656" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-658" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-663" transform="translate(1.210949, 19.727091)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-660" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-662" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-660" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-662" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-667" transform="translate(272.670454, 19.727091)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-664" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-666" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-664" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-666" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-671" transform="translate(1.210949, 0.000000)">
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-668" fill="#000000"></line>
-                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-670" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Fill-668" fill="#B99C9A"></line>
+                        <line x1="0" y1="1.2280922" x2="8.64520716" y2="1.2280922" id="Stroke-670" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                     <g id="Group-675" transform="translate(272.670454, 0.000000)">
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-672" fill="#000000"></line>
-                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-674" stroke="#000000" stroke-linejoin="round"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Fill-672" fill="#B99C9A"></line>
+                        <line x1="8.64520716" y1="1.2280922" x2="0" y2="1.2280922" id="Stroke-674" stroke="#B99C9A" stroke-linejoin="round"></line>
                     </g>
                 </g>
-                <text id="1800" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                <text id="1800" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#B99C9A">
                     <tspan x="38.1983642" y="189.073622">1800</tspan>
                 </text>
-                <text id="1850" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                <text id="1850" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#B99C9A">
                     <tspan x="92.5425313" y="189.073622">1850</tspan>
                 </text>
-                <text id="1900" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                <text id="1900" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#B99C9A">
                     <tspan x="145.886725" y="189.073622">1900</tspan>
                 </text>
-                <text id="1950" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                <text id="1950" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#B99C9A">
                     <tspan x="199.230918" y="189.073622">1950</tspan>
                 </text>
-                <text id="2000" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                <text id="2000" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#B99C9A">
                     <tspan x="253.230918" y="189.073622">2000</tspan>
                 </text>
-                <text id="Năm" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0167736988" fill="#000000">
+                <text id="Năm" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0167736988" fill="#B99C9A">
                     <tspan x="150.562165" y="204.869844">Năm</tspan>
                 </text>
-                <text id="0" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="0" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="180.953235">0</tspan>
                 </text>
-                <text id="1" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="1" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="161.953235">1</tspan>
                 </text>
-                <text id="2" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="2" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="141.953235">2</tspan>
                 </text>
-                <text id="3" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="3" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="121.953235">3</tspan>
                 </text>
-                <text id="4" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="4" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="102.953235">4</tspan>
                 </text>
-                <text id="5" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="5" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="82.9532351">5</tspan>
                 </text>
-                <text id="6" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="6" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="62.9532351">6</tspan>
                 </text>
-                <text id="7" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="7" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="42.9532351">7</tspan>
                 </text>
-                <text id="8" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#000000">
+                <text id="8" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" fill="#B99C9A">
                     <tspan x="18.9247883" y="23.9532351">8</tspan>
                 </text>
-                <text id="Dân-số-(tỷ-người)" transform="translate(6.000000, 89.500000) rotate(-90.000000) translate(-6.000000, -89.500000) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#000000">
+                <text id="Dân-số-(tỷ-người)" transform="translate(6.000000, 89.500000) rotate(-90.000000) translate(-6.000000, -89.500000) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#B99C9A">
                     <tspan x="-39.5" y="93.5">Dân số (tỷ người)</tspan>
                 </text>
             </g>
