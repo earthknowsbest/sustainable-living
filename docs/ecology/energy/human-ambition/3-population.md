@@ -17,7 +17,7 @@ Trong bối cảnh tăng trưởng năng lượng và tài nguyên, chương nà
 
 Vì dân số đóng vai trò quan trọng trong những dự báo, chúng ta cần phải hiểu rõ quá trình phát triển của nó trong lịch sử. Từ đó, ta có thể rút ra nhiều kì vọng về viễn cảnh tương lai và thảo luận về sự "chuyển dịch cơ cấu dân số" với những hệ quả của nó.
 
-## Lịch sử phát triển
+## I. Lịch sử phát triển
 
 **Hình** $\textbf{3.2}$ biểu diễn lịch sử của dân số toàn cầu trong $12.000$ năm. Để ý rằng trong phần lớn lịch sử, mức độ tăng gần như không đáng kể. Việc lo lắng về sự gia tăng mạnh mẽ của dân số trong thời gian gần đây là điều tự nhiên; nó đã làm nổi bật lên sự bất thường của thời đại chúng ta đang sống. Có phải đây chỉ là một hàm số mũ không? Những hàm số mũ&mdash;dù có công thức thế nào&mdash;cũng cho thấy một mức độ gia tăng đáng báo động bắt đầu từ một thời điểm nào đó, mà đôi khi được gọi là đồ thị có hình dạng "gậy khúc côn cầu" (đầu gậy dẹt và trở nên cong vút vào phần đuôi). Để có cái nhìn cận cảnh hơn, chúng ta vẽ đồ thị dân số theo thang logarit ở trục tung (**Hình** $\textbf{3.3}$). Giờ đây chúng ta có thể nhìn nhận được cả quá trình phát triển dân số chỉ thông qua hàm số mũ với những lệ tăng trưởng không đổi.
 
@@ -73,7 +73,7 @@ $$
 t - t_{0} = \frac{ln(\frac{P}{P_{0}})}{ln(1+p)} \tag{3.2}\label{3.2}
 $$
 
-!!! info "Ví dụ 3.1"
+!!! info "Ví dụ $\textbf{3.1}$"
 
     Chúng ta có thể sử dụng **Phương trình** $\textbf{3.1}$ để xác định dân số vào năm 2100 nếu tiếp tục với tỉ lệ $1\%$ một năm, bắt đầu với $7$ tỉ người vào năm 2100. Nếu đặt $P_{0} = 7$ (tỉ người), $t_{0} = 2010$, $p = 0{,}01$, thì dân số năm $2100$ sẽ là $P = 7e^{ln 1.01\dot{90}} = 17$ (tỉ người).
 
@@ -101,7 +101,7 @@ $$
 
 **Bảng** $\textbf{3.2}$ và **Hình** $\textbf{3.5}$ trình khoảng thời gian để dân số tăng thêm một tỷ người, dự báo cho đến 8 tỷ người (ở thời điểm viết cuốn sách vào năm $2020$). Đạt được mức một tỉ người đầu mất hàng chục ngàn năm, và mỗi lần thêm một tỉ người lại cần ít thời gian hơn. Tỉ lệ tăng trưởng dân số cao nhất vào năm $1960$ ở mức $2\%$ và gấp đôi sau mỗi 35 năm. Tỉ lệ tăng trưởng hiện tại ở mức trung bình, nhưng ngay cả mức tăng $1\%$ cũng có thể thêm hàng tỉ người chỉ trong $13$ năm. Cuốn sách nổi tiếng của Paul Erlich với tên gọi ***Quả bom dân số*** (*Population Bomb*), xuất bản lần đầu vào năm *1968*, đã báo động mức tăng trưởng dân số ở mức $2\%$ và giả định sẽ tăng lên từ thời điểm đó. Cho dù mức độ gia tăng hiện nay khoảng $1\%$, chúng ta cũng không khỏi lo ngại. Phần tiếp theo sẽ trình bày những cơ chế tự nhiên để ngăn cản sự tăng trưởng. 
 
-## Mô hìnhh Logistic
+## II. Mô hìnhh Logistic
 
 Nếu không có những tác động của con người, quần thể của một loài động vật nào đó có thể dao động (*oscillation*) trong một khoảng thời gian nào đó (theo năm) và trải qua những thay đổi trong dài hạn (hàng thế kỉ hay lâu hơn). Nói chung, tự nhiên sẽ tìm ra một điểm cân bằng nào đó. Dân số quá động (*overpopulation*) chỉ là vấn đề ngắn hạn, bởi sự thiếu hụt dần của nguồn thức ăn, số lượng loài thiên địch gia tăng hay trong một số trường hợp, bệnh dịch, sẽ cân bằng quần thể trở lại [^4]. Ngược lại, một quần thể nhỏ có thể dễ dàng mở rộng dựa vào nguồn thức ăn dồi dào hơn, và các loài thiên địch dựa vào quân thể này cũng chưa đủ nhiều vì thiếu con mồi.
 
@@ -273,6 +273,289 @@ Các đường trong đồ thị **Hình** $\textbf{3.8}$ hội tụ xung quanh 
     Dân số con người sẽ quá tải chăng? Giá trị $r$ của dân số là bao nhiêu? Thường thường chúng ta sẽ chọn giá trị $r = 0{,}01$ tương ứng với $1\%$ tăng trưởng. Điều này có nghĩa rằng bất cứ sự trì hoãn nào ngắn hơn $100$ năm sẽ không gây ra **sự quá tải**, vốn là một sự đảm bảo tương đối cho tương lai. Nhưng nếu dân số đi theo đường logistic hơn là hàm số mũ, với sự chi phối của lượng tài nguyên hiện có, dẫn dắt sự tăng trưởng dân số vào giai đoạn tuyến tính đến điểm giữa của đồ thị, chỉ còn một nửa đường nữa đến **ngưỡng chịu đựng**. Theo đường phù hợp trong **Hình** $\textbf{3.9}$, $r=0{,}028$, tương ứng với khoảng $36$ năm ($1/r$) trước khi **sự quá tải** diễn ra. Thời gian trễ này đáng để suy xét khi nó sẽ diễn ra chỉ trong một đời người hay vài thế hệ và những thay đổi xã hội, với viễn cảnh quá tải đang ở trước mắt.
 
     
+### Dự đoán theo đường Logistic
+
+Như đã lưu ý ở **Hình** $\textbf{3.9}$, dân số con người *không* diễn tiến theo đường logistic. Vì nếu như thế, ở giai đoạn đầu, dân số sẽ tăng trưởng với mức $2{,}8\%$ một năm tương ứng với đường phù hợp logistic đi qua tất cả các điểm trên đồ thị như trong thời gian gần đây (đường màu đỏ trùng với các điểm màu lam). Nhưng mức tăng thực tế trong quá khứ nhỏ hơn $2{,}8\%$ nhiều. Công nghệ và nhiên liệu hóa thạch đã thúc đẩy quá trình tăng dân số vượt xa so với mức điển hình trước năm $1950$. Điểm mấu chốt khi dẫn chứng đến các mô hình toán học: mặc dục chúng ta không nên hiểu và áp dụng y nguyên vì hệ thống thực tế rất phức tạp, các mô hình này rất có ích trong việc hình thành tư duy và chỉ ra những kết quả mang tính phù hợp cao trong nhiều trường hợp. Hiện tại đã đủ để chúng ta đưa ra một số kết luận:
+1. Các hàm số mũ sẽ đưa đến sự tăng trưởng vĩnh viễn không ngừng (trên thưc tế là không tưởng);
+2. Các đường logistic đưa chúng ta đến gần hơn với thực tế bằng cách đặt ra giới hạn cho tăng trưởng ở một mức cân bằng nào đó;
+3. Các yếu tố khác như độ trễ có thể trì hoãn việc diễn tiến của một đường logitic, dẫn đến **sự quá tải**
+4. Nhiều yếu tố khác (tiến bộ về công nghệ y học, chiến tranh, nạn đói, và biến đổi khí hậu) góp phần làm cho các dự đoán tốt lên hoặc xấu đi so với các tính toán đơn giản.
+
+## III. Chuyển dịch dân số
+
+Có lẽ không có gì ngạc nhiên khi tốc độ tăng trưởng dân số của một quốc gia tương quan với sự thịnh vượng của nó, như xem trong **Hình** $\textbf{3.10}$. Có một cách để giảm tăng trưởng dân số: các quốc gia nghèo chuyển dịch dần sang phía bên phải của đường đồ thị, trở nên giàu có hơn và chuyển đổi các giá trị và áp lực xã hội tương ứng để giảm thiểu tăng dân số thuần.  
+
+Dân số tăng lên khi tỉ lệ sinh cao hơn tỉ lệ tử vong.
+
+!!! note "Định nghĩa $\textbf{3.3}$: Tăng dân số thuần"
+
+    **Tỉ lệ sinh**, với đơn vị là số người sinh trên $1.000$ người một năm, trừ đi **tỉ lệ tử vong** (với đơn vị số cái chết trên $1.000$ người một năm)[^18].
+
+[^18]:
+
+    Chưa tính đến số người nhập cư, vốn chỉ là việc chuyển dịch cơ cấu dân số giữa các quốc gia.
+
+![Pop-3-10-Light](../../../assets/images/pop-3-10-light.svg#only-light)
+![Pop-3-10-Dark](../../../assets/images/pop-3-10-dark.svg#only-dark)
+
+> **Hình** $\textbf{3.10}$: Tỉ lệ tăng dân số thuần, đơn vị %, là một hàm của GDP trên đầu người. Có một xu hướng rõ ràng cho thấy các quốc gia giàu hơn thường có tỉ lệ tăng dân số thuần thấp hơn. Một giải pháp cùng thắng (win-win) có thể bằng sự dịch chuyển sang phía bên phải của biểu đồ, các quốc gia vừa giàu có hơn vừa có dân số ổn định hơn! Mỗi chấm tương ứng với một quốc gia, và kích thước của chấm được vẽ tỉ lệ với dân số quốc gia đó.
+
+!!! info "Ví dụ 3.3" Hoa Kì có tỉ lệ sinh khoảng $12$ người trên $1.000$ người một năm, và tỉ lệ tử khoảng $8{,}1$ người trên $1000$ người một năm. Tỉ lệ tăng thuần do đó gần $+4$ người trên $1.000$ người một năm, hay mức gia tăng $0{,}4\%$ một năm[^19].
+
+Niger có tỉ lệ sinh $46$ trên $1.000$ và tỉ lệ tử $11$, dẫn đến tỉ lệ tăng thuần là $35$, hay $3{,}5%$
+
+[^19]: 
+    
+    $4$ trên $1.000$ hay $0{,}4$ trên $100$, hay nói cách khác là $0{,}4\%$
+
+Khi điều kiện thay đổi, tỉ lệ sinh và tỉ lệ tử vọng không nhất thiết phải thay đổi cùng nhau. Các người phát triển thường có tỉ lệ sinh thấp *và* tỉ lệ tử thấp, đưa đến một tỉ lệ tăng thuần thấp. Các quốc gia đang phát triển thường có tỉ lệ tử cao và tỉ lệ sinh còn cao hơn, nên tỉ lệ tăng thuần thường lớn. **Hình** $\textbf{3.11}$ biểu diễn cả tỉ lệ sinh và tỉ lệ tử vong ở các quốc gia trên thế giới. Ở một vài nước (phần lớn ở châu Âu), tỉ lệ tăng thuần còn ở dưới mức thay thế (tỉ lệ sinh bằng tỉ lệ tử vong), báo hiệu sự suy giảm dân số[^20].
+
+[^20]: 
+
+    Lưu ý rằng sự nhập cư không được tính đến: chỉ có tỉ lệ sinh và tỉ lệ tử trong một quốc gia.
+
+Chiều hướng chung cho rằng các quốc gia phát triển đã "làm được" việc kiểm soát dân số và sự gia tăng dân số chủ yếu dẫn dắt bởi các nước nghèo. Một giải pháp hấp dẫn đối với nhiều người[^21] là đưa các nước đang phát triển tiệm cận với những tiêu chuẩn của nước phát triển để họ cũng có thể kiểm soát dân số với mức gia tăng thâp. Sự tiến triển từ một nước nghèo với dân số tăng nhanh sang một người giàu với dân số tăng chậm (hay không tăng) được gọi là **sự chuyển dịch dân số** (*demographic transition*).
+
+[^21]:
+
+    ...nhưng mang tính "giảng đạo" đối với những người khác
+
+!!! note "Định nghĩa $\textbf{3.3}$: Chuyển dịch dân số"
+
+    Là một quá trình ở đó những nước nghèo với tỉ lệ sinh và tỉ lệ tử vong cao áp dụng các công nghệ, giáo dục và mức sống cao hơn sẽ dẫn đến tỉ lệ tử vong và tỉ lệ sinh giảm, giống như ở các nước giàu.
+
+Để thực hiện được mục tiêu này, tỉ lệ tử vong được giảm bớt bằng cách mang thuốc và y học hiện đại đến với người dân, cũng để ứng phó với tỉ lệ tử vong cao ở trẻ sơ sinh, sao cho tỉ lệ sinh giảm vì số trẻ cần sinh ra ít hơn do khả năng sống sót cao hơn. Điều quan trọng hơn là  giáo dục&mdash;đặc biệt với phụ nữ trong một xã hội có khả năng tìm kiếm việc làm cao và được khích lệ để có tiếng nói hơn trong việc sinh sản (ví dụ nhiều quyền hơn trong một mối quan hệ hay việc sử dụng các biện pháp phòng tránh thai). Tất cả những việc này đòi hỏi thời gian và đầu tư tài chính tương đối lớn[^22]. Thêm vào đó, nền kinh tế nói chung sẽ hỗ trợ được một lực lượng lao động lớn hơn và được đào tạo tốt hơn. **Sự chuyển dịch dân số** được hình dung như một cuộc đại tu, biến một quốc gia thành một nước "phát triển"[^23].
+
+[^22]:
+
+    Bệnh viện và trường học tốt hơn không phải là miễn phí.
+
+[^23]:
+
+    Người ta dựa trên nhiều cơ sở có thể nghi vấn rằng liệu đây có phải là một mục tiêu "đúng đắn".
+
+![Pop-3-11-Light](../../../assets/images/pop-3-11-light.svg#only-light)
+![Pop-3-11-Dark](../../../assets/images/pop-3-11-dark.svg#only-dark)
+
+**Hình** $\textbf{3.11}$ gọi ý về phương thức điều này có thể diễn ra. Các quốc gia phân bố trên đồ thị theo một một hình cung, một phần lớn được giới hạn trong khoảng $5-10$ người tử vong trên $1.000$ người một năm và tỉ lệ tử ít hơn $20$ trên $1.000$ người một năm. Một phần khác bao gồm các nước (phần lớn ở Châu Phi) có tỉ lệ sinh hơn $20$ trên $1.000$ người một năm, nhưng tỉ lệ tử vong cũng cao hơn. Theo phương thức đã mô tả ở trên, một quốc gia có xuất phát điểm gần với Lesotho, với tỉ lệ tử vong và tỉ lệ sinh khác cao, sẽ dịch chuyển dần đến Nigeria với tỉ lệ tử vong thất hơn (với tỉ lệ sinh tăng trong ngắn hạn). Sau đó, nước này sẽ có cả tỉ lệ sinh và tử vong giảm dần khi tiến tới Pakistan, Ấn Độ, và Hoa Kì, và cuối cùng là các nước ở Châu Âu. **Hình** $\textbf{3.12}$ minh hoạ quá trình dịch chuyển này. 
+
+![Pop-3-12-Light](../../../assets/images/pop-3-12-light.svg#only-light)
+![Pop-3-12-Dark](../../../assets/images/pop-3-12-dark.svg#only-dark)
+
+> **Hình** $\textbf{3.12}$: Giản đồ mô tả **Sự chuyển dịch dân số** có thể diễn ra trong **Hình** $\textbf{3.11}$. Tại điểm **A** và **D**, tỉ lệ sinh và tỉ lệ tử bằng nhau, nên tỉ lệ tăng trưởng thuần bằng không. Thường thường, tỉ lệ tử sẽ giảm khi tỉ lệ sinh tăng (điểm **B**), và cuối dùng tỉ lệ tử sẽ chạm đáy khi tỉ lệ sinh bắt đầu giảm (điểm **C**).
+
+**Sự chuyển dịch dân số** rất phổ biến và được ủng hộ mạnh mẽ trong giới học giả phương Tây, thường với quan điểm tiến trình này diễn ra chưa đủ nhanh. Thật vậy, các hệ quả về nhân đạo thường là tích cực và đáng kể: ít người hơn sống trong cảnh đói nghèo; phụ nữ được trao quyền; giáo dục nâng cao; nhiều việc làm hơn; và sự chịu đựng trong xã hội cũng lớn hơn. Thâm chí người ta có thể lên án những ai không hi vọng những điều tốt đẹp kể trên đến với tất cả mọi người trên Trái Đất.
+
+Tuy nhiên, chúng ta cần phải hiểu rõ những hệ quả. Không phải điều gì chúng ta *muốn* cũng phù hợp với thế giới tự nhiên. Chúng ta có đủ tài nguyên để thực hiện mục tiêu này không? Nếu chúng ta thất bại trong việc **chuyển dịch dân số** toàn cầu, phải chăng chúng ta đã vô tình gây ra sự đau khổ nhiều hơn cho nhân loại bằng cách gia tăng dân số trên Trái Đất vượt quá mức chịu đựng của tự nhiên? Những hành động với ý định tốt đẹp hoàn toàn có khả năng đem đến những kết quả thảm khốc; vậy ít nhất hãy cùng tìm hiểu điều gì cái giá phải trả. Chúng ta có thể lên án những ai phản đối **sự chuyển dịch dân số**, nhưng thiếu sự cân nhắc về những hậu quả không lường cũng đáng bị lên án tương tự.
+
+### Suy ngẫm về địa lí
+
+![Pop-313-Light](../../../assets/images/pop-map-3-13.webp
+)
+
+> **Hình** $\textbf{3.13}$: Tỉ lệ tăng dân số thuần ở các nước: tỉ lệ sinh trừ tỉ lệ tử vọng trên $1.000$ người một năm. Tỉ lệ tăng thuần cao nhất (màu đậm nhất) diễn ra ở Niger, vùng sa mạc Sahara ở Châu Phi.
+
+**Hình** $\textbf{3.13}$ biểu diễn tỉ lệ tăng dân số thuần (tỉ lệ sinh trừ tỉ lệ tử vong) trên bản đồ thế giới. Châu Phi nổi bật lên như một châu lục có tỉ lệ tăng dân số thuần cao nhất, trở thành tiêu điểm của những bàn luận về dân số.  
+
+Nhưng hãy cùng xem xét lại mức tăng dân số ở các quốc gia khác nhau. Theo **Hình** $\textbf{3.13}$, thật quá dễ để nhìn vào mức tăng dân số thuần của Niger&mdash;cao hơn mức của Hoa Kì khoảng $10$ lần (Xem ví dụ **Ví dụ** $\textbf{3.3}$)&mdash;và kết luận rằng những quốc gia giống như Niger đem lại nhiều rủi ro hơn cho hành tinh này thông qua việc tăng dân số. Tuy nhiên, quan điểm của chúng ta sẽ thay đổi khi nhìn vào mức tăng dân số tuyệt đối. Ai quan tâm đến một quốc với mức tăng $10\%$ một năm nếu dân số của họ chỉ có $73$ người[^24]?
+
+[^24]:
+
+    Nhưng hãy kiểm tra lại sau $100$ năm!
+
+**Hình** $\textbf{3.14}$ nhân tỉ lệ gia tăng dân số thuần với dân số của mỗi nước để biểu diễn *số người thêm thuần* (*net new people*) của mỗi quốc gia; **Bảng** $\textbf{3.3}$ liệt kê top $10$ nước. Châu Phi không còn là vùng đáng lo nhất nếu nhìn theo khía cạnh này[^25]. Ấn độ hiện là quốc gia sản sinh dân số nhiều nhất, thêm vào mỗi năm $18$ triệu người. Tiếp theo đó là Trung Quốc ở vị trí thứ hai. Hoa Kì đóng góp thêm *1{,}6* triệu người mỗi năm, chỉ nằm ngoài top $10$ một chút. Điều này cho thấy tầm quan trọng bối cảnh trong việc phân tích dữ liệu dựa trên bối cảnh. 
+
+[^25]:
+
+    Mặc dù lục địa này mỗi năm đóng góp $35\%$ dân số mới thêm vào mỗi năm.
+
+![Pop-314-Light](../../../assets/images/pop-map-3-14.webp
+)
+
+**Hình** $\textbf{3.14}$ Mức tăng dân số tuyệt đối theo nước: có bao nhiêu triệu người được thêm hàng năm (tỉ lệ sinh từ tỉ lệ tử vong nhân toàn bộ dân số nước đó)
+
+| Quốc gia    | Dân số(triệu người) |  Tỉ lệ sinh(%) | Tỉ lệ tử vong(%) | Thêm mỗi năm(triệu người) |
+|:-----------:|:--------------------:|:-----------:|:-------------:|:----------------------:|
+| Ấn Độ       |         1.336        |     20,0    |      7,1      |          17,7          |
+| Trung Quốc  |         1.434        |     12,1    |      7,1      |           7,2          |
+| Nigeria     |          201         |     38,0    |      15,3     |           4,6          |
+| Pakistan    |          216         |     24,9    |      7,3      |           3,8          |
+| Indonesia   |          271         |     17,6    |      6,3      |           3,1          |
+| Ethiopia    |          112         |     36,1    |      10,6     |           2,8          |
+| Bangladesh  |          163         |     20,2    |      5,6      |           2,3          |
+| Philippines |          108         |     24,2    |      5,0      |           2,1          |
+| Egypt       |          100         |     26,8    |      6,1      |           2,1          |
+| Congo       |          87          |     36,9    |      15,8     |           1,8          |
+| Thế giới    |         7,711        |     19,1    |      8,1      |           86           |
+
+> **Bảng** $\textbf{3.3}$ Top $10$ quốc gia đóng góp vào gia tăng dân số toàn cầu hàng năm theo con số tuyệt đối. Tỉ lệ sinh và tỉ lệ tử được trình bày với đơn vị số người trên $1.000$ người một năm. $10$ quốc gia này đóng góp tổng cộng 55% dân số tăng toàn cầu.
+
+Ở một khía cạnh khác, sản lượng tiêu thụ năng lượng trên đầu người Hoa Kì gấp $200$ lần so với ở Niger[^26] và dân số của Hoa Kì cũng lớn hơn so với Niger, điều này dẫn đến những *tác động tài nguyên* (*resource impact*) từ việc sinh sản ở Hoa Kì lớn gấp $400$ lần so với ở Niger[^27]. Tính trên đầu người, một công dân Hoa Kì sẽ tiêu thụ trong tương lai lượng tài nguyên lớn gấp $28$ lần so với một công dân Niger khi dân số được thêm vào mỗi nước hằng năm[^28]. Trên một trái đất hữu hạn, lí do chính chúng ta *quan tâm* đến sự tăng trưởng dân số là vì nó có liên hệ với tài nguyên hữu hạn. Vì thế, nhìn từ quan điểm của tài nguyên, vấn đề không chỉ tập trung ở các quốc gia đang phát triển. **Bảng** $\textbf{3.4}$ cho thấy các quốc gia ở top $10$ tăng cầu năng lượng (một chỉ báo của cầu tài nguyên nói chung) nhanh như thế nào chỉ thông qua sự tăng trưởng dân số. **Hình** $\textbf{3.5}$ trình bày lại dưới dạng hình vẽ. $1$ Gigawatt (GW) tương đương với một nhà máy điện hạt nhân qui hay một nhà máy nhiệt than qui mô lớn. Theo đó, Trung Quốc, Hoa Kì và Ấn độ mỗi nước tăng thêm nguồn cung năng lượng mỗi năm tương đương với $10-20$ nhà máy như thế chỉ để thỏa mãn cầu năng lượng của sự gia tăng dân số[^29].
+
+[^26]:
+
+    Một người Mĩ trung bình tiêu thụ $10.000W$ so với $50W$ của Niger.
+
+[^27]:
+
+    Nói cách khác, với mỗi kilogram than đá, thép hay vật chất khác được tiêu thụ khi một người Niger sinh ra, ở Mĩ một người tương tự sẽ cần gấp $400$ lần để thoả mãn sự gia tăng dân số.
+
+[^28]:
+
+    $28$ nhỏ hơn $400$ bằng tỉ số giữa dân số hai nước.
+
+[^29]:
+
+    Đó là còn chưa kể đến sự gia tăng mức sống
+
+
+| Quốc gia 	| Dân số (triệu người) 	| Mức tăng hàng năm(%) 	| Tiêu thụ năng lượng trên đầu người(W) 	| Sản lượng thêm hàng năm(GW) 	| Sản lượng thêm trên đầu người(W) 	|
+|---	|:---:	|:---:	|:---:	|:---:	|:---:	|
+| Trung Quốc 	| 1.434 	| 7,2 	| 2.800 	| 20,2 	| 14 	|
+| Hoa Kì 	| 329 	| 1,6 	| 10.000 	| 15,6 	| 48 	|
+| Ấn Độ 	| 1.366 	| 17,7 	| 600 	| 10,5 	| 8 	|
+| Arập Xê-út 	| 34 	| 0,54 	| 10.100 	| 5,5 	| 160 	|
+| Iran 	| 83 	| 1,0 	| 4.300 	| 4,3 	| 52 	|
+| Mexico 	| 128 	| 1,7 	| 2.000 	| 3,3 	| 26 	|
+| Indonesia 	| 271 	| 3,1 	| 900 	| 2,8 	| 10 	|
+| Brazil 	| 211 	| 1,3 	| 2.000 	| 2,7 	| 13 	|
+| Ai Cập 	| 100 	| 2,1 	| 1.200 	| 2,5 	| 25 	|
+| Thổ Nhĩ Kỳ 	| 83 	| 0,85 	| 2.100 	| 1,8 	| 21 	|
+| Thế giới 	| 7,711 	| 86 	| 2.300 	| 143 	| 18,4 	|
+
+> **Bảng** $\textbf{3.4}$: Top $10$ quốc gia tăng trưởng cầu năng lượng. Công suất hay sản lượng đơn vị là *Watt*; $10^9$ là $1$ GW. Sản lượng gia tăng hàng năm là con số gia tăng tuyệt đối để đáp ứng cầu năng lượng nhằm thoả mãn sự *gia tăng dân số*, cũng là một đại diện cho việc gia tăng cầu tài nguyên nói chung. Cột cuối cùng cho biết mức độ đóng góp mỗi cá nhân vào sự tiêu thụ tài nguyên, ở đây tính theo sản lượng năng lượng. Ba nước đóng góp lớn nhất vào cầu năng lượng chỉ thông qua sự tăng dân số (Trung Quốc, Hoa Kì, và Ấn Độ) chiếm tổng cộng khoảng một phần ba sản lượng tăng thêm toàn cầu.
+
+![Pop-3-15-Light](../../../assets/images/pop-3-15-light.svg#only-light)
+![Pop-3-15-Dark](../../../assets/images/pop-3-15-dark.svg#only-dark)
+
+> **Hình** $\textbf{3.15}$: Thuyết mình bằng hình vẽ **Bảng** $\textbf{3.4}$. Các chấm tròn, với kích thước tỉ lệ với qui mô dân, cho thấy sự gia tăng hàng năm và cầu năng lượng gia tăng tương ứng. Màu sắc trên hình thể hiện cầu năng lượng gia tăng do dân số tăng được tính toán trên đầu người trong một năm. Những trường hợp giảm cầu năng lượng bao gồm Nga, Nhật Bản, Đức và Ukraine.
+
+Cột cuối cùng trong **Bảng** $\textbf{3.4}$ là "cái giá" của cầu năng lượng theo đầu người. Ví dụ, một người Mĩ cần thêm $50$ W mỗi năm khi chỉ tính đến sự gia tăng dân số[^30]. Theo đó, cột này cho biết "đóng góp cá nhân" của mỗi công dân vào cầu năng lượng toàn cầu thông qua việc tăng dân số thuần. Quốc gia nào có số này cao cần phải nghiêm túc xem xét tình hình của chính nước mình, hơn là đổ trách nhiệm cho nước khác.  
+
+[^30]:
+
+    Để so sánh, mỗi công dân Niger chỉ thêm $1{,}7$ W vào cầu năng lượng hàng năm thông qua tăng trưởng dân số.
+
+Trước khi khép lại phần này, hãy cùng nhau quan sát ở qui mô lục địa thay vì từng quốc gia. **Bảng** $\textbf{3.5}$ mang tông tin tương tự như **Bảng** $\textbf{3.4}$ với số liệu được gộp vào theo châu lục. Từ bảng này, chúng ta thấy cầu năng lượng ở Châu Á tương xứng với qui mô dân số vốn đã rất lớn của mình; Bắc Mĩ tạo ra nhiều sức ép với cầu năng lượng hơn mặc dù với dân số nhỏ hơn nhiều; Phi châu có mức tăng trưởng dân số rất cao, nhưng chỉ đóng góp khoảng $10\%$ mức tiêu thụ tài nguyên hiện giờ. Cuối cùng, châu Âu với $10\%$ dân số thế giới không tăng thêm tài nquyên sử dụng thông qua tăng trưởng dân số, được xem như một mục tiêu của **sự chuyển dịch dân số**[^31].
+
+[^31]:
+
+    Lưu ý rằng các quốc gia châu Âu đang lo lắng về sự suy giảm dân số trong một thế giới tăng trưởng và cạnh tranh.
+
+| Châu lục | Dân số(%) | Tăng trưởng hàng năm(%) | Sản lượng đầu người(W) | Sản lượng thêm hàng năm(%) | Sản lượng thêm đầu người(W) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Châu Á | 59,7 | 55,1 | 1.800 | 60,5 | 18,9 |
+| Bắc Mĩ | 7,6 | 5,5 | 7.100 | 23,0 | 56,1 |
+| Châu Phi | 16,9 | 34,7 | 500 | 9,9 | 10,8 |
+| Nam Mĩ | 5,5 | 4,4 | 2.000 | 5,4 | 18,1 |
+| Đại Dương | 0,5 | 0,5 | 5.400 | 1,5 | 49,5 |
+| Châu Âu | 9,7 | -0,1 | 4.900 | -0,3 | -0,6 |
+| Thế giới | 7.711 | 86 | 2.300 | 143 GW | 18,4 |
+
+> **Bảng** $\textbf{3.5}$: Sức ép dân số từ các vùng của thế giới, sắp xếp theo cầu năng lượng thêm vào. Một số cột có đơn vị là phần trăm của của tổng năng lượng. Hàng cuối cùng có đơn vị là triệu người và tổng sản lượng GW.
+
+### Cái giá của Sự chuyển dịch dân số
+
+Một điểm cần lưu ý cuối cùng trong quá trình **chuyển dịch dân số** thể hiện trong **Hình** $\textbf{3.12}$: tỉ lệ tử vong giảm trước trong khi tỉ lệ sinh vẫn giữ ở mức cao&mdash;hay thậm chí gia tăng&mdash;trước khi đi xuống. Một ví dụ được trình bày trong **Hình** $\textbf{3.16}$: ban đầu, tăng trưởng ở mức cao ($r_1$), và đi ngang (mức dân số ổn định); sau đó tỉ lệ tử vong chuyển dịch sang một mức thấp hơn ($r_2$) qua thời gian $T$; rồi tỉ lệ sinh bắt đầu giảm sau một thời gian $𝜏$ trước khi tiệm cận tỉ lệ tử và ổn định dân số một lần nữa. Vùng diện tích màu vàng giữa các đường thể hiện nơi tỉ lệ sinh lớn hơn tỉ lệ tử vọng, dẫn đến tăng dân số thuần (dân số tăng đột biến)
+
+![Pop-3-16-Light](../../../assets/images/pop-3-16-light.svg#only-light)
+![Pop-3-16-Dark](../../../assets/images/pop-3-16-dark.svg#only-dark)
+
+> **Hình** $\textbf{3.16}$: Giản đồ minh họa sự **chuyển dịch dân số** theo thời gian
+
+!!! info ""
+
+    Lưu ý rằng trong **Hình** $\textbf{3.16}$, diện tích giữa hai đường tỉ suất sinh và tử chỉ phụ thuộc vào hiệu số hai tỉ suất (hay chiều cao) và độ trễ, $𝜏$. Thời gian cần thiết để hoàn tất qua trình chuyển dịch, $T$, không liên quan, vì diện tích hình thang chỉ phụ thuộc vào đáy ($𝜏$) nhân chiều cao. Vì thế, sự bùng nổ dân số liên quan đến **sự chuyển dịch dân số** thường nhạy cảm với sự khác biệt giữa hai tỉ suất sinh và tử , và độ trễ cho đến đến khi tỉ suất tử bắt đầu giảm.
+
+Mức độ tăng trưởng khi dân số tăng đột biến tỉ lệ với hàm số mũ của diện tích giữa các đường. Diện tích hình thang này được tính bằng cách nhân đáy ($𝜏$) với chiều cao (hiệu số giữa tỉ lệ sinh và tử), dẫn đến sự gia tăng dân số tương đương $e^{(r_1-r_2)𝜏}$, trong đó $r_1$ là tỉ lệ tăng (hay giảm) dân số ban đầu và $r_2$ là tỉ lệ cuối cùng. Biểu đồ mô tả hiện tượng này có thể có rất nhiều dạng khác nhau, nhưng điều đáng lưu ý là độ trễ trong việc giảm tỉ lệ sinh sẽ gây ra tình trạng tăng dân số đột biến và mức độ tăng này tăng lên khi diện tích giữa các đường tăng lên.
+
+!!! info "Ví dụ $\textbf{3.3}$"
+
+    Nếu bắt đầu với tỉ lệ sinh/tỉ lệ tử vong ở mứ $25$ trên $1000$ người một năm ($r_1 = 0{,}025$), và kết thúc ở mức $8$ trên $1000$ người một năm ($r_2 = 0{,}008$; con số này tương đối hợp lí theo **Hình** $\textbf{3.11}$), và có độ trễ $𝜏 = 50$ năm để tỉ lệ sinh bắt đầu giảm, chúng ta có dân số tăng với hệ số
+    
+    $$
+    e^{(r_1-r_2)𝜏} = e^{(0{,}025-0{,}008)}•50 = e^{0{,}85} = 2{,}34
+    $$
+
+    Điều này có nghĩa rằng dân số tăng hơn gấp đôi, hay $134\%$
+
+Tóm lại, một cuộc **chuyển dịch dân số** sẽ làm gia tăng gánh nặng dân số lên nhiều lần. Cùng lúc đó, mức dân số mới sẽ tiêu thụ tài nguyên với tốc độ nhanh hơn&mdash;một sản phẩm tự nhiên của xã hội tiến bộ với điều kiện chăm sóc sức khoẻ y tế, giáo dục và các cơ hội việc làm tốt hơn. Các hoạt động vận chuyển, sản xuất và tiêu dùng sẽ tăng mạnh. Hệ quả của việc này thật không may: nó kết hợp những tác động của dân số lớn hơn với tiêu thụ tài nguyên trên đầu người cao hơn. Kết quả, nhưng ảnh hưởng của việc sử dụng tài nguyên trên trái đất tăng vọt.
+
+Câu hỏi thích đáng cần đặt ra: liệu Trái đất có chuẩn bị để đối phó với sự gia tăng đáng kể của việc sử dụng tài nguyên? Ý tưởng vốn hấp dẫn cho rằng tất cả các quốc gia trên Trái đất có thể thực hiện cuộc **chuyển dịch dân số** và tiếp cận mức sống của nước giàu không có nghĩa *tự nhiên có khả năng để đáp ứng nhu cầu đó*. Sử dụng năng lượng trên đầu người của Hoa Kì gấp gần $5$ lần so với mức trung bình của thế giới. Mang lại mức sống tương tự cho $7$ tỉ người đòi hỏi gấp $5$ lần mức tiêu thụ nhiên liệu hiện tại. $Sự chuyển dịch dân số$ nếu hoàn tất có thể sẽ nhân đôi dân số thế giới hiện tại và sự gia tăng tiêu thụ năng lượng có thể gấp $10$ lần. Đường gạch màu lam trong **Hình** $\textbf{3.17}$ trông thật phi lý khi diến tiến năng lượng tiêu thụ&mdash;vốn đã rất lớn từ trước đến giờ&mdash;lên một mức độ chưa từng có. Khi chúng ta còn đang nỗ lực đáp ứng cầu năng lượng hiện tại, một viễn cảnh về "điều không tưởng" như thế sẽ khó thành hiện thực.
+
+![Pop-3-17-Light](../../../assets/images/pop-3-17-light.svg#only-light)
+![Pop-3-17-Dark](../../../assets/images/pop-3-17-dark.svg#only-dark)
+
+> **Hình** $\textbf{3.17}$: Thay đổi cầu năng lượng cần thiết (đường chấm lam) nếu sự gia tăng dân số toàn cầu (được dự báo như đường chấm đỏ) và mức tiêu thụ năng lượng trên đầu ngường tiệm cận với tiêu chuẩn của Hoa Kì trong hiện tại vào năm $2100$ (gấp hơn năm lần). Dân số và năng lượng trong lịch sử được minh hoạ bởi các đường liền. Sự diễn tiến của các đường này thực đáng kinh ngạc.
+
+Năng lượng trong bối cảnh này là thước đo cho tài nguyên vật chất khác. Hãy hình dung những thách thức mang tính toàn cầu chúng ta phải đối mặt hiện nay: nạn phá rừng, sự sụp đổ của ngành đánh bắt thuỷ hải sản, nước ngọt khan hiếm, đất đai cằn cỗi, ô nhiễm, biến đổi khí hậu, các loài động thực vật bị tuyệt chủng, v.v. Điều gì khiến chúng ta nghĩ rằng mình có thể tồn tại được qua **sự chuyển dịch dân số** vốn dẫn đến tốc độ tiêu thụ tài nguyên nhiều hơn hiện tại rất nhiều lần? Chẳng phải chúng ta có thể cũng đã tiến đến điểm giới hạn rồi sao?
+
+Nếu tự nhiên không có phép con người hiện thực hoá một giấc mơ nào đó, việc theo đuổi nó liệu có phải là hành động có trách nhiệm và có đạo đức? Câu hỏi này trở nên đặc biệt thiết yếu nếu như mỗi hành động *theo đuổi* giấc mơ này gia tăng sức ép vào hệ thống và *làm cho nguy cơ sụp đổ ngày càng tăng*. Sự khổ đau có thể tăng lên tột cùng nếu dân số ngày càng tiệm cận mức sụp đổ. Theo đó, chúng ta đang khéo léo nhồi nhét nhiều người nhất có thể vào sân vận động để chứng kiến một sự kiện kinh hoàng: sự sụp đổ của chính sân vận động đó&mdash;điều chỉ xảy ra khi chúng ta chen chúc trong đó. Bạn có thấy điều này mỉa mai không?
+
+Xu thế hiện thực hoá của cuộc **chuyển dịch dân số** rất mạnh mẽ, vì nhưng lí do chúng ta đã thảo luận ở trên (nâng cao chất lượng cuộc sống, cơ hội giáo dục, lòng khoan dung, phẩm giá và sự hài lòng). Thách thức ảo tưởng này thực vô cùng nan giải, vì sự nhận thức về sự giới hạn của tài nguyên hiện không phổ biến. Đó có thể là một ví dụ về khuynh hướng ngoại suy tự nhiên của con người: chúng ta đã chứng kiến những lợi ích của việc **chuyển dịch dân dân số** ở nhiều quốc gia trong thế kỉ vừa qua, và hi vọng rằng xu thế này sẽ tiếp diễn cho đến khi tất cả các quốc gia hoàn thành cuộc chuyển đổi này. Nhưng cần nhớ rằng những thành công trong quá khứ được thực hiện trong giai đoạn tài nguyên toàn cầu không phải là giới hạn lớn trong việc tiếp cận và sử dụng. Nếu điều kiện ngoại cảnh thay đổi, và chúng ta đã khai thác "cả" quả đất, những ví dụ trong quá khứ sẽ chẳng giúp ích gì nhiều.
+
+## IV. Những khía cạnh nhạy cảm
+
+### Thảo luận về dân số thường biến thành vấn đề cá nhân
+
+Một số quyết định của chúng ta có ảnh hưởng đến thế giới vật lí thường mang tính cá nhân và rất khó để nhận diện và đối mặt. Không ai muốn bị người khác lên lớp về việc mình nên ăn gì, cần tắm thường xuyên như thế nào, hay cần giữ nhiệt độ phòng bao nhiêu. Vấn đề khó khăn nhất khi bàn luận đó là sinh sản. Và đặc biệt thảo luận diễn ra với ai đã có con. Ngay cả khi không cố ý, quá dễ để ai đó xem việc thảo luận là sự tấn công cá nhân về những lựa chọn của riêng họ. Chúng ta không nói đến các lựa chọn như chọn màu sắc của tất. Trẻ em được cha mẹ vô cùng yêu quí, nên sự bóng gió về việc có con là xấu hay mang nhiều tính huỷ hoại nhanh chóng trở thành việc tấn công các "quí tử" của họ&mdash;xuất phát từ việc họ đã *ích kỉ* lựa chọn việc có con (xem **Hộp** $\textbf{3.2}$). Sự phân định khi thảo luận có thể còn gặp nhiều bế tắc hơn khi ai đó có càng nhiều con. Một cặp vợ chồng có hai con có thể có niềm an ủi trong suy nghĩ rằng họ đang thực hiện "mức sinh thay thế" (khoảng $2{,}1$ con bình quân cho một người phụ nữ).
+
+!!! info ""
+
+    Sinh hai con không phải là "mức sinh thay thế" chính xác, vì cha mẹ và con cái còn đang sống trên Hành tinh, khiến dân số gấp đôi trong ngắn hạn. Nhưng ít ra việc sinh hai con phù hợp với trạng thái cân bằng của dân số. 
+
+Để lảng tránh vấn đề, người ta tập trung sự chú ý vào tỉ suất sinh cao ở các quốc gia khác, vì thế trách nhiệm thuộc về bên ngoài. Như đã chỉ ra ở trên, nếu việc tạo sức ép lên hành tinh&mdash;cũng như việc sống tôn trọng những giới hạn của tự nhiên&mdash;là điều khiến chúng ta quan tâm, các nước kém phát triển không thể so với các nước giàu về mức độ khai thác và sử dụng tài nguyên toàn cầu. Vì thế, việc đổ lỗi mặc dù có thể làm khuây khoả đôi chút, và cũng là một xu hướng tự nhiên, nó không cho ta thấy được toàn cảnh của vấn đề.
+
+Điểm mấu chốt: chúng ta cần nhận thức được bản chất nhạy cảm của chủ đề này khi đối thoại với người khác. Làm cho ai đó cảm thấy tồi tệ với lựa chọn của mình&mdash;dù không cố ý&mdash;trong *một số rất ít các trường hợp* có thể khiến người đó trân trọng và nâng cao nhận thức. Nhưng trong phần lớn các tình huống, điều này *rất dễ* cô lập người đó khỏi các quan điểm rất giá trị về những thách thức mà chúng ta đang phải đối mặt.
+
+!!! info "Hộp $\textbf{3.2}$
+
+    Có rất nhiều cha mẹ đã hi sinh lớn để nuôi dạy trẻ&mdash;về mặt tài chính, tình cảm, và đầu tư thời gian. Do đó, thật dễ hiểu khi những cố gắng và cam kết không biết mệt mỏi đó được cho sự vị tha: họ đã hi sinh thời gian, sự thoải mái và tự do của bản thân trong quá trình này. Do đó, có thể hiểu được rằng họ có thể coi những người không có con là ích kỷ: ngược lại với vị tha.. Nhưng điều này cần phải được đính chính lại. Tại sao, họ lại quyết định có con và góp phần gây sức ép lên hành tinh này? Đó là lựa chọn (dù vô tình) đã đặt họ vào vai trò làm cha mẹ, và cả hành tinh&mdash;không chỉ đối với loài người&mdash; phải trả giá cho quyết định này, khiến hành động này trở nên một chút vị kỉ[^32]. Tóm lại, gần như tất cả các quyết định chúng ta đưa ra đều có thể được xem là vị kỉ, vì ít nhất chúng chứa đựng những lợi ích của bản thân. Vì vậy, thật là vô nghĩa nếu xem quyết định sinh con hay không là vị kỉ nhiều hay ít. Nhưng hãy cân nhắc điều này: nếu phần còn lại của Trái đất&mdash;tất cả động thực vật sống trên hành tinh này&mdash;có tiếng nói, bạn có nghĩ rằng chúng sẽ tán thành cho việc thêm một người nữa trên trái đất này không? Con người có *khả năng*, để ít nhất suy ngẫm về bức tranh toàn cảnh hơn là lợi ích cá nhân, để đại diện cho tất cả các loài không có quyền hay tiếng nói trong một hệ thống lấy con người làm trung tâm (*human-centric*) của chúng ta. 
+
+[^32]:
+
+    Lí do để sinh con rất nhiều: tiếp nối nguồn gien sinh học; truyền thống hay danh dự gia đình; nhu cầu nguồn lực lao động; sự chăm sóc đỡ đần lúc về già; tình thân và tình yêu (nhưng dự định áp đặt vào một đứa trẻ còn chưa sinh ra). Lưu ý rằng việc nhận con nuôi cũng có thể thoả mãn rất nhiều mục đích sinh con ở trên mà không làm tăng thêm dân số.
+
+
+### Chính sách dân số
+
+Các chính phủ và tổ chức khác có thể thể làm gì để quản lí dân số? Một lần nữa, đây là lĩnh vực khá nhạy cảm, nơi có thể bùng lên sự va chạm giữa quan điểm cá nhân, tôn giáo và chính trị. Trung Quốc đã thực thi chính sách một con từ năm $1979$ cho đến tận năm $2015$ (một số ngoại lệ được chấp thuận tuỳ thuộc vào địa phương và giới tính). 
+
+!!! info ""
+    
+    Hệ quả của các ngoại lệ này: trong giai đoạn kiểm soát dân số, một nửa số cha mẹ ở Trung Quốc có thể có đứa con thứ hai.
+
+Dân số Trung Quốc chưa bao giờ ngừng tăng trong toàn bộ giai đoạn đó, vì trẻ em được sinh ra trong giai đoạn trước với tỉ suất sinh cao trưởng thành và bắt đầu sinh con của mình&mdash;ngay cả khi bị giới hạn về số lượng trẻ con sinh ra. Đồ thì dân số của Trung Quốc không được kì vọng sẽ đi ngang cho đến tận những năm $2030-2040$[^33]. Các chính sách sử dụng cách tiếp cận từ trên xuống (*top-down*) chỉ có thể được thực thi ở những chính thể toàn trị mạnh, và có thể được xem là sự xâm phạm nghiêm trọng quyền tự do cá nhân ở nhiều quốc gia. Các hệ thống tôn giáo dựa trên niềm tin cũng có thể chống lại những nỗ lực ngăn chặn đà tăng của dân số. Thêm vào đó, những nước có dân số giảm đang gặp bất lợi trong cạnh tranh ở các thị trường toàn cầu, thường dẫn đến việc ban hành các chính sách khuyến khích sinh sản.
+
+[^33]:
+
+    Đây là một trường hợp khác của việc trì hoãn **phản hồi ngược** dẫn đến tình trạng quá tải.
+
+Một ví dụ ấn tượng về sự thành công trong việc kiểm soát dân số ở mức bền vững đến từ một quốc đảo ở Nam Thái Bình Dương, Tikopia[^34]. Duy trì dân số ổn định trong một vài ngàn năm ở quốc đảo nhỏ bé này đòi hỏi không chỉ việc thực hiện các phương pháp trông trọt tương đồng nhất với các giống cây tự nhiên bản địa, mà còn bao gồm các biện pháp hạn chế dân số hà khắc. Tù trưởng của xã hội quân bình này thường thực thi chế độ không tăng trưởng dân số, cũng như ngăn chặn việc đánh bắt cá quá mức. Những giới hạn nghiêm ngặt này được đặt lên qui mô gia đình, và những điều kiêng kị về văn hoá (*cultural taboos*) giữ cho dân số quốc đảo này xung quanh mức $1.200$[^34]. Phương thức kiểm soát dân số bao gồm: hạn chế việc thụ tinh, phá thai, giết trẻ sơ sinh, tự tử, hay "tự tử gián tiếp", bằng cách khởi hành những chuyến đi nguy hiểm trên biển vốn không có khả năng sống sót trở về. Bằng cách này, sự khắc nghiệt của tự nhiên được thay thế bằng sự khắc nghiệt của những tập tục xã hội có thể xem như quá sức tưởng tượng đối với chúng ta. Khi những nhà truyền giáo Cơ Đốc cải đạo được những cư dân ở đây vào thế kỉ hai mươi, những tập tục phá thai, giết trẻ con và tự tử bị xóa bỏ và dân số nơi đây bắt đầu tăng, dẫn đến nạn đói và khiến dân số dư thừa phải dời khỏi đảo.
+
+Chung cuộc, sự lựa chọn các nhân là điều quan trọng, nếu chúng ta muốn kiểm soát vận mệnh của dân số. Hoặc là các điều kiện sẽ trở nên quá không chắc chắn để biện hộ cho việc sinh con, hoặc là chúng ta sẽ cần chấp thuận các giá trị ở đó những nhu cầu ngắn hạn của cá nhân và con người cần được đặt trong bối cảnh lớn hơn của hệ sinh thái và hạnh phúc dài lâu của con người.
+
+[^34]:
+
+    Qui mô một nhóm $1.200$ người đủ nhỏ để ngăn chặn các hành vi thiếu trách nhiệm ẩn dấu dưới hình thước nặc danh (*anonymity*).
+
+[^33]:
+
+    Xem Diamond ($2005$), cuốn sách *Sự sụp đổ: Các xã hội lựa chọn thất bại hay thành công*
+
+## V. Kết luận: Mọi thứ phụ thuộc vào chúng ta
+
+Chúng ta sẽ chẳng ngồi đây mà bàn luận về sự giới hạn của hành tinh hay giới hạn của tăng trước hay biến đổi khí hậu nếu chỉ có một triệu con người sống trên trái đất, ngay cả với mức sống của người Mĩ. Chúng ta sẽ chẳng cảm nhận sự giới hạn của tài nguyên tự nhiên hay hệ sinh thái. Ngược lại, không khó để hình dung rằng $100$ tỉ người trên trái đất sẽ đặt một giới hạn *khắc nghiệt* lên khả năng hệ sinh thái để nuôi sống chúng ta&mdash;đặc biệt là nếu mọi người đều cố gắng sống như người Mĩ&mdash;đến mức điều này trở nên bất khả thi. Nếu chúng ta cần phải lựa chọn một một thông số duy nhất để làm giảm những thách thức toàn cầu, có lẽ rất khó để tìm ra một thông số nào hơn là dân số.
+
+!!! info ""
+
+    Một phản ứng tức thời phổ biến đối với tuyên bố rằng dân số ít hơn sẽ tốt hơn là yêu cầu câu trả lời chính xác cho việc chúng ta đề xuất loại bỏ ai. Lý tưởng nhất là chúng ta có thể thảo luận về một chủ đề quan trọng như dân số mà không cần viện đến những cáo buộc ủng hộ tội ác diệt chủng. Tất nhiên chúng ta cần chăm sóc những người đang còn sống và giải quyết vấn đề thông qua các lựa chọn sinh sản trong tương lai.
+
+Có lẽ chúng ta chẳng cần phải hành động. **Phản hồi ngược** *sẽ* có hiệu lực mạnh mẽ một khi chúng ta đi quá xa&mdash;hoặc là dân số tiệm cận dần đến mức cân bằng hoặc là tạo ra sự quá tải và viễn cảnh sụp đổ về sau. Tạo hóa *sẽ* điều tiết dân số loài người bằng cách này hay cách khác. Chỉ có điều đó không phải là cách thức mà chúng ta muốn, trong khi chúng ta có cơ hội để làm tốt hơn thông qua nhận thức và lựa chọn.
+
+Rất ít học giả tỏ ra không quan ngại về sức ép dân số. Nhưng vấn đề này thường trở nên giai góc do liên quan đến lựa chọn cá nhân hay một sự miễn cưỡng chính đáng, để làm sao không "lên lớp" các quốc gia đang phát triển phải dừng tăng dân số trước khi có cơ hội trải qua quá trình **chuyển dịch dân số** một cách tự nhiên. Tư duy thông thường cho rằng việc tuân theo **chuyển dịch dân số** là giải pháp tốt nhất cho vấn đề dân số. Câu hỏi mà quá ít người đặt ra là liệu hành tinh này có chịu đựng được quá trình này cho tất cả mọi người hay không, căn cứ vào việc bùng nổ dân số và cầu tài nguyên. Nếu không, việc theo đuổi quá trình **chuyển dịch dân số** có thể sẽ gây ra nhiều thiệt hại và đau khổ hơn so với những gì sẽ xảy ra do sự gia tăng dân số cạnh tranh các nguồn tài nguyên đang cạn kiệt.
+
+
 
 
 
