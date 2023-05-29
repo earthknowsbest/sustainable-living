@@ -11,10 +11,12 @@ nav:
   - Thế giới:
     - Tổ chức con người: overview/superorganism.md
     - Biến đổi khí hậu: 
-      - overview/climate-change/index.md
-      - Thực trạng 2020:
-        - Thực tế °1: overview/climate-change/climate-reality/reality-1.md
-        - Thực tế °2: overview/climate-change/climate-reality/reality-2.md
+      - Báo cáo năm 2021:
+        - overview/climate-change/climate-reality/index.md
+        - Thực trạng (1 → 12): overview/climate-change/climate-reality/reality-1.md
+        - Rủi ro lớn (13 → 15): overview/climate-change/climate-reality/reality-2.md
+        - Hành động (16 → 20): overview/climate-change/climate-reality/reality-3.md
+        - Tổng hợp: overview/climate-change/climate-reality/reality-4.md
     - Năng lượng tái tạo: 
       - Hoài nghi °1: overview/renewables/renewable-skeptics.md
       - Hoài nghi °2: overview/renewables/renewable-skeptics-2.md

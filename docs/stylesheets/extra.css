@@ -8,9 +8,21 @@
     stroke: var(--md-default-bg-color);
 }
 
+/* footer */
+.md-footer__title {
+    color: #ADACAC;
+}
+
+.md-footer__button {
+    /* margin: 0.2rem;
+    padding: 0.4rem; */
+    color: #ADACAC;
+}
+
 .md-ellipsis {
     font-weight: 700;
 }
+
 
 :root,
 [data-md-color-scheme="default"] {
@@ -45,7 +57,7 @@ input {
 }
 
 .md-content {
-    margin: 0rem auto;
+    margin: 0rem auto 2rem;
     max-width: 33rem;
 }
 
@@ -280,3 +292,43 @@ mjx-container[jax="CHTML"][display="true"] {
 .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
     padding: 0 0.6rem 0.1rem 0.6rem;
 }
+
+[dir=ltr] .md-typeset > ol, [dir=ltr] .md-typeset > ul {
+    margin-left: 0.25em;
+    list-style-type: square;
+}
+
+/* hr format */
+.md-typeset .footnote hr {
+    line-height: 1em;
+    position: relative;
+    outline: 0;
+    border: 0;
+    text-align: center;
+    height: 1.7em;
+    opacity: .8;
+    margin: 2.5em 0 1.2em;
+}
+
+.md-typeset .footnote hr::before {
+    content: '';
+    background: linear-gradient(to right, transparent, var(--md-default-fg-color), transparent);
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    height: 0.06rem;
+}
+
+.md-typeset .footnote hr::after {
+    content: "NGUỒN DẪN";
+    font-weight: 700;
+    position: relative;
+    display: inline-block;
+    padding: 0 .5em;
+    line-height: 1.5em;
+    color: var(--md-default-fg-color);
+    background-color: var(--md-default-bg-color)
+}
+    /* border-bottom: 0.5rem solid var(--md-default-fg-color--lightest);    */
+

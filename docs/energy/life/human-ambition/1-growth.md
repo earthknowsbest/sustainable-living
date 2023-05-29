@@ -52,8 +52,8 @@ Hãy dành khoảng một phút suy nghĩ. Trực giác thông thường mách b
 
 Câu trả lời: chúng ta chỉ cần bớt đi một lần thời gian nhân đôi, hay $11$ giờ $50$ phút đêm. **Hình** $\textbf{1.1}$ biểu diễn câu chuyện này. Vào lúc $11$ giờ đêm, hũ chỉ đầy $1/64$ dung tích thực, hay $1{,}7\%$. Vậy thì, trong $23$ giờ đầu tiên của $24$ giờ thí nghiệm, hũ này gần như trống không. Tất cả những hoạt động chỉ diễn ra vào thời điểm cuối, với tốc độ chóng mặt. 
 
-![Bacteria-Light](../../assets/images/bacteria-light.svg#only-light)
-![Bacteria-Dark](../../assets/images/bacteria-dark.svg#only-dark)
+![Bacteria-Light](../../../assets/images/bacteria-light.svg#only-light)
+![Bacteria-Dark](../../../assets/images/bacteria-dark.svg#only-dark)
 
 
 > **Hình** $\textbf{1.1}$: <i>$\textit{90}$ phút cuối trong quá trình vi khuẩn (phần màu xanh) phát triển trong hũ, nhân đôi mỗi $\textit{10}$ phút. Gần như chẳng có gì rõ rệt trong $\textit{22,5}$ giờ đầu tiên. Hãy chú ý đường dâng lên của vi khuẩn đã vẽ lên đồ thị của một hàm số mũ.</i>
@@ -176,8 +176,8 @@ Với $p$ nhận giá trị nhỏ (nhỏ hơn nhiều so với $1$), logarit t�
 
 Một khi đã thiết lập được nguyên lí của tăng trưởng theo cấp số nhân, giờ là lúc chúng ta sử dụng toán học để dẫn chứng về những giới hạn mà kì vọng của chúng ta có thể đạt đến. Chúng ta sẽ tập trung vào việc sử dụng năng lượng. Ban quản trị thông tin Năng lượng Hoa Kì (EIA) cung cấp thông tin về việc sử dụng năng lượng từ năm 1949 đến nay. Phụ lục (E1: [3]) trình bày ước tính năng lượng sử dụng từ năm 1635 đến 1945. **Hình** $\textbf{1.2}$ hiển thị quá trình lịch sử gần đây hơn.
 
-![US-Energy-Light](../../assets/images/energy-us-light.svg#only-light)
-![US-Energy-Dark](../../assets/images/energy-us-dark.svg#only-dark)
+![US-Energy-Light](../../../assets/images/energy-us-light.svg#only-light)
+![US-Energy-Dark](../../../assets/images/energy-us-dark.svg#only-dark)
 
 > **Hình** $\textbf{1.2}$: <i>Năng lượng sử dụng ở Hoa Kỳ trong hơn 200 năm, cho thấy sự tăng trưởng nhanh chóng gần và như phụ thuộc hoàn toàn vào nhiên liệu hóa thạch. Đường màu đỏ là đường phù hợp theo tăng trưởng hàm số mũ áp dụng vào dữ liệu trong **Hình** $\textbf{1.3}$ bên dưới</i>
 
@@ -187,8 +187,8 @@ Một khi đã thiết lập được nguyên lí của tăng trưởng theo c�
 
 Chú ý rằng tốc độ tăng trưởng sản lượng năng lượng ở cạnh trái trong **Hình** $\textbf{1.2}$ đã trở nên rất nhỏ đến nỗi không đáng kể (từ những năm $1800$ trở về trước). Trình bày dữ liệu dưới dạng biểu đồ logarit, như **Hình** $\textbf{1.3}$, chúng ta có thể hiểu rõ hơn toàn bộ quá trình phát triển năng lượng. Trong hình này, tăng trưởng đã trở thành những đường thẳng. Xu hướng này nhất quán một cách đáng ngạc nhiên với sự tăng trưởng hàm số mũ (đường màu đỏ) trong phần lớn lịch sử, với tốc độ gia tăng chỉ $3\%$ một năm. Chú ý rằng hiệu ứng tổng quát này bao gồm cả sự gia tăng dân số, nhưng dân số không tăng nhanh bằng tốc độ sản lượng năng lượng tăng, nên mức sử dụng năng lượng trên đầu người cũng tăng. Điều này khá hợp lí: cuộc sống hiện đại sử dụng nhiều năng lượng hơn nhiều so với trước đây, tính bình quân theo đầu người.
 
-![US-Energy-Light](../../assets/images/energy-us-2-light.svg#only-light)
-![US-Energy-Dark](../../assets/images/energy-us-2-dark.svg#only-dark)
+![US-Energy-Light](../../../assets/images/energy-us-2-light.svg#only-light)
+![US-Energy-Dark](../../../assets/images/energy-us-2-dark.svg#only-dark)
 
 > **Hình** $\textbf{1.3}$: <i>Quỹ đạo sản lượng năng lượng của Hoa Kì theo thời gian. Đường màu đỏ là đường hàm số mũ với tỉ lệ tăng trưởng $2{,}9\%$ một năm, được biểu diễn dưới dạng đường thẳng trên biểu đồ logarit trục tung.</i>
 
@@ -306,8 +306,8 @@ Mối liên hệ giữa các đại lượng trong **Phương trình** $\eqref{1
 
 > **Hình** $\textbf{1.4}$: Trái đất&mdash;được minh họa như hình, trong mùa hè ở bán cầu bắc&mdash;hứng ánh sáng qua bề mặt hứng sáng (đường tròn có diện tích $πR^2$), trong khi bức xạ ánh ra bên ngoài không gian từ mọi phía (diện tích bề mặt Trái đất lớn gấp 4 lần diện tích hứng sáng, hay $4πR^2$)
 
-![Radiation-Light](../../assets/images/radiation-light.svg#only-light)
-![Radiation-Dark](../../assets/images/radiation-dark.svg#only-dark)
+![Radiation-Light](../../../assets/images/radiation-light.svg#only-light)
+![Radiation-Dark](../../../assets/images/radiation-dark.svg#only-dark)
 
 Để đánh giá nhiệt độ kì vọng của Trái đất, chúng ta biết năng lượng của mặt trời chiếu đến bề mặt hứng ánh sáng của Trái đất là khoảng $1.360$ $W/m^2$ vào *bên trên* tầng khí quyển (bề mặt Trái đất nhận được ít hơn một chút). Chúng ta cũng biết khoảng $29{,}3\%$ năng lượng này phản xạ bởi mây, tuyết, cho đến nước và địa hình. Vì thế Trái đất *hấp thụ* khoảng $960$ $W/m^2$. Năng lượng này được hấp thụ bởi phần hứng sáng: diện tích hình tròn $A = π{R_\oplus^2}$. Nhưng toàn bộ diện tích bề mặt trái đất, vốn lớn hơn bốn lần diện tích hứng sáng, lại bức xạ ra ngoài không gian (**Hình** $\textbf{1.4}$). Do năng lượng của trái đất cân bằng (công suất năng lượng vào $P_{in}$ bằng công suất năng lượng ra $P_{out}$), ta có:
 
