@@ -1,29 +1,84 @@
 site_name: SỐNG BỀN VỮNG
-repo_url: https://github.com/earthknowsbest/sustainable-living
+# repo_url: https://github.com/earthknowsbest/sustainable-living
 site_author: Peace Vegan School
 site_description: >-
-  Sống bền vững tập hợp sách báo, nghiên cứu về đời sống 
-  con người trên trái đất, cung cấp cái nhìn toàn diện về 
-  hệ sinh thái, những phương thức sống bền vững, bảo tồn 
-  và khôi phục tự nhiên.
+  Sống bền vững tập hợp kinh nghiệm sống, sách, báo cáo và nghiên cứu về đời sống con người trên trái đất, cung cấp cái nhìn toàn diện về hệ sinh thái, những phương thức sống bền vững, bảo tồn và khôi phục tự nhiên.
 
 # customed port of serving
 dev_addr: '127.0.0.1:9000'
 nav:
   - Home: index.md
-  - Sinh thái:
-    - Sinh thái học: ecology/sinh-thai-hoc.md
-    - Năng lượng & Sự sống:
-      - Khát vọng con người:
-        - ecology/energy/human-ambition/index.md
-        - Tăng trưởng: ecology/energy/human-ambition/1-growth.md
-        - Kinh tế: ecology/energy/human-ambition/2-econ.md
-        - Dân số: ecology/energy/human-ambition/3-population.md
-      - Năng lượng tái tạo: ecology/energy/renewable-skeptics.md
-
+  - Thế giới:
+    - Tổ chức con người: overview/superorganism.md
+    - Biến đổi khí hậu: 
+      - overview/climate-change/index.md
+      - Thực trạng 2020:
+        - Thực tế °1: overview/climate-change/climate-reality/reality-1.md
+        - Thực tế °2: overview/climate-change/climate-reality/reality-2.md
+    - Năng lượng tái tạo: 
+      - Hoài nghi °1: overview/renewables/renewable-skeptics.md
+      - Hoài nghi °2: overview/renewables/renewable-skeptics-2.md
+  - Năng lượng:
+    - Năng lượng & Sự sống: 
+      - energy/life/index.md 
+      - Khát vọng con người: 
+        - Tăng trưởng: energy/life/human-ambition/1-growth.md
+        - Kinh tế: energy/life/human-ambition/2-econ.md
+        - Dân số: energy/life/human-ambition/3-population.md
+  - Kinh tế:
+    - Phản tăng trưởng:
+      - economics/degrowth/decoupling.md
+      - economics/degrowth/beyondgrowth.md
+      - economics/degrowth/solution.md
+    - Bánh vòng (Doughnut): economics/doughnut/doughnut.md
+    - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
+    - Địa phương hoá: economics/localization.md
+  - Nông nghiệp sinh thái:
+    - Navdana: ecology/navdana.md
+    - Tương lai farm nhỏ: ecology/small-farm-future.md
+    - Vườn rừng: ecology/forest-garden.md
+  - Low-tech:
+    - Năng lượng mặt trời:
+      - Lời mở đầu: lowtech/solar/manifesto.md
+      - Bếp / Lò nướng: lowtech/solar/cook-1.md
+      - Bếp / Lò nướng 2: lowtech/solar/cook-2.md
+    - Nước ngọt:
+      - Chiết suất: lowtech/water/water-air.md
+      - Lọc nước °1: lowtech/water/water-purify/water-purify-1.md
+      - Lọc nước °2: lowtech/water/water-purify/water-purify-2.md
+      - Lọc nước °3: lowtech/water/water-purify/water-purify-3.md
+    - Bơm nước: lowtech/water/water-pump.md
+  - Chữa Lành Trái Đất:
+    - Sinh quyển: 
+      - Một nửa Trái Đất: earth/biosphere/half-earth.md
+      - Đại dương: earth/biosphere/ocean.md
+    - Cộng đồng:
+      - Phong trào: earth/community/movements.md
+      - Người dân tộc: earth/community/native.md
+      - Dự án Drawdown: earth/community/drawdown.md
+      - Đoàn kết: earth/community/solidarity.md
+    - Cá nhân:
+      - Thực phẩm: earth/personal/food.md
+      - Phụ nữ: earth/personal/women.md
+      - Giao thông: earth/personal/transport.md
+      - Tài nguyên: earth/personal/material.md
+      - Thành phố: earth/personal/city.md
+  - Con người:
+    - Tâm linh: human/spirituality.md
+    - Thể chất: human/body.md
+    - Dinh dưỡng: human/nutrition.md
+    - Giấc ngủ: human/sleep.md
+  - Blog:
+    - Trái đất: blog/earth-value.md
+  - About:
+    - Liên hệ: about/contact.md
+    
 theme: 
   name: material
-  language: en
+  custom_dir: overrides
+  # logo_dark_mode: assets/logo-dark.svg
+  # logo_light_mode: assets/logo-light.svg
+  language: vi
   font:
     # text: Source Serif Pro
     # text: Playfair Display
@@ -31,18 +86,21 @@ theme:
     text: Literata
   icon:
     repo: fontawesome/brands/github-alt
+    logo: custom/logo
   palette:
     - scheme: default
-      primary: red
-      accent: red
+      # primary: light
+      accent: default
       toggle:
-        icon: material/brightness-7
+        # icon: material/brightness-7
+        icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: slate
+      accent: slate
       toggle:
-        icon: material/brightness-2
+        # icon: material/brightness-2
+        icon: material/weather-night
         name: Switch to light mode
   features:
     - search.highlight
@@ -55,23 +113,24 @@ theme:
     - content.code.copy
     # - content.tabs.link
     - content.tooltips
-    # - header.autohide
+    - header.autohide
     # - navigation.expand
     - navigation.footer
     - navigation.indexes
     # - navigation.instant
     # - navigation.prune
-    - navigation.sections
     - navigation.tabs
+    - navigation.sections
     # - navigation.tabs.sticky
-    - navigation.bottom
+    # - navigation.bottom
+    - navigation.top
     - navigation.tracking
     - navigation.expand
     - toc.follow
 
 extra_css: [stylesheets/extra.css]
 
-copyright: Copyright &copy; 2023 Sustainable Living
+copyright: Copyright &copy; 2023 Sống Bền Vững
 
 extra:
   generator: false
@@ -97,6 +156,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 
 extra_javascript:
   - javascripts/mathjax.js

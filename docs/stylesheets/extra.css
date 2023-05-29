@@ -3,20 +3,39 @@
     color: #3d1818;
 }
 
-:root,
-[data-md-color-scheme=default] {
-    --md-default-fg-color--light: #3d1818;
-    --md-default-bg-color: #fff9ea
+#logo {
+    fill: var(--md-default-bg-color);
+    stroke: var(--md-default-bg-color);
 }
 
-[data-md-color-accent=red] {
-    --md-accent-fg-color: #ef5552;
-    --md-primary-bg-color: #3d1818;
+.md-ellipsis {
+    font-weight: 700;
+}
+
+:root,
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #cb4810;  
+    --md-default-fg-color--light: #3d1818;
+    --md-default-bg-color: #fff9ea;
+}
+
+[data-md-color-accent="default"] {
+    --md-accent-fg-color:  #cb4810; /* #d74639; */
+    --md-primary-bg-color: #fff9e9; /* #3d1818; */
 }
 
 [data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #FFCE7B; /* #f7b7a5; #cb4810;*/
+    --md-default-fg-color--dark: #fff9ea;
     --md-hue: 2;
     --md-default-fg-color--light: hsla(var(--md-hue), 75%, 90%, 0.75);
+    /* --md-footer-logo-dark-mode: block;
+    --md-footer-logo-light-mode: none; */
+}
+
+[data-md-color-accent="slate"] {
+    --md-accent-fg-color: #FFCE7B; /* #f7b7a5; #f26d6d; */ /* #ef5552; */
+    --md-primary-bg-color: #3d1818;  /* #BE9A98; */
 }
 
 aside,
@@ -71,6 +90,8 @@ input {
 
 .md-tabs__item {
     height: 2.2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 
 .md-nav {
@@ -206,9 +227,56 @@ mjx-container[jax="CHTML"][display="true"] {
     margin: 0.5em auto !important;
 }
 
+/* style for svg */
 .scaling-svg {
     width: 100%; 
     padding-bottom: 92%; 
     height: 1px; 
     overflow: visible
+}
+
+/* Underline link */
+.md-tabs__link--active, .md-tabs__link:focus, .md-tabs__link:hover {
+    text-decoration: underline;
+}
+
+.md-nav__item .md-nav__link--active {
+    text-decoration: underline;
+}
+
+/* Search text */
+[aria-label="Tìm kiếm"] {
+    font-size: 0.8rem;
+    font-family: Literata;
+    font-weight: 700;
+}
+
+/* Site Label */
+[dir=ltr] .md-header__title {
+    margin-left: 0.3rem;
+}
+
+.md-header__title {
+    font-size: 1.1rem;
+    line-height: 2.4rem;
+    /* font-weight: 100; */
+}
+
+/* logo adjust */
+.md-header__button.md-logo {
+    margin: 0rem;
+    padding: 0.4rem;
+}
+    
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 1.8rem;
+}
+
+/* Table of content padding */
+.md-nav__title {
+    padding-bottom: .1em;
+}
+
+.md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
+    padding: 0 0.6rem 0.1rem 0.6rem;
 }
