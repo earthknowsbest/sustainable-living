@@ -227,3 +227,60 @@ Với các điểm tới hạn (*tipping points*) đang cận kề, 2ºC là m�
 !!! quote "Vanessa Nakate&mdash;Nhà hoạt động biến đổi khí hậu người Uganda"
 
     Có một điều mà tôi hầu như không bao giờ nghe các nhà lãnh đạo nhắc tới, đó là **mất mát và thiệt hại** (*loss and damage*) (đối với các nước nghèo&mdash;những nước gánh chịu thiệt hại nặng nề nhất do biến đổi khí hậu gây ra&mdash;Người dịch). Đối với nhiều người trong chúng tôi, các biện pháp giảm thiểu và phòng tránh là không đủ... Người ta không thể thích nghi với sự tuyệt chủng.
+
+## #6 :traffic_light: › Không còn ngân sách carbon cho mức tăng 2ºC với rủi ro vượt ngưỡng này thấp.
+
+Nhiệt độ tăng cao do khí nhà kính đã sẵn có trong bầu khí quyển
+
+- **Mất cân bằng năng lượng Trái đất** (EEI) là sự mất cân bằng bức xạ ở phần trên khí quyển (lớp giữa sự vào ra của bức xạ), làm nóng lên toàn cầu. Trái đất đang giữ lại [nhiều nhiệt lượng gấp đôi](https://www.nasa.gov/feature/langley/joint-nasa-noaa-study-finds-earths-energy-imbalance-has-doubled) so với năm 2025[^39].
+
+- Năm 2018 EEI vào cỡ 0,6-0,75ºC[^40]. Thêm vào mức hiện tại 1,2ºC, nhiệt độ sẽ tăng đến 1,8-1,95ºC với nồng độ khí nhà kính như ở mức hiện tại.
+
+- Nhưng khí thải sẽ không giảm xuống không trong nay mai, và 0,3ºC được kì vọng sẽ thêm vào trong thập kỉ tiếp theo, bất kể mức độ phát thải đến năm 2030 như thế nào.
+
+- Nếu sử dụng một cách tiếp cận quản lí rủi ro thận trọng&mdash;chú trọng vào thiệt hại lớn nhất dù khả năng xảy ra nhỏ thay vì các khả năng xảy ra ở mức trung bình&mdash;thì sẽ không có ngân sách carbon cho mục tiêu 2ºC[^41].
+
+[^39]:
+
+    [Mât cân bằng năng lượng](https://www.nasa.gov/feature/langley/joint-nasa-noaa-study-finds-earths-energy-imbalance-has-doubled)
+
+[^40]:
+
+    [EEI](https://www.nasa.gov/feature/langley/joint-nasa-noaa-study-finds-earths-energy-imbalance-has-doubled)
+
+[^41]:
+
+    [Ngân sách carbon](https://52a87f3e-7945-4bb1-abbf-9aa66cd4e93e.filesusr.com/ugd/148cb0_999447b69dde477a83b500dde076fbc6.pdf)
+
+## #7 :traffic_light: › Hàng loạt các điểm tới hạn đang gần kề
+
+Một vài điểm tới hạn (*tipping points*) đã bị vượt qua, trong khi một số khác đang rất gần
+
+- Điểm tới hạn là một ngưỡng mà khi vượt qua, những thay đổi lớn bất thường sẽ xảy ra; phản hồi xuôi (*positive feedback*) là vòng lặp tự gia tăng (*self-reinforce*) làm cho sự thay đổi diễn ra nhanh hơn nữa.
+
+- Các điểm tới hạn lớn được tương hỗ với nhau (*interrelated*) và có thể sẽ [diễn ra hàng loạt](https://e360.yale.edu/features/as-climate-changes-worsens-a-cascade-of-tipping-points-looms) (*cascade*)[^42] như được minh hoạ trong hình dưới đây.
+
+![Tipping-points](../../../assets/images/tipping-points.webp)
+
+Sự tương tác giữa các hệ thống khí hậu này có thể làm giảm ngưỡng nhiệt độ tới hạn (*critical temperature threshold*) mà ở đó các điểm tới hạn có thể bị vượt qua[^43].
+
+Nhiệt độ nước đại dương có thể làm [giảm độ sáng](https://phys.org/news/2021-09-earth-dimming-due-climate.html) (*brightness*) của Trái đất trong vòng hai thập kỉ vừa qua; từ đó, ít nhiệt hơn được phản xạ và hấp thụ. Hiệu ứng này tương đương với mức nhiệt độ tăng thêm 0,3ºC[^44].
+
+Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngưỡng mà ở đó tốc độ quang hợp (*photosynthesis*) sẽ bị giảm và khả năng dự trữ carbon của sinh quyển trên mặt đất (*terrestial bioshpere*) (hay “dự trữ trên đất” (*land sink*)) suy giảm. Điểm tới hạn sẽ được vượt qua [trong vòng 20-30 năm tới](https://advances.sciencemag.org/content/7/3/eaay1052.full) và, nằm trên quỹ đạo của dự kiến của mức phát thải cao (*high emission trajectory*), giảm gần một nửa khả năng dự trữ trên đất sẽ đạt tới sớm năm 2040[^45]. 
+
+[^42]:
+
+    [Diễn ra hàng loạt điểm tới hạn](https://e360.yale.edu/features/as-climate-changes-worsens-a-cascade-of-tipping-points-looms)
+
+[^43]:
+
+    [Ngưỡng nhiệt độ tới hạn](https://www.nature.com/articles/s41893-019-0454-4)
+
+[^44]:
+
+    [Giảm độ sáng Trái đất](https://phys.org/news/2021-09-earth-dimming-due-climate.html)
+
+[^45]:
+
+    [Điểm tới hạn đến sớm](https://advances.sciencemag.org/content/7/3/eaay1052.full)
+
