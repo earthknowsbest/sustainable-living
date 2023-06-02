@@ -284,3 +284,130 @@ Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngư�
 
     [Điểm tới hạn đến sớm](https://advances.sciencemag.org/content/7/3/eaay1052.full)
 
+## #8 :traffic_light: › 2ºC có thể kích hoạt kịch bản “Nhà kính Trái đất”
+
+Chúng ta đang rất gần với sự thay đổi khí hậu nghiêm trọng có thể vượt ra khỏi tầm kiểm soát
+
+- Kịch bản [“Nhà kính Trái đất”](https://www.pnas.org/content/115/33/8252) (*Hothouse Earth*) mà ở đó các phản hồi hệ thống trái đất và sự tương tác tương hỗ đã đẩy Hệ thống trái đất đến điểm không thể quay trở lại (*point of no return*), theo đó sự ấm lên trở thành một quá trình tự duy trì (*self-sustaining*) (nghĩa là không cần con người can thiệp thêm nữa)[^46].
+
+- Các ngưỡng tới hạn của hành tinh (*planetary threshold*) có thể tồn tại ở mức nhiệt độ tăng chỉ 2ºC, hay [thậm chí có thể trong phạm vi 1,5ºC-2ºC](https://www.pnas.org/content/115/33/8252)[^47]. 
+
+- Trong sự tương tác vật lí giữa Greenland và tảng băng Tây Nam Cực, sự lưu thông Đại Tây Dương (*Atlantic Meridional Overtuning Circulation*) và rừng nhiệt đới Amazon, lớp phủ băng ở cực thường là [các tác nhân](https://esd.copernicus.org/articles/12/601/2021/) gây ra hiện tượng sụp đổ hàng loạt (*cascade events*)[^48], với Greenland và Tây Nam Cực chịu rủi ro vượt quá điểm tới hạn chỉ trong khoảng tăng 1,5ºC-2ºC (và có những bằng chứng là điểu này đã xảy ra).
+
+- Tương tự, Giáo sự James Hansen đã cảnh báo năm 2017 răng: “Khí thải nhà kính trong thời gian gần đây đã đặt Trái đất và bối cảnh [rất gần với thay đổi khí hậu nghiệm trọng](https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2007.2052), có thể ngoài tầm kiểm soát chúng ta”.
+
+[^46]:
+    [Nhà kính Trái Đất](https://www.pnas.org/content/115/33/8252)
+
+[^47]:
+
+    [Ngưỡng tới hạn](https://www.pnas.org/content/115/33/8252)
+
+[^48]:
+
+    [Các hiện tượng sụp đổ](https://esd.copernicus.org/articles/12/601/2021/)
+
+[^49]:
+
+    [Thay đổi nghiêm trọng](https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2007.2052)
+
+## #9 :traffic_light: › Nhiệt độ tăng 3ºC sẽ là thảm hoạ
+
+Sinh kế của một tỉ người có thể bị phá hủy và ảnh hưởng nghiêm trọng.
+
+- Trừ phi phát thải khí nhà kích được giảm đáng kể trong thập kỉ này, sản lượng lương thực có thể giảm 30% vào năm 2050, trong khi nhu cầu thực phẩm sẽ cao hơn 50%. Tỉ lệ trung bình của đất trồng trọt toàn cầu sẽ bị ảnh hưởng bởi hạn hán nghiêm trọng (*giảm hơn 50% năng suất*) sẽ tăng lên 32%.
+
+- Ở mức tăng nhiệt độ 3ºC, sản xuất thực phẩm sẽ khôhng đủ để nuôi sống dân số do năng suất trung bình cây trồng giảm 20%, hàm lượng dinh dưỡng trong lương thực giảm, quần thể côn trùng sụp giảm nghiêm trọng, sa mạc hoá, mất mùa và sự thiếu nước thường xuyên.
+
+- 3ºC sẽ là [thảnm hoạ cho sinh kế của thế giới](https://www.pnas.org/content/114/39/10315) đối với 3 tỉ người nghèo nhất, bao gồm hầu hết người nông dân, mà sinh kế sẽ bị ảnh hưởng nặng nề, nếu không muốn nói là bị huỷ hoại, với siêu hạn hán (*megadrought*), sóng nhiệt(*heat waves*) và lũ lụt lớn (*heavy floods*) mỗi một đến năm năm.
+
+[^52]:
+
+    [Thảm hoạ ở 3ºC](https://www.pnas.org/content/114/39/10315)
+
+## #10 :traffic_light: › Thế giới đang trên quĩ đạo nóng lên từ 2 đến 3,6ºC vào năm 2100
+
+Chúng ta đang tiến dần tới mức nhiệt độ không tương thích với sự tổ chức cộng đồng toàn cầu của con người 
+
+- Nhiệt độ toàn cầu đang trên đà tiến tới mức tăng nhiệt độ 2-3,6ºC vào năm 2100 với các chính sách cam kết hiện tại của chính phủ ([xem hình dưới](https://climateactiontracker.org/global/cat-thermometer/))
+
+![CAT](../../../assets/images/CAT.webp)
+
+- Giáo sự Kevin Anderson nói rằng “Một tương lai 4ºC không tương thích với một cộng đồng toàn cầu có tổ chức tính của con người, có thể sẽ vượt quá khả năng [“thích nghi”](https://grist.org/climate-change/2011-12-05-the-brutal-logic-of-climate-change/) (*adaptation*), sẽ tàn phá phần lớn hệ sinh thái và có nhiều khả năng sẽ không ổn định (*stable*)”[^53].
+
+- Giáo sự Johan Rockström nói rằng ở 4ºC: “Thật khó để hình dung chúng ta sẽ thích nghi cho 8 tỉ người, thậm chí [chỉ một nửa trong số đó](https://www.theguardian.com/environment/2019/may/18/climate-crisis-heat-is-on-global-heating-four-degrees-2100-change-way-we-live)”[^54].
+
+- Nhiệt độ tăng vẫn đi theo quĩ đạo RCP8.5, và quĩ đạo này là [đường phù hợp nhất](https://www.pnas.org/content/117/33/19656) cho đến giữa thế kỉ này theo chính sách hiện tại cũng như đã cam kết[^55].
+
+[^53]:
+
+    [Thích nghi trong tương lai](https://grist.org/climate-change/2011-12-05-the-brutal-logic-of-climate-change/)
+
+[^54]:
+    [Thích nghi cho dân số](https://www.theguardian.com/environment/2019/may/18/climate-crisis-heat-is-on-global-heating-four-degrees-2100-change-way-we-live)
+
+## #11 :traffic_light: › Mực nước biển có thể dâng cao hàng chục mét
+
+Mức khí nhà kính hiện tại có thể làm mực nước biển dâng lên 25 mét.
+
+- Mực nước biển sẽ tiếp tục dâng lên trong nhiều thế kỉ tới, ngay cả khi con người ngừng phát thải khí nhà kính, do giai đoạn băng tan kéo dài lâu, do quán tính nhiệt (*thermal inertia*).
+
+- Các cơ quan Chính phủ Hoa Kì đã lên [kịch bản nước biển dâng “cao”](https://pubs.giss.nasa.gov/abs/sw01000b.html) vào năm 2100[^56].
+
+- Mực nước biển rốt cuộc sẽ dâng hàng chục mét: “Ngay cả khi chúng ta dừng phát thải khí CO_2 ngay hôm nay, và ổn định mức độ phát thải, thì mực nước biển cuối cùng cũng [dâng lên 25 mét](https://www.sciencedaily.com/releases/2009/06/090622103833.htm)”[^57].
+
+- Trong kỉ Pliocene (thời kỳ cuối của kỷ thứ ba trong lịch sử trái đất (khi nhiều động vật có vú hiện đại xuất hiện) 3-5 triệu năm trước, khi mức độ CO_2 tương tự như hôm nay, nhiệt độ lúc đó cao hơn mức tiền công nghiệp 2-4ºC và [mực nước biển cao hơn 20-25 mét](https://www.pnas.org/content/115/52/13288)[^58].
+
+- “Vào thời điểm đó, [chỉ báo](https://www.theguardian.com/science/2019/apr/03/south-pole-tree-fossils-indicate-impact-of-climate-change) cho biết “Greenland không còn lớp phủ băng, không có băng ở Tây Nam Cực và một phần lớn Đông Nam Cực đã cũng không còn”[^59].
+
+[^56]:
+
+    [Kịch bản nước biển dâng cao](https://pubs.giss.nasa.gov/abs/sw01000b.html)
+[^57]:
+
+    [Quán tính nhiệt](https://www.sciencedaily.com/releases/2009/06/090622103833.htm))
+
+[^58]:
+
+    [Mực nước biển dâng](https://www.pnas.org/content/115/52/13288)
+
+[^59]:
+
+    [Greenland không có băng](https://www.theguardian.com/science/2019/apr/03/south-pole-tree-fossils-indicate-impact-of-climate-change)
+
+## #12 :traffic_light: › Chỉ riêng việc giảm khí thải sẽ không có tác động đáng kể đến xu hướng nhiệt độ trong vòng hai thập kỉ tới 
+
+Khi việc sử dụng nhiên liệu hoá thạch giảm, lượng bụi min (*aerosol*) cũng giảm theo, bù trừ cho sự nóng lên.
+
+- Sản phẩm phụ của quá trình đốt nhiên liệu hoá thạch là bụi sulfate, vốn có [hiệu ứng làm giảm nhiệt mạnh](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076079) khoảng 0,5-1ºC, nhưng tồn tại thời gian ngắn trong khí quyển. Cho đến nay, bụi mịn này đã “che giấu”(*masking*) một phần của sự ấm lên toàn cầu[^60].
+
+- Giảm sử dụng than và các chính sách làm sạch không khí đã làm giảm hiệu ứng của bụi min. Đó là [“Thoả thuận với quỷ”](https://www.researchgate.net/publication/258310238_Climate_forcing_growth_rates_Doubling_down_on_our_Faustian_bargain) khi việc sử dụng nhiên liệu hoá thạch giảm, kéo theo đó hiệu ứng giảm nhiệt của bụi mịn. Do đó, trong hai thập kỉ tiếp theo, việc giảm phát thải khí nhà kính sẽ ít có ảnh hưởng đến xu hướng nóng lên. 
+
+- Mức giảm phát thải 5% của một loại khí nhà kính, từ năm 2020 và dựa trên dự báo mức phát thải trung bình, [không có ảnh hưởng đáng kể nào](http://www.nature.com/articles/s41467-020-17001-1) vào xu hướng nóng lên trong vòng hai thập kỉ tới, nếu so sánh với việc không giảm phát thải (xem bảng dưới)[^62].
+
+| Khí nhà kính  |  Năm |
+|:-------------:|:----:|
+| Carbon dioxit | 2044 |
+|     Mê-tan    | 2055 |
+|  Nitơ đioxit  | 2079 |
+|   Carbon đen  | 2048 |
+| Carbon hữu cơ | 2064 |
+
+- Tuy nhiên, việc cắt giảm mạnh nhanh chóng khí thải nhà kính là thiết yếu để tốc độ tăng nhiệt giảm dần.
+
+
+[^60]:
+
+    [Hiệu ứng làm lạnh](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076079)
+
+[^61]:
+
+    [Thoả thuận với quỷ](https://www.researchgate.net/publication/258310238_Climate_forcing_growth_rates_Doubling_down_on_our_Faustian_bargain), xem thêm chú thích 5
+
+[^62]:
+
+    [Không ảnh hưởng xu hướng nhiệt độ](http://www.nature.com/articles/s41467-020-17001-1)
+
+
+
+
