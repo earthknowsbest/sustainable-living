@@ -6,7 +6,9 @@
 
 ## #1 :traffic_light: › Nóng lên toàn cầu hiện ở mức 1,2°C và tiếp tục tăng nhanh hơn
 
-Tốc độ tăng của nhiệt độ toàn cầu có thể tăng nhanh trong vòng 20-30 năm sắp tới
+!!! quote ""
+
+    **Tốc độ tăng của nhiệt độ toàn cầu có thể tăng nhanh trong vòng 20-30 năm sắp tới**
 
 - Nhiệt độ toàn cầu năm 2020 ấm hơn 1,3°C so với cuối thế kỉ 19.
 - Nhiệt độ trung bình toàn cầu trong 5 năm 2016-2020 tăng 1,2°C, theo **NASA**[^1] và **Copernicus**[^2].
@@ -37,7 +39,9 @@ Tốc độ tăng của nhiệt độ toàn cầu có thể tăng nhanh trong v�
 
 ## #2 :traffic_light: › IPCC và mô hình khí hậu không lường hết được mọi rủi ro
 
-Hiện đang có một sự đánh giá thấp nghiêm trọng về các tác động của khí hậu tương lai
+!!! quote ""
+
+    **Chúng ta hiện đang giá thấp một cách nghiêm trọng các tác động của khí hậu trong tương lai**
 
 - Bởi các hạn chế của mô hình, chúng ta [không biết chính xác](https://theconversation.com/we-climate-scientists-wont-know-exactly-how-the-crisis-will-unfold-until-its-too-late-133400) cuộc khủng hoảng khí hậu sẽ diễn ra như thế nào cho đến khi đã quá muộn[^6]. Một ví dụ là việc [không dự báo được](https://www.bbc.com/news/science-environment-57863205) cường độ các hiện tượng lũ lụt và nắng nóng cực độ ở Châu Âu và Bắc Mĩ năm 2021[^7].
 
@@ -83,7 +87,9 @@ Hiện đang có một sự đánh giá thấp nghiêm trọng về các tác đ
 
 ## #3 :traffic_light: › Mức tăng 1,5ºC không phải là mục tiêu an toàn
 
-Các hệ sinh thái thiết yếu bao gồm Rặng san hô lớn (*Great Barrier Reef*) hiện đang phải đối mặt với sự tàn phá khốc liệt khi nhiệt độ nóng lên chưa đến 1,5ºC
+!!! quote ""
+    
+    **Các hệ sinh thái thiết yếu bao gồm Rặng san hô lớn (*Great Barrier Reef*) hiện đang phải đối mặt với sự tàn phá khốc liệt khi nhiệt độ nóng lên chưa đến 1,5ºC**
 
 - Rặng san hô lớn nằm trong một vòng xoáy tử thần: ở mức độ nóng lên toàn cầu hiện nay, mức độ [tẩy trắng san hô](https://vi.wikipedia.org/wiki/Tẩy_trắng_san_hô) (*coral bleaching*) sẽ diễn ra [mỗi ba đến bốn năm](https://www.nature.com/articles/nclimate3296)[^14], trong khi quá trình phục hồi phải mất hàng thập kỉ hoặc hơn.
 
@@ -138,7 +144,9 @@ Các hệ sinh thái thiết yếu bao gồm Rặng san hô lớn (*Great Barrie
 
 ## #4 :traffic_light: › Nhiệt độ có thể tăng lên 1,5ºC vào những năm 2030
 
-Không còn ngân sách carbon (*carbon budget*) nào dành cho mục tiêu Paris
+!!! quote ""
+
+    **Không còn ngân sách carbon (*carbon budget*) cho mục tiêu của Thỏa thuận Paris**
 
 - Lượng khí thải tăng, bụi mịn (*aerosols*) (từ ô nhiễm không khí) giảm dần và chu kì khí hậu tự nhiên sẽ [đóng phần làm nóng lên nhanh hơn](https://www.nature.com/articles/d41586-018-07586-5) bầu khí quyển[^24], và [phân tầng đại dương](https://insideclimatenews.org/news/28092020/ocean-stratification-climate-change) (*ocean stratification*) diễn ra mạnh mẽ hơn với tầng nước nóng phía trên[^25].
 
@@ -184,7 +192,9 @@ Không còn ngân sách carbon (*carbon budget*) nào dành cho mục tiêu Pari
 
 ## #5 :traffic_light: › 2ºC là một cột mốc nguy hiểm, và với lộ trình phát thải hiện tại, có thể xảy ra trước năm 2050 
 
-Với các điểm tới hạn (*tipping points*) đang cận kề, 2ºC là mức tăng dẫn đến thảm hoạ
+!!! quote ""
+
+    **Với các điểm tới hạn (*tipping points*) đang cận kề, 2ºC là mức tăng dẫn đến thảm hoạ**
 
 - Trên lộ trình phát thải cao (**SSP3-7.0** hay **SSP5-8.5**), nhiệt độ sẽ tăng [chạm ngưỡng 2ºC trước năm 2050](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/), và trung bình là vào năm 2043[^32].
 
@@ -230,7 +240,9 @@ Với các điểm tới hạn (*tipping points*) đang cận kề, 2ºC là m�
 
 ## #6 :traffic_light: › Không còn ngân sách carbon cho mức tăng 2ºC với rủi ro vượt ngưỡng này thấp.
 
-Nhiệt độ tăng cao do khí nhà kính đã sẵn có trong bầu khí quyển
+!!! quote ""
+    
+    **Nhiệt độ sẽ tăng cao do mức khí thải nhà kính đã sẵn có trong bầu khí quyển**
 
 - **Mất cân bằng năng lượng Trái đất** (EEI) là sự mất cân bằng bức xạ ở phần trên khí quyển (lớp giữa sự vào ra của bức xạ), làm nóng lên toàn cầu. Trái đất đang giữ lại [nhiều nhiệt lượng gấp đôi](https://www.nasa.gov/feature/langley/joint-nasa-noaa-study-finds-earths-energy-imbalance-has-doubled) so với năm 2025[^39].
 
@@ -254,7 +266,9 @@ Nhiệt độ tăng cao do khí nhà kính đã sẵn có trong bầu khí quy�
 
 ## #7 :traffic_light: › Hàng loạt các điểm tới hạn đang gần kề
 
-Một vài điểm tới hạn (*tipping points*) đã bị vượt qua, trong khi một số khác đang rất gần
+!!! quote ""
+    
+    **Một vài điểm tới hạn (*tipping points*) đã bị vượt qua, trong khi một số khác đang rất gần.**
 
 - Điểm tới hạn là một ngưỡng mà khi vượt qua, những thay đổi lớn bất thường sẽ xảy ra; phản hồi xuôi (*positive feedback*) là vòng lặp tự gia tăng (*self-reinforce*) làm cho sự thay đổi diễn ra nhanh hơn nữa.
 
@@ -286,7 +300,9 @@ Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngư�
 
 ## #8 :traffic_light: › 2ºC có thể kích hoạt kịch bản “Nhà kính Trái đất”
 
-Chúng ta đang rất gần với sự thay đổi khí hậu nghiêm trọng có thể vượt ra khỏi tầm kiểm soát
+!!! quote ""
+    
+    **Chúng ta đang rất gần với sự thay đổi khí hậu nghiêm trọng có thể vượt ra khỏi tầm kiểm soát**
 
 - Kịch bản [“Nhà kính Trái đất”](https://www.pnas.org/content/115/33/8252) (*Hothouse Earth*) mà ở đó các phản hồi hệ thống trái đất và sự tương tác tương hỗ đã đẩy Hệ thống trái đất đến điểm không thể quay trở lại (*point of no return*), theo đó sự ấm lên trở thành một quá trình tự duy trì (*self-sustaining*) (nghĩa là không cần con người can thiệp thêm nữa)[^46].
 
@@ -313,7 +329,9 @@ Chúng ta đang rất gần với sự thay đổi khí hậu nghiêm trọng c�
 
 ## #9 :traffic_light: › Nhiệt độ tăng 3ºC sẽ là thảm hoạ
 
-Sinh kế của một tỉ người có thể bị phá hủy và ảnh hưởng nghiêm trọng.
+!!! quote ""
+    
+    **Sinh kế của một tỉ người có thể bị phá hủy và ảnh hưởng nghiêm trọng.**
 
 - Trừ phi phát thải khí nhà kích được giảm đáng kể trong thập kỉ này, sản lượng lương thực có thể giảm 30% vào năm 2050, trong khi nhu cầu thực phẩm sẽ cao hơn 50%. Tỉ lệ trung bình của đất trồng trọt toàn cầu sẽ bị ảnh hưởng bởi hạn hán nghiêm trọng (*giảm hơn 50% năng suất*) sẽ tăng lên 32%.
 
@@ -327,7 +345,9 @@ Sinh kế của một tỉ người có thể bị phá hủy và ảnh hưởng
 
 ## #10 :traffic_light: › Thế giới đang trên quĩ đạo nóng lên từ 2 đến 3,6ºC vào năm 2100
 
-Chúng ta đang tiến dần tới mức nhiệt độ không tương thích với sự tổ chức cộng đồng toàn cầu của con người 
+!!! quote ""
+    
+    **Chúng ta đang tiến dần tới mức nhiệt độ không tương thích với sự tổ chức cộng đồng toàn cầu của con người.**
 
 - Nhiệt độ toàn cầu đang trên đà tiến tới mức tăng nhiệt độ 2-3,6ºC vào năm 2100 với các chính sách cam kết hiện tại của chính phủ ([xem hình dưới](https://climateactiontracker.org/global/cat-thermometer/))
 
@@ -348,7 +368,9 @@ Chúng ta đang tiến dần tới mức nhiệt độ không tương thích v�
 
 ## #11 :traffic_light: › Mực nước biển có thể dâng cao hàng chục mét
 
-Mức khí nhà kính hiện tại có thể làm mực nước biển dâng lên 25 mét.
+!!! quote ""
+    
+    **Mức khí thải nhà kính hiện tại có thể làm mực nước biển dâng lên 25 mét.**
 
 - Mực nước biển sẽ tiếp tục dâng lên trong nhiều thế kỉ tới, ngay cả khi con người ngừng phát thải khí nhà kính, do giai đoạn băng tan kéo dài lâu, do quán tính nhiệt (*thermal inertia*).
 
@@ -377,14 +399,17 @@ Mức khí nhà kính hiện tại có thể làm mực nước biển dâng lê
 
 ## #12 :traffic_light: › Chỉ riêng việc giảm khí thải sẽ không có tác động đáng kể đến xu hướng nhiệt độ trong vòng hai thập kỉ tới 
 
-Khi việc sử dụng nhiên liệu hoá thạch giảm, lượng bụi min (*aerosol*) cũng giảm theo, bù trừ cho sự nóng lên.
+!!! quote ""
+    
+    **Khi việc sử dụng nhiên liệu hoá thạch giảm, lượng sol khí (*aerosol*)&mdash;vốn ngăn cản sự nóng lên&mdash;cũng giảm theo**
 
-- Sản phẩm phụ của quá trình đốt nhiên liệu hoá thạch là bụi sulfate, vốn có [hiệu ứng làm giảm nhiệt mạnh](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076079) khoảng 0,5-1ºC, nhưng tồn tại thời gian ngắn trong khí quyển. Cho đến nay, bụi mịn này đã “che giấu”(*masking*) một phần của sự ấm lên toàn cầu[^60].
+- Sản phẩm phụ của quá trình đốt nhiên liệu hoá thạch là bụi sulfate, vốn có [hiệu ứng làm giảm nhiệt mạnh](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076079) khoảng 0,5-1ºC, nhưng tồn tại thời gian ngắn trong khí quyển. Cho đến nay, các sol khí này đã “che giấu”(*masking*) một phần sự nóng lên toàn cầu[^60].
 
-- Giảm sử dụng than và các chính sách làm sạch không khí đã làm giảm hiệu ứng của bụi min. Đó là [“Thoả thuận với quỷ”](https://www.researchgate.net/publication/258310238_Climate_forcing_growth_rates_Doubling_down_on_our_Faustian_bargain) khi việc sử dụng nhiên liệu hoá thạch giảm, kéo theo đó hiệu ứng giảm nhiệt của bụi mịn. Do đó, trong hai thập kỉ tiếp theo, việc giảm phát thải khí nhà kính sẽ ít có ảnh hưởng đến xu hướng nóng lên. 
+- Giảm sử dụng than và các chính sách làm sạch không khí đã làm giảm hiệu ứng của sol khí. Đó là [“Thoả thuận với quỷ”](https://www.researchgate.net/publication/258310238_Climate_forcing_growth_rates_Doubling_down_on_our_Faustian_bargain) khi việc sử dụng nhiên liệu hoá thạch giảm, kéo theo đó hiệu ứng giảm nhiệt của sol khí. Do đó, trong hai thập kỉ tiếp theo, việc giảm phát thải khí nhà kính sẽ ít có ảnh hưởng đến xu hướng nóng lên. 
 
 - Mức giảm phát thải 5% của một loại khí nhà kính, từ năm 2020 và dựa trên dự báo mức phát thải trung bình, [không có ảnh hưởng đáng kể nào](http://www.nature.com/articles/s41467-020-17001-1) vào xu hướng nóng lên trong vòng hai thập kỉ tới, nếu so sánh với việc không giảm phát thải (xem bảng dưới)[^62].
 
+<div markdown="1" align="center">
 | Khí nhà kính  |  Năm |
 |:-------------:|:----:|
 | Carbon dioxit | 2044 |
@@ -392,6 +417,9 @@ Khi việc sử dụng nhiên liệu hoá thạch giảm, lượng bụi min (*a
 |  Nitơ đioxit  | 2079 |
 |   Carbon đen  | 2048 |
 | Carbon hữu cơ | 2064 |
+</div>
+
+> Bảng trên biểu diễn năm mà ở đó của có thể quan sát được xu hướng nhiệt độ ngừng gia tăng từ việc cắt giảm 5% phát thải hàng năm bắt đầu từ năm 2020. Như chúng ta thấy, xu hướng gia tăng của nhiệt độ vẫn tiếp tục tăng hàng chục năm ngay cả sau khi cắt giảm khí thải.
 
 - Tuy nhiên, việc cắt giảm mạnh nhanh chóng khí thải nhà kính là thiết yếu để tốc độ tăng nhiệt giảm dần.
 

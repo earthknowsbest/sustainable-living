@@ -7,9 +7,9 @@ site_description: >-
 # customed port of serving
 dev_addr: '127.0.0.1:9000'
 nav:
-  - Home: index.md
+  # - Home: index.md
   - Thế giới:
-    - Tổ chức con người: overview/superorganism.md
+    # - Tổ chức con người: overview/superorganism.md
     - Biến đổi khí hậu: 
       - Báo cáo năm 2021:
         - overview/climate-change/climate-reality/index.md
@@ -19,7 +19,7 @@ nav:
         - Tổng hợp: overview/climate-change/climate-reality/reality-4.md
     - Năng lượng tái tạo: 
       - Hoài nghi °1: overview/renewables/renewable-skeptics.md
-      - Hoài nghi °2: overview/renewables/renewable-skeptics-2.md
+      # - Hoài nghi °2: overview/renewables/renewable-skeptics-2.md
   - Năng lượng:
     - Năng lượng & Sự sống: 
       - energy/life/index.md 
@@ -27,53 +27,53 @@ nav:
         - Tăng trưởng: energy/life/human-ambition/1-growth.md
         - Kinh tế: energy/life/human-ambition/2-econ.md
         - Dân số: energy/life/human-ambition/3-population.md
-  - Kinh tế:
-    - Phản tăng trưởng:
-      - economics/degrowth/decoupling.md
-      - economics/degrowth/beyondgrowth.md
-      - economics/degrowth/solution.md
-    - Bánh vòng (Doughnut): economics/doughnut/doughnut.md
-    - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
-    - Địa phương hoá: economics/localization.md
-  - Nông nghiệp sinh thái:
-    - Navdana: ecology/navdana.md
-    - Tương lai farm nhỏ: ecology/small-farm-future.md
-    - Vườn rừng: ecology/forest-garden.md
-  - Low-tech:
-    - Năng lượng mặt trời:
-      - Lời mở đầu: lowtech/solar/manifesto.md
-      - Bếp / Lò nướng: lowtech/solar/cook-1.md
-      - Bếp / Lò nướng 2: lowtech/solar/cook-2.md
-    - Nước ngọt:
-      - Chiết suất: lowtech/water/water-air.md
-      - Lọc nước °1: lowtech/water/water-purify/water-purify-1.md
-      - Lọc nước °2: lowtech/water/water-purify/water-purify-2.md
-      - Lọc nước °3: lowtech/water/water-purify/water-purify-3.md
-    - Bơm nước: lowtech/water/water-pump.md
-  - Chữa Lành Trái Đất:
-    - Sinh quyển: 
-      - Một nửa Trái Đất: earth/biosphere/half-earth.md
-      - Đại dương: earth/biosphere/ocean.md
-    - Cộng đồng:
-      - Phong trào: earth/community/movements.md
-      - Người dân tộc: earth/community/native.md
-      - Dự án Drawdown: earth/community/drawdown.md
-      - Đoàn kết: earth/community/solidarity.md
-    - Cá nhân:
-      - Thực phẩm: earth/personal/food.md
-      - Phụ nữ: earth/personal/women.md
-      - Giao thông: earth/personal/transport.md
-      - Tài nguyên: earth/personal/material.md
-      - Thành phố: earth/personal/city.md
-  - Con người:
-    - Tâm linh: human/spirituality.md
-    - Thể chất: human/body.md
-    - Dinh dưỡng: human/nutrition.md
-    - Giấc ngủ: human/sleep.md
-  - Blog:
-    - Trái đất: blog/earth-value.md
-  - About:
-    - Liên hệ: about/contact.md
+  # - Kinh tế:
+  #   - Phản tăng trưởng:
+  #     - economics/degrowth/decoupling.md
+  #     - economics/degrowth/beyondgrowth.md
+  #     - economics/degrowth/solution.md
+  #   - Bánh vòng (Doughnut): economics/doughnut/doughnut.md
+  #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
+  #   - Địa phương hoá: economics/localization.md
+  # - Nông nghiệp sinh thái:
+  #   - Navdana: ecology/navdana.md
+  #   - Tương lai farm nhỏ: ecology/small-farm-future.md
+  #   - Vườn rừng: ecology/forest-garden.md
+  # - Low-tech:
+  #   - Năng lượng mặt trời:
+  #     - Lời mở đầu: lowtech/solar/manifesto.md
+  #     - Bếp / Lò nướng: lowtech/solar/cook-1.md
+  #     - Bếp / Lò nướng 2: lowtech/solar/cook-2.md
+  #   - Nước ngọt:
+  #     - Chiết suất: lowtech/water/water-air.md
+  #     - Lọc nước °1: lowtech/water/water-purify/water-purify-1.md
+  #     - Lọc nước °2: lowtech/water/water-purify/water-purify-2.md
+  #     - Lọc nước °3: lowtech/water/water-purify/water-purify-3.md
+  #   - Bơm nước: lowtech/water/water-pump.md
+  # - Chữa Lành Trái Đất:
+  #   - Sinh quyển: 
+  #     - Một nửa Trái Đất: earth/biosphere/half-earth.md
+  #     - Đại dương: earth/biosphere/ocean.md
+  #   - Cộng đồng:
+  #     - Phong trào: earth/community/movements.md
+  #     - Người dân tộc: earth/community/native.md
+  #     - Dự án Drawdown: earth/community/drawdown.md
+  #     - Đoàn kết: earth/community/solidarity.md
+  #   - Cá nhân:
+  #     - Thực phẩm: earth/personal/food.md
+  #     - Phụ nữ: earth/personal/women.md
+  #     - Giao thông: earth/personal/transport.md
+  #     - Tài nguyên: earth/personal/material.md
+  #     - Thành phố: earth/personal/city.md
+  # - Con người:
+  #   - Tâm linh: human/spirituality.md
+  #   - Thể chất: human/body.md
+  #   - Dinh dưỡng: human/nutrition.md
+  #   - Giấc ngủ: human/sleep.md
+  # - Blog:
+  #   - Trái đất: blog/earth-value.md
+  # - About:
+  #   - Liên hệ: about/contact.md
     
 theme: 
   name: material
