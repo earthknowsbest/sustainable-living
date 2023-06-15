@@ -142,3 +142,9 @@ Trong khi đó, bộ lạc Thực tế, những người theo chủ nghĩa hiệ
 Và sau đó là những người Arcadian có suy nghĩ dài hạn. Họ đang hỏi, làm thế nào để chúng ta học cách sống với ít tài nguyên hơn và làm tốt hơn để ngăn chặn sự cạn kiệt tài nguyên của Trái đất? Làm thế nào để chúng ta thừa nhận các giới hạn sinh lí (*biophysical limits*) và giải quyết vấn đề biến đổi khí hậu như một triệu chứng của cuộc khủng hoảng tiêu thụ quá mức còn trầm trọng hơn? Công nghệ nào phù hợp và công nghệ nào không? Làm thế nào để các cộng đồng chuẩn bị cho sự sụp đổ nếu chúng ta không thể quản lý việc giảm năng lượng?
 
 Như tôi đã lưu ý trong bài luận ban đầu của mình, đó là cuộc trò chuyện khó khăn mà chúng ta cần, và là cuộc trò chuyện mà các nhà lãnh đạo thuộc bộ lạc Cố hữu tiếp tục tránh né.
+
+<hr>
+
+[I Warned Against the Green Energy ‘Boom.’ It Sparked Debate](https://thetyee.ca/Analysis/2023/05/10/Warning-Against-Green-Energy-Boom-Sparks-Debate/)
+
+**Tác giả: Andrew Nikiforuk**
