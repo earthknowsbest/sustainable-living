@@ -9,7 +9,7 @@ dev_addr: '127.0.0.1:9000'
 nav:
   # - Home: index.md
   - Thế giới:
-    # - Tổ chức con người: overview/superorganism.md
+    - Xã hội hữu cơ: overview/superorganism.md
     - Biến đổi khí hậu: 
       - Báo cáo năm 2021:
         - overview/climate-change/climate-reality/index.md
