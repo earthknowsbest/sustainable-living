@@ -112,8 +112,10 @@ Việc từ chối thừa nhận sự thật này khiến thế giới chỉ có
 
 Chúng ta sẽ có thể sẽ hứng chịu cả hai.
 
-<hr>
+<hr/>
+
+**Tác giả: Andrew Nikiforuk**
 
 [The Curse of Energy Efficiency](https://thetyee.ca/Opinion/2018/02/26/Energy-Efficiency-Curse/)
 
-**Tác giả: Andrew Nikiforuk**
+<hr/>

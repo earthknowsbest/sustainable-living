@@ -143,8 +143,10 @@ Và sau đó là những người Arcadian có suy nghĩ dài hạn. Họ đang 
 
 Như tôi đã lưu ý trong bài luận ban đầu của mình, đó là cuộc trò chuyện khó khăn mà chúng ta cần, và là cuộc trò chuyện mà các nhà lãnh đạo thuộc bộ lạc Cố hữu tiếp tục tránh né.
 
-<hr>
+<hr/>
+
+**Tác giả: Andrew Nikiforuk**
 
 [I Warned Against the Green Energy ‘Boom.’ It Sparked Debate](https://thetyee.ca/Analysis/2023/05/10/Warning-Against-Green-Energy-Boom-Sparks-Debate/)
 
-**Tác giả: Andrew Nikiforuk**
+<hr/>

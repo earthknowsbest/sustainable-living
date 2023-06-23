@@ -148,11 +148,13 @@ Xã hội sẽ tạo ra những sản phẩm đơn giản mà bền, có thể d
 
 Đây là cuộc đối thoại mà chúng ta cần ngay bây giờ. Một cuộc đối thoại mà chúng ta vẫn tiếp tục tránh né.
 
-<hr>
+<hr/>
+
+**Tác giả: Andrew Nikiforuk**
 
 [The Rising Chorus of Renewable Energy Skeptics](https://thetyee.ca/Analysis/2023/04/07/Rising-Chorus-Renewable-Energy-Skeptics/)
 
-**Tác giả: Andrew Nikiforuk**
+<hr/>
 
 
 
