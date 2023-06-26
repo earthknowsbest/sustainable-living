@@ -1,1 +1,16 @@
 # Lời nói đầu
+
+Tôi sẽ dành một bài sắp tới để tóm tắt logic. Hiện tại, tôi khuyên bạn nên làm theo sách giáo khoa mới (PDF miễn phí). Ít nhất hãy đọc các đoạn giới thiệu và các phần Kết luận ngắn ở cuối mỗi chương để có một chuyến tham quan ngắn về thông điệp mới nổi. Để thu gọn nó hơn nữa, vòng cung là:
+
+- Vật lý cho biết sự tăng trưởng liên tục với tốc độ quen thuộc là không thể sau vài thế kỷ (Chương 1: ).
+- Tăng trưởng kinh tế và dân số cũng phải chấm dứt, thậm chí có thể tăng quá mức do sự hiện diện phổ biến của phản hồi tiêu cực bị trì hoãn (Chương 2 và 3).
+- Không gian là một giai đoạn tuyệt vời để khám phá, nhưng không đưa ra giải pháp hữu hình, thực tế cho các vấn đề trên (Chương 4).
+- Nhiên liệu hóa thạch có nhiều thuộc tính kỳ diệu khó thay thế. Chúng có thể tạo ra sự tăng trưởng bùng nổ, nhưng nhất thiết sẽ lụi tàn và có thể châm ngòi cho các cuộc chiến tranh tài nguyên mang tính hủy diệt trong giai đoạn suy tàn (Chương 8).
+Biến đổi khí hậu, hậu quả của nhiên liệu hóa thạch, là một mối đe dọa nghiêm trọng, nhưng chỉ là một trong danh sách dài các tệ nạn gây ra cho các hệ sinh thái và tài nguyên hữu hạn (Chương 9).
+- Các công nghệ năng lượng thay thế gặp khó khăn trong việc duy trì kỳ vọng, do đó không chỉ sự tăng trưởng sẽ dừng lại: chúng ta rất có thể phải đối mặt với sự suy giảm năng lượng sẵn có (Chương 10 đến 17).
+- Tâm lý con người và các thể chế chính trị/kinh tế biến một tình thế khó khăn về mặt kỹ thuật thành một cái bẫy gần như vô vọng. Các biện pháp khuyến khích thiên về phần thưởng ngắn hạn một cách đáng kinh ngạc trong khi rõ ràng không biết gì về mối nguy hiểm trong tương lai. Sự lạc quan phổ biến dựa trên đánh giá (lịch sử) nhìn về phía sau và những tình cảm như “cho đến nay vẫn tốt”, “con người thật tuyệt vời và sẽ giải quyết mọi vấn đề” và “mọi thứ luôn trở nên tốt hơn” thay vì đánh giá khách quan bằng các công cụ toán học và khoa học để làm sáng tỏ những hậu quả không thể tránh khỏi của việc tiếp tục tăng trưởng và sử dụng tài nguyên (Chương 18, 19 và Phần kết).
+- Đáng tiếc là chúng ta không được trang bị đầy đủ để đánh giá đúng sự bất thường của thời đại chúng ta và đánh giá một bức tranh chính xác hơn về “sự bình thường” trong dài hạn sẽ trông như thế nào. Không làm như vậy sẽ dẫn đến thất bại…không kiểm soát được. Sự tiến hóa có thể đã phát hiện ra bằng thí nghiệm mù quáng thông thường của nó về giới hạn thông minh của một loài thành công (Phần kết, Phụ lục D.5 và D.6).
+
+Tóm lại, chúng ta có thể bỏ qua các dấu hiệu cảnh báo và kiên quyết tiếp tục quỹ đạo hiện tại, chỉ chấp nhận những điều chỉnh nhỏ miễn là chúng ta gặp ít hoặc không gặp bất tiện. Nhưng để làm gì? Nếu cách tiếp cận đó dẫn đến sự thất bại của nền văn minh, liệu nó có còn là sự lựa chọn đúng đắn? Chúng tôi đủ thông minh để đào một cái lỗ ấn tượng cho chính mình. Chúng ta có đủ khôn ngoan để nhìn qua xẻng của mình để hiểu điều này sẽ kết thúc ở đâu và thay đổi hành vi đủ để tránh số phận tồi tệ nhất không? Tôi luôn hy vọng và có lẽ một cách phi lý rằng chúng ta đang như vậy, nhưng vẫn khao khát có được bằng chứng chắc chắn.
+
+https://today.ucsd.edu/story/a-textbook-case-for-heeding-planetary-limits
