@@ -31,3 +31,5 @@ https://today.ucsd.edu/story/a-textbook-case-for-heeding-planetary-limits
 https://www.youtube.com/watch?v=2fbOWhJy7So&list=PPSV
 
 https://dothemath.ucsd.edu/2021/05/to-what-end/#more-1773
+
+https://dothemath.ucsd.edu/2021/05/why-worry-about-collapse/#more-1834
