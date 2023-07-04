@@ -34,8 +34,9 @@ Phần lớn thời gian trong 300.000 năm qua, con người sống trong các 
 
 ![holocene](../assets/images/holocene.webp)
 
-> **Hình 1**: Nhiệt độ trái đất trong 20.000 năm.
-Hình ảnh: [Jos Hagelaars/Max Edkins/World Bank](https://qz.com/154196/the-only-way-to-stop-climate-change-now-may-be-revolution)
+!!! quote ""
+
+    **Hình 1**: Nhiệt độ trái đất trong 20.000 năm. Hình ảnh: [Jos Hagelaars/Max Edkins/World Bank](https://qz.com/154196/the-only-way-to-stop-climate-change-now-may-be-revolution)
 
 Vào thế kỷ 19, quá trình này đã được đẩy nhanh nhờ việc phát hiện ra carbon hóa thạch trên quy mô lớn và việc phát minh ra các công nghệ sử dụng nó làm nhiên liệu. Carbon hóa thạch đã cung cấp cho con người một nguồn năng lượng cực kỳ hiệu quả (nhưng hữu hạn) có thể khai thác theo tốc độ chúng ta muốn, không giống như nguồn ánh sáng mặt trời ổn định và có độ khuếch tán lớn của các thời đại trước.
 
@@ -116,7 +117,9 @@ Mối quan hệ năng lượng/công việc này là nền tảng của cuộc c
 
 ![energy-cost](../assets/images/e-cost.webp)
 
-> **Hình 2**. Tác động của công nghệ + năng lượng giá rẻ/đắt đối với tiền lương/lợi nhuận.
+!!! quote "" 
+    
+    **Hình 2**. Tác động của công nghệ + năng lượng giá rẻ/đắt đối với tiền lương/lợi nhuận.
 
 Mặc dù sản lượng công nghiệp hiện đại không hiệu quả về mặt năng lượng nhưng nó cực kỳ tiết kiệm chi phí vì năng lượng hóa thạch rẻ hơn nhiều so với năng lượng từ lao động của con người. Đây là **“trợ cấp hóa thạch”** (*fossil subsidy*), làm cho lợi nhuận, tiền lương và mức sống hiện đại cao hơn đáng kể so với các nền văn minh trước đây dựa trên các nguồn năng lượng tái tạo không tập trung khác. Một người bình thường vào năm 2015 đã tạo ra GDP gấp 14 lần so với một người vào năm 1800&mdash;và một người Mỹ bình thường gấp 49 lần! Người Mỹ hiện đại&mdash;thông qua trợ cấp năng lượng của mình&mdash;sở hữu lượng **trao đổi chất thể lí** (*physical metabolism*) tương đương với khối lượng các loài linh trưởng nặng hơn 30 tấn.
 
@@ -128,7 +131,9 @@ Năm 2018, nền kinh tế toàn cầu vận hành với mức sản lượng n�
 
 ![world-energy](../assets/images/world-energy.webp)
 
-> **Hình 3**. Cơ cấu năng lượng toàn cầu 1800–2018 (Nguồn: BP, 2019, Likvern 2019). Tổng sản phẩm thế giới (hay GDP toàn cầu) 1980-2018 được lấy từ dữ liệu Quĩ tiền tệ Quốc tế IMF.
+!!! quote ""
+
+    **Hình 3**. Cơ cấu năng lượng toàn cầu 1800–2018 (Nguồn: BP, 2019, Likvern 2019). Tổng sản phẩm thế giới (hay GDP toàn cầu) 1980-2018 được lấy từ dữ liệu Quĩ tiền tệ Quốc tế IMF.
 
 ### Khả năng thay thế năng lượng
 
@@ -167,7 +172,9 @@ Sử dụng quá trình quang hợp dưới dạng dòng điện tích nhỏ, c�
 
 ![oil-us](../assets/images/oil-us.webp)
 
-> **Hình 4**: Sản lượng dầu ở Hoa Kì (1900–2018). Nguồn: EIA, Drilling info & Labyrinth Consulting Services, Inc.
+!!! quote ""
+
+    **Hình 4**: Sản lượng dầu ở Hoa Kì (1900–2018). Nguồn: EIA, Drilling info & Labyrinth Consulting Services, Inc.
 
 Phía bên trái của **Hình 4** truyền tải một thông điệp thường bị hiểu sai lệch nhưng phổ biến về sản lượng dầu hiện tại của Hoa Kỳ. Do những tiến bộ công nghệ, Hoa Kỳ đã trở thành nhà sản xuất dầu hàng đầu thế giới. Người ta có ấn tượng sai lầm rằng công nghệ đã chiến thắng sự cạn kiệt khiến dầu trở nên dồi dào và do đó không phải là rủi ro đối với tăng trưởng trong tương lai. Tuy nhiên, thực tế được mô tả chính xác hơn trong bảng bên phải: nói chung, các nguồn **dầu phi đá phiến** (*non-shale oil*) được chứng minh là đang suy giảm vĩnh viễn. Mức tăng trong tổng sản lượng là kết quả của việc [dầu đá phiến](https://vi.wikipedia.org/wiki/%C4%90%C3%A1_phi%E1%BA%BFn_d%E1%BA%A7u) (màu đỏ), gần đây đã chiếm 52% tổng sản lượng. Dầu đá phiến có trong **đá nguồn** (*source rock*) nơi bắt nguồn của tất cả các loại dầu khác. Dầu đá phiến gây tốn kém về mặt kinh tế và sinh thái, và nhanh chóng cạn kiệt (đến 90% trong 3 năm đầu tiên). Một giếng dầu khoan mới điển hình đòi hỏi các thiết bị phức tạp, 1.200 xe tải chở nước, 100 xe lửa chở cát và 8-10 triệu Đô-la Mĩ chi phí khoan và hoàn thiện. Điều này giải thích tại sao Chỉ số giá sản xuất giếng khoan dầu khí của Hoa Kỳ tăng 350% từ năm 2005 đến năm 2014 (Cục Thống kê Lao động Hoa Kỳ, 2018).
 
@@ -183,7 +190,9 @@ Năng lượng tham gia vào nền kinh tế toàn cầu thông qua thăm dò, k
 
 ![copper-variation](../assets/images/copper-variation.webp)
 
-> **Hình 5**: Tiêu thụ năng lượng (màu đỏ) và sản xuất đồng (màu lam). Nguồn: Cochilco (Cơ sở dữ liệu hàng năm 1998-2007)
+!!! quote ""
+
+    **Hình 5**: Tiêu thụ năng lượng (màu đỏ) và sản xuất đồng (màu lam). Nguồn: Cochilco (Cơ sở dữ liệu hàng năm 1998-2007)
 
 Đồng là một mặt hàng công nghiệp quan trọng để nhân rộng các công nghệ dựa trên năng lượng tái tạo như xe điện. **Hình 5** cho thấy sản lượng đồng hàng năm so với năm 2001 (màu xanh lam) của Chile. Tổng năng lượng được sử dụng để xử lý quặng đồng và lượng tiêu thụ được thể hiện bằng màu đỏ. Các loại quặng chất lượng thấp hơn đòi hỏi phải tăng năng lượng (và nước) để khai thác, dẫn đến dự báo sẽ có ít đồng hơn trong thập kỷ tới (theo Ủy ban Đồng Chile, 2018) trong khi nhu cầu về đồng ngày càng tăng.
 
@@ -203,7 +212,9 @@ Vì tiền đòi hỏi sự sẵn có của năng lượng[^2], nên nợ là m�
 
 ![debt](../assets/images/debt.webp)
 
-> **Hình 6**: Sản lượng khai thác các giếng dầu giả định với việc sử dụng/không sử dụng nợ
+!!! quote ""
+
+    **Hình 6**: Sản lượng khai thác các giếng dầu giả định với việc sử dụng/không sử dụng nợ
 
 Nợ là một khái niệm được tạo ra từ xã hội con người nhưng đi kèm với những hệ quả liên quan đến thế giới vật chất. **Hình 6** minh họa cách nợ kéo các nguồn lực về phía trước theo thời gian. Ví dụ trong một khu mỏ dầu, giả sử các khu vực được tô đậm khác nhau thể hiện các chi phí khai thác từng lớp giếng dầu[^3]. Có được khả năng tiếp cận nguồn tài chính giá rẻ cho phép một công ty mở rộng hoạt động khoan ở những nơi ít có giá trị thương mại cận biên thấp miễn là các chủ nợ mới tin tưởng vào triển vọng trong tương lai. Nguồn vốn vay này cho phép công ty dầu mỏ “tạo ra ống hút dầu lớn hơn”, khai thác mới với chi phí cao hơn (màu đen đậm ở bảng bên phải) và nâng cao tổng sản lượng khai thác. Tuy nhiên, điều này dẫn đến sự sụt giảm mạnh hơn trong tương lai vì mức tăng tạm thời không thể duy trì: lớp giếng dầu tiếp theo được khai thác mang lại sản lượng kém hơn và hiệu quả tài chính thường đi kèm với tỷ lệ suy giảm cao và chất lượng dầu thấp hơn. Dầu và khí đốt phi truyền thống (như dầu đá phiến) là điển hình cho hiện tượng này.
 
@@ -219,7 +230,9 @@ Bất chấp niềm tin phổ biến rằng việc có nhiều tiền và năng 
 
 ![energy-hdi](../assets/images/energy-hdi.webp)
 
-> **Hình7**: Sử dụng năng lượng trên đầu người vs. Chỉ số phát triển con người
+!!! quote ""
+    
+    **Hình 7**: Sử dụng năng lượng trên đầu người vs. Chỉ số phát triển con người
 
 Các chỉ số sinh lý (và tâm lý) khác có thể theo dõi sức khỏe con người chặt chẽ hơn so với GDP và sử dụng năng lượng. Nếu chúng ta có các **cấu trúc hỗ trợ xã hội** (*social support structures*), nhiều thiếu thốn về thể chất có thể được khắc phục. Sau khi các nhu cầu cơ bản được đáp ứng, những điều tốt nhất trong cuộc sống thường miễn phí.
 
@@ -237,7 +250,9 @@ GDP tăng vọt trong thế kỷ 20 có mối liên hệ chặt chẽ với vi�
 
 ![human-resource-1](../assets/images/human-resource-1.webp){ width="100%" }
 
-> **Hình 8**: Con người và khả năng tiếp cận năng lượng
+!!! quote ""
+
+    **Hình 8**: Con người và khả năng tiếp cận năng lượng
 
 Trong thời kỳ tiền công nghiệp cho đến Điểm A, loài người đã di cư khắp hành tinh để tiếp cận các nguồn năng lượng từ mặt trời bằng cách sử dụng công nghệ tương đối đơn giản như nông nghiệp, thuyền buồm, nô lệ và động vật sức kéo. Vào buổi bình minh của cuộc cách mạng công nghiệp, Điểm B, nhân loại đã bổ sung trữ lượng nhiên liệu hoá thạch vào nền kinh tế con người. Không có mô tả hợp lý nào về phần dư Solow (tức là phần tăng trưởng kinh tế không được giải thích bằng lao động hoặc vốn) trong thời gian này vì đường màu đen và đường màu đỏ không tách rời nhau.
 
@@ -294,7 +309,9 @@ Về nguyên tắc, một siêu thực thể có thể trở nên siêu thông m
 
 ![co2-concentration](../assets/images/co2-concentration.webp)
 
-> **Hình 9**: Nồng độ CO~2~ trong khí quyển, nhiệt độ toàn cầu và các mốc sự kiện nổi bật
+!!! quote ""
+
+    **Hình 9**: Nồng độ CO~2~ trong khí quyển, nhiệt độ toàn cầu và các mốc sự kiện nổi bật
 
 **Hình 9** mô tả nồng độ CO~2~ theo thời gian với nhưng nỗ lực chủ yếu để giảm lượng khí thải. Bất chấp những nỗ lực này, 2018 đánh dấu năm có nhiều năng lượng nhất từng bị đốt cháy, lượng CO~2~ do con người thải ra nhiều nhất và nồng độ khí quyển cao nhất trong hơn ba triệu năm qua. Do mối liên hệ trực tiếp giữa các nền kinh tế của con người với “lửa” và nhiệt lượng carbon, biến đổi khí hậu và axit hóa đại dương đang&mdash;và mối quan hệ này sẽ vẫn duy trì trong tương lai&mdash;liên quan trực tiếp đến quá trình trao đổi chất của các nền kinh tế con người. Một phát hiện chính trong đánh giá khí hậu AR5 là động lực phát thải lớn nhất trên toàn cầu là **tăng trưởng thu nhập** (*growth in income*). Từ mối quan hệ chặt chẽ bằng hàm số luỹ thừa được mô tả ở trên suy ra rằng mức tiêu thụ kinh tế hiện tại sẽ không khả thi nếu không có mức tiêu thụ nhiên liệu hoá thạch. Trong một hệ thống kinh tế phụ thuộc vào năng lượng để phát triển, việc thúc đẩy các cử tri lựa chọn việc giữ nhiên liệu hoá thạch trong lòng đất (thay vì khai thác và tiêu thụ) cũng giống như việc tranh cãi với một đám cháy rừng. *Do đó, biến đổi khí hậu và sự giảm thiểu các tác động của nó thực chất là hệ quả của xã hội hữu cơ siêu thực thể[^5].
 
@@ -312,7 +329,9 @@ Ngoài sự tách rời năng lượng một cách tuyệt đối hoặc tương
 
 ![energy-yoy](../assets/images/energy-yoy.webp)
 
-> **Hình 10**: Tiêu thụ năng lượng từ Nhiên liệu hoá thạch và năng lượng tái tạo
+!!! quote ""
+
+    **Hình 10**: Tiêu thụ năng lượng từ Nhiên liệu hoá thạch và năng lượng tái tạo
 
 Lượng khí thải carbon và hoạt động kinh tế có thể được “tách rời” nếu chúng ta tăng sản xuất năng lượng phi hóa thạch nhanh hơn tốc độ tăng tiêu thụ năng lượng (về cơ bản: nhanh hơn tốc độ tăng trưởng kinh tế). Nhưng điều đó không xảy ra trên toàn cầu. **Hình 10** cho thấy sự gia tăng tiêu thụ nhiên liệu hoá thạch và năng lượng tái tạo trong thế kỷ này. Năm duy nhất mà mức tiêu thụ nhiên liệu hóa thạch giảm (hoặc tăng ít hơn năng lượng tái tạo) là trong giai đoạn cuộc khủng hoảng tài chính toàn cầu năm 2009. Trên thực tế, mức tăng nhu cầu điện toàn cầu chỉ trong năm 2018 nhiều hơn toàn bộ công suất lắp đặt trong lịch sử của điện mặt trời (theo BP, 2019). **Hình 10** cho thấy rằng các giải pháp thực chất duy nhất cho vấn đề **quá tải** (*overshoot*) (như mức tiêu thụ tài nguyên chẳng hạn) và phát thải khí nhà kính sẽ bao gồm việc thu hẹp qui mô kinh tế chứ không phải là tăng trưởng.
 
@@ -328,7 +347,9 @@ Hãy coi tín dụng như một cây đũa thần, cho phép chúng ta chi tiêu
 
 ![gdp-debt](../assets/images/gdp-debt.webp)
 
-> **Hình 11**: GDP và Nợ Hoa Kì 1951-2014. Nguồn: Bloomberg, St. Louis Federal Reserve
+!!! quote ""
+
+    **Hình 11**: GDP và Nợ Hoa Kì 1951-2014. Nguồn: Bloomberg, St. Louis Federal Reserve
 
 **Hình 11** biểu thị nợ (màu đen) so với GDP (màu xanh lá cây) của Hoa Kỳ. Các biểu đồ về nợ/GDP của hầu hết các quốc gia phát triển khác cho thấy các mô hình tương tự. Nếu (chỉ tính riêng) nợ chính phủ không tăng lên, nền kinh tế của chúng ta đã ngừng tăng trưởng hơn một thập kỷ trước. Phần lớn tăng trưởng GDP gần đây của chúng ta chỉ là chi tiêu tiền vay. Trên toàn cầu, **“năng suất nợ”** (*debt productivity*) (bằng tỉ trọng tăng trưởng kinh tế so với tăng trưởng nợ) hiện giảm xuống còn khoảng 30 xu trên một Đô-la Mĩ. Nếu tỷ lệ này bằng 0, chúng ta sẽ thêm nợ chỉ để giữ cho nền kinh tế có cùng quy mô. Chúng ta đã gia tăng các nghĩa vụ trả nợ của mình nhanh hơn mức tăng trưởng của nền kinh tế vì đó là điều bắt buộc. Trên toàn cầu, việc sử dụng cây đũa phép tín dụng thần kỳ tỏ ra nguy hiểm và không bền vững, nhưng xã hội hữu cơ siêu thực thể đòi hỏi chúng ta tiếp tục làm như vậy.
 
@@ -344,7 +365,9 @@ Về cốt lõi, nền văn hóa của chúng ta có một mô hình kinh tế v
 
 ![human-resouce-2](../assets/images/human-resource-2.webp){ width="100%" }
 
-> **Hình 12**: Sự thu nhỏ vĩ đại (điểm ~Z)
+!!! quote ""
+
+    **Hình 12**: Sự thu nhỏ vĩ đại (điểm ~Z)
 
 **Hình 12** đưa chúng ta trở lại bức tranh tổng thể. Sau khi làm bất cứ điều gì để tiếp tục tăng trưởng, chúng ta hiện đang tiếp cận **Điểm X**, sử dụng đường màu đèn (tín dụng) để tăng tốc độ việc tiếp cận năng lượng hóa thạch và tài nguyên không thể tái tạo, từ đó tạo ra GDP toàn cầu. Tất cả các chính phủ và các tổ chức lớn trên danh nghĩa đều đang lập kế hoạch tăng trưởng (hướng tới **Điểm Y**). Chúng ta đang sử dụng đường màu đen (tài chính) và những câu chuyện cổ vũ nó để tạm thời kéo dài đường màu đỏ theo hướng đó. Hãy nhớ lại cách nợ kéo các nguồn lực tương lai để sử dụng trong hiện tại ở ví dụ về mỏ dầu. Toàn bộ nền kinh tế cũng không khác. Chúng ta nên lập kế hoạch cho mức năng lượng tiêu thụ xung quanh **Điểm F**, điều này sẽ định hướng một cách có ý thức năng lượng và vật liệu có entropy thấp còn lại của chúng ta để xây dựng cơ sở hạ tầng năng lượng tái tạo và một xã hội chủ yếu dựa vào các nguồn năng lượng của hệ sinh thái[^7]. Tuy nhiên, động lực thị trường của xã hội hữu cơ siêu thực thể chỉ có thể “thấy” và di chuyển về phía **Điểm Y**. Nó không thể nhìn thấy rủi ro của **Điểm Z** (điểm dừng khó khăn nếu chúng ta ngừng sử dụng tín dụng để thúc đẩy tăng trưởng), cũng như cách lập kế hoạch dài hạn cho sản lượng năng lượng ở lân cận **Điểm F**.
 

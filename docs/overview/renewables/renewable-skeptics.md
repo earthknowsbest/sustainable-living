@@ -50,11 +50,13 @@ Khi bạn đã bỏ qua toàn bộ những lời nói hoa mĩ và viển vông m
 
 Một chiếc điện thoại thông minh điển hình chứa ít nhất 40 nguyên tố từ bảng tuần hoàn hóa học bao gồm coban và sáu nguyên tố đất hiếm giúp màn hình phát sáng. Một chiếc xe điện bình quân cần nhiều hơn gấp sáu lần khoáng chất thiết yếu so với một chiếc xe chạy xăng. Một nhà máy điện gió trên đất liền cần chín lần nhiều hơn tài nguyên khoáng sản so với nhà máy nhiệt điện chạy bằng khí ga tương đương. Một chiếc xe đạp chạy điện cần nhiều tài nguyên hơn so với một chiếc xe đạp thường, vân vân và vân vân. Năng lượng tái tạo không chỉ tăng tốc nhu cầu đối với tài nguyên đất hiếm mà còn với nhiều kim loại nền tảng như đồng, bạc và coban.
 
-<div style="margin-top: 2rem">
+<div style="margin: 2rem auto; ">
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/za6dE5JrNB0?cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-> Chuyên gia về xung đột khai khoáng Olivia Lazard: “Chúng ta có thể sẽ đánh mất tương lai nhân loại bằng cách cố gắng cứu nó thoát khỏi biến đổi khí hậu. Thật là một sự trớ trêu phải không?” «**Video trên có phụ đề tiếng Việt**».
+!!! quote "Chuyên gia về xung đột khai khoáng Olivia Lazard"
+    
+    “Chúng ta có thể sẽ đánh mất tương lai nhân loại bằng cách cố gắng cứu nó thoát khỏi biến đổi khí hậu. Thật là một sự trớ trêu phải không?” «**Video trên có phụ đề tiếng Việt**».
 
 Trung bình một chiếc xe hơi điện [chứa](https://mining.ca/our-focus/climate-change/mining-and-its-role-in-clean-technology/) khoảng 75 kg đồng, nhiều gấp 3 lần xe hơi chạy xăng dầu. Một tuabin điện gió được làm từ 500 kg thiếc, khoảng 100 tấn thép được luyện từ than đá. Mỗi tấm pinn mặt trời làm bằng tinh thể silicon chứa khoảng 20 gam bột bạc. Để sản xuất 1 GigaWatt (1 tỷ Watt) từ năng lượng mặt trời sẽ cần 80 tấn bạc này ([tương đương](https://www.energy.gov/eere/articles/how-much-power-1-gigawatt) với công suất của 9.000 xe hơi chạy điện Nissan Leafs).
 

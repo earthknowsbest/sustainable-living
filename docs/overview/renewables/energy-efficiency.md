@@ -2,7 +2,9 @@
 
 ![vem-van](../../assets/images/ZebraMussels.jpg)
 
-> Công nghệ hiệu quả hơn đã xâm chiếm nền kinh tế như cách các con vẹm vằn xâm lấn Ngũ Đại Hồ (*Great Lakes*) ở Hoa Kì. Ảnh cũng cấp bởi NOAA/D. Jude, Đại học Michigan qua Flickr, Creative Commons licensed.
+!!! quote "Công nghệ hiệu quả hơn"
+ 
+    ... đã xâm chiếm nền kinh tế như cách các con vẹm vằn xâm lấn Ngũ Đại Hồ (*Great Lakes*) ở Hoa Kì. Ảnh cung cấp bởi NOAA/D. Jude, Đại học Michigan qua Flickr, Creative Commons licensed.
 
 !!! quote "Lời dẫn"
 

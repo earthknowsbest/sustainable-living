@@ -9,6 +9,7 @@ dev_addr: '127.0.0.1:9000'
 nav:
   # - Home: index.md
   - Thế giới:
+    - Tương lai kinh hoàng: overview/ghastly-future.md
     - Dân số & 4ºC: overview/population-crisis.md
     - Xã hội hữu cơ: overview/superorganism.md
     - Biến đổi khí hậu: 

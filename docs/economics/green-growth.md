@@ -6,7 +6,9 @@
 
 ![solar-panel](../assets/images/solar-panel.jpeg)
 
-> Các tấm pin năng lượng mặt trời xung quanh một cái cây ở Los Arcos, Tây Ban Nha, ngày Feb. 24, 2023. (AP Photo/Alvaro Barrientos)
+??? note "Các tấm pin năng lượng mặt trời" 
+    
+    ... xung quanh một cái cây ở Los Arcos, Tây Ban Nha, ngày Feb. 24, 2023. (AP Photo/Alvaro Barrientos)
 
 Trong biên niên sử của nền văn minh công nghiệp, **Thỏa thuận xanh mới** (*Green New Deal*)[^1] được coi là một trong những dự án đầy tham vọng. Quy mô của nó rất lớn, hứa hẹn sẽ cải cách mọi khía cạnh về việc cung cấp năng lượng cho máy móc, thắp sáng nhà cửa và cung cấp nhiên liệu cho ô tô. Vào thời điểm cuối cùng của cuộc khủng hoảng sinh thái và khí hậu, **Thỏa thuận mới xanh** cũng là một hành động tuyệt vọng. Nền văn hóa ngốn năng lượng của chúng ta không thể tiếp tục thải ra khí carbon mà không phá hủy các hệ thống vốn là nền tảng của bất kỳ nền văn minh tiên tiến nào, chưa kể đến chính sự sống của loài người. Phải nhanh chóng làm một điều gì đó để giảm bớt áp lực lên khí quyển trong khi vẫn cung cấp năng lượng cho cỗ máy kinh tế.
 
@@ -28,7 +30,9 @@ Khả năng này không được đề cập do sự lấn át của “tăng tr
 
 ![tua-bin-gio](../assets/images/tua-bin.jpeg)
 
-> Tua-bin gió ở trại phát điện gió ngoài khơi Saint-Nazaire, ngoài khơi Pháp France, ngày Sept. 22, 2022. (Stephane Mahe/Pool photo via AP)
+??? note "Tua-bin gió"
+
+    ... ở trại phát điện gió ngoài khơi Saint-Nazaire, ngoài khơi Pháp France, ngày Sept. 22, 2022. (Stephane Mahe/Pool photo via AP)
 
 Trong một tập podcast năm 2019 của anh có tiêu đề “Cách giải quyết biến đổi khí hậu và làm cho cuộc sống trở nên tuyệt vời hơn”, Klein than thở rằng “các cuộc trò chuyện về biến đổi khí hậu khá ảm đạm [nhưng] khử cacbon không có nghĩa là chấp nhận một tương lai kém sung túc hơn&mdash;nó có là một tương lai tuyệt vời, nhân văn hơn, phong phú hơn về công nghệ và truyền cảm hứng xã hội hơn cho tất cả chúng ta”. Vị khách của anh, Saul Griffith, nhà phát minh và người ủng hộ năng lượng sạch, đồng ý rằng “Kích thước chiêhc ôtô của bạn có thể vẫn lớn như vậy, chỉ khác là nó chạy bằng điện. Giấc mơ Mỹ (*The American Dream*) có thể tuyệt vời hơn bao giờ hết.”
 
@@ -126,7 +130,9 @@ Theo Cơ quan Khảo sát Địa chất Phần Lan, trong 22 năm tới, nhân l
 
 ![copper-mine](../assets/images/copper-mine.jpeg)
 
-> Mỏ khai thác đồng ở Kennecott Bingham Canyon, ngày May 11, 2022, Herriman, Utah. (AP Photo/Rick Bowmer)
+??? note "Mỏ khai thác đồng"  
+
+    ... ở Kennecott Bingham Canyon, ngày May 11, 2022, Herriman, Utah. (AP Photo/Rick Bowmer)
 
 Có rất nhiều lý do dẫn đến biến động giá trong ngắn hạn và trung hạn&mdash;chu kỳ kinh doanh, chiến tranh, các liên hiệp xí nghiệp (*cartel*), cấm vận, thuế quan, sự thay thế (nguyên vật liệu), lo ngại về môi trường và độc tính, v.v.&mdash;những yếu tố có thể gây ra ‘sự bất thường về giá’ chỉ trong vòng vài phút cho đến một vài thập kỷ. “Đó là lý do tại sao tôi tập trung vào các xu hướng giá NNR lâu dài trong các phân tích của mình, thường là 100 năm trở lên”, Clugston nói với tôi. “Tự nhiên đang siết chặt lại. Và chúng ta chẳng thể làm gì được”.
 
@@ -166,7 +172,9 @@ Hickel và những người theo chủ nghĩa phản tăng trưởng khác chỉ
 
 ![degrowth-art](../assets/images/degrowth-street.jpeg)
 
-> “Cách tăng trưởng bền vững duy nhất là Phản tăng trưởng”&mdash;Nghệ thuật đường phố “Phản tăng trưởng”. Photo by Paul Sableman / CC by 2.0
+??? note "Phản tăng trưởng" 
+
+    “Cách tăng trưởng bền vững duy nhất là Phản tăng trưởng”&mdash;Nghệ thuật đường phố “Phản tăng trưởng”. Photo by Paul Sableman / CC by 2.0
 
 Những người theo chủ nghĩa phản tăng trưởng chỉ ra rằng một tương lai đầy hy vọng hơn đòi hỏi nhiều hơn là sự phát triển vượt bậc của công nghệ xanh để thay thế nhiên liệu hóa thạch. Tương lai này không có chỗ cho sự duy trì tốc độ tăng trưởng GDP hay những cố gắng không ngừng gia tăng sự phức tạp của nền kinh tế. Nếu muốn tránh sự sụp đổ sinh thái, chúng ta phải đi theo con đường ngược lại, con đường thu hẹp và đơn giản hóa, thu hẹp quy mô nền kinh tế và dân số, để Homo sapiens có thể phát triển thịnh vượng với khả năng tự tái tạo và đồng hóa của sinh quyển (*regenerative and assimilative capacity of the biosphere*). Nói cách khác, chúng ta phải sống trong các giới hạn sinh-lý (biophysical limts) của hành tinh chúng ta.
 
