@@ -56,11 +56,11 @@ Nó cũng thừa nhận rằng các nền kinh tế, xã hội và phần còn l
 
 Điều gì có thể giúp một tổ chức trở nên tái tạo và phân phối để đưa nhân loại phát triển trong phạm vi vòng xuyến? DEAL đã tổ chức các cuộc hội thảo với các doanh nghiệp, sở ban ngành thành phố, các quỹ và các loại tổ chức khác muốn khám phá câu hỏi này và những tác động mang tính chuyển đổi.
 
-Trọng tâm của các hội thảo này là tập trung vào thiết kế: không phải thiết kế sản phẩm và dịch vụ của, hay thậm chí là tòa nhà văn phòng, mà là thiết kế của chính tổ chức. Theo mô tả của Marjorie Kelly, một nhà lý thuyết hàng đầu về thiết kế doanh nghiệp thế hệ tiếp theo, có năm lớp thiết kế chính định hình mạnh mẽ những gì một tổ chức có thể làm và tồn tại trên thế giới:
+Trọng tâm của các hội thảo này là tập trung vào thiết kế: không phải thiết kế sản phẩm và dịch vụ của, hay thậm chí là tòa nhà văn phòng, mà là thiết kế của chính tổ chức. Theo mô tả của Marjorie Kelly, một nhà lý thuyết hàng đầu về thiết kế doanh nghiệp cho thế hệ tiếp theo, có năm lớp thiết kế định hình chủ yếu những gì một tổ chức có thể làm và tồn tại trên thế giới:
 
-Mục đích. Mạng. Quản trị. Quyền sở hữu. Tài chính.
+**Mục đích** (*Purpose*). **Mạng lưới** (*Networks*). **Quản trị** (*Governance*). **Quyền sở hữu** (*Ownership*). **Tài chính** (*Finance*).
 
-Năm khía cạnh này của thiết kế tổ chức cùng nhau định hình sâu sắc khả năng của bất kỳ tổ chức nào để trở nên tái tạo và phân phối theo thiết kế, và do đó giúp đưa nhân loại vào Donut.
+Năm khía cạnh này của thiết kế cùng nhau định hình sâu sắc khả năng của bất kỳ tổ chức nào để trở nên có khả năng tái tạo và phân phối, từ đó giúp nhân loại đi vào trong vòng khuyên.
 
 ## Nguyên tắc thực hành của Kinh tế học Doughnut
 
