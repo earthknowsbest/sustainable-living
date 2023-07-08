@@ -32,7 +32,8 @@ nav:
         - Dân số: energy/life/human-ambition/3-population.md
   - Kinh tế:
     - Tăng trưởng xanh: economics/green-growth.md
-  #   - Phản tăng trưởng:
+    - Phản tăng trưởng:
+      - Khái niệm: economics/degrowth/intro.md
   #     - economics/degrowth/decoupling.md
   #     - economics/degrowth/beyondgrowth.md
   #     - economics/degrowth/solution.md

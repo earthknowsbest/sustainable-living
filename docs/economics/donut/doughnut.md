@@ -46,11 +46,13 @@ Nếu mục tiêu của thế kỷ 21 là đáp ứng nhu cầu của tất cả
 
 Kinh tế học Doughnut đề xuất một tư duy kinh tế phù hợp với thời đại của chúng ta. Nó không phải là một tập hợp các chính sách và thể chế, mà là một cách tư duy làm sao để mang lại những động lực có **khả năng tái tạo** (*regenerative*) và **phân phối** (*distributive*) mà thế kỷ này đòi hỏi. Dựa trên những hiểu biết sâu sắc từ các trường phái tư duy kinh tế đa dạng&mdash;bao gồm **kinh tế học sinh thái** (*ecological*), **nữ quyền** (*feminist*), **thể chế** (*institutional*), **hành vi** (*behavioral*) và **phức hợp** (*complexity*)&mdash; cuốn sách đưa ra bảy cách suy nghĩ như một nhà kinh tế học thế kỷ 21 nhằm chuyển đổi nền kinh tế, từ địa phương sang toàn cầu.
 
-Điểm khởi đầu của Kinh tế học Doughnut là thay đổi mục tiêu từ tăng trưởng GDP vô hạn sang sự phát triển thịnh vượng bên trong vòng xuyến. Đồng thời, nhìn thấy bức tranh toàn cảnh bằng cách nhận ra rằng nền kinh tế gắn liền với và phụ thuộc vào xã hội và thế giới sống. Kinh tế học Doughnut nhận ra rằng hành vi của con người có thể được nuôi dưỡng để trở nên hợp tác và quan tâm, cũng như nó có thể mang tính cạnh tranh và chủ nghĩa cá nhân.
+Điểm khởi đầu của Kinh tế học Doughnut là thay đổi mục tiêu từ tăng trưởng GDP vô hạn sang sự phát triển thịnh vượng bên trong vòng khuyên. Đồng thời, nhìn thấy bức tranh toàn cảnh bằng cách nhận ra rằng nền kinh tế gắn liền với và phụ thuộc vào xã hội và thế giới sống. Kinh tế học Doughnut nhận ra rằng hành vi của con người có thể được nuôi dưỡng để trở nên hợp tác và quan tâm, cũng như nó có thể mang tính cạnh tranh và chủ nghĩa cá nhân.
 
 Nó cũng thừa nhận rằng các nền kinh tế, xã hội và phần còn lại của thế giới sống là những hệ thống phức tạp, phụ thuộc lẫn nhau, được hiểu rõ nhất qua lăng kính của tư duy hệ thống. Và nó kêu gọi biến các nền kinh tế suy thoái ngày nay thành các nền kinh tế phục hồi và các nền kinh tế chia rẽ thành các nền kinh tế phân phối nhiều hơn. Cuối cùng, Kinh tế học Doughnut nhận ra rằng tăng trưởng có thể là một giai đoạn lành mạnh của cuộc đời, nhưng không có gì phát triển mãi mãi: những thứ thành công bằng việc tăng trưởng sẽ đến lúc phải trưởng thành lên và phát triển theo chiều hướng bền vững.
 
-<!-- Tìm hiểu sâu hơn về bảy cách để suy nghĩ như một nhà kinh tế học thế kỷ 21 với loạt hoạt hình dài 90 giây của chúng tôi. -->
+Tìm hiểu sâu hơn về [bảy cách để suy nghĩ như một nhà kinh tế học thế kỷ 21](https://songbenvung.net/economics/donut/donut-thinking/) với giải thích và những video dài 90 giây.
+
+![7-way](../../assets/images/7-way.webp)
 
 ## Tại sao việc thiết kế lại quan trọng
 
