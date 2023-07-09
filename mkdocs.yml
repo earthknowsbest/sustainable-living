@@ -42,10 +42,13 @@ nav:
       - Tư duy kinh tế: economics/donut/donut-thinking.md
   #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
   #   - Địa phương hoá: economics/localization.md
-  # - Nông nghiệp sinh thái:
+  # -  Sinh thái:
+      # - Nông nghiệp:
   #   - Navdana: ecology/navdana.md
   #   - Tương lai farm nhỏ: ecology/small-farm-future.md
   #   - Vườn rừng: ecology/forest-garden.md
+    # - Vegan:
+  #   - intro: ecology/vegan.md
   # - Low-tech:
   #   - Năng lượng mặt trời:
   #     - Lời mở đầu: lowtech/solar/manifesto.md

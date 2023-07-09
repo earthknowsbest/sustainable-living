@@ -1,9 +1,9 @@
 # **Phản tăng trưởng** (Degrowth)
 
 ## 1. Sự ám ảnh chết người về tăng trưởng kinh tế
-
+<!-- https://youtu.be/KLiXmteCvUI -->
 <div style="margin: 2rem auto; ">
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/KLiXmteCvUI?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/vHGGn8Wodc8?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## 2. **Phản tăng trưởng**: Đã đến lúc sống tốt hơn và [tiêu thụ] ít hơn?
