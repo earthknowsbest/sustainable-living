@@ -32,6 +32,7 @@ nav:
         - Dân số: energy/life/human-ambition/3-population.md
   - Kinh tế:
     - Kinh tế Phật giáo: economics/buddhist-econ.md
+    - Địa phương hoá: economics/localization.md
     - Tăng trưởng xanh: economics/green-growth.md
     - Phản tăng trưởng:
       - Khái niệm: economics/degrowth/intro.md
@@ -42,7 +43,6 @@ nav:
       - Khái niệm: economics/donut/doughnut.md
       - Tư duy kinh tế: economics/donut/donut-thinking.md
   #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
-  #   - Địa phương hoá: economics/localization.md
   # -  Sinh thái:
       # - Nông nghiệp:
   #   - Navdana: ecology/navdana.md
