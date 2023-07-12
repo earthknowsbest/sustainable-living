@@ -1,6 +1,6 @@
 # Khủng hoảng khí hậu có thể quét sạch sáu tỷ người
 
-Tác giả của khái niệm “dấu chân sinh thái” (*ecological footprint*)[^1] nói về sự sống và cái chết trong một thế giới có nhiệt độ gia tăng hơn 4ºC (so với thời kì tiền công nghiệp).
+Tác giả của khái niệm **“dấu chân sinh thái”** (*ecological footprint*)[^1] nói về sự sống và cái chết trong một thế giới có nhiệt độ gia tăng hơn 4ºC (so với thời kì tiền công nghiệp).
 
 [^1]:
 
