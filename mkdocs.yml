@@ -43,7 +43,8 @@ nav:
       - Khái niệm: economics/donut/doughnut.md
       - Tư duy kinh tế: economics/donut/donut-thinking.md
   #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
-  # -  Sinh thái:
+  - Sinh thái:
+    - Cây cỏ Việt Nam: ecology/viet-plants.md
       # - Nông nghiệp:
   #   - Navdana: ecology/navdana.md
   #   - Tương lai farm nhỏ: ecology/small-farm-future.md
