@@ -8,7 +8,15 @@ site_description: >-
 dev_addr: '127.0.0.1:9000'
 nav:
   # - Home: index.md
-  - Thế giới:
+  - Sinh thái:
+    - Đa dạng sinh học: ecology/biodiversity.md
+    - Khủng hoảng: ecology/bio-crisis.md
+    - Cây cỏ Việt Nam: ecology/viet-plants.md
+    - Vườn rừng: ecology/forest-garden.md
+    # - Nông nghiệp:
+  #   - Navdana: ecology/navdana.md
+  #   - Tương lai farm nhỏ: ecology/small-farm-future.md
+  - Khí hậu:
     - Tương lai kinh hoàng: overview/ghastly-future.md
     - Dân số & 4ºC: overview/population-crisis.md
     - Xã hội hữu cơ: overview/superorganism.md
@@ -19,17 +27,17 @@ nav:
         - Rủi ro lớn (13 → 15): overview/climate-change/climate-reality/reality-2.md
         - Hành động (16 → 20): overview/climate-change/climate-reality/reality-3.md
         - Tổng hợp: overview/climate-change/climate-reality/reality-4.md
-    - Năng lượng tái tạo: 
-      - Hoài nghi °1: overview/renewables/renewable-skeptics.md
-      - Hoài nghi °2: overview/renewables/renewable-skeptics-2.md
-      - Hiệu quả năng lượng: overview/renewables/energy-efficiency.md
   - Năng lượng:
     - Năng lượng & Sự sống: 
-      - energy/life/index.md 
+      - energy/index.md 
       - Khát vọng con người: 
-        - Tăng trưởng: energy/life/human-ambition/1-growth.md
-        - Kinh tế: energy/life/human-ambition/2-econ.md
-        - Dân số: energy/life/human-ambition/3-population.md
+        - Tăng trưởng: energy/human-ambition/1-growth.md
+        - Kinh tế: energy/human-ambition/2-econ.md
+        - Dân số: energy/human-ambition/3-population.md
+    - Năng lượng tái tạo: 
+      - Hoài nghi °1: energy/renewables/renewable-skeptics.md
+      - Hoài nghi °2: energy/renewables/renewable-skeptics-2.md
+      - Hiệu quả năng lượng: energy/renewables/energy-efficiency.md
   - Kinh tế:
     - Kinh tế Phật giáo: economics/buddhist-econ.md
     - Địa phương hoá: economics/localization.md
@@ -43,12 +51,6 @@ nav:
       - Khái niệm: economics/donut/doughnut.md
       - Tư duy kinh tế: economics/donut/donut-thinking.md
   #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
-  - Sinh thái:
-    - Cây cỏ Việt Nam: ecology/viet-plants.md
-      # - Nông nghiệp:
-  #   - Navdana: ecology/navdana.md
-  #   - Tương lai farm nhỏ: ecology/small-farm-future.md
-  #   - Vườn rừng: ecology/forest-garden.md
     # - Vegan:
   #   - intro: ecology/vegan.md
   # - Low-tech:

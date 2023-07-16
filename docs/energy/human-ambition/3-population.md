@@ -10,8 +10,8 @@ Chúng ta hãy cùng nhìn vào thực tế với một viễn cảnh khả dĩ 
 
 Trong bối cảnh tăng trưởng năng lượng và tài nguyên, chương này sẽ tập trung vào mức tăng đáng báo động của dân số. **Hình** $\textbf{3.1}$ cho thấy mức cầu năng lượng tăng nhanh hơn so với dân số như thế nào, khi đặt trong cùng một biểu đồ bắt đầu từ thế kỉ $19$. Từ năm $1900$ đến $1950$, tiêu thụ năng lượng trên đầu người chỉ tăng khiêm tốn, nhưng sau năm $1950$ nó đã tăng ở mức chóng mặt. Theo đó, hiện nay thế giới đang có tương đương $25$ tỉ người tiêu thụ ở mức năng lượng của thế kỉ $19$.
 
-![Pop-31-Light](../../../assets/images/pop-31-light.svg#only-light)
-![Pop-31-Dark](../../../assets/images/pop-31-dark.svg#only-dark)
+![Pop-31-Light](../../assets/images/pop-31-light.svg#only-light)
+![Pop-31-Dark](../../assets/images/pop-31-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.1}$ *Dân số (màu đỏ) và cầu năng lượng (màu xanh) trong cùng một đồ thị, cho thấy cầu năng lượng (công suất tiêu thụ) tăng như thế nào so với dân số, dẫn đến sự gia tăng tiêu thụ năng lượng trên đầu người. Thang đo của mỗi đường được tỉ suất sao cho trùng với nhau vào đầu thế kỉ $19$*
 
@@ -21,13 +21,13 @@ Vì dân số đóng vai trò quan trọng trong những dự báo, chúng ta c�
 
 **Hình** $\textbf{3.2}$ biểu diễn lịch sử của dân số toàn cầu trong $12.000$ năm. Để ý rằng trong phần lớn lịch sử, mức độ tăng hầu như không đáng kể. Việc lo lắng về sự gia tăng mạnh mẽ của dân số trong thời gian gần đây là điều tự nhiên, vì đây là một sự khác thường của thời đại chúng ta đang sống. Có phải biểu đồ chỉ là một hàm số mũ không? Những hàm số mũ&mdash;dù có hình dạng thế nào&mdash;cũng cho thấy một mức độ gia tăng đáng báo động bắt đầu từ một thời điểm nào đó, mà đôi khi được gọi là đồ thị có hình dạng “gậy khúc côn cầu” (đầu gậy dẹt và trở nên cong vút vào phần đuôi). Để có cái nhìn cận cảnh hơn, chúng ta vẽ đồ thị dân số theo thang logarit ở trục tung (**Hình** $\textbf{3.3}$). Giờ đây chúng ta có thể nhìn nhận được cả quá trình phát triển dân số chỉ thông qua hàm số mũ với những tỉ suất tăng trưởng không đổi.
 
-![Pop-32-Light](../../../assets/images/pop-32-light.svg#only-light)
-![Pop-32-Dark](../../../assets/images/pop-32-dark.svg#only-dark)
+![Pop-32-Light](../../assets/images/pop-32-light.svg#only-light)
+![Pop-32-Dark](../../assets/images/pop-32-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.2}$ *Ước tính dân số toàn cầu theo lịch sử con người hiện đại, theo thang tuyến tính; trong khi* **Hình** $\textbf{3.1}$ *biểu diễn giai đoạn lịch sử cận đại.*
 
-![Pop-33-Light](../../../assets/images/pop-33-light.svg#only-light)
-![Pop-33-Dark](../../../assets/images/pop-33-dark.svg#only-dark)
+![Pop-33-Light](../../assets/images/pop-33-light.svg#only-light)
+![Pop-33-Dark](../../assets/images/pop-33-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.3}$ *Ước tính dân số toàn cầu theo lịch sử con người hiện đại, theo thang logarit.*
 
@@ -35,8 +35,8 @@ Thật ngạc nhiên, ngay cả với thang đo logarit, đồ thì cũng có h�
 
 Sự gia tăng nhanh chóng này cần được quan sát kĩ càng hơn nữa. **Hình** $\textbf{3.4}$ biểu diễn khoảng $1000$ năm trở lại đây, phân ra các thời kì phát triển với tỉ suất ngày càng năng. Thời gian nhân đôi tương ứng với bốn tỉ suất được trình bày trong **Bảng** $\textbf{3.1}$.
 
-![Pop-34-Light](../../../assets/images/pop-34-light.svg#only-light)
-![Pop-34-Dark](../../../assets/images/pop-34-dark.svg#only-dark)
+![Pop-34-Light](../../assets/images/pop-34-light.svg#only-light)
+![Pop-34-Dark](../../assets/images/pop-34-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.4}$ *Ước tính dân số toàn cầu trong những thế kỉ gần đây. Trên thang logarit, những đường thẳng theo hệ số góc&mdash;hay độ dốc&mdash;cũng biểu diễn một đường hàm số mũ. Theo đó, bốn phần của hàm số mũ ứng với tỉ suất tăng trưởng tăng dần.*
 
@@ -94,8 +94,8 @@ $$
 
 > **Bảng** $\textbf{3.2}$: *Các cột mốc dân số: thời điểm dân số thế giới tăng thêm một tỷ người. Thời gian tăng thêm 1 tỷ người (cột Số năm) và thời gian nhân đôi được biểu diễn theo năm. Vào khoảng năm $1965$, tốc độ tăng trưởng lên đến gần $2\%$, với thời gian nhân đôi $35$ năm.*
 
-![Pop-35-Light](../../../assets/images/pop-35-light.svg#only-light)
-![Pop-35-Dark](../../../assets/images/pop-35-dark.svg#only-dark)
+![Pop-35-Light](../../assets/images/pop-35-light.svg#only-light)
+![Pop-35-Dark](../../assets/images/pop-35-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.5}$: *Đồ thị mô phỏng **Bảng** $\textbf{3.2}$, biểu diễn khoảng thời gian dân số tăng thêm $1$ tỷ người.*  
 
@@ -177,8 +177,8 @@ $$
 
 Chúng ta nhân tốc độ ban đầu $rP$ với một hệ số sao cho tốc độ tăng trưởng có thể thay đổi từ $r → r(Q-P)/Q$. Khi $P$ tương đối nhỏ so với $Q$, tốc độ thực sự (*effective rate*) gần bằng với tốc độ ban đầu $r$. Nhưng tốc độ tăng trưởng thực sự sẽ tiệm cận với $0$ khi $P$ tiến gần đến $Q$. Nói cách khác, tăng trưởng sẽ giảm dần và tiến tới $0$ khi quần thể đạt đến điểm bão hoà khi $P → Q$ (xem **Hình** $\textbf{3.6}$).
 
-![Pop-36-Light](../../../assets/images/pop-36-light.svg#only-light)
-![Pop-36-Dark](../../../assets/images/pop-36-dark.svg#only-dark)
+![Pop-36-Light](../../assets/images/pop-36-light.svg#only-light)
+![Pop-36-Dark](../../assets/images/pop-36-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.6}$ Tốc độ tăng trưởng trong mô hình logistic giảm khi dân số tăng, bắt đầu với $r$ khi $P=0$ và đạt tới $0$ khi $P -> Q$ (xem **Phương trình** $\textbf{3.5}$).
 
@@ -194,8 +194,8 @@ $$
 
     Tham số $t_{0}$ là thời điểm khi đường logistic bị phân đôi. Thời gian trước điểm này có giá trị âm ($t-t_{0}$).
 
-![Pop-37-Light](../../../assets/images/pop-37-light.svg#only-light)
-![Pop-37-Dark](../../../assets/images/pop-37-dark.svg#only-dark)
+![Pop-37-Light](../../assets/images/pop-37-light.svg#only-light)
+![Pop-37-Dark](../../assets/images/pop-37-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.7}$: đường dân số logistic (màu lam), đôi khi được gọi là đường S (*S-curve*), theo công thức trong **Phương trình** $\textbf{3.6}$, trong trường hợp này được vẽ với $r=0{,}5$ để phù hợp với ví dụ trên. Đường màu đỏ là hàm số mũ ở đố không có phản hồi ngược.
  
@@ -248,8 +248,8 @@ Trên thực tế, các quyết định của con người đối với việc s
 
 Chúng ta có thể khám phá điều gì xảy ra với đường logistic nếu **phản hồi ngược** bị trễ lại ở các mức độ khác nhau. **Hình** $\textbf{3.8}$ đưa ra vài ví dụ về **sự quá tải** khi độ trễ tăng. Để tránh **sự quá tải**, độ trễ ($𝜏$) cần phải nhỏ hơn thời gian cần thiết để thiết lập quân bình: $1/r$, với $r$ trong **Phương trình** $\textbf{3.5}$ và $\textbf{3.6}$. Trong ví dụ về nai chúng ta lấy $r=0.5$, bất kì độ trễ nào lớn hơn khoảng $2$ năm sẽ dẫn đến **sự quá tải**. Với tốc độ tăng trưởng vừa phải (của dân số loài người), độ trễ tương ứng vào cỡ thập kỉ (xem **Hộp** $\textbf{3.1}$).
 
-![Pop-38-Light](../../../assets/images/pop-38-light.svg#only-light)
-![Pop-38-Dark](../../../assets/images/pop-38-dark.svg#only-dark)
+![Pop-38-Light](../../assets/images/pop-38-light.svg#only-light)
+![Pop-38-Dark](../../assets/images/pop-38-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.8}$: Phản hồi bị trì hoãn thường mang tới **sự quá tải** và dao động, được biểu diễn với các giá trị trễ ($𝜏$) khác nhau. Đường màu đen ($\tau=0$) là đường logistic không bị trễ. Khi độ trễ tăng dần, mức độ nghiêm trọng của **sự quá tải** gia tăng. Độ trễ được tăng thêm mỗi $0{,}5$ lần khoảng thời gian đặc trưng $1/r$ (sử dụng $r=0{,}5$ ở đây để phù hợp với ví dụ trước, sao cho độ trễ $\tau = 1{,}5/r$ bằng $3$ lần đơn vị trên đồ thị). Khoảng thời gian trễ cũng được tính bằng độ dài đơn vị trên đồ thị.
 
@@ -263,8 +263,8 @@ Các đường trong đồ thị **Hình** $\textbf{3.8}$ hội tụ xung quanh 
 
     Ví dụ, **sự quá tải** và sụp đổ nhanh chóng có thể gây ra những hậu quả khôn lường phá huỷ những cơ sở hạ tầng nông nghiệp vốn dựa trên nền tảng của nhiên liệu hoá thạch sao cho $Q$ bị điều chỉnh lại với một giá trị nhỏ hơn.
 
-![Pop-39-Light](../../../assets/images/pop-39-light.svg#only-light)
-![Pop-39-Dark](../../../assets/images/pop-39-dark.svg#only-dark)
+![Pop-39-Light](../../assets/images/pop-39-light.svg#only-light)
+![Pop-39-Dark](../../assets/images/pop-39-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.9}$: Dân số (các điểm màu xanh) và một đường logistic (màu đỏ) minh hoạ cho đồ thị đi qua các điểm dữ liệu dân số từ năm $1950$ trở lại đây. Hàm logistic này có $Q ≈ 12$ (tỷ người), $r=0{,}028$, và điểm giữa vào năm $1997$. Dữ liệu thực có một thời điểm dân số tăng đột biến vào năm $1950$ (Cách mạng Xanh?) làm cho việc xác định một hàm logistic đi qua tất cả các điểm dữ liệu trở nên khó khăn hơn. Điều này xảy ra khi dữ kiện thực tế có sự thay đổi lớn bất ngờ (về năng lượng và công nghệ trong trường hợp này).
 
@@ -295,8 +295,8 @@ Dân số tăng lên khi tỉ suất sinh cao hơn tỉ suất tử vong.
 
     Chưa tính đến số người nhập cư, vốn chỉ là việc chuyển dịch cơ cấu dân số giữa các quốc gia.
 
-![Pop-3-10-Light](../../../assets/images/pop-3-10-light.svg#only-light)
-![Pop-3-10-Dark](../../../assets/images/pop-3-10-dark.svg#only-dark)
+![Pop-3-10-Light](../../assets/images/pop-3-10-light.svg#only-light)
+![Pop-3-10-Dark](../../assets/images/pop-3-10-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.10}$: Tỉ suất tăng dân số thuần, đơn vị %, là một hàm của GDP trên đầu người. Có một xu hướng rõ ràng cho thấy các quốc gia giàu hơn thường có tỉ suất tăng dân số thuần thấp hơn. Một giải pháp cùng thắng (win-win) có thể bằng sự dịch chuyển sang phía bên phải của biểu đồ, các quốc gia vừa giàu có hơn vừa có dân số ổn định hơn! Mỗi chấm tương ứng với một quốc gia, và kích thước của chấm được vẽ tỉ suất với dân số quốc gia đó.
 
@@ -334,13 +334,13 @@ Chiều hướng chung cho rằng các quốc gia phát triển đã “làm đ�
 
     Người ta dựa trên nhiều cơ sở có thể nghi vấn rằng liệu đây có phải là một mục tiêu “đúng đắn”.
 
-![Pop-3-11-Light](../../../assets/images/pop-3-11-light.svg#only-light)
-![Pop-3-11-Dark](../../../assets/images/pop-3-11-dark.svg#only-dark)
+![Pop-3-11-Light](../../assets/images/pop-3-11-light.svg#only-light)
+![Pop-3-11-Dark](../../assets/images/pop-3-11-dark.svg#only-dark)
 
 **Hình** $\textbf{3.11}$ gọi ý về phương thức điều này có thể diễn ra. Các quốc gia phân bố trên đồ thị theo một một hình cung, một phần lớn được giới hạn trong khoảng $5-10$ người tử vong trên $1.000$ người một năm và tỉ suất tử ít hơn $20$ trên $1.000$ người một năm. Một phần khác bao gồm các nước (phần lớn ở Châu Phi) có tỉ suất sinh hơn $20$ trên $1.000$ người một năm, nhưng tỉ suất tử vong cũng cao hơn. Theo phương thức đã mô tả ở trên, một quốc gia có xuất phát điểm gần với Lesotho, với tỉ suất tử vong và tỉ suất sinh khác cao, sẽ dịch chuyển dần đến Nigeria với tỉ suất tử vong thất hơn (với tỉ suất sinh tăng trong ngắn hạn). Sau đó, nước này sẽ có cả tỉ suất sinh và tử vong giảm dần khi tiến tới Pakistan, Ấn Độ, và Hoa Kì, và cuối cùng là các nước ở Châu Âu. **Hình** $\textbf{3.12}$ minh hoạ quá trình dịch chuyển này. 
 
-![Pop-3-12-Light](../../../assets/images/pop-3-12-light.svg#only-light)
-![Pop-3-12-Dark](../../../assets/images/pop-3-12-dark.svg#only-dark)
+![Pop-3-12-Light](../../assets/images/pop-3-12-light.svg#only-light)
+![Pop-3-12-Dark](../../assets/images/pop-3-12-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.12}$: Giản đồ mô tả **Sự chuyển dịch dân số** có thể diễn ra trong **Hình** $\textbf{3.11}$. Tại điểm **A** và **D**, tỉ suất sinh và tỉ suất tử bằng nhau, nên tỉ suất tăng trưởng thuần bằng không. Thường thường, tỉ suất tử sẽ giảm khi tỉ suất sinh tăng (điểm **B**), và cuối dùng tỉ suất tử sẽ chạm đáy khi tỉ suất sinh bắt đầu giảm (điểm **C**).
 
@@ -350,7 +350,7 @@ Tuy nhiên, chúng ta cần phải hiểu rõ những hệ quả. Không phải 
 
 ### Suy ngẫm về địa lí
 
-![Pop-313-Light](../../../assets/images/pop-map-3-13.webp
+![Pop-313-Light](../../assets/images/pop-map-3-13.webp
 )
 
 > **Hình** $\textbf{3.13}$: Tỉ suất tăng dân số thuần ở các nước: tỉ suất sinh trừ tỉ suất tử vọng trên $1.000$ người một năm. Tỉ suất tăng thuần cao nhất (màu đậm nhất) diễn ra ở Niger, vùng sa mạc Sahara ở Châu Phi.
@@ -369,7 +369,7 @@ Nhưng hãy cùng xem xét lại mức tăng dân số ở các quốc gia khác
 
     Mặc dù lục địa này mỗi năm đóng góp $35\%$ dân số mới thêm vào mỗi năm.
 
-![Pop-314-Light](../../../assets/images/pop-map-3-14.webp
+![Pop-314-Light](../../assets/images/pop-map-3-14.webp
 )
 
 **Hình** $\textbf{3.14}$ Mức tăng dân số tuyệt đối theo nước: có bao nhiêu triệu người được thêm hàng năm (tỉ suất sinh từ tỉ suất tử vong nhân toàn bộ dân số nước đó)
@@ -425,8 +425,8 @@ Nhưng hãy cùng xem xét lại mức tăng dân số ở các quốc gia khác
 
 > **Bảng** $\textbf{3.4}$: Top $10$ quốc gia tăng trưởng cầu năng lượng. Công suất hay sản lượng đơn vị là *Watt*; $10^9$ là $1$ GW. Sản lượng gia tăng hàng năm là con số gia tăng tuyệt đối để đáp ứng cầu năng lượng nhằm thoả mãn sự *gia tăng dân số*, cũng là một đại diện cho việc gia tăng cầu tài nguyên nói chung. Cột cuối cùng cho biết mức độ đóng góp mỗi cá nhân vào sự tiêu thụ tài nguyên, ở đây tính theo sản lượng năng lượng. Ba nước đóng góp lớn nhất vào cầu năng lượng chỉ thông qua sự tăng dân số (Trung Quốc, Hoa Kì, và Ấn Độ) chiếm tổng cộng khoảng một phần ba sản lượng tăng thêm toàn cầu.
 
-![Pop-3-15-Light](../../../assets/images/pop-3-15-light.svg#only-light)
-![Pop-3-15-Dark](../../../assets/images/pop-3-15-dark.svg#only-dark)
+![Pop-3-15-Light](../../assets/images/pop-3-15-light.svg#only-light)
+![Pop-3-15-Dark](../../assets/images/pop-3-15-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.15}$: Thuyết mình bằng hình vẽ **Bảng** $\textbf{3.4}$. Các chấm tròn, với kích thước tỉ suất với qui mô dân, cho thấy sự gia tăng hàng năm và cầu năng lượng gia tăng tương ứng. Màu sắc trên hình thể hiện cầu năng lượng gia tăng do dân số tăng được tính toán trên đầu người trong một năm. Những trường hợp giảm cầu năng lượng bao gồm Nga, Nhật Bản, Đức và Ukraine.
 
@@ -458,8 +458,8 @@ Trước khi khép lại phần này, hãy cùng nhau quan sát ở qui mô lụ
 
 Một điểm cần lưu ý cuối cùng trong quá trình **chuyển dịch dân số** thể hiện trong **Hình** $\textbf{3.12}$: tỉ suất tử vong giảm trước trong khi tỉ suất sinh vẫn giữ ở mức cao&mdash;hay thậm chí gia tăng&mdash;trước khi đi xuống. Một ví dụ được trình bày trong **Hình** $\textbf{3.16}$: ban đầu, tăng trưởng ở mức cao ($r_1$), và đi ngang (mức dân số ổn định); sau đó tỉ suất tử vong chuyển dịch sang một mức thấp hơn ($r_2$) qua thời gian $T$; rồi tỉ suất sinh bắt đầu giảm sau một thời gian $𝜏$ trước khi tiệm cận tỉ suất tử và ổn định dân số một lần nữa. Vùng diện tích màu vàng giữa các đường thể hiện nơi tỉ suất sinh lớn hơn tỉ suất tử vọng, dẫn đến tăng dân số thuần (dân số tăng đột biến)
 
-![Pop-3-16-Light](../../../assets/images/pop-3-16-light.svg#only-light)
-![Pop-3-16-Dark](../../../assets/images/pop-3-16-dark.svg#only-dark)
+![Pop-3-16-Light](../../assets/images/pop-3-16-light.svg#only-light)
+![Pop-3-16-Dark](../../assets/images/pop-3-16-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.16}$: Giản đồ minh họa sự **chuyển dịch dân số** theo thời gian
 
@@ -483,8 +483,8 @@ Tóm lại, một cuộc **chuyển dịch dân số** sẽ làm gia tăng gánh
 
 Câu hỏi thích đáng cần đặt ra: liệu Trái đất có chuẩn bị để đối phó với sự gia tăng đáng kể của việc sử dụng tài nguyên? Ý tưởng vốn hấp dẫn cho rằng tất cả các quốc gia trên Trái đất có thể thực hiện cuộc **chuyển dịch dân số** và tiếp cận mức sống của nước giàu không có nghĩa *tự nhiên có khả năng để đáp ứng nhu cầu đó*. Sử dụng năng lượng trên đầu người của Hoa Kì gấp gần $5$ lần so với mức trung bình của thế giới. Mang lại mức sống tương tự cho $7$ tỉ người đòi hỏi gấp $5$ lần mức tiêu thụ nhiên liệu hiện tại. $Sự chuyển dịch dân số$ nếu hoàn tất có thể sẽ nhân đôi dân số thế giới hiện tại và sự gia tăng tiêu thụ năng lượng có thể gấp $10$ lần. Đường gạch màu lam trong **Hình** $\textbf{3.17}$ trông thật phi lý khi diến tiến năng lượng tiêu thụ&mdash;vốn đã rất lớn từ trước đến giờ&mdash;lên một mức độ chưa từng có. Khi chúng ta còn đang nỗ lực đáp ứng cầu năng lượng hiện tại, một viễn cảnh về “điều không tưởng” như thế sẽ khó thành hiện thực.
 
-![Pop-3-17-Light](../../../assets/images/pop-3-17-light.svg#only-light)
-![Pop-3-17-Dark](../../../assets/images/pop-3-17-dark.svg#only-dark)
+![Pop-3-17-Light](../../assets/images/pop-3-17-light.svg#only-light)
+![Pop-3-17-Dark](../../assets/images/pop-3-17-dark.svg#only-dark)
 
 > **Hình** $\textbf{3.17}$: Thay đổi cầu năng lượng cần thiết (đường chấm lam) nếu sự gia tăng dân số toàn cầu (được dự báo như đường chấm đỏ) và mức tiêu thụ năng lượng trên đầu ngường tiệm cận với tiêu chuẩn của Hoa Kì trong hiện tại vào năm $2100$ (gấp hơn năm lần). Dân số và năng lượng trong lịch sử được minh hoạ bởi các đường liền. Sự diễn tiến của các đường này thực đáng kinh ngạc.
 

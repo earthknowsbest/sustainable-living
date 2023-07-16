@@ -28,8 +28,8 @@ Nhưng tài nguyên vẫn luôn là yếu tố quyết định. Hoa Kì sở dĩ
 
 Những điều trong quá khứ vẫn còn nguyên giá trị đến tận bây giờ: tài nguyên như dầu mỏ, thép, kim loại, các sản phẩm nông nghiệp, máy móc hạng nặng tiếp tục có giá trị cao trên thị trường quốc tế. Tài nguyên làm nên tảng cho sự thịnh vượng. Đó không phải là nguồn lực *duy nhất*, những là một bộ phận vô cùng thiết yếu và đáng tin cậy. **Hình** $\textbf{2.1}$ cho thấy mối liên hệ phụ thuộc rất lớn giữa qui mô kinh tế vào sản lượng năng lượng sử dụng.
 
-![Energy-Capita-Light](../../../assets/images/energy-capita-21-light.svg#only-light)
-![Energy-Capita-Dark](../../../assets/images/energy-capita-21-dark.svg#only-dark)
+![Energy-Capita-Light](../../assets/images/energy-capita-21-light.svg#only-light)
+![Energy-Capita-Dark](../../assets/images/energy-capita-21-dark.svg#only-dark)
 
 > **Hình** $\textbf{2.1}$ *Năng lượng sử dụng theo đầu người là một hàm của GDP theo thang logarit (mỗi vạch chia gấp 10 lần). GDP theo đầu người là tổng sản phẩm quốc nội chia cho số dân trong nước đó, có thể xem như thu thập trung bình hàng năm. Tốc độ mỗi người sử dụng năng lượng được biểu diễn qua công suất, tính theo Watts. Tồn tại một mối liên hệ này khá chặt chẽ xuyên suốt các quốc gia: những nước giàu sử dụng nhiều năng lượng hơn, theo đầu người. Một số quốc gia điển hình được chấm đỏ :red_circle:. Kích cỡ các chấm được tỉ lệ theo qui mô dân số.*
 
@@ -51,8 +51,8 @@ Trong một thế giới hữu hạn tài nguyên (hữu hạn về tài nguyên
 
 Độ thâm dụng năng lượng vì thế cung cấp một thước đo cho mức độ thâm dụng tài nguyên của một quốc gia theo qui mô kinh tế quốc gia đó. Ví dụ, Hoa Kì sử dụng $10^{20}$ Joules ($J$) năng lượng mỗi năm và có GDP khoảng $20$ nghìn tỉ Đô-la. Chia ra ta có độ thâm dụng năng lượng $5 \times 10^6$ $J/\$$, hay $5$ $MJ/\$$ (có nhiều biến thể đơn vị khác nhau). Thế giới nói chung sử dụng khoảng $4{,}5 \times 10^{20}$ $J$ một năm với ước tính $\$90$ nghìn tỉ GDP, chia ra cũng được $5$ $MJ/\$$. Sự khác biệt về con số này giữa các quốc gia phát triển không quá lớn&mdash;thường ở mức một con số $MJ/\$$.
 
-![Energy-Intensity-Light](../../../assets/images/energy-intensity-22-light.svg#only-light)
-![Energy-Intensity-Dark](../../../assets/images/energy-intensity-22-dark.svg#only-dark)
+![Energy-Intensity-Light](../../assets/images/energy-intensity-22-light.svg#only-light)
+![Energy-Intensity-Dark](../../assets/images/energy-intensity-22-dark.svg#only-dark)
 
 > **Hình** $\textbf{2.2}$: Độ thâm dụng năng lượng của các quốc gia, trình bay trên thang logarit ở cả hai trục. Trục đứng cho biết mức độ "ngốn" năng lượng của mỗi quốc gia theo sản lượng của nền kinh tế, trong khi trục nằm ngang sắp xếp các quốc gia theo thu nhập trên đầu người. Một số quốc gia được làm nổi bật bởi chấm đỏ :red_circle:. Diện tích chấm này được tỉ lệ theo số dân của nước đó. Những quốc gia giàu có thường có độ thâm dụng năng lượng thấp hơn, một phần do chuyển dịch công nghiệp chế tạo sang nước khác. 
 
@@ -110,8 +110,8 @@ Những ví dụ về sự thay thế có rất nhiều trong quá khứ (**Đ�
  
  	[Nghiên cứu](https://aip.scitation.org/doi/10.1063/1.4721897)
  		
-![Luminosity-Light](../../../assets/images/luminosity-23-light.svg#only-light)
-![Luminosity-Dark](../../../assets/images/luminosity-23-dark.svg#only-dark)
+![Luminosity-Light](../../assets/images/luminosity-23-light.svg#only-light)
+![Luminosity-Dark](../../assets/images/luminosity-23-dark.svg#only-dark)
 		
 > **Hình** $\textbf{2.3}$: *Tiến bộ về hiệu quả chiếu sáng trong lịch sử theo thang logarit, sử dụng những đoạn thẳng để biểu thị khoảng thời gian sử dụng và hiệu suất chiếu sáng. Đường gạch nối ở phía trên đồ thì trình bày hiệu suất lí thuyết cao nhất có thể đạt được đối với ánh sáng trắng (không có nhiệt hao phí). Đường chấm chấm biểu thị hiệu năng chiếu sáng tăng gấp 10 lần mỗi thế kỉ (với $2{,}3\%$ tăng trưởng hàng năm). Lưu ý rằng đường này cắt hiệu suất cao nhất vào khoảng giữa thế kỉ này (hình ngôi sao đỏ), cho thấy xu hướng tăng hiệu suất không thể tiếp diễn lâu hơn[^10].*
 
@@ -172,8 +172,8 @@ Tóm lại, giảm tính phụ thuộc vào tài nguyên (*decoupling*) và vi�
  
 Giờ chúng ta hãy tưởng tượng một thí nghiệm, sử dụng **Hình** $\textbf{2.4}$ như một hướng dẫn. Chúng ta bắt đầu với với mức tăng trưởng cố định hàng năm của toàn bộ nền kinh tế (***điểm 1***; đường màu đỏ trên **Hình** $\textbf{2.4}$, ở mức $2{,}3\%$ (con số này rất tiện lợi vì qui mô nền kinh tế sẽ tăng khoảng gấp mười lần qua mỗi thế kỉ&mdash;bạn có thể kiểm tra trên đồ thị đường màu đỏ). Trong khi đó, tài nguyên (năng lượng, vật chất) trong nền kinh tế cũng tăng với mức tương tự, bắt đầu ở ***điểm 2*** màu xanh lam. Khoảng cách giữa đường màu đỏ và và xanh lam cho thấy: nền kinh tế (đo bằng giá trị tiền tệ) từ ban đầu không hoàn toàn sử dụng tài nguyên, mà có giá trị lớn hơn tài nguyên (vì những ngành dịch vụ tuy sinh ra nhiều lợi nhuận nhưng không tiêu tốn quá nhiều tài nguyên).
  
-![Growth-Transition-Light](../../../assets/images/growth-transition-24-light.svg#only-light)
-![Growth-Transition-Dark](../../../assets/images/growth-transition-24-dark.svg#only-dark)
+![Growth-Transition-Light](../../assets/images/growth-transition-24-light.svg#only-light)
+![Growth-Transition-Dark](../../assets/images/growth-transition-24-dark.svg#only-dark)
 
 > **Hình** $\textbf{2.4}$: Mô hình mô phỏng sự thay đổi của nền kinh tế sau khi tài nguyên đã cạn kiệt. Trục đứng biểu diễn qui mô nền kinh tế theo thang logarit với mỗi vạch chia lần nhân 10 lần. **Đường màu xanh** là qui mô của nên kinh tế thuần túy dựa trên tài nguyên. **Đường màu đỏ** là qui mô tổng thế của nền kinh tế, với mức tăng trưởng cố định hàng năm là $2{,}3\%$ một năm. **Đường màu tím** là tỉ lệ phần trăm dịch vụ hóa của nền kinh tế (với thang đo ở trục đứng bên tay phải), **đường màu đỏ đứt khúc** biểu thị qui mô tổng thể của nền kinh tế gần thực tế hơn khi tài nguyên đã cạn kiệt. Các mũi tên có màu chỉ hướng đi của các đường gần với thực tế hơn. Mô hình này được xây dựng chỉ nhằm mục đích trình bày những đặc điểm chung mà không mang tính chính xác về mặt tính toán. Thời gian hay các đại lượng không nên được sử dụng ngoài mục đích này.
  
