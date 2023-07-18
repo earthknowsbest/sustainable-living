@@ -514,7 +514,7 @@ Một số quyết định của chúng ta có ảnh hưởng đến thế giớ
 
 [^32]:
 
-    Lí do để sinh con rất nhiều: tiếp nối nguồn gien sinh học; truyền thống hay danh dự gia đình; nhu cầu nguồn lực lao động; sự chăm sóc đỡ đần lúc về già; tình thân và tình yêu (nhưng dự định áp đặt vào một đứa trẻ còn chưa sinh ra). Lưu ý rằng việc nhận con nuôi cũng có thể thoả mãn rất nhiều mục đích sinh con ở trên mà không làm tăng thêm dân số.
+    Lí do để sinh con rất nhiều: tiếp nối nguồn gien sinh học; truyền thống hay danh dự gia đình; nhu cầu nguồn lực lao động; sự chăm sóc đỡ đần lúc về già; tình thân và tình yêu (những dự định áp đặt vào một đứa trẻ còn chưa sinh ra). Lưu ý rằng việc nhận con nuôi cũng có thể thoả mãn rất nhiều mục đích sinh con ở trên mà không làm tăng thêm dân số.
 
 
 ### Chính sách dân số

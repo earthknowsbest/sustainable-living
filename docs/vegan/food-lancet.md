@@ -8,6 +8,11 @@ Báo cáo EAT-Lancet là đánh giá khoa học đầy đủ đầu tiên về n
 
     Chuyển đổi sang chế độ ăn uống lành mạnh từ nay đến năm 2050 sẽ yêu cầu thay đổi đáng kể chế độ ăn. Tiêu thụ trái cây, rau, quả hạch và các loại đậu trên toàn cầu sẽ phải tăng gấp đôi, và việc tiêu thụ các loại thực phẩm như thịt đỏ và đường sẽ phải giảm hơn 50%. Một chế độ ăn giàu **thực phẩm có nguồn gốc thực vật** (*plant-based foods*) và ít thực phẩm có nguồn gốc động vật mang lại cả lợi ích về sức khỏe và môi trường được cải thiện.
 
+<div style="margin: 2rem auto; ">
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/69vjahecuC8?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## Thực phẩm trong [thế Nhân loại](https://vi.wikipedia.org/wiki/Anthropocene) (*Anthropocene*)[^1]: Chế độ ăn uống lành mạnh từ các hệ thống thực phẩm bền vững
 
 [^1]:
