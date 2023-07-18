@@ -52,8 +52,8 @@ nav:
       - Khái niệm: economics/donut/doughnut.md
       - Tư duy kinh tế: economics/donut/donut-thinking.md
   #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
-    # - Vegan:
-  #   - intro: ecology/vegan.md
+  - Vegan:
+    - Chế độ lành mạnh: vegan/food-lancet.md
   # - Low-tech:
   #   - Năng lượng mặt trời:
   #     - Lời mở đầu: lowtech/solar/manifesto.md
