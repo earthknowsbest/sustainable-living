@@ -9,8 +9,8 @@ dev_addr: '127.0.0.1:9000'
 nav:
   # - Home: index.md
   - Sinh thái:
-    - Đa dạng sinh học: ecology/biodiversity.md
     - Khủng hoảng: ecology/bio-crisis.md
+    - Đa dạng sinh học: ecology/biodiversity.md
     - Cây cỏ Việt Nam: ecology/viet-plants.md
     - Vườn rừng: ecology/forest-garden.md
     # - Nông nghiệp:

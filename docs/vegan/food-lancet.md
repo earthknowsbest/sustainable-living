@@ -1,6 +1,6 @@
 # Chúng ta có thể cung cấp cho dân số tương lai 10 tỷ người một chế độ ăn uống lành mạnh trong giới hạn hành tinh hay không?
 
-Ủy ban EAT-Lancet về Thực phẩm, Hành tinh, Sức khỏe đã tập hợp 37 nhà khoa học hàng đầu thế giới từ khắp nơi trên thế giới để trả lời câu hỏi trên. Câu trả lời là có, nhưng điều này sẽ không thể thực hiện được nếu không thay đổi thói quen ăn uống, cải thiện sản xuất lương thực và giảm lãng phí thực phẩm.
+[Ủy ban EAT-Lancet về Thực phẩm, Hành tinh, Sức khỏe](https://eatforum.org/eat-lancet-commission/) đã tập hợp 37 nhà khoa học hàng đầu thế giới từ khắp nơi trên thế giới để trả lời câu hỏi trên. Câu trả lời là có, nhưng điều này sẽ không thể thực hiện được nếu không thay đổi thói quen ăn uống, cải thiện sản xuất lương thực và giảm lãng phí thực phẩm.
 
 Báo cáo EAT-Lancet là đánh giá khoa học đầy đủ đầu tiên về những gì cấu thành một chế độ ăn uống lành mạnh từ một hệ thống thực phẩm bền vững và những hành động nào có thể hỗ trợ và tăng tốc độ chuyển đổi hệ thống thực phẩm.
 
@@ -150,3 +150,20 @@ Các mục tiêu khoa học do Ủy ban này đặt ra cung cấp hướng dẫn
 
     Dự đoán thay đổi trong sản xuất lương thực từ năm 2010 đến năm 2050 (phần trăm so với kịch bản năm 2010) đối với **kinh doanh như thường lệ** (*Business as usual*) **BAU** với hoàn toàn chất thải, chế độ ăn uống vì sức khỏe hành tinh với hoàn toàn chất thải và chế độ ăn uống vì sức khỏe hành tinh với kịch bản giảm một nửa lãng phí lương thực.
 
+### Chiến lược 2: Định hướng lại các ưu tiên nông nghiệp từ sản xuất lương thực số lượng lớn sang sản xuất lương thực tốt cho sức khỏe
+
+Nông nghiệp và thủy sản không chỉ phải sản xuất đủ calo để nuôi sống dân số toàn cầu ngày càng tăng mà còn phải sản xuất nhiều loại thực phẩm nuôi dưỡng sức khỏe con người và hỗ trợ sự bền vững của môi trường. Bên cạnh những thay đổi về chế độ ăn uống, các chính sách nông nghiệp và biển phải được định hướng lại theo hướng đa dạng các loại thực phẩm bổ dưỡng giúp tăng cường đa dạng sinh học thay vì hướng tới tăng sản lượng của một số loại cây trồng, phần lớn trong số đó hiện được sử dụng làm thức ăn chăn nuôi. Sản xuất chăn nuôi cần được xem xét trong các bối cảnh cụ thể.
+
+### Chiến lược 3: Tăng cường sản xuất lương thực bền vững để nâng cao sản lượng chất lượng cao
+
+Hệ thống lương thực toàn cầu hiện nay đòi hỏi một cuộc cách mạng nông nghiệp mới dựa trên thâm canh bền vững và được thúc đẩy bởi tính bền vững và đổi mới hệ thống. Điều này sẽ đòi hỏi phải giảm ít nhất 75% chênh lệch năng suất trên đất trồng trọt hiện tại, cải thiện triệt để hiệu quả sử dụng phân bón và nước, tái chế phốt-pho, phân phối lại việc sử dụng nitơ và phốt pho trên toàn cầu, thực hiện các giải pháp giảm thiểu khí hậu bao gồm những thay đổi về cây trồng và thức ăn chăn nuôi quản lý và tăng cường đa dạng sinh học trong các hệ thống nông nghiệp. Ngoài ra, để đạt được mức phát thải âm trên toàn cầu theo Thỏa thuận chung Paris, hệ thống lương thực toàn cầu phải trở thành **nguồn hấp thụ carbon ròng** (*net carbon sink*) từ năm 2040 trở đi.
+
+### Chiến lược 4: Quản trị mạnh mẽ và phối hợp đất đai và đại dương
+
+Điều này ngụ ý cung cấp lương thực cho con người trên đất nông nghiệp hiện có, tức là bằng cách thực hiện chính sách không mở rộng đất nông nghiệp mới vào các hệ sinh thái tự nhiên và rừng giàu đa dạng sinh học, hướng tới các chính sách quản lý nhằm phục hồi và tái trồng rừng trên đất bị suy thoái, thiết lập các cơ chế quản lý sử dụng đất quốc tế và áp dụng chiến lược **"Nửa Trái đất"** (*Half Earth*) để bảo tồn đa dạng sinh học (nghĩa là bảo tồn ít nhất 80% sự phong phú của các loài thời tiền công nghiệp bằng cách bảo vệ 50% Trái đất dưới dạng các hệ sinh thái nguyên vẹn). Hơn nữa, cần phải cải thiện việc quản lý các đại dương trên thế giới để đảm bảo rằng nghề cá không tác động tiêu cực đến hệ sinh thái, nguồn cá được sử dụng một cách có trách nhiệm và sản xuất nuôi trồng thủy sản toàn cầu được mở rộng một cách bền vững.
+
+![orangutan](../assets/images/orangutan.webp)
+
+### Chiến lược 5: Giảm ít nhất một nửa thất thoát và lãng phí lương thực, phù hợp với các Mục tiêu Phát triển Bền vững của Liên hợp quốc
+
+Giảm đáng kể tổn thất lương thực ở phía sản xuất và lãng phí thực phẩm ở phía tiêu dùng là điều cần thiết để hệ thống lương thực toàn cầu duy trì trong một không gian hoạt động an toàn. Cả hai giải pháp công nghệ được áp dụng trong chuỗi cung ứng thực phẩm và việc thực hiện các chính sách công đều cần thiết để đạt được mức giảm tổng thể 50% thất thoát và lãng phí lương thực toàn cầu theo các mục tiêu của SDGs. Các hành động bao gồm cải thiện cơ sở hạ tầng sau thu hoạch, vận chuyển, chế biến và đóng gói thực phẩm, tăng cường hợp tác trong chuỗi cung ứng, đào tạo và trang bị cho nhà sản xuất cũng như giáo dục người tiêu dùng.

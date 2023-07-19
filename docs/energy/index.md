@@ -2,7 +2,7 @@
 
 !!! quote "Lời dẫn"
 
-    Sách **Năng lượng và tham vọng của con người trên một hành tinh hữu hạn** đã được team **Sống bền vững** chuyển soạn một phần để cũng cấp cái nhìn toàn cảnh về mối quan hệ giữa năng lượng, biến đổi khí hậu, kinh tế, dân số, và những giới hạn vật lí của hành tinh, v.v. Hi vọng cuốn sách này sẽ được sử dụng như một giáo trình hay tư liệu để giảng dạy song song trong nhà trường để chúng ta có cái nhìn vừa toàn diện vừa chi tiết về thực trạng thế giới sống trên hành tinh. 
+    Sách **Năng lượng và tham vọng của con người trên một hành tinh hữu hạn** đã được team **Sống bền vững** chuyển soạn một phần để cung cấp cái nhìn toàn cảnh về mối quan hệ giữa năng lượng, biến đổi khí hậu, kinh tế, dân số, và những giới hạn vật lí của hành tinh, v.v. Hi vọng cuốn sách này sẽ được sử dụng như một giáo trình hay tư liệu để giảng dạy song song trong nhà trường để chúng ta có cái nhìn vừa toàn diện vừa chi tiết về thực trạng thế giới sống trên hành tinh. 
 
 ## Lời tác giả
 
