@@ -112,4 +112,4 @@ Trên thực tế, việc tiêu thụ các sản phẩm từ động vật có l
 
 Có rất nhiều vận động viên có chế độ ăn dựa trên thực vật trên khắp thế giới bao gồm: người đàn ông khỏe nhất nước Đức Patrick Baboumian, cầu thủ NFL như David Carter và vận động viên cử tạ như Kendrick Farris và võ sĩ quyền anh như David Haye. Bạn có thể tham khảo những vận động viên này trong cuộc trò chuyện của mình với những người không ăn chay.
 
-Hỏi những người không ăn chay xem chúng ta có cần thiết phải ăn động vật và chất bài tiết của chúng hay không, điều mà họ không thể trả lời một cách hợp lý là “có” sau khi nhận được thông tin về dinh dưỡng ở trên. Sau đó nói với họ: "như thế chẳng phải làm những điều này với động vật là một hành động tàn ác không cần thiết hay sao?"
+Hỏi những người không ăn chay xem chúng ta có cần thiết phải ăn động vật và chất bài tiết của chúng hay không, điều mà họ không thể trả lời một cách hợp lý là “có” sau khi nhận được thông tin về dinh dưỡng ở trên. Sau đó nói với họ: “như thế chẳng phải làm những điều này với động vật là một hành động tàn ác không cần thiết hay sao?”
