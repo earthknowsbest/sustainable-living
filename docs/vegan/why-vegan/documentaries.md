@@ -1,5 +1,17 @@
 # Phim tài liệu
 
+## Mảnh đất của hy vọng và vinh quang (*Land of hope and glory*)
+
+<div style="margin: 2rem auto; ">
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/dvtVkNofcq8?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+## Sữa (*Milk*)
+
+<div style="margin: 2rem auto; ">
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/mZsm2_TdFa0?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Ăn đến diệt vong (*Eating our way to extinction*)
 
 <div style="margin: 2rem auto; ">

@@ -20,7 +20,6 @@ nav:
     - Nhiệt độ & CO₂: overview/climate.md
     - Tương lai kinh hoàng: overview/ghastly-future.md
     - Dân số & 4ºC: overview/population-crisis.md
-    - Xã hội hữu cơ: overview/superorganism.md
     - Biến đổi khí hậu: 
       - Báo cáo năm 2021:
         - overview/climate-change/climate-reality/index.md
@@ -40,6 +39,7 @@ nav:
       - Hoài nghi °2: energy/renewables/renewable-skeptics-2.md
       - Hiệu quả năng lượng: energy/renewables/energy-efficiency.md
   - Kinh tế:
+    - Xã hội hữu cơ: economics/superorganism.md
     - Kinh tế Phật giáo: economics/buddhist-econ.md
     - Địa phương hoá: economics/localization.md
     - Tăng trưởng xanh: economics/green-growth.md
@@ -54,7 +54,15 @@ nav:
   #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
   - Vegan:
     - Chế độ lành mạnh: vegan/food-lancet.md
-    - Phim tài liệu: vegan/documentaries.md
+    - Tại sao ăn thuần chay: 
+      - 30 Lời bào chữa: 
+        - vegan/why-vegan/excuses/index.md
+        - Lý do 1-5: vegan/why-vegan/excuses/excuses-1-5.md
+        - Lý do 6-10: vegan/why-vegan/excuses/excuses-6-10.md
+        - Lý do 11-15: vegan/why-vegan/excuses/excuses-11-15.md
+        - Lý do 16-20: vegan/why-vegan/excuses/excuses-16-20.md
+        - Lý do 21-25: vegan/why-vegan/excuses/excuses-21-25.md
+      - Phim tài liệu: vegan/why-vegan/documentaries.md
   # - Low-tech:
   #   - Năng lượng mặt trời:
   #     - Lời mở đầu: lowtech/solar/manifesto.md
