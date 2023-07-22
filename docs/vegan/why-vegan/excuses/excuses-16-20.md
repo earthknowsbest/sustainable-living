@@ -1,6 +1,6 @@
 # Lời bào chữa và trả lời
 
-## 16. Nhưng đạo đức là chủ quan
+## 16. Nhưng đạo đức là vấn đề chủ quan
 
 Thành thật mà nói, tôi không nghĩ rằng mình đã từng nghe cụm từ “nhưng đạo đức là chủ quan” trước khi tôi ăn chay trường&mdash;và bây giờ đó là điều tôi đã nghe khá nhiều nhưng mỗi lần nghe lại tôi luôn cảm thấy hơi ngạc nhiên. Nếu đạo đức thực sự là chủ quan thì hoàn toàn không cần hệ thống tư pháp hay nhà tù, sẽ không có điều tốt hay điều xấu vì mọi hành vi đều hoàn toàn có thể chấp nhận được.
 

@@ -30,7 +30,7 @@ Tôi đã từng cãi nhau với một phụ nữ ở New York, người nói v�
 
 Thực tế là, tất cả chúng ta đều đã từng có những trải nghiệm tồi tệ với mọi người vào một thời điểm nào đó trong đời, nhưng để tin rằng bạn có thể coi thường hoặc đánh giá toàn bộ nhân khẩu học dựa trên một trải nghiệm đó thì rõ ràng là không hợp lý chút nào. Hãy nói điều đó với người mà bạn đang trò chuyện cùng&mdash;“bạn có nghĩ rằng việc đánh giá toàn bộ nhân khẩu học dựa trên hành động của một cá nhân là hợp lý không?”
 
-## 22. Thế còn công việc của nông dân thì sao?
+## 22. Thế còn sinh kế của nông dân thì sao?
 
 Đây thực sự là một lập luận hơi phức tạp, vì nó là một vấn đề quan trọng và tôi tưởng tượng rằng vấn đề này sẽ được sử dụng thường xuyên hơn khi phong trào thuần chay tiến triển. Khi ai đó đề cập đến vấn đề sinh kế của nông dân, tôi thường nói đại loại như: “Bạn hoàn toàn đúng, chúng ta cần xem xét sinh kế của nông dân, những người thường sinh ra trong cộng đồng nông dân và chưa bao giờ biết điều gì khác biệt trong cuộc sống của họ và chưa bao giờ đặt câu hỏi về đạo đức của những gì họ làm.”
 
@@ -104,7 +104,7 @@ Tất cả những điều này bất chấp mọi quan niệm về vòng quay c
 
 Nếu chúng ta thêm vào một thực tế là 15 trong số 16 nguyên nhân hàng đầu gây tử vong ở con người là do ăn các sản phẩm từ động vật thì rõ ràng đó không chỉ là vòng quay chết chóc đối với động vật mà còn đối với chúng ta (https://www.youtube.com/ xem?v=30gEiweaAVQ).
 
-## 24. Động vật được nhân giống vì một mục đích
+## 24. Động vật được nhân giống vì một mục đích nào đó
 
 Tôi luôn đấu tranh để hiểu làm thế nào chúng ta đã tự cho mình quyền quyết định mục đích sống của một sinh vật khác. Nó thực sự là hình ảnh thu nhỏ của sự kiêu ngạo của loài người khi nghĩ rằng mình có quyền quyết định tại sao một con vật lại sống và mạng sống của chúng nên được sử dụng vào việc gì. Tôi nghĩ nó chứng minh một cách hoàn hảo rằng chúng ta đã trở thành nạn nhân và hạ thấp giá trị của những loài động vật không phải con người.
   

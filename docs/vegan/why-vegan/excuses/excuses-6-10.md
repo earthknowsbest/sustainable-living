@@ -1,6 +1,6 @@
 # Lời bào chữa và trả lời
 
-## 6. Ăn động vật là truyền thồng và văn hoá lâu đời  
+## 6. Ăn động vật là truyền thống và văn hoá lâu đời  
 
 Đúng là chúng ta đã ăn thịt động vật trong nhiều thế kỷ, nhưng liệu tuổi thọ của một truyền thống có biện minh cho sự tiếp tục và tồn tại của nó không? Cái cớ “ăn thịt động vật là một truyền thống” có phải là lời biện minh hợp lệ cho việc không trở thành người thuần chay không?
 

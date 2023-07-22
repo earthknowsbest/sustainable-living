@@ -34,7 +34,7 @@ Trước khi tôi trở thành người thuần chay, tôi yêu thích KFC và b
 
 Người ăn chay ăn các sản phẩm thay thế sản phẩm động vật vì chúng ta thích kết cấu và hương vị&mdash;và điều đó thậm chí còn tốt hơn vì không có con vật nào phải chết hoặc bị khai thác để chúng ta thưởng thức chúng.
 
-## 27. Chúng ta là những động vật ăn tạp với ranh nanh.
+## 27. Chúng ta là những động vật ăn tạp với ranh nanh
 
 Đây chắc chắn là một cái cớ được sử dụng rất nhiều để biện minh cho việc khai thác động vật và đó là lý do mà chúng ta phải giải quyết thường xuyên. Thật thú vị, cách tôi tiếp cận lý do này đã thực sự thay đổi rất nhiều so với khi tôi mới bắt đầu ủng hộ chủ nghĩa thuần chay.
 

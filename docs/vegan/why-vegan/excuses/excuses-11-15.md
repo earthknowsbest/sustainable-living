@@ -99,7 +99,7 @@ Lần duy nhất bất kỳ con vật nào trong số này cảm thấy biết �
 
 Hãy hỏi người sử dụng lý do này, “bạn có nghĩ rằng bạn có thể đến lò mổ nhìn thẳng vào mắt một con vật khi chúng sắp bị giết và nói với chúng rằng chúng nên cảm ơn bạn vì mạng sống của chúng không?”
 
-## 15. Có phải chúng ta chỉ cần nâng cao điều kiện sống của động vật?
+## 15. Có phải chúng ta chỉ cần nâng cao điều kiện sống của động vật là đủ?
 
 Hầu hết người tiêu dùng các sản phẩm từ động vật tuyên bố rằng họ quan tâm đến sức khỏe của động vật và thậm chí còn đồng ý rằng cách chúng ta nuôi và giết động vật là tàn ác. Đây là một phần lý do tại sao nhiều người chọn trả thêm tiền để mua trứng thả rông và các sản phẩm từ động vật hữu cơ. Tôi cũng vậy trước khi ăn chay trường, tôi luôn mua trứng thả rông vì tôi tin rằng những con gà mái đã sống một cuộc sống hạnh phúc và viên mãn. Trên thực tế, nếu mọi người nói với bạn rằng họ mua các sản phẩm động vật chăn nuôi được thả rông hay được dán nhãn là có điều kiện sống tót, thì đây thực sự có thể là một điểm có lợi cho chúng ta, vì nó cho thấy người đó có lòng trắc ẩn cho động vật ở một mức độ nào đó.
 
