@@ -13,6 +13,8 @@ nav:
     - Đa dạng sinh học: ecology/biodiversity.md
     - Cây cỏ Việt Nam: ecology/viet-plants.md
     - Vườn rừng: ecology/forest-garden.md
+    - Permaculture:
+      - Giới thiệu: ecology/permaculture/intro.md
     # - Nông nghiệp:
   #   - Navdana: ecology/navdana.md
   #   - Tương lai farm nhỏ: ecology/small-farm-future.md
@@ -53,6 +55,7 @@ nav:
       - Tư duy kinh tế: economics/donut/donut-thinking.md
   #   - “Nhỏ thì đẹp”: economics/small-is-beautiful.md
   - Vegan:
+    - Vegan là gì: vegan/intro.md
     - Chế độ lành mạnh: vegan/food-lancet.md
     - Tại sao ăn thuần chay: 
       - Môi trường sống: vegan/why-vegan/environment.md
