@@ -338,3 +338,11 @@ mjx-container[jax="CHTML"][display="true"] {
         height: 3.6rem;
     }
 }
+
+.md-typeset img[align=right] {
+    margin: 1em 1em 0.5em 1em;
+}
+
+.md-typeset img[align]:only-child {
+    margin: 1em;
+}
