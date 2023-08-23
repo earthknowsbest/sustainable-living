@@ -20,7 +20,7 @@
 }
 
 .md-ellipsis {
-    font-weight: unset;
+    font-weight: unset !important;
 }
 
 
