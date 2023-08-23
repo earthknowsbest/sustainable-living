@@ -55,7 +55,7 @@ và chất thải nông nghiệp&mdash;ước tính gây ra 3,2 triệu ca tử 
 
 !!! quote ""
     
-    **Nhiều bếp năng lượng mặt trời sẽ được tìm thấy ở Trung Quốc hơn bất kỳ quốc gia nào khác trên thế giới. Hơn 600.000 bếp đang được sử dụng&mdash;chủ yếu ở các vùng nông thôn&mdash;và mỗi bếp tiết kiệm khoảng 600 đến 1000kg củi mỗi năm. Bếp năng lượng mặt trời đóng một vai trò đặc biệt quan trọng trong việc tiết kiệm năng lượng ở Khu tự trị Tây Tạng.**
+    **Trung Quốc có nhiều bếp năng lượng mặt trời hơn bất kỳ quốc gia nào khác trên thế giới. Hơn 600.000 bếp đang được sử dụng&mdash;chủ yếu ở các vùng nông thôn&mdash;và mỗi bếp tiết kiệm khoảng 600 đến 1000kg củi mỗi năm. Bếp năng lượng mặt trời đóng một vai trò đặc biệt quan trọng trong việc tiết kiệm năng lượng ở Khu tự trị Tây Tạng.**
 
 Nằm ở độ cao trung bình 4500 mét so với mực nước biển, đây là khu vực cao nguyên lớn nhất trên trái đất. Do hiệu ứng bóng mưa của dãy núi Himalaya, khí hậu thường khô hạn với nhiệt độ dao động lớn trong năm. Các thảo nguyên không có cây của vùng cao nguyên thường hợp nhất thành sa mạc, trong khi các vùng thấp hơn của các rặng núi bao quanh có nhiều cây cối. Ở những khu vực này, ban đầu gỗ là một trong những nguồn năng lượng quan trọng nhất; nhưng nó ngày càng bị thay thế bởi bụi cây, rễ cây và phân. Trong khi ở các thị trấn và thành phố, than được sử dụng chủ yếu để nấu ăn và sưởi ấm, thì ở vùng cao, phân luôn là chất đốt phổ biến nhất. Mặc dù dân số ở vùng cao Tây Tạng thưa thớt, điều này vẫn có tác động bất lợi đến độ phì nhiêu của đất. Phần lớn người dân là dân du mục hoặc bán du mục, sinh kế của họ là chăn nuôi gia súc.
 
@@ -76,7 +76,7 @@ Trong thời gian gần đây, công nghệ bếp mặt trời Trung Quốc đã
 
 !!! quote ""
 
-    Altiplano là một cao nguyên ở độ cao khoảng 3700m ở vùng Andes của Argentina, Bolivia và Peru. Khí hậu của nó rất khô, chỉ cho phép sự phát triển của thảm thực vật thưa thớt. Cơ sở cho sinh kế của dân tộc này Ấn Độ chủ yếu được cung cấp bởi chăn nuôi (lạc đà không bướu và cừu) và trồng trọt (khoai tây Andean, ngô, đậu, đậu Hà Lan, cà rốt và các loại rau khác).
+    **Altiplano là một cao nguyên ở độ cao khoảng 3700m ở vùng Andes của Argentina, Bolivia và Peru. Khí hậu của nó rất khô, chỉ cho phép sự phát triển của thảm thực vật thưa thớt. Cơ sở cho sinh kế của dân tộc này Ấn Độ chủ yếu được cung cấp bởi chăn nuôi (lạc đà không bướu và cừu) và trồng trọt (khoai tây Andean, ngô, đậu, đậu Hà Lan, cà rốt và các loại rau khác).**
 
 Ở Argentina Altiplano là một trong những khu vực nghèo nhất trong cả nước. Nhiên liệu duy nhất có sẵn để nấu ăn và sưởi ấm là gỗ từ cây quenua và bụi cây tola, và vì thảm thực vật thưa thớt nên tình trạng thiếu nhiên liệu ở khắp mọi nơi.
 

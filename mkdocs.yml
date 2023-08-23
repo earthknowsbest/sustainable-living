@@ -73,7 +73,8 @@ nav:
     - Năng lượng mặt trời:
       # - Lời mở đầu: lowtech/solar/manifesto.md
       - Bếp mặt trời I: lowtech/solar/solar-cook-I.md
-  #     - Bếp mặt trời II: lowtech/solar/solar-cook-II.md
+      - Bếp mặt trời II: lowtech/solar/solar-cook-II.md
+      - Bếp mặt trời III: lowtech/solar/solar-cook-III.md
   #   - Nước ngọt:
   #     - Chiết suất: lowtech/water/water-air.md
   #     - Lọc nước °1: lowtech/water/water-purify/water-purify-1.md
