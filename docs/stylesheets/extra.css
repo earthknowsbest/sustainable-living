@@ -21,6 +21,7 @@
 
 .md-ellipsis {
     font-weight: unset !important;
+    padding-bottom: 0.15rem;
 }
 
 
@@ -86,7 +87,9 @@ input {
 
 .md-nav__link {
     /* padding: .05rem; */
-    padding: -0.95rem
+    /* padding: -0.95rem */
+    padding-bottom: 0.06rem;
+    margin-top: 0.525em;
 }
 
 .md-nav__link:focus,
