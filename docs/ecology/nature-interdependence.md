@@ -4,8 +4,6 @@
 <iframe style="display: block; margin: auto;" width="640" height="400" src="https://www.youtube.com/embed/FeSaf2GjpTo?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-
-
 !!! quote "Lời nói đầu"
 
     Bạn thân mến,
@@ -18,8 +16,11 @@
 
 ![forest-3](../assets/images/forest-3.webp)
 
-![forest-4](../assets/images/forest-4.webp){align=right}
-20 năm trước, nơi đây toàn là đất trống, đồi trọc. Rừng bị khai thác cạn kiệt và tan hoang. Đặc biệt năm 2002 có một trận lũ lớn nhất lịch sử. Kể từ lúc đó, chúng tôi tiến hành bảo vệ rừng, không cho người ngoài vào xâm hại rừng, giữ nguyên thảm thực vật của rừng để cho rừng tự nhiên tái sinh phục hồi. Còn vùng đất trống đồi trọc thì chúng tôi ươm và trồng phủ xanh bằng cây bản địa của núi rừng Hương Sơn này, đồng thời cung cấp nguồn giống cho bà con xung quanh. Ngoài ra, ở vùng đất bằng dưới các tán rừng, chúng tôi tạo ra các mô hình nông nghiệp sinh thái. Đây là các mô hình nông nghiệp sản xuất theo kiến thức bản địa của đồng bào tại địa phương, không sử dụng phân hóa học, không sử dụng thuốc trừ sâu và sử dụng cây bản địa theo truyền thống.
+20 năm trước, nơi đây toàn là đất trống, đồi trọc. Rừng bị khai thác cạn kiệt và tan hoang. Đặc biệt năm 2002 có một trận lũ lớn nhất lịch sử.
+
+![forest-4](../assets/images/forest-4.webp)
+
+Kể từ lúc đó, chúng tôi tiến hành bảo vệ rừng, không cho người ngoài vào xâm hại rừng, giữ nguyên thảm thực vật của rừng để cho rừng tự nhiên tái sinh phục hồi. Còn vùng đất trống đồi trọc thì chúng tôi ươm và trồng phủ xanh bằng cây bản địa của núi rừng Hương Sơn này, đồng thời cung cấp nguồn giống cho bà con xung quanh. Ngoài ra, ở vùng đất bằng dưới các tán rừng, chúng tôi tạo ra các mô hình nông nghiệp sinh thái. Đây là các mô hình nông nghiệp sản xuất theo kiến thức bản địa của đồng bào tại địa phương, không sử dụng phân hóa học, không sử dụng thuốc trừ sâu và sử dụng cây bản địa theo truyền thống.
 
 ![forest-5](../assets/images/forest-5.webp)
 
