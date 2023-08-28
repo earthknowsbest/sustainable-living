@@ -355,3 +355,7 @@ mjx-container[jax="CHTML"][display="true"] {
     width: 640px;
     height: 480px;
 }
+
+.doubleUnderline {
+    border-bottom: 2px dashed var(--md-default-fg-color--light);
+}
