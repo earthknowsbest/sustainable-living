@@ -21,7 +21,7 @@
 
 .md-ellipsis {
     font-weight: unset !important;
-    padding-bottom: 0.15rem;
+    padding-bottom: 0.01rem;
 }
 
 
@@ -89,7 +89,7 @@ input {
     /* padding: .05rem; */
     /* padding: -0.95rem */
     padding-bottom: 0.06rem;
-    margin-top: 0.525em;
+    margin-top: 0.575em;
 }
 
 .md-nav__link:focus,
@@ -349,4 +349,9 @@ mjx-container[jax="CHTML"][display="true"] {
 
 .md-typeset img[align]:only-child {
     margin: 1em;
+}
+
+#s7viewer.s7videoviewer {
+    width: 640px;
+    height: 480px;
 }

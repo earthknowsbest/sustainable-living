@@ -8,7 +8,7 @@ videoViewer.setParam("videoserverurl", "https://worldbank.scene7.com/is/content/
 videoViewer.setParam("serverurl", "https://worldbank.scene7.com/is/image/"); 
 videoViewer.setParam("contenturl", "https://worldbank.scene7.com/is/content/"); 
 videoViewer.setAsset("worldbankprod/VIETNAM_CCDR REPORT (1080p)-AVS"); 
-videoViewer.setParam("stagesize", "720,480"); 
+// videoViewer.setParam("stagesize", "640,480"); 
 videoViewer.setParam("emailurl", "https://worldbank.scene7.com/is/image/../..//s7/emailFriend"); 
 videoViewer.setParam("posterimage", "worldbankprod/VIETNAM_CCDR%20REPORT%20(1080p)-AVS"); 
 videoViewer.setParam("config", "/conf/global/settings/dam/dm/presets/viewer/WB-Player-with-Social-Sharing"); 
