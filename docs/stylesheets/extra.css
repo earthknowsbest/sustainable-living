@@ -359,3 +359,10 @@ mjx-container[jax="CHTML"][display="true"] {
 .doubleUnderline {
     border-bottom: 2px dashed var(--md-default-fg-color--light);
 }
+
+video {
+    display: block;
+    margin: 0 auto;
+    border: 10px double var(--md-default-fg-color--light);
+    border-radius: 5px;
+}

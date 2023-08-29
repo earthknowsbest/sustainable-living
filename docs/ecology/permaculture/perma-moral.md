@@ -1,4 +1,4 @@
-# Đạo đức và nguyên lí cơ bản của Nông nghiệp trường tồn
+# Đạo đức và nguyên lý cơ bản của Nông nghiệp trường tồn
 
 ## Đạo đức trong nông nghiệp trường tồn
 Ba nguyên tắc đạo đức cơ bản của nông nghiệp trường tồn (Mollison, 1988; Gaiacraft, 2012):
@@ -111,7 +111,25 @@ Khoảng giao thoa giữa mọi vật là nơi nhiều sự kiện thú vị di�
 
 Chúng ta có thể có tác động tích cực lên những thay đổi tất yếu bằng cách quan sát cẩn thận và sau đó can thiệp đúng thời điểm.
 
-# Chia vùng trong nông nghiệp trường tồn
+## Địa tầng
+
+Địa tầng là một trong những công cụ được sử dụng để thiết kế các hệ sinh thái chức năng vừa bền vững vừa là lợi ích trực tiếp cho con người. Một hệ sinh thái trưởng thành có một số lượng lớn các mối quan hệ giữa các bộ phận cấu thành của nó: cây cối, cây phủ, mặt đất, đất, nấm, côn trùng và động vật. Bởi vì cây trồng phát triển ở các độ cao khác nhau, sự đa dạng của sự sống có thể phát triển trong một không gian tương đối hẹp, vì thảm thực vật có nhiều lớp khác nhau. Nhìn chung có 7 lớp được công nhận trong một khu rừng thực phẩm, mặc dù một số chuyên gia cho rằng các loại nấm như là một lớp thứ tám.
+
+**1. Các cây tán cao**: Lớp cây cao lớn nhất trong hệ thống, chiếm ưu thế nhưng thường không thấm nước vào khu vực, tức là có những mảng cỏ khô cằn.
+
+**2. Lớp dưới tán cây** (*understory*): Những cây tận hưởng ánh sáng qua các khe lá dưới tán cây cao nhất trong hệ thống.
+
+**3. Lớp cây bụi**: Một lớp đa dạng của các cây gỗ lâu năm có chiều cao giới hạn, bao gồm hầu hết các bụi cây dâu (*berry*).
+
+**4. Lớp thảo mộc**: Cây trong lớp này chết dần trên mặt đất vào mỗi mùa đông (nếu đó là mùa đông lạnh). Chúng không tạo ra thân gỗ như lớp cây bụi. Nhiều loại thảo mộc và các loại dược liệu nằm trong lớp này. Đây thường là loại cây mọc hàng năm hay lâu năm.
+
+**5. Lớp phủ mặt đất** (*Groundcover*): Tuy có thể chồng lên nhau lớp trước, thực vật trong lớp này ở gần hơn với mặt đất, phát triển dày đặc để lấp đầy các vùng đất trống, và thường có thể chịu được một số áp lực do quá trình bị dẫm đạp. Lớp che phủ cây trồng giữ đất và giảm thiểu sự xói mòn, cùng với các cây phân xanh giúp bổ sung chất dinh dưỡng và chất hữu cơ vào đất, đặc biệt là nitơ.
+
+**6. Lớp rễ và mùn trong đất** (*Rhizosphere*): Các thành phần chính của lớp này là đất và các sinh vật sống trong rễ cây của chúng (bao gồm gốc cây như khoai tây và các loại cây lấy củ khác), nấm, côn trùng, giun tròn, giun, v.v.
+
+**7. Lớp thẳng đứng** (*Vertical layer*): Các loại cây dây leo hay nho, chẳng hạn như đậu đũa và đậu lima (giống nho).
+
+## Chia vùng trong nông nghiệp trường tồn
 
 Có 6 vùng chính được quy hoạch trong thiết kế nông nghiệp trường tồn (đánh số từ 0 tới 5). Mỗi vùng được xác định bởi tần suất tiếp cận của con người và liên quan tới sử dụng hiệu quả năng lượng và tài nguyên. Tính hiệu quả bị chi phối bởi tần suất chúng ta sử dụng và quản lý những yếu tố trong vùng (Nông nghiệp trường tồn, 2019).
 
