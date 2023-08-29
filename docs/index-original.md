@@ -15,3 +15,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+!!! quote "Sống bền vững"
+
+    ...tập hợp kinh nghiệm sống, sách, báo cáo và nghiên cứu về đời sống con người trên trái đất, cung cấp cái nhìn toàn diện về hệ sinh thái, những phương thức sống bền vững, bảo tồn và khôi phục tự nhiên.
