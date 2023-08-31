@@ -173,7 +173,3 @@ Từ 2015, Trang trại An Nhiên là không gian sống và làm việc của m
 !!! quote "" 
 
     Rừng tre nằm trong trang trại An Nhiên, 2019
-
-
-
-
