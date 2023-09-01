@@ -17,7 +17,7 @@ Trường Peace đã tổ chức nhiều khoá học thực hành Nông nghiệp
 
 ![farm-peace-3](../../assets/images/farm-peace-3.webp)
 
-!!! note ""
+!!! quote ""
 
     Một khoá học về Nông nghiệp sinh thái thực hành tại nông trại: trồng cây xen canh, cách trồng kết hợp để tạo dinh dưỡng và hương vị thơm ngon hơn.
 
@@ -29,7 +29,7 @@ Ngoài ra, trong suốt thời gian đại dịch COVID-19, **trường Peace** 
 
 ![farm-peace-6](../../assets/images/farm-peace-6.webp)
 
-!!! note ""
+!!! quote ""
 
     Nông trại trường Peace ở Hà Giang
 
