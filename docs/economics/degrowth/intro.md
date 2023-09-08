@@ -3,13 +3,13 @@
 ## 1. Sự ám ảnh chết người về tăng trưởng kinh tế
 <!-- https://youtu.be/KLiXmteCvUI -->
 <div style="margin: 2rem auto; ">
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/vHGGn8Wodc8?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/vHGGn8Wodc8?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## 2. **Phản tăng trưởng**: Đã đến lúc sống tốt hơn và [tiêu thụ] ít hơn?
 
 <div style="margin: 2rem auto; ">
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/Ia8u5P0KbPQ?cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/Ia8u5P0KbPQ?cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## 3. **Phản tăng trưởng** không phải là thắt lưng buộc bụng
@@ -28,7 +28,7 @@ Nhưng quá khứ không cần phải lặp lại. Trong bối cảnh gia tăng 
 
 ### Phản tăng trưởng có phải là “công thức cho sự khốn khổ và thảm họa”?
 
-Thuật ngữ **phản tăng trưởng** lần đầu tiên được đặt ra vào năm 1972 bởi nhà lý thuyết chính trị người Pháp André Gorz như một phản ứng khiêu khích đối với báo cáo **Giới hạn tăng trưởng** (*Limits to Growth*) của Câu lạc bộ Rome. Vào những năm 1990, nó được giới thiệu lại như một "từ ngữ dẫn đường" (*missile word*) chống lại hệ tư tưởng thống trị lúc bấy giờ về **phát triển bền vững** (*sustainable development*) và **tăng trưởng xanh** (*green growth*): một hệ tư tưởng đang được các chính phủ và tổ chức quốc tế sử dụng để **tẩy xanh** (*greenwash*) các chính sách hậu không hiệu quả, tấn công vào các dịch vụ công và cho vay nặng lãi .
+Thuật ngữ **phản tăng trưởng** lần đầu tiên được đặt ra vào năm 1972 bởi nhà lý thuyết chính trị người Pháp André Gorz như một phản ứng khiêu khích đối với báo cáo **Giới hạn tăng trưởng** (*Limits to Growth*) của Câu lạc bộ Rome. Vào những năm 1990, nó được giới thiệu lại như một "từ ngữ dẫn đường" (*missile word*) chống lại hệ tư tưởng thống trị lúc bấy giờ về **phát triển bền vững** (*sustainable development*) và **tăng trưởng xanh** (*green growth*): một hệ tư tưởng đang được các chính phủ và tổ chức quốc tế sử dụng để **tẩy xanh** (*greenwash*) các chính sách không hiệu quả, tấn công vào các dịch vụ công và cho vay nặng lãi .
 
 Kể từ đó, mức độ phổ biến của **phản tăng trưởng** đã tăng nhanh, với các hội nghị thường xuyên với hàng nghìn người tham dự được tổ chức và hàng chục cuốn sách được xuất bản về chủ đề này. Gần đây nhất, cuốn sách **Tư bản trong thế Nhân loại** (*Capital in the Anthropocene*) của Kohei Saito, một học giả người Nhật theo chủ nghĩa Mác, đã bán được hơn nửa triệu bản và trở thành sách bán chạy nhất ở Nhật Bản.
 

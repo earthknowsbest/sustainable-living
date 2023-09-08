@@ -12,6 +12,10 @@ Trong 4 phim tài liệu này, Perrine và Charles HERVE-GRUYER, sẽ giới thi
 <iframe style="display: block; margin: auto;" width="640" height="430" src="https://www.youtube.com/embed/caJ5qQ-7hhs?si=QCWpmPTheUJAwptj=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+<div style="margin: 2rem auto; ">
+<iframe style="display: block; margin: auto;" width="640" height="430" src="https://www.youtube.com/embed/ynWU4m2_m9c?hl=vi&cc_lang=vi&cc_lang_pref=vi&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 !!! quote ""
 
     Mời các bạn đón xem các phần tiếp theo với phụ đề tiếng Việt...

@@ -25,7 +25,7 @@ Nơi đây cũng đã có nhiều hoạt động ngoại khoá dành cho phụ h
 
 ![farm-peace-5](../../assets/images/farm-peace-5.webp)
 
-Ngoài ra, trong suốt thời gian đại dịch COVID-19, **trường Peace** đã kiến tạo một không gian nông trại ở Hà Giang, mang lại những trải nghiệm sống đơn giản và hướng đi mới cho người trẻ. [Thông tin thêm](https://www.facebook.com/vegan.for.nature)
+Ngoài ra, trong suốt thời gian đại dịch COVID-19, **trường Peace** đã kiến tạo một không gian nông trại ở Hà Giang, mang lại những trải nghiệm sống đơn giản và hướng đi mới cho người trẻ. [Thông tin thêm](https://www.facebook.com/vegan.for.nature) & [Website](http://peaceveganschool.org/vi)
 
 ![farm-peace-6](../../assets/images/farm-peace-6.webp)
 
@@ -47,7 +47,7 @@ Anh Hoàng, học viên và cộng sự lâu năm của trường Peace, kể v�
 
 ![farm-mother-3](../../assets/images/farm-mother-3.webp)
 
-Sau khoảng 3 năm, mô hình vườn rừng đã phát triển rất tốt, cây cối xanh tươi, khoẻ mạnh, môi trường sinh thái cân bằng trở lại. [Thông tin thêm](https://www.facebook.com/profile.php?id=100063696904798) và [website](https://sites.google.com/view/farmtotable-vn/)
+Sau khoảng 3 năm, mô hình vườn rừng đã phát triển rất tốt, cây cối xanh tươi, khoẻ mạnh, môi trường sinh thái cân bằng trở lại. [Thông tin thêm](https://www.facebook.com/profile.php?id=100063696904798) & [Website](https://sites.google.com/view/farmtotable-vn/)
 
 ![farm-mother-1](../../assets/images/farm-mother-1.webp)
 
