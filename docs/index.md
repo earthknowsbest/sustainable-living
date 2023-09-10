@@ -11,3 +11,5 @@
 !!! quote "Greta Thunberg, [TED Talk](https://www.rev.com/blog/transcripts/greta-thunberg-ted-talk-transcript-school-strike-for-climate)"
 
     **“Một khi chúng ta bắt đầu hành động, hy vọng ở khắp mọi nơi.”**  
+
+Đọc thêm: [Hiến chương quốc tế vì Trái đất và nhân loại](ecology/sobriete.md)

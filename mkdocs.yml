@@ -9,6 +9,7 @@ dev_addr: '127.0.0.1:9000'
 nav:
   # - Home: index.md
   - Sinh thái:
+    - Hiến chương: ecology/sobriete.md
     - Khủng hoảng: ecology/bio-crisis.md
     - Đa dạng sinh học: ecology/biodiversity.md
     - Nương vào tự nhiên: ecology/nature-interdependence.md
