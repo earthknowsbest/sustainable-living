@@ -229,41 +229,114 @@ luôn có sẵn ngay bên ngoài môi trường này; sự an toàn/không khí 
  
 Xây dựng một môi trường Sống dưới đáy đại dương sẽ dễ dàng hơn rất nhiều so với việc cố gắng thựC hiện điều đó trong không gian. Tất nhiên, việc xây dựng môi trường thậm chí còn dễ dàng hơn trên đất liền. Nhưng chúng ta vẫn chưa xây dựng và vận hành thành công một hệ sinh thái khép kín trên đất liền! Một số nỗ lực như dự án [**“Sinh quyển 2”**](https://en.wikipedia.org/wiki/) (*Biosphere 2*) để tạo ra môi trường nhân tạo khép kín trong đó con người sống được lâu dài đều đã thất bại. Nếu việc thành công trên bề mặt trái đất không phải là điều dễ dàng thì liệu chúng ta có thể mơ tưởng đến việc đạt đượC nó ngay trong chốn không gian xa xôi đầy thù địch, nơi thiếu khả năng tiếp cận dễ dàng với các nguồn tài nguyên được sản xuất và chế tạo?
 
-Về biến đổi hành tình, hãy xem xét quan điểm này. Hiện nay Trái đất đang gặp phải Vấn đề dư thừa CO2 dO đốt Cháy nhiên liệu hÓa thạCh (Chủ đề Của Chương 9). Vấn đề đã làm xáO trộn hệ thống kinh tế Và Chính trị Của Chúng ta, đến mứC Chúng ta không Chỉ dường như bất lựC trOng ViệC quay trở lại mứC CO2 thời tiền Công nghiệp , mà ngay Cả ViệC ngăn Chặn mứC tăng phát thải hàng năm dường như Cũ ng nằm ngOài khả năng Của Chúng ta. MứC CO2 thời tiền Công nghiệp đO đượC là 280 phần triệu (ppm) Của khí quyển, mứC này Chúng ta Sẽ COi là mứC bình thường . MứC độ ngày nay Vượt quá 400 ppm, dO đÓ mứC biến đổi Chỉ hơn 100 ppm một Chút, hay 0,01% bầu khí quyển Của Chúng ta.21 TrOng khi đÓ, bầu khí quyển Của SaO Hỏa CÓ 95% CO2. Vì Vậy, Chúng ta CÓ thể nÓi rằng Trái đất CÓ Vấn đề 100 ppm, nhưng SaO Hỏa Về Cơ bản CÓ Vấn đề một triệu
-phần triệu. Trên Trái đất, Chúng ta hOàn tOàn bị Cản trở bởi mứC tăng CO2
-100 ppm trOng khi đượC tiếp Cận Với tất Cả CáC tài nguyên CÓ Sẵn trên hành tinh. Hãy nhìn VàO tất Cả Cơ Sở hạ tầng Sẵn CÓ trên thế giới phát triển này Và Chúng ta Vẫn Chưa thể đảO ngượC hOặC thậm Chí ngăn Chặn Sự gia tăng CO2.
+Về ý tưởng biến đổi hành tinh (sao cho bầu khí quyển của nó giống với bầu khí quyển của Trái đất (về thành phần hoá học, nhiệt độ, áp suất) và có thể hỗ trợ sự sống của con người) (*terraform*), hãy xem xét từ khía cạnh sau đây. Hiện nay Trái đất đang gặp phải vấn đề dư thừa CO~2~ do đốt cháy nhiên liệu hoá thạch. Vấn đề đã làm xáo trộn hệ thống kinh tế Và chính trị, đến mức không chỉ chúng ta dường như bất lực trong việc quay trở lại mức CO~2~ thời tiền công nghiệp, mà ngay cả việc ngăn chặn mức tăng phát thải hàng năm dường như cũng nằm ngoài khả năng của chúng ta. Mức CO~2~ thời tiền công nghiệp đo đượC là 280 phần triệu (ppm) trong khí quyển, đây là mức Chúng ta sẽ coi là bình thường. Nồng độ ngày nay đã vượt quá 410 ppm, do đó mức thay đổi chỉ hơn 130 ppm một chút, hay 0,013% bầu khí quyển của chúng ta[^23]. Trong khi đó, bầu khí quyển của Sao Hoả có đến 95% là CO~2~. Vì vậy, chúng ta có thể nói rằng Trái đất có vấn đề với hàng trăm ppm, nhưng Sao Hỏa về cơ bản có vấn đề với hàng triệu ppm. Trên Trái đất, chúng ta hoàn toàn lúng túng với nồng độ hàng trăm ppm của CO~2~ trong khi được tiếp cận với tất cả các tài nguyên sẵn có trên hành tinh. Hãy nhìn vào tất cả những cơ sở hạ tầng sẵn có trên thế giới phát triển ngày nay, trong khi chúng ta vẫn chưa thể đảo ngược thậm chí ngăn chặn sự gia tăng của CO~2~. Làm sao chúng ta có thể coi việc biến đổi bầu khí quyển của  Sao Hỏa thành một nơi có thể ở đượC là điều thựC tế, trong khi Sao Hỏa không có cơ sở hạ tầng để hỗ trợ cho công việc đó? Chúng ta phải cẩn thận khi tuyên bố về những điều là *không thể thựC hiện đượC*, nhưng chúng ta có thể có lý khi gán cho chúng cái mác *phi thực tế* một cách thái quá, đến mứC trở thành điều gây xao lãng khi bàn luận. **Hình 1.5** minh họa thêm khoảng cách lớn giữa những điều kiện có thể chấp nhận được Và bầu khí quyển thực tế ở các hành tinh trong hệ mặt trời.
+
+[^23]:
+
+    TrOng khi mứC tăng từ 280 lên 410 là **khOảng** 50%, là một phần trong bầu khí quyển Trái đất, sự thay đổi khoảng 130 ppm là tương đương với 130 chia cho 1.000.000 (theo định nghĩa Của ppm), hay 0,013%.
+ 
+> **Hình 4.5:** *Khí quyển các hành tinh trong hệ mặt trời, biểu thị nhiệt độ trung bình (độ C) Và áp suất (khí quyển) (tính bằng atm). Phạm Vi nhiệt độ và áp suất “dễ chịu” ở Trái đất được biểu thị dưới dạng hình Chữ nhật màu xanh lam, từ 10°C đến 40°C và 0,2 atm (khi bầu khí quyển chứa 100% Oxy) cho đến 10 atm. Các hành tinh khác không chỉ nằm ngoài phạm Vi dễ chịu của chúng ta mà còn có thành phần khí độc hại và thiếu Oxy trong bầu khí quyển. Hãy nhớ rằng sự thay đổi dù chỉ một vài độ C&mdash;như biến đổi khí hậu&mdash;cũng là một Vấn đề lớn. Ngay cả Đỉnh Everest, nơi con người có thể tồn tại chỉ trong vài giờ với lượng Oxy bổ sung, về cơ bản là hiếu kháCh hơn Sao Hỏa.*
+
+Chúng ta cũng nên nhớ lại bài học ở phần [Tăng trưởng](1-growth.md) về cái gọi là tăng trưởng theo cấp số nhân và việc bổ sung thêm một môi trường sống nữa về cơ bản không ảnh hưởng gì đến hệ quả cuối cùng, ngoài việc trì hoãn thêm một thời gian nhân đôi ngắn ngủi. Do đó, ngay cả khi chúng ta lầm lẫn khi đánh giá thấp việc biến đổi hành tinh khác trong hệ mặt trời, thì ai quan tâm chứ? Chúng ta vẫn không tránh khỏi thách thức chính mà nhân loại phải đối mặt khi tăng trưởng gặp phải những giới hạn trong một thế giới hữu hạn (hay thậm chí là một hệ mặt trời hữu hạn, nếu chúng ta nói đến mức đó).
+
+## Vai trò của sự thám hiểm
+
+Thật dễ hiểu tại sao mọi người có thể bám vào ý tưởng rằng chúng ta có thể sẽ tận dụng việc khám phá không gian để chinh phục và biến nó thành thuộc địa.
+Giống như những nhà thám hiểm đầu tiên trên hành tinh này đã mở ra những con đường đường xâm chiếm “thế giới mới”; sự tương đồng trong việc khám phá những thế giới mới (theo nghĩa đen) như các hành tinh cũng là điều hiển nhiên[^24]. Thêm vào đó, chúng ta bị quyến rũ bởi sự mới lạ đầy thách thức của việc chiếm đóng không gian&mdash;được thực chứng bởi một ngành giải trí sôi động (như điện ảnh) dành riêng cho những câu chuyện kể về cuộc sống trong không gian. Nhưng không phải mọi sự thám hiểm đều dẫn đến phá đều dẫn đến việc cư ngụ lâu dài và phim giải trí không phải là sự thật.
+
+[^24]: 
+
+    "Khám phá" ra châu Mỹ là một bước nhảy vọt lớn qua một vùng đại dương với cách hệ sinh thái sống có diện tích gấp đôi châu Âu. Khám phá Sao Hỏa đòi hỏi một bước nhảy khổng lồ xuyên qua không gian khắc nghiệt không hỗ trợ sự sống có khoảng cách gấp 5.000 lần đường kính Trái đất
+ 
+Con người đã khám phá (một phần nhỏ) đại dương sâu thẳm, leo lên những đỉnh núi cao nhất không người ở trên Trái đất, cũng như đến thăm mỏm băng khắc nghiệt ở Bắc Cực. Trong những trường hợp như này, chúng ta không hề có ý định thiết lập nơi cư trú thường xuyên tại đây. Đó là những nơi kiểm tra sự dẻo dai của con người và cũng để khám phá môi trường mới. Chúng ta không coi những cuộc thám hiểm này là sai lầm chỉ vì chúng không mở đường cho việc định cư lâu dài. Đúng hơn, chúng ta nói về những chuyến du ngoạn một cách trìu mến như những chiếc lông vũ trên chiếc mũ tập thể của chúng ta: những chiến công khiến con người tự hào với tư cách một giống loài. Không gian có thể đượC nhìn nhận theo cách tương tự: đó là mức độ cao cấp nhất về mặt thử thách và sự kinh ngạc, phản ánh rất tích cực đối với trí tò mò, động lực, sự khéo léo và tinh thần đồng đội của chúng ta. Chúng ta cũng nhận được lợi ích[^25] từ tiến bộ công nghệ đượC thúC đẩy bởi nỗ lực khám phá và nâng cao hiểu biết khoa học của chúng ta về tự nhiên.
+
+[^25]: ...một trong số đó là niềm trân quý sâu sắc hơn đối đối Trái đất vô giá.
+ 
+Vì vậy, ngay cả khi không gian không đáp ứng được ảo tưởng về việc bành trướng của con người ra khắp vũ trụ, thì với bản chất nội tại của con người, chúng ta muốn ít nhất là khám phá nó. Chúng ta nên xếp việc thám hiểm không gian vào đồng hạng mục với việc chinh phục đỉnh Everest thay vì đánh giá nó như việc việc người Châu Âu tình cờ khám phá ra Tây Ấn (một bên là nới không sống được, một bên hoàn toàn có thể). Chúng ta đừng phạm sai lầm khi áp dụng và định hướng những câu Chuyện sai lầm về không gian.
+ 
+Nhiều điều tích cực có thể được nói về việc khám phá không gian và hy vọng rằng chúng ta sẽ không dừng lại việc tiếp tục khám phá môi trường bên ngoài vũ trụ. Tuy nhiên, hy vọng rằng việc khám phá như vậy là một con đường dẫn đến sự chinh phục và thôn tính không gian của con người có lẽ là sai lầm và gần như chắc chắn phản tác dụng ở thời điểm hiện tại, do thời gian còn lại rất ngắn trước khi sự bành trướng của con người vượt quá các giới hạn của Trái đất.
+
+Nếu chúng ta có đủ thời gian cần thiết để nhìn thấy một con đường hướng tới thôn tính không gian một cách thiết thực thì cũng tốt. Nhưng với nhưng thách thức và chi phí cực kì cao&mdash;cả về mặt năng lượng và kinh tế, và đối với việc thám hiểm chỉ chiếm một phần rất nhỏ trong xã hội loài người&mdash;có vẻ khôn ngoan hơn rất nhiều nếu trước hết chúng ta biết quan tâm đến mối quan hệ của mình với Trái đất, sau đó mới nghĩa đến việc thôn tính không gian vào thời điểm thích hợp, nếu điều này có ý nghĩa thực sự. Nếu không, chúng ta không chỉ đang lãng phí những nguồn tài nguyên quý giá một cách thiếu khôn ngoan mà (thậm chí còn tệ hơn) tư duy của chúng ta bị hư hại bởi những giấc mơ viển vông, làm giảm tầm quan trọng của việc đối mặt với thử thách thực sự ngay tại đây. Chúng ta cần phải tỉnh táo trước thực tế hiện nay. 
+
+!!! note "Có lẽ nhóm nhạc 21 Phi Công (twenty øne piløts) đã nói về điều đó hay nhất trong bài hát Stressed Out:"
+
+    Chúng ta từng giả vờ, hay đặt cho nhau những cái tên khác. 
+    Chúng ta sẽ chế tạo một con tàu tên lửa và sau đó sẽ bay đi thật xa
+    Chúng ta từng mơ về không gian vũ trụ nhưng giờ nó đang cười vào mặt và nói với chúng ta rằng, “Dậy đi, bạn cần phải đi kiếm tiền." Vâng, là thế đó.
+ 
+!!! note ""
+
+    Bất chấp giọng điệu bi quan của chương này, bản thân tác giả vẫn bị không gian quyến rũ và đã dành cả đời cho nó: Chiến tranh giữa các vì sao (*Star Wars*) thưở nhỏ và Du hành giữa các vì sao (*Star Trek*) đặc biệt có ảnh hưởng đến tác giả. Bộ phim The Right Stuff (về huấn luyện du hành không gian) vẫn được tác giả yêu thích. Ông (tác giả) đã nhìn tới rìa Vũ trụ&mdash;đầu tiên là qua kính viễn vọng 10 inch (25,4 cm) mà ông chế tạo ở trường trung học, và sau đó sử dụng những kính thiên văn lớn nhất thế giới. Ông đã làm việc trong một thí nghiệm Tàu con thoi, đã gặp gỡ các phi hành gia, biết Sally Ride (nữ du hành gia nổi tiếng người Hoa Kì) và đã dành phần lớn sự nghiệp của mình để xây dựng và vận hành một hệ thống laser phản xạ và phát hiện các photon riêng lẻ thoát ra khỏi các gương phản xạ được các phi hành gia Apollo đặt trên bề mặt mặt trăng (đây là một bài kiểm tra bản chất căn bản của hấp dẫn), việc này đã trực tiếp truyền cảm hứng cho một phần sê-ri phim Lý thuyết Vụ nổ lớn (*Big Bang Theory*) thông qua tương tác cá nhân với những người viết kịch bản. Đây có một tình yêu sâu sắc dành cho không gian không? Đúng. Tác giả sẽ tình nguyện đi lên mặt trăng hay Sao Hỏa chứ? Vâng. Thế tác giả có tin rằng không gian vũ trụ sẽ nắm giữ chìa khoá của tương lai của nhân loại không? Không.
+
+Việc thôn tính không gian có thể được coi như một ảo tưởng vào lúc này. Sẽ tốt hơn nếu chúng ta biết thức dậy và đối mặt với những thử thách thực sự bây giờ. Theo một nghĩa nào đó, có lẽ cách duy nhất để đạt được ước mơ di cư vào không gian&mdash;nếu điều đó có nằm trong kế hoạch&mdash;là trước tiên hãy vờ rằng điều này là không thể và chuyển sự chú ý sang các vấn đề cấp bách trên Trái đất. Nếu không, chúng ta có nguy cơ thất bại ở cả hai mặt trận.
+
+!!! note "Hộp 1.5: Hỏi đáp về tình hình thám hiểm"
+    
+    Sau khi đọc bản thảo đầu tiên của chương này, bạn đọc còn có một số Câu hỏi. Dưới đây là một vài câu trong số đó, cùng với phản hồi của tác giả.
+
+    1. Bao lâu nữa chúng ta mới có thể sống trên các hành tinh khác?
+    
+    Có lẽ không bao giờ[^26]. Những khoảng cách diệu vợi [giữa các hành tinh] có nghĩa là hệ mặt trời của chúng ta thực sự là lựa chọn duy nhất. Trong hệ mặt trời, Sao Hỏa là hành tinh hiếu khách nhất&mdash;đồng nghĩa với việc chúng ta có thể sống sót được hai phút mà không cần nguồn hỗ trợ sự sống nào. Theo đó, việc sống ở Nam Cực và đáy đại dương còn thựC tế hơn gấp hàng triệu lần; vậy mà chúng ta cũng không thấy có khu định cư lâu dài nào ở đó[^27].
+
+
+    2. Xin cho biết tình trạng hiện tại của việc tìm kiếm các hành tinh khác để định cư.
+
+    Chúng ta hiểu khó rõ về hệ mặt trời. Không có ngôi nhà thứ hai nào nổi bật cả. Chúng ta đã phát hiện bằng chứng cho thấy hàng nghìn hành tinh quay quanh các ngôi sao[^28], nhưng chưa có máy móc đủ độ nhạy để phát hiện sự hiện diện của các loại đá giống ở trên trái đất xung quanh hầu hết các ngôi SaO. Có hể hình dung rằng chúng ta sẽ xác định được các chất tương tự như trên Trái đất trong những thập kỷ tới, nhưng chúng sẽ mang lại ý nghĩa mới cho các tư như “cực kì” [viển vông] và “không thể tiếp cận được”.
+
+    3. Chẳng phải chúng ta đã được hưởng lợi từ việc khám phá không gian trong các sản phẩm công nghệ phụ, như tai nghe không dây và chân tay giả sao?
+
+    Không còn nghi ngờ gì nữa! Lợi ích [thu được từ việc khám phá vũ trụ] là rất nhiều và tôi sẽ không bao giờ coi những nỗ lực thám hiểm không gian từ trước đến giờ là lãng phí. Chỉ là những gì chúng ta đã làm cho đến nay trong không gian không có nghĩa là việc thôn tính nó là một bước đi rõ ràng hay thiết thực tiếp theo. Trên thực tế, hình ảnh mang tính biểu tượng chụp từ Sứ mệnh Apollo 8 đã thu hút cả thế giới và khiến chúng ta quý gia hơn lớp vỏ sự sống mong manh ở Trái đất. Vì Vậy, có lẽ lợi ích lớn nhất của việc thám hiểm không gian là sự trân quý sâu sắC và sự gắn bó Với Trái đất!
+
+[^26]: 
+
+    Đúng Vậy, không bao giờ là một khoảng thời gian dài. Quan điểm cho rằng chúng ta có thể không bao giờ thôn tính được không gian vũ trụ có vẻ phi lý đối với bạn đọc bây giờ. Hãy xem lại ở phần cuối sách. Khả năng rất lớn là chúng ta sẽ có câu trả lời nhàm chán, vật lộn để vị trí của chúng ta đang có trong tự nhiên.
+
+[^27]: 
+    
+    Các trạm nghiên cứu có nhân viên không giống như nơi định cư của con người, trong trường hợp ở Nam Cực.
+
+[^28]: 
+
+    IPAC/NASA (2020), [Các hành tinh ngoại lai](https://exoplanetarchive.ipac.caltech.edu/) của NASA
+ 
+#### Image of apollo 8
+
+
+## Kết luận
+
+Tác giả thậm chí có thể đi xa hơn bằng cách coi nhưng nỗ lực tập trung vào việc thôn tính không gian trong khi con người đang phải đối mặt với những thách thức cấp bách hơn là việc làm vô trách nhiệm và đáng hổ thẹn. Chuyển hướng sự chú ý [của công chúng] vào những nỗ lịch có lẽ là vô ích[^29] có thể dẫn đến đau khổ toàn diện, khi mà nó không chỉ phân bổ sai nguồn lức mà còn có thể ru mọi người cảm thấy rằng không gian vũ trụ có thể là lối thoát khả thi. Chúng ta đừng để bị phân tâm!
+ 
+Việc chúng ta không có thỏa thuận chung toàn cầu nào về các ưu tiên hay vai trò của không gian trong tương lai nhân loại chỉ làm nổi bật một thựC tế rằng con người đang không hành động theo một kế hoạch tổng thể[^30] đã đượC tính toán kỹ lưỡng. Chúng ta chỉ đơn giản là đang “chắp cánh cho nhưng ước mơ” và có khả năng lãng phí nỗ lực của mình vào những tham vọng bế tắc. Chỉ vì một số người hào hứng với tương lai trong không gian vũ trụ không có nghĩa là tương lai đó có thể hay sẽ xảy ra.
+
+Đúng là chúng ta không thể biết chắC tương lai sẽ ra sao, nhưng có lẽ đó càng là lý do để chúng ta biết hành động an toàn và không dại dột theo đuổi một ảo tưởng đầy rủi ro[^31]. Từ thời điểm này trở đi, cuốn sách sẽ tập trung vào các vấn đề rõ ràng thiết thực hơn liên quan đến cuộc sống và sự thành công trên Hành tinh Trái đất.
+
+ 
+!!! note "**Hộp 4.6:** Khảo sát nói gì?"
+
+    Sẽ rất thú vị nếu thực hiện một cuộC khảo sát để tìm hiểu xem có bao nhiêu người nghĩ rằng dân số sống ngoài Trái đất sẽ gia tăng đáng kể sau 500 năm nữa. Theo cảm nhận của tác giả thì đa Số người Mỹ tin rằng điều này có thể xảy ra. Tuy nhiên, nếu tương lai như thế không xảy ra&mdash;vì vô vàn những lí do thực tế, bao gồm cả khả năng con người sẽ nản chí và không còn đủ khả năng để theo đuổi những chuyến bay vào vũ trụ&mdash;thì chúng ta sẽ rơi vào tình huống mà hầu hết mọi người phán đoán sai về một tương lai tưởng tượng. Đó sẽ là một tình huống đáng chú ý có thể xảy ra&mdash;mặc dù tình huống này hoàn toàn không đáng ngạc nhiên.
+
+[^29]:
+
+    ...ít nhất trong thời gian cấp bách sắp tới
+
+[^30]: 
+    
+    Triển vọng về một kế hoạch tổng thế được thảo luận trong  đượC thảO luận ở **Kế hoạch tổng thể**.
+
+[^31]:
+
+    Dù bi cám dỗ bởi lời đề nghị qua e-mail từ vị hoàng tử người Nigeria bị phế truất để giúp chuyển hàng triệu đô la của anh ta vào một tài khOản an toàn, chúng ta vẫn tỉnh táo để không bị mắc lừa. Lời hứa về sự sang có thể khiến kẻ cả tin bị huỷ hoại. 
  
 
 
 
 
-Địa khai hÓa là ý tưởng Suy đOán Về ViệC biến đổi hình thành một hành tinh SaO ChO bầu khí quyển Của nÓ giống Với bầu khí quyển Của Trái đất (thành phần hÓa
-họC, nhiệt độ, áp Suất) Và CÓ thể hỗ trợ Sự Sống Của COn người.
-
-21: TrOng khi mứC tăng từ 280 lên 400 là
-khOảng 50%, là một phần Của tổng bầu khí quyển Trái đất, Sự thay đổi	100 ppm là
-100 Chia ChO một triệu (theO định nghĩa Của ppm), hOặC 0,01%.
- 
-Làm SaO Chúng ta CÓ thể COi ViệC biến bầu khí quyển Của SaO Hỏa thành dạng CÓ thể ở đượC là thựC tế, khi SaO Hỏa không CÓ Cơ Sở hạ tầng để hỗ trợ ChO Công ViệC đÓ? Chúng ta phải Cẩn thận khi tuyên bố những quan điểm là không thể thựC hiện đượC, nhưng Chúng ta CÓ thể CÓ lý khi gán ChO Chúng Cái máC phi thựC tế một CáCh thái quá , đến mứC trở thành Vật gây xaO lãng khi thảO luận. Hình 4.5 minh họa thêm khOảng CáCh lớn giữa CáC điều kiện CÓ thể Chấp nhận đượC Và bầu khí quyển thựC tế đượC Cung Cấp trOng hệ mặt trời.
-Chúng ta Cũ ng nên nhớ lại bài họC ở Chương 1 Về Sự tăng trưởng theO Cấp Số nhân Và ViệC bổ Sung một môi trường Sống kháC Về Cơ bản không ảnh hưởng gì
- 
 
 
 
-(
 
 
-0(V
 
 
-0V
-
-
-P
- 
-TRONG
- 
-đến kết quả Chung, ngOài ViệC trì hOãn một thời gian nhân đôi ngắn.
-DO đÓ, ngay Cả khi ViệC giảm giá trị thuộC địa hÓa Của một hành tinh kháC trOng hệ mặt trời là Sai lầm , thì ai quan tâm Chứ? Chúng ta Vẫn không tránh khỏi tháCh thứC Chính mà nhân lOại phải đối mặt khi Sự tăng trưởng gặp phải những hạn Chế trOng một thế giới hữu hạn (hOặC thậm Chí là hệ mặt trời hữu hạn, nếu nÓi đến điều đÓ).
 
 
