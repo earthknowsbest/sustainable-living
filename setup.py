@@ -7,7 +7,7 @@ with open(BASE_DIR / "requirements.txt", mode="r") as file:
     required_packages = [package.strip() for package in file.readlines()]
 
 docs_packages = [
-    "mkdocstrings>=0.20.0",
+    "mkdocstrings==0.21.2",
 ]
 
 setup(
