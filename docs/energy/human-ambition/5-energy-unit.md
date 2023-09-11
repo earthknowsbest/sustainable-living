@@ -52,6 +52,10 @@ Viết đơn vị Newton (N) dưới dạng $kg·m/s^2$, ta thấy đơn vị n�
     mgh → kg·\frac{m}{s^2}·m = \frac{kg·m·m}{s^2} = \frac{kg·m^2}{s^2} = J
     $$
 
+[^3]:
+
+    Mỗi ví dụ như thế này có thể dùng để làm dẫn chứng cho hàng loạt các ví dụ khác, chỉ cần thay số liệu.
+
 [^4]:
 
     Một ví dụ khác của công bằng lực nhân với khoảng cách ($J = N·m$)
@@ -60,7 +64,7 @@ Viết đơn vị Newton (N) dưới dạng $kg·m/s^2$, ta thấy đơn vị n�
 
     Lực cần phải có để chống lại hấp dẫn là $F = ma = m𝑔$
 
-Chúng ta sẽ bắt gặp những cách khác để mô tả năng lượng trong cuốn sách này, nhưng với bất kỳ cách, năng lượng cũng có thể chuyển thành đơn vị Joules, nếu muốn. Phần sau trong chương này trình bày chi tiết các đơn vị thay thế mà chúng ta phải làm quen để giải thích các thông tin về năng lượng trong đời sống hàng ngày.
+Chúng ta sẽ bắt gặp những cách khác để mô tả năng lượng trong cuốn sách này, nhưng với bất kỳ cách nào, năng lượng cũng có thể chuyển thành đơn vị Joules, nếu muốn. Phần sau trong chương này trình bày chi tiết các đơn vị thay thế mà chúng ta phải làm quen để giải thích các thông tin về năng lượng trong đời sống hàng ngày.
 
 ## Các dạng năng lượng và bảo toàn năng lượng
 
@@ -138,13 +142,13 @@ dụng các hệ số nhân khác nhau.
 
 ## Kilowatt giờ (kWh)
 
-!!! note "Định nghĩa 5.4.1""
+!!! note "Định nghĩa 5.4.1"
  
     **Kilowatt-giờ** (*kilowatt-hour*) là lượng năng lượng (không phải công suất) do tiêu hao năng lượng với tốc độ 1 kW trong thời gian một giờ và là đơn vị được lựa chọn để sử dụng trong điện dân dụng.
 
-Đơn vị này gây ra rất nhiều sự nhầm lẫn, nhưng thực sự nó khá đơn giản. Kilowatt-giờ là kilowatt *nhân* một giờ. Vì thế nó bằng **công suất** nhân với **thời gian**, tương đương với năng lượng (vì công suất được định nghĩa là tiêu thụ năng lượng trên thời gian).
+Đơn vị này gây ra rất nhiều sự nhầm lẫn, nhưng thực sự nó khá đơn giản. **Kilowatt-giờ** là kilowatt *nhân* một giờ. Vì thế nó bằng **công suất** nhân với **thời gian**, tương đương với năng lượng (vì công suất được định nghĩa là tiêu thụ năng lượng trên thời gian).
 
-!!! example "Ví dụ 5.4.1""
+!!! example "Ví dụ 5.4.1"
     
     Giả sử bạn bật máy sưởi trong phòng có công suất 1.000 W (1 kW) và chạy trong một giờ. Xin chúc mừng—bạn vừa tiêu thụ hết 1 kWh.
 
@@ -152,7 +156,7 @@ dụng các hệ số nhân khác nhau.
 
     Điều gì sẽ xảy ra nếu bạn chạy nồi cơm điện 500 W (0,5 kW) trong nửa giờ? Đó là 0,25 kWh
 
-    Lưu ý: Có thể hữu ích cho bạn đọc khi nghĩ đến chuỗi: kilowatt x giờ; kW x h; kW-h; kWh.
+    Lưu ý: Có thể hữu ích cho bạn đọc khi nghĩ đến chuỗi: **kilowatt nhân giờ** → **kW x h** → **kW-h** → **kWh**.
 
 Việc chuyển đổi trở lại Joules rất đơn giản, vì $1 kW$ bằng $1.000 J/s$ và một giờ bằng $3.600 s$. Vậy $1 kWh bằng $1 kW$ nhân 1 giờ, tức là $1.000 J/s$ nhân $3.600 s$, và do đó bằng $3.600.000 J$, hay $3{,}6 MJ$. Một thước đo liên quan có khi được đưa ra: watt-giờ (Wh). Tương tự như vậy , giá trị này tương đương với $1 J/s$ trong $3.600$ giây hoặc $3.600 J$[^10].
 
@@ -231,7 +235,7 @@ $$
 
 Hai ví dụ kế tiếp sẽ giúp hiểu rõ hơn việc sử dụng kcal (đơn vị dùng nhiều hơn trong sách này so với cal vốn nhỏ hơn nhiều).
 
-!!! note "Ví dụ 5.5.2""
+!!! note "Ví dụ 5.5.2"
  
     Một chế độ ăn điển hình có lượng tiêu thụ hàng ngày khoảng 2.000 kcal năng lượng thực phẩm. Nếu bạn nghĩ về điều này, 2.000 kcal/ngày là đơn vị công suất (năng lượng trên thời gian). Chúng ta có thể chuyển đổi sang Watts bằng cách chuyển đổi kcal thành J và một ngày thành giây. 2.000 kcal bằng 8,368 MJ. Một ngày có 86.400 giây. Chúng ta sẽ có công suất tiêu thụ rất gần với 100 W (8,368 MJ / 86.400 s).
 
@@ -250,6 +254,159 @@ Ví dụ thứ hai giúp hiểu rõ hơn định nghĩa của kcal: đun nước
 Lưu ý rằng chúng tôi không áp dụng công thức rõ ràng trong **Ví dụ 5.5.3**. Bằng cách lí luận theo từng bước, chúng tôi cố gắng giữ cho nó trực quan. Chúng tôi *có thể* viết công thức, nhưng có cách ngầm tạo các công thức một cách nhanh chóng bằng việc nhận ra rằng lượng năng lượng cần thiết sẽ tỉ lệ thuận với khối lượng nước và mức độ tăng nhiệt độ. Hy vọng rằng
 cách tiếp cận này sẽ giúp bạn hiểu sâu hơn về khái niệm, đồng thời việc in công thức lên đây có thể khiến bạn không hiểu được khái niệm này.
 
+## Đơn vị nhiệt lượng Anh (Btu)
+
+Tại sao chúng ta lại lãng phí thời gian để nói về đơn vị nhiệt lượng phức tạp của Anh (Btu)? Đó là vì dữ liệu do Cơ quan Thông tin Năng lượng Hoa Kỳ cung cấp về việc sử dụng năng lượng toàn cầu dựa trên Btu (Còn ở Việt Nam, ít trong lĩnh vực máy điều hoà, thường có đơn vị đo bằng Btu). Cụ thể hơn, tiêu thụ năng lượng hàng năm ở quy mô quốc gia được đo bằng đơn vị triệu triệu ($10^15$) Btu (xem **Hộp 5.4**). Ngoài ra, các thiết bị sưởi ấm ở Hoa Kì[^18] được định mức bằng Btu/giờ&mdash;một đơn vị năng lượng có thể chuyển đổi thành Watts.
+
+!!! note "Định nghĩa 5.6.1" 
+
+    Btu là đơn vị theo hệ thống đo lường Anh (*imperial*) tương tự như kcal[^19]. Một Btu là *năng lượng* cần thiết để làm nóng một pound nước lên một độ F.
+
+Chúng ta có thể hiểu việc chuyển đổi sang Joules theo cách sau: một pound bằng khoảng nửa kg và một độ F bằng khoảng nửa độ C. Vì vậy, một Btu sẽ bằng khoảng một phần tư kcal. Thật vậy, 1.055 J
+gần bằng một phần tư của 4.184 J.
+
+[^18]:
+
+    ...máy nước nóng, lò sưởi, máy điều hòa không khí , lò nướng và bếp 
+
+[^19]:
+
+    Hãy nhớ lại rằng 1 kcal là năng lượng cần thiết để làm nóng một kg nước lên 1°C.
+
+!!! note "Quads: qBtu"
+
+    Hoa Kỳ sử dụng triệu triệu Btu để thể hiện chi tiêu năng lượng hàng năm ở quy mô quốc gia. Nó được ký hiệu là qBtu, hay “quads” một cách không chính. Một qBtu xấp xỉ $10^18 J$[^20].
+
+    Hoa Kì sử dụng khoảng 100 quad mỗi năm. Vì một năm bằng khoảng $3,16 × 10^7 giây$[^21], việc chia năng lượng tính bằng Joules cho thời gian tính bằng giây cho chúng ta biết rằng công suất của Hoa Kỳ là khoảng $3 × 10^12 W (3 TW)$, tính ra công suất (tốc độ sử dụng năng lượng) trung bình theo đầu người khoảng 10.000 W.
+
+[^20]:
+
+    Chính xác hơn là $1.055 × 10^18 J$
+
+[^21]:
+
+     Một cách dễ thương và thuận tiện để ghi nhớ điều này, ước chừng là $\pi × 10^7$ mỗi năm
+
+
+!!! note "Ví dụ 5.6.1" 
+
+    Đối với các thiết bị được đặc trưng bởi Btu/giờ, chúng ta có thể liên hệ công suất tính bằng Watt thông qua 1 Btu/giờ là 1.055 J trên 3.600 giây, tính ra là 0,293 W.
+
+    Như vậy, một máy nước nóng có công suất 30.000 Btu/giờ có công suất là 8.800 W.
+
+    Chúng ta cũng hãy tạm dừng để xem sẽ mất bao lâu để làm nóng lượng nước nóng cho một lần tắm vòi hoa sen với tốc độ của máy này. Chúng ta sẽ thực hiện theo hai cách:
+
+    1. Làm nóng 15 gallon[^22] (125 pound) nước mát từ nhiệt độ 68°F đến nhiệt độ nóng 131°F ở tốc độ 30.000 Btu/giờ sẽ mất bao lâu? Chúng ta cần tính được $125 pound × (131°F - 68°F) = 7.900 Btu$ với tốc độ tiêu thụ năng lượng 30.000 Btu/giờ. Vì vậy sẽ mất $7.900/30.000$ hay gần 16 phút.
+
+    2. Theo **hệ đơn vị mét** (*metric*), 15 gallons tương đương 57 L (57 kg), và chúng ta cần làm nóng nước từ nhiệt độ 20°C đến 55°C với 8.800 W[^23]. Vì 1 kcal có thể làm nóng 1 kg nước lên 1°C, làm nóng 57 kg nước lên 35°C cần $57 × 35$ kcal, hay $57 × 35 × 4.184 J = 8.35 MJ$; ở công suất 8.800 W sẽ cần $8.350.000/8.800 ≈ 950$ giây hay gần 16 phút (cùng câu trả lời so với cách 1).
+
+[^22]
+
+    Trung bình chảy vòi sen chảy với tốc độ 2 gallon, hay ∼8 L, mỗi phút.
+
+[^23]:
+
+    30.000 Btu/giờ tương đương với 8.800 W.
+
+## Therms 
+
+Chúng ta sẽ hiếm khi gặp đơn vị này nhưng hãy đưa nó vào đây vì các hóa đơn tiện ích khí đốt tự nhiên[^24] ở Hoa Kỳ thường sử dụng Therms. Vì một phần mục tiêu của cuốn sách này là nâng cao hiểu biết cá nhân về năng lượng và cách so sánh các thước đo năng lượng khác nhau (ví dụ: trên hóa đơn điện nước), nên các quy ước ở Hoa Kỳ đòi hỏi cần đề cập đến đơn vị này[^25]. (Ở Việt Nam không mấy khi cần dùng đơn vị này, nên bạn đọc có thể tạm thời bỏ qua).
+
+[^24]:
+
+    Xem trong hình hóa đơn ở đầu chương
+
+[^25]:
+
+    Chương về chiến lược thích nghi sẽ đề cập rõ hơn việc chúng ta có thể làm với hóa đơn điện.
+
+!!! note "Định nghĩa 5.7.1" 
+
+    Một Therm bằng 100.000 Btu, hay 1,055 × 10^8 J, hoặc 29,3 kWh
+
+!!! note "Hộp 5.5: Tại sao là Therms"
+
+    Therm được áp dụng một phần vì tính tiện lợi vì 100 feet khối khí tự nhiên (CCF hoặc 100 CF), được đo trực tiếp, gần tương đương với 1,036 Therm. Tương tự, một gallon (3,785 L) khí propan lỏng[^26] chứa 91.500 Btu, tức là 0,915 Therms. Do đó, Therm rất phù hợp để với đo năng lượng chứa trong khí tự nhiên (100 feet khối) hoặc propan lỏng (một gallon).
+
+[^26]:
+
+    Propane thường được sử dụng ở những vùng sâu vùng xan để thay thế cho khí đốt tự nhiên khi không có cơ sở hạ tầng đường ống dẫn khí đốt tự nhiên.
+
+!!! example "Ví dụ 5.7.1"
+
+    Có thể cần 10.000 kcal năng lượng[^27] để đun nóng một lượng nước lạnh mới truyền vào bình đun nước nóng. Cụ thể cần bao nhiêu Therms?
+
+    Chúng ta thực hiện biến đổi hai bước: đầu tiên, 10.000 kcal bằng 41,84 MJ, ở mức 1.055 J mỗi Btu tính ra khoảng 40.000 Btu, tương đương với 0,4 Therm, cần khoảng 40 feet khối khí tự nhiên, hoặc ít hơn một chút so với nửa gallon (khoảng 2 L) propan lỏng. 
+
+    Nếu chúng ta biết máy nước nóng có công suất 30.000 Btu mỗi giờ thì sẽ mất 1 giờ 20 phút để hoàn thành công việc.
+
+[^27]:
+
+    Dựa trên dung tích 200 L, kéo nước lạnh ở 5C vào và đun nóng đến 55C, do đó cần 200 kg × 50°C (kcal).
+
+!!! quote ""
+
+    Thật thú vị khi suy ngẫm về quan điểm cho rằng 200 L nước có thể được đun nóng nước lên 50°C chỉ với 2 L nhiên liệu lỏng, chỉ chiếm 1% thể tích nước. Nếu đun đến sôi thì lượng nhiên liệu cần gấp đôi, tức là 2% thể tích nước. Có vẻ như đây là một món hời&mdash;đặc biệt đối với những khách ba lô muốn đun sôi nước và phải mang nhiên liệu đi khắp nơi để làm việc đó. Nhưng sự kém hiệu quả trong việc truyền nhiệt vào nước có thể cần nhiều hơn 10% thể tích là nhiên liệu.
+
+## Điện năng
+
+Tương tác điện bị chi phối bởi các hạt điện tích đẩy lẫn nhau. Với mục đích của chương này, chúng ta chỉ cần hiểu một vài khái niệm. Đầu tiên là **điện thế**.
+
+**Điện thế** (*voltage*) là thước đo thế năng điện, tính bằng Vôn, và có thể được coi tương tự như độ cao mà một vật được nâng lên[^28]. **Điện thế** cao hơn giống như ngồi cao hơn trên kệ và có thể thực hiện nhiều công hơn nếu được thả ra.
+
+[^28]:
+
+    ...làm cho điện thế rất giống với năng lượng thế năng hấp dẫn
+
+**Điện tích** (*charge*) di chuyển được xung quanh bởi lực điện, và lượng điện tích được di chuyển đóng vai trò tương tự như vai trò của khối lượng trong môi
+trường hấp dẫn. Đơn vị điện tích là **Coulomb (C)**, và đơn vị điện tích nhỏ nhất mà chúng ta gặp trong trường hợp bình thường là của **proton** (+1,6 × 10^19 C) hoặc electron (-1,6 × 10^19 C).
+
+!!! note "Định nghĩa 5.8.1" 
+
+    Năng lượng trong một điện tích, $q$, với điện áp, $V$ bằng:
+
+    $$
+        E = qV \tag{5.1}\label{5.1}
+    $$
+    Một Coulomb điện tích ở hiệu điện thế 1 V có năng lượng là 1 J.
+
+Cường độ dòng điện điện là tốc độ dòng điện chạy, và thường được ký hiệu bằng chữ cái $I$. Hãy tưởng tượng
+thiết lập một trạm thu phí trong một dây dẫn điện và đếm xem có bao nhiêu điện tích (hoặc bao nhiêu điện tích tích lũy) đi qua cổng trong một đơn vị thời gian. Điều này dẫn tới **Định nghĩa 5.8.2**.
+
+!!! note "Định nghĩa 5.8.2" 
+
+    Dòng điện được đo bằng đơn vị Amperes, được định nghĩa bằng một Coulomb trên giây.
+
+Di chuyển một Coulomb qua một Volt mỗi giây sẽ tạo thành một Joule năng lượng mỗi giây, đó là định nghĩa của một Watt. Kết hợp các khái niệm của **Định nghĩa 5.8.1** và **Định nghĩa 5.8.2** với nhau, chúng
+ta có thể định nghĩa được công suất điện.
+
+!!! note "Định nghĩa 5.8.3" 
+
+    Công suất điện đơn giản là dòng điện nhân với điện áp:
+
+    $$
+        P = IV \tag{5.2}\label{5.2}
+    $$
+
+    Dòng điện, $I$, tính bằng Ampere, và điện áp, $V$, tính bằng Volt.
+
+!!! note "Ví dụ 5.8.1" 
+
+    Các hộ gia đình ở Mỹ thường có cầu dao cho phép dòng điện tối đa 15 hoặc 20 Amperes đối với các ổ cắm điện thông thường. Ở điện áp 120V[^30], điều này tương ứng với công suất tối đa 1.800 W hay 2.400 W[^31].
+
+[^30]:
+
+    Bản chất dòng điện xoay chiều đã được cung ứng trong phép đo điện áp này
+
+[^31]:
+
+    Các quy định về an toàn giới hạn việc sử dụng liên tục ở mức 80% công suất dòng điện của cầu dao, do đó trên thực tế giới hạn này lần lượt là 1.400 W và 1.920 W. Đây là lý do tại sao “các thiết bị sưởi ấm” trong **Hình 5.2** có công suất tối đa khoảng 1.500 W: giới hạn cầu dao/an toàn.
+
+Cuối cùng, chúng ta sẽ chuẩn bị hiểu một cục pin sẽ chứa được bao nhiêu năng lượng. Các loại pin được đo đạc bằng hai con số: điện áp và dung lượng điện tích. Vì cường độ dòng được là số điện tích trên thời gian, nên việc nhân dòng điện và thời gian sẽ cho kết quả là dung lượng điện tích[^32]. Do đó, dung lượng sạc trong pin được đặc trưng là Ampere-giờ (Ah) hoặc milli-ampere-giờ (mAh). Vì Ampere nhân Volts bằng Watts (**Phương trình 5.2**), nên Ampere-giờ nhân Volt bằng Watt-giờ, một đơn vị năng lượng quen thuộc ở **Phần 5.5**.
+
+[^32]:
+
+    Ví dụ: 0,1 Ampere (0,1 Coulomb mỗi giây) của dòng điện được duy trì trong khoảng thời gian 100 giây sẽ tạo ra 10 Coulomb.
 
 
 
@@ -262,25 +419,6 @@ cách tiếp cận này sẽ giúp bạn hiểu sâu hơn về khái niệm, đ�
 
 
 
-
-
-
-
-
-
-    
-
-
-    
-
-
-
-
-
-
-
-
-    
 
 
 
