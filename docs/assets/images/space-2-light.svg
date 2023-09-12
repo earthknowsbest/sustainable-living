@@ -1,0 +1,23 @@
+<svg style='scaling-svg' viewBox="0 0 712 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2" transform="translate(-1924.000000, -166.000000)">
+            <g id="space-2" transform="translate(1924.000000, 166.000000)">
+                <rect id="Rectangle" x="2" y="0" width="710" height="99"></rect>
+                <path d="M26,32.0000729 C26,33.6572366 24.6572057,35 23,35 C21.3427943,35 20,33.6572366 20,32.0000729 C20,30.3427634 21.3427943,29 23,29 C24.6572057,29 26,30.3427634 26,32.0000729" id="Fill-5" fill="#EB8B2D"></path>
+                <path d="M669.0419,32.0001 C669.0419,32.0231 669.0223,32.0411 669.0009,32.0411 C668.9779,32.0411 668.9581,32.0231 668.9581,32.0001 C668.9581,31.9769 668.9779,31.9589 669.0009,31.9589 C669.0223,31.9589 669.0419,31.9769 669.0419,32.0001" id="Fill-7" fill="#286AA6"></path>
+                <line x1="669" y1="41" x2="669" y2="57" id="Stroke-8" stroke="#3D1818" stroke-width="1.25"></line>
+                <polygon id="Fill-9" fill="#3D1818" points="669.000558 32 664 44 669.000558 41.1527146 674 44"></polygon>
+                <line x1="23" y1="45" x2="23" y2="56" id="Stroke-10" stroke="#3D1818" stroke-width="1.25"></line>
+                <polygon id="Fill-11" fill="#3D1818" points="23.0006456 37 18 49 23.0006456 46.152871 28 49"></polygon>
+                <text id="Trái-đất-(gần-như-vô" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#3D1818">
+                    <tspan x="641.21582" y="70">Trái đất </tspan>
+                    <tspan x="637.021973" y="87">(gần như </tspan>
+                    <tspan x="640.029785" y="104">vô hình)</tspan>
+                </text>
+                <text id="Mặt-trời" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#3D1818">
+                    <tspan x="1.04248047" y="70">Mặt trời</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
