@@ -1,4 +1,4 @@
-# Dân số
+# Chương 3: Dân số
 
 Hầu hết những mối quan tâm trong đời sống của con người đều có liên quan đến câu chuyện dân số (*population*). Thảo luận về sự tăng trưởng không ngừng ở **Chương 1** được tính toán dựa trên tốc độ tăng trưởng năng lượng trong quá khứ, mà trong đó sự gia tăng dân số và sử dụng tài nguyên trên đầu người đóng góp một phần. Tuy nhiên, việc dân số tăng không ngừng, như đã trình bày trong viễn cảnh ở **Chương 1**, là không thực tế. Vì thế, những “dự báo” trong **Chương 1** trở nên không còn đúng nữa và việc “tăng trưởng mãi mãi sẽ bị chặn lại”.
 
@@ -17,7 +17,7 @@ Trong bối cảnh tăng trưởng năng lượng và tài nguyên, chương nà
 
 Vì dân số đóng vai trò quan trọng trong những dự báo, chúng ta cần phải hiểu rõ quá trình phát triển của nó trong lịch sử. Từ đó, ta có thể rút ra nhiều kì vọng về viễn cảnh tương lai và thảo luận về sự “chuyển dịch cơ cấu dân số” với những hệ quả của nó.
 
-## I. Lịch sử phát triển
+## 1. Lịch sử phát triển
 
 **Hình** $\textbf{3.2}$ biểu diễn lịch sử của dân số toàn cầu trong $12.000$ năm. Để ý rằng trong phần lớn lịch sử, mức độ tăng hầu như không đáng kể. Việc lo lắng về sự gia tăng mạnh mẽ của dân số trong thời gian gần đây là điều tự nhiên, vì đây là một sự khác thường của thời đại chúng ta đang sống. Có phải biểu đồ chỉ là một hàm số mũ không? Những hàm số mũ&mdash;dù có hình dạng thế nào&mdash;cũng cho thấy một mức độ gia tăng đáng báo động bắt đầu từ một thời điểm nào đó, mà đôi khi được gọi là đồ thị có hình dạng “gậy khúc côn cầu” (đầu gậy dẹt và trở nên cong vút vào phần đuôi). Để có cái nhìn cận cảnh hơn, chúng ta vẽ đồ thị dân số theo thang logarit ở trục tung (**Hình** $\textbf{3.3}$). Giờ đây chúng ta có thể nhìn nhận được cả quá trình phát triển dân số chỉ thông qua hàm số mũ với những tỉ suất tăng trưởng không đổi.
 
@@ -101,7 +101,7 @@ $$
 
 **Bảng** $\textbf{3.2}$ và **Hình** $\textbf{3.5}$ trình khoảng thời gian để dân số tăng thêm một tỷ người, dự báo cho đến 8 tỷ người (ở thời điểm viết cuốn sách vào năm $2020$). Đạt được mức một tỉ người đầu mất hàng chục ngàn năm, và mỗi lần thêm một tỉ người lại cần ít thời gian hơn. Tỉ suất tăng trưởng dân số cao nhất vào năm $1960$ ở mức $2\%$ và gấp đôi sau mỗi 35 năm. Tỉ suất tăng trưởng hiện tại ở mức trung bình, nhưng ngay cả mức tăng $1\%$ cũng có thể thêm hàng tỉ người chỉ trong $13$ năm. Cuốn sách nổi tiếng của Paul Erlich với tên gọi ***Quả bom dân số*** (*Population Bomb*), xuất bản lần đầu vào năm *1968*, đã báo động mức tăng trưởng dân số ở mức $2\%$ và giả định sẽ tăng lên từ thời điểm đó. Cho dù mức độ gia tăng hiện nay khoảng $1\%$, chúng ta cũng không khỏi lo ngại. Phần tiếp theo sẽ trình bày những cơ chế tự nhiên để ngăn cản sự tăng trưởng. 
 
-## II. Mô hìnhh Logistic
+## 2. Mô hìnhh Logistic
 
 Nếu không có những tác động của con người, quần thể của một loài động vật nào đó có thể dao động (*oscillation*) trong một khoảng thời gian nào đó (theo năm) và trải qua những thay đổi trong dài hạn (hàng thế kỉ hay lâu hơn). Nói chung, tự nhiên sẽ tìm ra một điểm cân bằng nào đó. Dân số quá động (*overpopulation*) chỉ là vấn đề ngắn hạn, bởi sự thiếu hụt dần của nguồn thức ăn, số lượng loài thiên địch gia tăng hay trong một số trường hợp, bệnh dịch, sẽ cân bằng quần thể trở lại [^4]. Ngược lại, một quần thể nhỏ có thể dễ dàng mở rộng dựa vào nguồn thức ăn dồi dào hơn, và các loài thiên địch dựa vào quân thể này cũng chưa đủ nhiều vì thiếu con mồi.
 
@@ -281,7 +281,7 @@ Như đã lưu ý ở **Hình** $\textbf{3.9}$, dân số con người *không* 
 3. Các yếu tố khác như độ trễ có thể trì hoãn việc diễn tiến của một đường logitic, dẫn đến **sự quá tải**
 4. Nhiều yếu tố khác (tiến bộ về công nghệ y học, chiến tranh, nạn đói, và biến đổi khí hậu) góp phần làm cho các dự đoán tốt lên hoặc xấu đi so với các tính toán đơn giản.
 
-## III. Chuyển dịch dân số
+## 3. Chuyển dịch dân số
 
 Có lẽ không có gì ngạc nhiên khi tốc độ tăng trưởng dân số của một quốc gia tương quan với sự thịnh vượng của nó, như xem trong **Hình** $\textbf{3.10}$. Có một cách để giảm tăng trưởng dân số: các quốc gia nghèo chuyển dịch dần sang phía bên phải của đường đồ thị, trở nên giàu có hơn và chuyển đổi các giá trị và áp lực xã hội tương ứng để giảm thiểu tăng dân số thuần.  
 
@@ -494,7 +494,7 @@ Nếu tự nhiên không có phép con người hiện thực hoá một giấc 
 
 Xu thế hiện thực hoá của cuộc **chuyển dịch dân số** rất mạnh mẽ, vì nhưng lí do chúng ta đã thảo luận ở trên (nâng cao chất lượng cuộc sống, cơ hội giáo dục, lòng khoan dung, phẩm giá và sự hài lòng). Thách thức ảo tưởng này thực vô cùng nan giải, vì sự nhận thức về sự giới hạn của tài nguyên hiện không phổ biến. Đó có thể là một ví dụ về khuynh hướng ngoại suy tự nhiên của con người: chúng ta đã chứng kiến những lợi ích của việc **chuyển dịch dân dân số** ở nhiều quốc gia trong thế kỉ vừa qua, và hi vọng rằng xu thế này sẽ tiếp diễn cho đến khi tất cả các quốc gia hoàn thành cuộc chuyển đổi này. Nhưng cần nhớ rằng những thành công trong quá khứ được thực hiện trong giai đoạn tài nguyên toàn cầu không phải là giới hạn lớn trong việc tiếp cận và sử dụng. Nếu điều kiện ngoại cảnh thay đổi, và chúng ta đã khai thác “cả” quả đất, những ví dụ trong quá khứ sẽ chẳng giúp ích gì nhiều.
 
-## IV. Những khía cạnh nhạy cảm
+## 4. Những khía cạnh nhạy cảm
 
 ### Thảo luận về dân số thường biến thành vấn đề cá nhân
 
@@ -543,7 +543,7 @@ Chung cuộc, sự lựa chọn các nhân là điều quan trọng, nếu chún
 
     Xem Diamond ($2005$), cuốn sách *Sự sụp đổ: Các xã hội lựa chọn thất bại hay thành công*
 
-## V. Kết luận: Mọi thứ phụ thuộc vào chúng ta
+## 5. Kết luận: Mọi thứ phụ thuộc vào chúng ta
 
 Chúng ta sẽ chẳng ngồi đây mà bàn luận về sự giới hạn của hành tinh hay giới hạn của tăng trước hay biến đổi khí hậu nếu chỉ có một triệu con người sống trên trái đất, ngay cả với mức sống của người Mĩ. Chúng ta sẽ chẳng cảm nhận sự giới hạn của tài nguyên tự nhiên hay hệ sinh thái. Ngược lại, không khó để hình dung rằng $100$ tỉ người trên trái đất sẽ đặt một giới hạn *khắc nghiệt* lên khả năng hệ sinh thái để nuôi sống chúng ta&mdash;đặc biệt là nếu mọi người đều cố gắng sống như người Mĩ&mdash;đến mức điều này trở nên bất khả thi. Nếu chúng ta cần phải lựa chọn một một thông số duy nhất để làm giảm những thách thức toàn cầu, có lẽ rất khó để tìm ra một thông số nào hơn là dân số.
 

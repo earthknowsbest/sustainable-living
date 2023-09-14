@@ -156,3 +156,11 @@ Có 6 vùng chính được quy hoạch trong thiết kế nông nghiệp trư�
 !!! quote "Nông nghiệp trường tồn liên quan tới cuộc sống mỗi cá nhân như thế nào? Graham Bell. (Bell, 1992)"
 
     “Nông nghiệp trường tồn là một lối sống cho chúng ta thấy cách để tận dụng tối đa tài nguyên là giảm thiểu rác thải và tối đa tiềm năng. Sống sinh thái không có nghĩa là rũ bỏ mọi thứ, mà là học lại về giá trị của tự nhiên và hiểu thêm những cách khác để có thể trở nên sung túc [...] chủ định thiết kế một lối sống vừa hiệu quả vừa không gây hại tới môi trường [...]. Bạn có thể thỏa mãn những nhu cầu cá nhân của mình mà không cần làm cuộc sống của bất cứ ai khác phải kém dễ chịu đi”
+
+<hr/>
+**Nguồn:** [Trung tâm Phát triển Sáng kiến Cộng đồng và Môi trường (C&E)](https://ce-center.org.vn/)
+
+Tài liệu được biên soạn và xuất bản dưới sự tài trợ của Quỹ Rosa Luxemburg Stiftung&mdash;Văn phòng Đông Nam Á
+
+[Nông nghiệp trường tồn (Permaculture)](https://www.rosaluxhanoi.org/vi/publications/publication_details/528.html)
+<hr/>

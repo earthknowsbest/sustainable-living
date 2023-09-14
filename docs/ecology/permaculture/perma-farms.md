@@ -173,3 +173,11 @@ Từ 2015, Trang trại An Nhiên là không gian sống và làm việc của m
 !!! quote "" 
 
     Rừng tre nằm trong trang trại An Nhiên, 2019
+
+<hr/>
+**Nguồn:** [Trung tâm Phát triển Sáng kiến Cộng đồng và Môi trường (C&E)](https://ce-center.org.vn/) và tổng hợp các nguồn khác từ báo chí, mạng xã hội.
+
+Tài liệu thứ nhất được biên soạn và xuất bản dưới sự tài trợ của Quỹ Rosa Luxemburg Stiftung&mdash;Văn phòng Đông Nam Á
+
+[Nông nghiệp trường tồn (Permaculture)](https://www.rosaluxhanoi.org/vi/publications/publication_details/528.html)
+<hr/>

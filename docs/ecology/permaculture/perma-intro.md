@@ -44,3 +44,10 @@ Với bộ quy tắc đạo đức và nguyên lý cơ bản mang tính phổ qu
 
     “...những người thực hành nông nghiệp trường tồn có thể đến từ nhiều hành trình khác nhau. Thời kỳ đầu, nông nghiệp trường tồn thu hút người làm vườn, nông dân, nhà thiết kế cảnh quan và những người dạy nông nghiệp trường tồn non trẻ. Tuy nhiên bởi khái niệm này có thể áp dụng rất rộng rãi, những người thực hành nông nghiệp trường tồn giờ đây bao gồm cả người thiết kế phần mềm; kỹ sư nước, rác thải và năng lượng; nhà hoạt động công lý xã hội; nhà giáo dục và nhà quản trị trường học từ mầm non tới cao học; người tổ chức cộng đồng và cán bộ nhà nước; nhà sinh thái; giáo viên dạy yoga, thể hình và các luyện tập tinh thần; túm lại, bất cứ ai”.
 
+<hr/>
+**Nguồn:** [Trung tâm Phát triển Sáng kiến Cộng đồng và Môi trường (C&E)](https://ce-center.org.vn/)
+
+Tài liệu được biên soạn và xuất bản dưới sự tài trợ của Quỹ Rosa Luxemburg Stiftung&mdash;Văn phòng Đông Nam Á
+
+[Nông nghiệp trường tồn (Permaculture)](https://www.rosaluxhanoi.org/vi/publications/publication_details/528.html)
+<hr/>

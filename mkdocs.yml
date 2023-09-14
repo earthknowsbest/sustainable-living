@@ -42,11 +42,12 @@ nav:
     - Năng lượng & Sự sống: 
       - energy/index.md 
       - Khát vọng con người: 
-        - Tăng trưởng: energy/human-ambition/1-growth.md
-        - Kinh tế: energy/human-ambition/2-econ.md
-        - Dân số: energy/human-ambition/3-population.md
-        - Không gian: energy/human-ambition/4-space.md
-        - Đơn vị: energy/human-ambition/5-energy-unit.md
+        - 1. Tăng trưởng: energy/human-ambition/1-growth.md
+        - 2. Kinh tế: energy/human-ambition/2-econ.md
+        - 3. Dân số: energy/human-ambition/3-population.md
+        - 4. Không gian: energy/human-ambition/4-space.md
+        - 5. Đơn vị: energy/human-ambition/5-energy-unit.md
+        # - 6. Nhiệt năng: energy/human-ambition/6-thermal.md
     - Năng lượng tái tạo: 
       - Hoài nghi °1: energy/renewables/renewable-skeptics.md
       - Hoài nghi °2: energy/renewables/renewable-skeptics-2.md

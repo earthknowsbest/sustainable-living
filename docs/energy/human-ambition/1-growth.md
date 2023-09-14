@@ -1,4 +1,4 @@
-# Tăng trưởng theo cấp số nhân (*Exponential Growth*)
+# Chương 1: Tăng trưởng theo cấp số nhân (*Exponential Growth*)
 
 Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người cũng có những điểm yếu chí mạng. Một trong số đó có lẽ là sự thiếu nhận thức đầy đủ về những hệ quả của cái gọi là **tăng trưởng theo cấp số nhân** (*exponential growth*)[^1]. Trớ trêu thay, những mục tiêu kinh tế chính trị của chúng ta thường hướng đến việc hỗ trợ tăng trưởng kinh tế. Do sự kì vọng và ham muốn tăng tưởng không ngừng đã ăn sâu vào tư duy xã hội, việc khảo sát kĩ lưỡng về hiện tượng này là một điều hệ trọng, nhằm tránh cho chúng ta những sai lầm căn bản về nhận thức. Trong chương này, chúng ta hãy cùng tìm hiểu bản chất chung của tăng trưởng theo cấp số nhân, để nắm được tính bất khả thi và những hệ quả vô lí của việc tiếp diễn tăng trưởng từ năm này sang năm khác. Kết quả cho thấy kết cấu xã hội của chúng ta (dựa trên tăng trưởng) sớm muộn gì cũng phải đối mặt với những biến cố đáng kể so với cuộc sống hiện tại&mdash;một điều cần hết sức lưu tâm[^2]. Các chương sau sẽ tập trung vào những ứng dụng về kinh tế và tăng trưởng dân số&mdash;bao gồm đường tăng trưởng hàm logistic, và sau đó nhấn mạnh đến những giới hạn (*limits*) mà hành tinh hữu hạn (*finite planet*) của chúng ta đặt ra.
 
@@ -8,7 +8,7 @@ Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người c
 [^2]:
     Chúng ta có thể đọc thêm phần Kết luận về hệ quả và tóm tắt ở phần cuối mỗi chương
 
-## Vi khuẩn trong hũ
+## 1. Vi khuẩn trong hũ
 
 Một trong những đặc điểm quan trọng của tăng trưởng theo hàm số mũ: **thời gian cần thiết để nhân đôi** (*doubling time*) là một hằng số (*constant*). 
  
@@ -172,7 +172,7 @@ Với $p$ nhận giá trị nhỏ (nhỏ hơn nhiều so với $1$), logarit t�
 
     Nếu chúng ta muốn  "giải ngược từ cuối" và tính xem khi nào mức tăng đạt gấp 3 lần ban đầu ($M = 3$),  chúng ta có thể dùng **Phương trình** $\eqref{1.5}$ để tìm ra $n$ bằng $22{,}5$ với $b$ là $1{,}05$ (hay $22{,}5$ năm, do cơ số này tăng mỗi năm). Nếu dùng $b = 2$, chúng ta tính được $n = 1.58$, hay gấp $3$ lần so với ban đầu sau $1{,}8$ lần nhân đôi, hay $1{,}58\times t_2 = 22{,}5$ năm. Chúng ta có thể kiểm tra kết quả với **Phương trình** $\eqref{1.6}$ bằng cách đặt $t = 22{,}5$ và $p = 0{,}05$ hay $t_2 = 14{,}2$.
 
-## Dự đoán tăng trưởng công suất năng lượng theo cấp số nhân
+## 2. Dự đoán tăng trưởng công suất năng lượng theo cấp số nhân
 
 Một khi đã thiết lập được nguyên lí của tăng trưởng theo cấp số nhân, giờ là lúc chúng ta sử dụng toán học để dẫn chứng về những giới hạn mà kì vọng của chúng ta có thể đạt đến. Chúng ta sẽ tập trung vào việc sử dụng năng lượng. Ban quản trị thông tin Năng lượng Hoa Kì (EIA) cung cấp thông tin về việc sử dụng năng lượng từ năm 1949 đến nay. Phụ lục (E1: [3]) trình bày ước tính năng lượng sử dụng từ năm 1635 đến 1945. **Hình** $\textbf{1.2}$ hiển thị quá trình lịch sử gần đây hơn.
 
@@ -238,7 +238,7 @@ Hãy tiếp tục với ví dụ trên với giả sử rằng chúng ta có th�
 
 Những ví dụ đặt ra trên đây không phải là viễn cảnh chinh phục hệ mặt trời hay thiên hà để chúng ta nên hi vọng vào. Chúng được sử dụng như một bài tập về tư duy, làm nổi bật lên sự vô lí của quá trình tăng trưởng theo cấp số nhân nếu kéo dài mãi mãi. Tất cả các lí luận trên đây đã phủ nhận sự tăng trưởng sản lượng năng lượng không ngừng, bao gồm sự thật rằng dân số nhân loại sẽ không thể tăng mãi mãi trên hành tinh này. Chúng ta sẽ đề cập đễ viễn tưởng về khả năng loài người sống trên hành tinh khác vào **Chương 4**.   
 
-## Hệ quả theo nhiệt động học (*Thermodynamic Consequences*)
+## 3. Hệ quả theo nhiệt động học (*Thermodynamic Consequences*)
 
 Vật lí tiếp tục đặt ra một giới nữa cho mức tăng trưởng: **nhiệt hao phí** (*waste heat*)[^3]. Gần như tất cả năng lượng chúng ta sử dụng cuối cùng sẽ chuyển hóa thành nhiệt năng. Nhiều hoạt động của con người vốn cần đến việc sản sinh nhiệt: bếp, lò nướng, lò sưởi, máy sấy, v.v. Ngay cả những thiết bị làm lạnh cũng tạo ra nhiệt.
 
@@ -349,7 +349,7 @@ Từ những ví dụ trên, ta thấy nếu tăng trưởng công suất tiêu 
 Một trong những điểm quan trọng của viễn cảnh bức xạ nhiệt như trên là nó *không phụ thuộc vào nguồn cung cấp năng lượng*. Năng lượng đó có thể là nhiên liệu hóa thạch, năng lượng từ phản ứng phân hạch hay nhiệt hạch  (chia tách hay tổng hợp hạt nhân), hay cả những nguồn năng lượng chúng ta còn chưa biết đến! Dù là nguồn năng lượng nào, nó cũng phải tuân thủ những định luật nhiệt động học. Vì thế, nhiệt động học đã đặt ra giới hạn cho việc tăng trưởng công suất năng lượng trên hành tinh này.
 
 
-## Kết luận: Những giới hạn vật lí của tăng trưởng
+## 4. Kết luận: Những giới hạn vật lí của tăng trưởng
 
 Chúng ta đã thấy ở chương này hệ quả của việc tăng trưởng liên tục dẫn đến sự vô lí như thế nào. Trước hết, chúng ta nhận thức được đôi khi trực giác cũng đánh lừa mình qua ví dụ về sinh sản của vi khuẩn trong hũ. Điểm mấu chốt ở đây là thời điểm hũ đầy một nửa cho đến khi đầy vi khuẩn hoàn toàn chỉ cách nhau thời gian bằng một lần nhân đôi. Điều này có vẻ hiển nhiên, nhưng khi quan sát kĩ chúng ta thấy sự gia tăng nhanh chóng này chỉ diễn ra ở những thời gian cuối cùng của toàn bộ quá trình sinh trưởng của vi khuẩn, khiến cho trực giác của chúng ta vốn quen với việc diễn tiến tuần tự của thực tại trở nên bị động. Sự tăng trưởng mới đầu không có gì nghiêm trọng bỗng chốc thay đổi hoàn toàn chỉ trong một vài lần nhân đôi cuối cùng.
 

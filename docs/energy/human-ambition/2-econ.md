@@ -1,4 +1,4 @@
-# Những giới hạn của tăng trưởng kinh tế
+# Chương 2: Những giới hạn của tăng trưởng kinh tế
 
 **Chương 1** đã áp  những định luật vật lí và logic toán, cho thấy tiến trình tăng trưởng không ngừng với chỉ vài phần trăm một năm sẽ trở nên phi lí chỉ trong vài trăm năm. Trong chương này, chúng ta sẽ khám phá những hệ quả của một khái niệm ít gắn với vật lí hơn: *tăng trưởng kinh tế*, vốn là nền tảng của xã hội hiện đại. Kế hoạch đầu tư, cho vay, nghỉ hưu hay an sinh xã hội đều căn cứ vào tăng trưởng kinh tế không ngừng. Chương này đưa ra kết luận rằng tăng trưởng kinh tế sẽ không thể nào tiếp tục nếu thế giới vật chất không tăng trưởng tương ứng&mdash;vốn là việc bất khả thi như chúng ta đã xem xét ở chương trước. Điều này kéo theo nhiều sự chỉ trích từ phía các nhà kinh tế học, mặc dù bằng sự kiên nhẫn, chúng ta có thể khiến cho họ hiểu[^1]. Sau đây là những luận điểm chính.
 
@@ -6,7 +6,7 @@
 
 	Đọc thêm về [cuộc đối thoại với nhà kinh tế học](https://dothemath.ucsd.edu/20../../../economist-meets-physicist/)
 
-## Lịch sử sự phụ thuộc của kinh tế vào tài nguyên năng lượng (*Coupling*)
+## 1. Lịch sử sự phụ thuộc của kinh tế vào tài nguyên năng lượng (*Coupling*)
 
 Trong thời đại cần sinh tồn, người ta giá trị thực phẩm và đồ dùng thiết yếu hơn sản phẩm mang tính thẩm mĩ: như người ta không thể ăn cũng như sưởi ấm bằng tượng điêu khắc[^2]. Lương thực, dụng cụ và tài nguyên như gỗ và động vật cung cấp sức chuyên chở là đáng giá nhất. Khi những nhu cầu sinh tồn đã được đáp ứng, vàng và đồ trang sức có thể là những mặt hàng được hướng đến tiếp theo&mdash;nhưng ngay cả chúng cũng là những tài nguyên vật chất. 
 
@@ -58,7 +58,7 @@ Trong một thế giới hữu hạn tài nguyên (hữu hạn về tài nguyên
 
 **Hình** $\textbf{2.2}$ biểu diễn độ thâm dụng năng lượng của tất cả các quốc gia trên thế giới. Những yếu tố dẫn dắt mức độ sử dụng năng lượng: địa lí (quốc gia rộng hơn đòi hỏi việc vận chuyển trên quãng đường xa hơn), khí hậu (quốc gia lạnh đòi hỏi nhiệt lượng sưởi ấm nhiều hơn), hiệu quả sử dụng năng lượng, và phong cách tiêu dùng. Nga, Canada, và Hoa Kì đều có lãnh thổ rộng lớn, và hai quốc gia đầu tiên cần nhiều năng lượng sưởi ấm hơn hầu hết các quốc gia. Ngược lại, Thụy Sĩ có lãnh thổ nhỏ và thuê ngoài hầu hết các ngành công nghiệp nặng. Bạn có thể xem thử tại sao Venezuela lại có độ thâm dụng năng lượng lớn như thế không?
 
-## Phát triển kinh tế không phụ thuộc vào tài nguyên (*Decoupling*) và Sự thay thế (*Substitution*)
+## 2. Phát triển kinh tế không phụ thuộc vào tài nguyên (*Decoupling*) và Sự thay thế (*Substitution*)
 
 Khi nền kinh tế vượt ra khỏi giai đoạn sinh tồn, một phần lớn các hoạt động giờ đây có thể tập trung vào các lĩnh vực "không thiết yếu", như nghệ thuật và giải trí. Sự thâm dụng năng lượng của các hoạt động này khá nhỏ. Đơn cử như một nhà sưu tập nghệ thuật có thể trả $1$ triệu Đô-la cho một bức tranh đáng mơ ước. Năng lượng cần cho giao dịch này rất thấp. Bức tranh này có thể đã được vẽ từ rất lâu, có thể vẫn còn được trưng bày ở địa điểm cũ&mdash;chỉ có tên chủ sở hữu là thay đổi. Các giao dịch tài chính cũng không đòi hỏi việc chế tạo, vận tải, và tiêu tốn nhiều năng lượng, được coi như đã "không phụ thuộc" (*decoupled*) vào tài nguyên vật chất. Nhiều ví dụ như thế tồn tại trong xã hội, được các nhà kinh tế học lấy làm dẫn chứng cho việc chúng ta có thể tăng trưởng nên kinh tế mà không cần khai thác sử dụng nhiều tài nguyên hơn[^5].
 
@@ -168,7 +168,7 @@ Tóm lại, giảm tính phụ thuộc vào tài nguyên (*decoupling*) và vi�
 	[Nghịch lí Jevons](https://www.inscc.utah.edu/~tgarrett/jevons-paradox.html) 
 
 
-## Giới hạn vật lí đối với nền kinh tế 
+## 3. Giới hạn vật lí đối với nền kinh tế 
  
 Giờ chúng ta hãy tưởng tượng một thí nghiệm, sử dụng **Hình** $\textbf{2.4}$ như một hướng dẫn. Chúng ta bắt đầu với với mức tăng trưởng cố định hàng năm của toàn bộ nền kinh tế (***điểm 1***; đường màu đỏ trên **Hình** $\textbf{2.4}$, ở mức $2{,}3\%$ (con số này rất tiện lợi vì qui mô nền kinh tế sẽ tăng khoảng gấp mười lần qua mỗi thế kỉ&mdash;bạn có thể kiểm tra trên đồ thị đường màu đỏ). Trong khi đó, tài nguyên (năng lượng, vật chất) trong nền kinh tế cũng tăng với mức tương tự, bắt đầu ở ***điểm 2*** màu xanh lam. Khoảng cách giữa đường màu đỏ và và xanh lam cho thấy: nền kinh tế (đo bằng giá trị tiền tệ) từ ban đầu không hoàn toàn sử dụng tài nguyên, mà có giá trị lớn hơn tài nguyên (vì những ngành dịch vụ tuy sinh ra nhiều lợi nhuận nhưng không tiêu tốn quá nhiều tài nguyên).
  
@@ -205,7 +205,7 @@ Một khi mức giá cơ bản được thiết lập, chi phí các tài nguyê
 
 Từ đó chúng ta có một quá trình phát triển logic hơn, sau một vài thế kỉ tăng trưởng kinh tế cuối cùng cũng dừng lại. Qui luật của Nhiệt động học giới hạn việc chúng ta có thể tăng trưởng ở Trái Đất chỉ trong vài thế kỉ, giả sử với mức chỉ vài phần trăm một năm. Tăng trưởng kinh tế sau đó sẽ dừng lại trong những thế kỉ tiếp theo. Trên thực tế, sự tăng trưởng này sẽ dừng lại sớm hơn nhiều trước khi chạm đến những điểm giới hạn lí thuyết. 
 
-## Thế giới không tăng trưởng
+## 4. Thế giới không tăng trưởng
 
 Những luận điểm trên đã dẫn chứng cho việc không thể tiếp diễn tăng trưởng mãi mãi&mdash;trái ngược với những giả định phổ biến. Khi một mô hình toán học đưa ra những kết quả vô lí&mdash;như những ví dụ chúng ta đã thấy khi cố tình để tăng trưởng tiếp diễn trong thời gian dài&mdash;không có nghĩa là toán học đã sai, mà đơn giản nó đã bị áp dụng sai cách hay có những giả định sai trong phương trình. Trong trường hợp này, sự phân tích giúp chúng ta chỉ ra rằng giả định về sự tăng trưởng không ngừng mãi mãi không thể đạt được.
 
@@ -230,7 +230,7 @@ Giờ đây, chúng ta đang ru mình bằng sự tự mãn: do đã tự cứu 
 
 	Một ví dụ kinh điển về Thomas Malthus, người đã cảnh báo từ cách đây $200$ năm về những giới hạn của tài nguyên vật chất trước khi nguồn nhiên liệu hóa thạch được khám phá, khiến cho những dự báo này tan thành mây khói. Nhưng ảnh hưởng của nó kéo dài rất lâu: nhắc đến Malthus đồng nghĩa với những dự báo sai lầm. Hệ quả là những cảnh báo vô cùng chính đáng bị nghị ngờ và bỏ qua. Bài học được rút ra cũng đến câu chuyện ngụ ngôn về cậu bé chăn cừu liên tục cảnh báo về sự xuất hiện của chó sói (*“the boy who cried wolf”*), cho dù cậu ta nhiều lần không thành thật, đến cuối cùng, chó sói vẫn thực sự xuất hiện.
 
-## Kết luận: Tăng trưởng kinh tế sẽ ngừng lại
+## 5. Kết luận: Tăng trưởng kinh tế sẽ ngừng lại
 
 Công thức cho việc kết thúc tăng trưởng kinh tế đáng để nhắc lại dưới dạng tóm tắt, như trong **Hộp** $\textbf{2.5}$. Hãy đảm bảo bạn hiểu rõ logic và những liên hệ từ điểm này đến điểm tiếp theo&mdash;mà không cần phải học thuộc như những sự kiện rời rạc.
 

@@ -1,4 +1,4 @@
-# Đơn vị năng lượng và công suất
+# Chương 5. Đơn vị năng lượng và công suất
 
 ![unit-0](../../assets/images/unit-0.webp)
 
@@ -12,7 +12,7 @@ Chương này là cơ sở để hiểu phần còn lại của nội dung trong
 
 Không giống như hầu hết các phần khác, chương này không kể về một câu chuyện nào hay nâng cao quan điểm của chúng ta về thế giới. Nhưng nó xây dựng nền tảng, giúp chúng ta có thể bắt đầu đánh giá được hậu quả của việc sử dụng năng lượng trong xã hội trong các chương tiếp theo. Hy vọng sự kiên nhẫn của bạn đọc sẽ được đền đáp.
 
-## Năng lượng (*Energy*) (J)
+## 1. Năng lượng (*Energy*)
 
 Trước hết, năng lượng là gì?
 
@@ -80,7 +80,7 @@ Viết đơn vị **Newton (N)** dưới dạng $kg·m/s^2$, ta thấy đơn v�
 
 Chúng ta sẽ bắt gặp những cách khác để mô tả năng lượng trong cuốn sách này, nhưng với bất kỳ cách nào, năng lượng cũng có thể chuyển thành đơn vị Joules, nếu muốn. Phần sau trong chương này trình bày chi tiết các đơn vị thay thế mà chúng ta phải làm quen để giải thích các thông tin về năng lượng trong đời sống hàng ngày.
 
-## Các dạng năng lượng và bảo toàn năng lượng
+## 2. Các dạng năng lượng và bảo toàn năng lượng
 
 Năng lượng biểu hiện ở nhiều dạng khác nhau mà chúng ta sẽ đề cập sâu và chi tiết hơn trong các chương về ứng dụng năng lượng. Bây giờ chúng chỉ liệt kê các ứng dụng tương ứng với từng chương trong **Bảng 5.2**
 
@@ -142,7 +142,7 @@ Nếu tính đến tất cả các quá trình hay con đường chuyển đổi
 
     Trên thực tế, nguyên lý này đã được xác lập rõ ràng đến mức các hạt mới (như neutrino) đã được khám phá ra khi tính toán năng lượng bị thiếu hụt từ bảo toàn năng lượng trong các phản ứng hạt nhân.
 
-## Công suất
+## 3. Công suất
 
 Trước khi tìm hiểu các đơn vị năng lượng thông dụng khác nhau, chúng ta nên tìm hiểu khái niệm quan trọng và đơn vị của **công suất** (*power*).
 
@@ -180,7 +180,7 @@ dụng các hệ số nhân khác nhau.
 </div>
 > **Bảng 5.3:** Hệ số nhân công suất và qui mô
 
-## Kilowatt giờ (kWh)
+## 4. Kilowatt giờ (kWh)
 
 !!! abstract "Định nghĩa 5.4.1"
  
@@ -236,7 +236,7 @@ Một số người có xu hướng nhầm lẫn giữa kW và kWh [^12]. Kilowa
 
     ...có thể với tốc độ 30 m/s; 67 m/phút; 108 km/h
 
-## Calo (kcal)
+## 5. Calo (kcal)
 
 Đơn vị năng lượng chung để mô tả các quá trình hóa học và nhiệt là calo và một số đơn vị tương tự.
 
@@ -301,7 +301,7 @@ Ví dụ thứ hai giúp hiểu rõ hơn định nghĩa của kcal: đun nước
 Lưu ý rằng chúng tôi không áp dụng công thức rõ ràng trong **Ví dụ 5.5.3**. Bằng cách lí luận theo từng bước, chúng tôi cố gắng giữ cho nó trực quan. Chúng tôi *có thể* viết công thức, nhưng có cách ngầm tạo các công thức một cách nhanh chóng bằng việc nhận ra rằng lượng năng lượng cần thiết sẽ tỉ lệ thuận với khối lượng nước và mức độ tăng nhiệt độ. Hy vọng rằng
 cách tiếp cận này sẽ giúp bạn hiểu sâu hơn về khái niệm, đồng thời việc in công thức lên đây có thể khiến bạn không hiểu được khái niệm này.
 
-## Đơn vị nhiệt lượng Anh (Btu)
+## 6. Đơn vị nhiệt lượng Anh (Btu)
 
 Tại sao chúng ta lại lãng phí thời gian để nói về đơn vị nhiệt lượng phức tạp của Anh (Btu)? Đó là vì dữ liệu do Cơ quan Thông tin Năng lượng Hoa Kỳ cung cấp về việc sử dụng năng lượng toàn cầu dựa trên Btu (Còn ở Việt Nam, ít trong lĩnh vực máy điều hoà, thường có đơn vị đo bằng Btu). Cụ thể hơn, tiêu thụ năng lượng hàng năm ở quy mô quốc gia được đo bằng đơn vị triệu triệu ($10^{15}$) Btu (xem **Hộp 5.4**). Ngoài ra, các thiết bị sưởi ấm ở Hoa Kì[^18] được định mức bằng Btu/giờ&mdash;một đơn vị năng lượng có thể chuyển đổi thành Watts.
 
@@ -356,7 +356,7 @@ gần bằng một phần tư của 4.184 J.
 
     30.000 Btu/giờ tương đương với 8.800 W.
 
-## Therms 
+## 7. Therms 
 
 Chúng ta sẽ hiếm khi gặp đơn vị này nhưng hãy đưa nó vào đây vì các hóa đơn tiện ích khí đốt tự nhiên[^24] ở Hoa Kỳ thường sử dụng Therms. Vì một phần mục tiêu của cuốn sách này là nâng cao hiểu biết cá nhân về năng lượng và cách so sánh các thước đo năng lượng khác nhau (ví dụ: trên hóa đơn điện nước), nên các quy ước ở Hoa Kỳ đòi hỏi cần đề cập đến đơn vị này[^25]. (Ở Việt Nam không mấy khi cần dùng đơn vị này, nên bạn đọc có thể tạm thời bỏ qua).
 
@@ -396,7 +396,7 @@ Chúng ta sẽ hiếm khi gặp đơn vị này nhưng hãy đưa nó vào đây
 
     Thật thú vị khi suy ngẫm về quan điểm cho rằng 200 L nước có thể được đun nóng nước lên 50°C chỉ với 2 L nhiên liệu lỏng, chỉ chiếm 1% thể tích nước. Nếu đun đến sôi thì lượng nhiên liệu cần gấp đôi, tức là 2% thể tích nước. Có vẻ như đây là một món hời&mdash;đặc biệt đối với những khách ba lô muốn đun sôi nước và phải mang nhiên liệu đi khắp nơi để làm việc đó. Nhưng sự kém hiệu quả trong việc truyền nhiệt vào nước có thể cần nhiều hơn 10% thể tích là nhiên liệu.
 
-## Điện năng
+## 8. Điện năng
 
 Tương tác điện bị chi phối bởi các hạt điện tích đẩy lẫn nhau. Với mục đích của chương này, chúng ta chỉ cần hiểu một vài khái niệm. Đầu tiên là **điện thế**.
 
@@ -469,7 +469,7 @@ Cuối cùng, chúng ta sẽ chuẩn bị hiểu một cục pin sẽ chứa đ�
     
     Tiếp cận một vấn đề từ nhiều hướng mang tính xác thực cũng như độ linh hoạt cao hơn.*
 
-## Electron Volt (eV)
+## 9. Electron Volt (eV)
 
 Electron-Volt (eV) là đơn vị năng lượng được lựa chọn ở quy mô nguyên tử. Điều này khiến nó trở nên lý tưởng khi thảo luận về **cường độ liên kết hóa học** (*chemical bond strength*) riêng lẻ, năng lượng của từng photon ánh sáng phát ra từ nguyên tử, năng lượng nhiệt trên mỗi nguyên tử hay phân tử[^34] Chúng ta cũng sử dụng eV cho vật lý hạt nhân, nhưng phải tăng quy mô lên một triệu lần và do đó đề cập đến mega-electron-volt, hay MeV.
 
@@ -509,7 +509,7 @@ Electron-volt, ở mức $1,6 × 10^{-19}\, J$, là một lượng năng lượn
 
     Mỗi liên kết cácbon-ôxy là một liên kết đôi , nghĩa là có 2 electron tham gia vào liên kết, tổng cộng là 4 electron
 
-## Quang năng
+## 10. Quang năng
 
 Quang năng hay năng lượng ánh sáng và quang phổ của nó sẽ được khám phá rộng rãi hơn trong **Chương 13** về **Năng lượng mặt trời**, nhưng các khái niệm chính sẽ được trình bày đầy đủ ở đây.
 
@@ -551,7 +551,7 @@ Chúng ta cũng thường xuyên biểu diễn năng lượng photon bằng elec
 
     Phần đầu màu đỏ của quang phổ khả kiến, bước sóng khoảng $0{,}7\,𝜇m$, tương ứng với năng lượng photon khoảng $1{,}8\, eV$, trong khi phần đầu màu xanh, bước sóng khoảng $0{,}4\, 𝜇m$, tương ứng với năng lượng photon khoảng $3{,}1\, eV$.
 
-## Kết luận
+## 11. Kết luận
 
 Mỗi chương đều có phần kết luận, thường là chắt lọc những bài học quan trọng từ chương đó hoặc đưa ra những suy ngẫm sau cùng. Ở đây, chúng ta có thể củng cố thêm quan điểm rằng năng lượng luôn có thể được biểu thị bằng Joules hoặc chuyển đổi thành bất kỳ đơn vị nào được mô tả trong chương này. Điều quan trọng nữa là khái niệm về năng lượng được bảo toàn&mdash;chỉ có thể biến đổi từ dạng này sang dạng khác nhưng không bao giờ thực sự mất đi hay tự sinh ra.
 

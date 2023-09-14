@@ -1,4 +1,4 @@
-# Khám phá và chinh phục không gian vũ trụ
+# Chương 4: Khám phá và chinh phục không gian vũ trụ
 
 ![apollo-8](../../assets/images/apollo08_earthrise.jpg)
 
@@ -14,7 +14,7 @@ Chương này được đặt ở giữa sách nhằm “khép lại mọi lối
 
     Trích lời Carl Sagan, những tuyên bố hùng hồn biệt cần có bằng chứng hùng hồn.
 
-## Qui mô không gian
+## 1. Qui mô không gian
 
 Trong vòng hai tiếng đồng hồ, chúng ta có thể ngồi xem một bộ phim và “tham gia” vào chuyến du hành giữa các vì sao mà không thấy mệt mỏi. Hãy cùng nhau bước ra khỏi ngành công nghiệp giải trí (viễn tưởng) và chấp nhận quy mô vật lý của thực tế môi trường không gian.
 
@@ -180,7 +180,7 @@ Với không gian rộng lớn thế này, thật thiếu thận trọng khi coi
 </div>
 > **Bảng 4.3**: Chi phí ước tính/xấp xỉ, đã điều chỉnh theo lạm phát (đơn vị Đô la Mĩ)
 
-## Hướng đi sai lầm
+## 2. Câu chuyện sai lầm
 
 Con người không ngại tự chúc mừng mình vì những thành tựu đạt được. Vâng, chúng ta đã làm được những điều khá đáng chú ý. Một cảm xúc hấp dẫn và phổ biến đã kể câu chuyện của nhân loại theo thuật ngữ tiến hoá: cá bò ra khỏi đại dương, chim bay lên không trung và con người đang thực hiện bước đi hợp lý tiếp theo vào không gian&mdash;tiếp tục di sản thoát khỏi sự trói buộc của nước, đất và cuối cùng là Trái đất. Đó là một câu chuyện hấp dẫn và chúng ta thực sự đã học được cách thoát khỏi lực hấp dẫn của Trái đất và đặt chân lên một thiên thể khác.
 
@@ -231,7 +231,7 @@ Việc du hành vào không gian có thể dễ dàng bị coi là tình huống
 ![space-4-dark](../../assets/images/space-4-dark.svg#only-dark)
 > **Hình 4.4:** *Dải màu hồng cho biết khoảng cách con người đã đi xa nhất khỏi bề mặt của trái đất trong 50 năm qua. **Kính Viễn Vọng Không gian Hubble** (Hubble Space Telescope) (HST) có quĩ đạo ở phần rìa ngoài của dài này ở độ cao 600 km và **Trạm vũ trụ quốc tế** ở giữa ở độ cao 400 km. Ngoài đường màu đen mỏng bao quanh địa cầu, bầu khí quyển của Trái đất quá mong manh để hỗ trợ sự sống.*
 
-## Hàng loạt các khó khăn
+## 3. Hàng loạt các khó khăn trở ngại
 
 Nếu không nản lòng trước sự trống rỗng vô cùng lớn, điều kiện khắc nghiệt hay thiếu nguồn nhân lực hỗ trợ trong không gian, thì có thể là do bạn tin tưởng vào sự sáng tạo của con người có thể vượt qua những thách thức này. Và điều này đúng ở một mức độ nào đó. Chúng ta đã bước đi trên một thiên thể khác trong hệ mặt trời[^20]. Chúng ta đã có những con người dành khoảng một năm trên quỹ đạo trái đất. Đây có thể là những bước đi đầu tiên hướng tới tương lai du hành không gian hay chỉ là những kỳ công hiếm hoi mà chúng ta có thể đạt được với nỗ lực/chi phí phi thường. Làm thế nào chúng ta nói lên được sự khác biệt?
 
@@ -281,7 +281,7 @@ Về ý tưởng biến đổi hành tinh (sao cho bầu khí quyển của nó 
 
 Chúng ta cũng nên nhớ lại bài học ở phần [Tăng trưởng](1-growth.md) về cái gọi là tăng trưởng theo cấp số nhân và việc bổ sung thêm một môi trường sống nữa về cơ bản không ảnh hưởng gì đến hệ quả cuối cùng, ngoài việc trì hoãn thêm một thời gian nhân đôi ngắn ngủi. Do đó, ngay cả khi chúng ta lầm lẫn khi đánh giá thấp việc biến đổi hành tinh khác trong hệ mặt trời, thì ai quan tâm chứ? Chúng ta vẫn không tránh khỏi thách thức chính mà nhân loại phải đối mặt khi tăng trưởng gặp phải những giới hạn trong một thế giới hữu hạn (hay thậm chí là một hệ mặt trời hữu hạn, nếu chúng ta nói đến mức đó).
 
-## Vai trò của thám hiểm
+## 4. Vai trò thám hiểm
 
 Thật dễ hiểu tại sao mọi người có thể bám vào ý tưởng rằng chúng ta có thể sẽ tận dụng việc khám phá không gian để chinh phục và biến nó thành thuộc địa. Giống như những nhà thám hiểm đầu tiên trên hành tinh này đã mở ra những con đường đường xâm chiếm “thế giới mới”; sự tương đồng trong việc khám phá những thế giới mới (theo nghĩa đen) như các hành tinh cũng là điều hiển nhiên[^24]. Thêm vào đó, chúng ta bị quyến rũ bởi sự mới lạ đầy thách thức của việc chiếm đóng không gian&mdash;được thực chứng bởi một ngành giải trí sôi động (như điện ảnh) dành riêng cho những câu chuyện kể về cuộc sống trong không gian. Nhưng không phải mọi sự thám hiểm đều dẫn đến phá đều dẫn đến việc cư ngụ lâu dài và phim giải trí không phải là sự thật.
 
@@ -340,7 +340,7 @@ Việc thôn tính không gian có thể được coi như một ảo tưởng v
 
     IPAC/NASA (2020), [Các hành tinh ngoại lai](https://exoplanetarchive.ipac.caltech.edu/) của NASA
 
-## Kết luận
+## 5. Kết luận
 
 Tác giả thậm chí có thể đi xa hơn bằng cách coi nhưng nỗ lực tập trung vào việc thôn tính không gian trong khi con người đang phải đối mặt với những thách thức cấp bách hơn là việc làm vô trách nhiệm và đáng hổ thẹn. Chuyển hướng sự chú ý [của công chúng] vào những nỗ lực có lẽ là vô ích[^29] có thể dẫn đến sự đau khổ toàn diện, khi mà nó không chỉ phân bổ sai nguồn lức mà còn có thể ru mọi người trong cảm giác rằng không gian vũ trụ có thể là lối thoát khả thi. Chúng ta đừng để bị phân tâm!
  

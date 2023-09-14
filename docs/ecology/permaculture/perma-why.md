@@ -30,3 +30,11 @@ Kiến thức nông nghiệp trường tồn giúp cho cả những cộng đồ
 !!! note ""
 
     **Hình 4:** Phân vùng lối sống cá nhân theo thiết kế nông nghiệp trường tồn được xây dựng bởi Bart Anderson ( Hemenway, 2015)
+
+<hr/>
+**Nguồn:** [Trung tâm Phát triển Sáng kiến Cộng đồng và Môi trường (C&E)](https://ce-center.org.vn/)
+
+Tài liệu được biên soạn và xuất bản dưới sự tài trợ của Quỹ Rosa Luxemburg Stiftung&mdash;Văn phòng Đông Nam Á
+
+[Nông nghiệp trường tồn (Permaculture)](https://www.rosaluxhanoi.org/vi/publications/publication_details/528.html)
+<hr/>
