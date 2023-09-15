@@ -158,7 +158,7 @@ Mặc dù năng lượng là khả năng thực hiện công nhưng nó không n
 
 !!! quote ""
 
-    Trọng lượng bằng $mg$. Trong trường hợp này, $m$ bằng $10 kg$. Nếu chúng ta chặt chẽ hơn, gia tốc trọng trường $g = 9,8m/s^2$, nhưng để tiện lợi chúng ta lấy $g ≈ 10 m/s^2$ mà không làm mất độ chính xác quá nhiều.
+    Trọng lượng bằng $mg$. Trong trường hợp này, $m$ bằng $10 kg$. Nếu chúng ta chặt chẽ hơn, gia tốc trọng trường $g = 9,8\,m/s^2$, nhưng để tiện lợi chúng ta lấy $g ≈ 10\,m/s^2$ mà không làm mất độ chính xác quá nhiều.
 
 ![unit-2-light](../../assets/images/unit-2-light.svg#only-light)
 ![unit-2-dark](../../assets/images/unit-2-dark.svg#only-dark)

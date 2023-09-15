@@ -137,7 +137,7 @@ nhà có thể được đặc trưng bởi **tốc độ mất nhiệt** (*heat
 
 !!! example "Ví dụ 6.3.2"
 
-    Hãy so sánh mức độ năng lượng để giữ ba ngôi nhà khác nhau ở nhiệt độ 20°C khi nhiệt độ bên ngoài là 0°C (điểm đóng băng). Ngôi nhà được xây dựng tươm tất như mô tả trong **Hộp 6.1**, ở đây chúng tôi làm tròn **tỷ lệ thất thoát nhiệt** (*heat loss heat*) ở mức $75\, W/°C$. Sau đó, chúng ta hãy hình dung một ngôi nhà được xây dựng tốt có tỉ lệ mất nhiệt $150\, W/°C$ và một ngôi nhà điển hình[^15] có tỉ lệ mất nhiệt $300\, W/°C$.
+    Hãy so sánh mức độ năng lượng để giữ ba ngôi nhà khác nhau ở nhiệt độ 20°C khi nhiệt độ bên ngoài là 0°C (điểm đóng băng). Ngôi nhà được xây dựng tươm tất như mô tả trong **Hộp 6.1**, ở đây chúng tôi làm tròn **tỷ lệ thất thoát nhiệt** (*heat loss heat*) ở mức $75\, W/°C$. Sau đó, chúng ta hãy hình dung một ngôi nhà được xây dựng tốt có hệ số mất nhiệt $150\, W/°C$ và một ngôi nhà điển hình[^15] có hệ số mất nhiệt $300\, W/°C$.
 
     Chênh lệch nhiệt độ, $\Delta{T}$, là 20°C nên ngôi nhà siêu ấm áp của chúng ta cần $75\, W/°C$ nhân $20°C$, bằng 1.500 W[^16] để giữ ấm, trong khi một ngôi nhà tương đối tốt cần 3.000 W và một nhà kém hơn cần 6.000 W.
 
@@ -282,30 +282,140 @@ Entropy chi phối cách nhiệt truyền (từ nóng đến lạnh, nếu để
     ...với điều kiện là ranh giới hệ thống đủ lớn để không có năng lượng nào vượt ra ngoài.
 
 
-Hai định luật nhiệt động lực học này, cộng với cách định lượng sự thay đổi entropy mà chúng ta sẽ thấy sau đây, là tất cả những gì chúng ta cần để tìm ra hiệu suất tối đa mà một động cơ nhiệt có thể đạt được trong việc thực hiện công. Nếu chúng ta rút một lượng nhiệt, $\Delta{Q_{h}}$ từ một bể nước nóng[^30] ở nhiệt độ $T_{h}$, và cho phép một phần năng lượng này được “xuất khẩu” dưới dạng công có ích, thì phần còn lại chúng ta phải truyền dưới dạng nhiệt ($\Delta{Q_{c}}$) vào bể nước lạnh tắm ở nhiệt độ $T_{c}$. **Hình 6.4** cho biết cấp sơ đồ của quá trình này. Định luật thứ nhất của Nhiệt động lực học[^31] đòi hỏi $\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$, hay toàn bộ nhiệt lượng tỏa ra từ bể nước nóng được thể hiện dưới dạng công bên ngoài và chảy vào bể lạnh: không có năng lượng nào bị mất đi cả.
+Hai định luật nhiệt động lực học này, cộng với cách định lượng sự thay đổi entropy mà chúng ta sẽ thấy sau đây, là tất cả những gì chúng ta cần để tìm ra hiệu suất tối đa mà một động cơ nhiệt có thể đạt được trong việc thực hiện công. Nếu chúng ta rút một lượng nhiệt, $\Delta{Q_{h}}$ từ một bể tắm nước nóng[^30] ở nhiệt độ $T_{h}$, và cho phép một phần năng lượng này được “xuất khẩu” dưới dạng công có ích, thì phần còn lại chúng ta phải truyền dưới dạng nhiệt ($\Delta{Q_{c}}$) vào bể nước lạnh tắm ở nhiệt độ $T_{c}$. **Hình 6.4** cho biết cấp sơ đồ của quá trình này. Định luật thứ nhất của Nhiệt động lực học[^31] đòi hỏi $\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$, hay toàn bộ nhiệt lượng tỏa ra từ bể nước nóng được thể hiện dưới dạng công bên ngoài và chảy vào bể lạnh: không có năng lượng nào bị mất đi cả. 
+
+[^30]:
+
+    Khi nói “bể tắm”, chúng tôi muốn nói đến một hồ chứa lớn ở nhiệt độ không đổi, đủ lớn để không thay đổi đáng kể nhiệt độ của nó khi rút một lượng nhiệt năng, $\Delta{Q}$, nào đó.
+
+> **Hình 6.4: Cân bằng năng lượng của động cơ nhiệt.** Nhiệt truyền từ bể nóng sang bể lạnh có thể thực hiện công hữu ích, $\Delta{Q}$, trong quá trình đó&mdash;tuân theo sự **bảo toàn năng lượng** ($\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$, trong đó $\Delta{Q}$ là dòng nhiệt năng lưu chuyển. Entropy giới hạn độ lớn có thể của $\Delta{W}$. Độ rộng mũi tên tỷ lệ thuận với năng lượng và số màu đỏ là lượng năng lượng sử dụng trong ví dụ này.
 
 
+Vậy entropy xuất hiện ở đâu? Lấy nhiệt từ bể nước nóng với lượng $\Delta{Q_{h}$}$ dẫn đến sự thay đổi entropy trong bể nước nóng theo **Định nghĩa 6.4.5**
+
+!!! abstract "Định nghĩa 6.4.5: Thay đổi đổi Entropy""
+
+    khi năng lượng (nhiệt, $\Delta{Q}$, tính bằng J) được truyền vào hoặc ra khỏi bể ở nhiệt độ $T$, sự thay đổi entropy kèm theo của bể, $\Delta{S}$, tuân theo phương trình:
+
+    $$
+        \Delta{Q} = T\Delta{S} \tag{6.2}\label{6.2}
+    $$
+
+    Khi nhiệt lượng bị truyền ra, entropy giảm. Khi nhiệt được thêm vào, entropy tăng. Nhiệt độ, $T$, phải tính bằng độ Kelvin và entropy được đo bằng đơn vị J/K.
+
+<div markdown="1" align="center">
+| **Kí hiệu** | **Mô tả**                    |
+|:-----------:|:----------------------------:|
+| $T$         | nhiệt độ ($K$)               |
+| $\Detal{T}$ | thay đổi nhiệt độ ($K$, $°C$) |
+| $\Delta{Q}$ | nhiệt năng ($J$)             |
+| $\Delta{W}$ | cơ năng ($J$)                |
+| $\Delta{S}$ | thay đổi entropy             |
+| $\epsilon$  | hiệu suất                    |
+| $\eta$       | hệ số entropy                |
+</div>
+> **Bảng 6.3 Kí hiệu nhiệt động lực học**
 
 
+Vì vậy, việc lấy năng lượng từ bể nước nóng làm giảm entropy trong bể nước nóng tương ứng $\Delta{S_{h}}$ theo phương trình $\Delta{Q_{h}} = T_{h}\Delta{S_{h}}$.Trong khi đó, $\Delta{S_{c}}$ entropy được thêm vào bể lạnh theo phương trình $\Delta{Q_{c}} = T_{c}\Delta{S_{c}}$. Định luật thứ hai của Nhiệt động lực học đòi hỏi rằng *tổng thay đổi* entropy không âm (hay không thể giảm). Theo công thức dạng phương trình (định nghĩa kí hiệu trong **Bảng 6.3**)[^32]:
+
+$$
+    \Delta{S_{tổng}} = \Delta{S_{c}} - \Delta{S_{h}} >= 0 \tag{6.3}\label{6.3}
+$$
+
+[^32]:
+
+    Bạn hãy nhớ: phương trình như một sự biểu đạt khái niệm bằng những cách chính xác&mdash;không chỉ đơn giản là công cụ để ghi nhớ khi giải toán. Bạn cần hiểu và ghi nhớ ý nghĩa của chúng.
 
 
+Ở đây chúng ta trừ đi $\Delta{S_{h}}$ vì đây là bớt entropy, trong khí $\Delta{S_{c}}$ là thêm entropy. Vì thế chúng ta đòi hỏi rằng:
 
+$$
+    \Delta{S_{c}} >= \Delta{S_{h}} \tag{6.4}\label{6.4}
+$$
 
+Bây giờ chúng ta có thể đặt câu hỏi xem bao nhiêu phần trăm của $\Delta{Q_{h}}$ có thể được chuyển thành công có ích ($\Delta{W}$) trong giới hạn mà Định luật nhiệt động học thứ hai đã đặt ra. Chúng ta biểu diễn điều này dưới dạng **hiệu suất** (*efficieny*)[^33], kí hiệu bằng chữ cái Hy Lạp epsilon:
 
+$$
+    \epsilon = \frac{\Delta{W}}{\Delta{Q_{h}}} = \frac{\Delta{Q_{h}} - \Delta{Q_{c}}}{\Delta{Q_{h}}} \tag{6.5}\label{6.5}
+$$
 
+[^33]:
+    
+    Định nghĩa về tính hiệu quả này nắm bắt được điều chúng ta quan tâm: bao nhiêu phần trăm của nhiệt được chiết xuất có thể được chuyển hoá thành công có ích.
 
+Bước thứ hai của phương trình trên áp dụng **định luật bảo toàn năng lượng**: $\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$
 
+!!! example "Ví dụ 6.4.4: Hiệu suất thực tế"
+ 
+    Nếu quan sát thấy một động cơ nhiệt hoạt chuyển 30 J từ bể nước nóng và truyền 20 J vào bể nước lạnh,như trong **Hình 6.4**, hiệu suất của động cơ nhiệt này trong việc tạo ra công có ích là bao nhiêu?
 
+    Chúng ta có thể suy ra $\Delta{W} = 10\,J$ và sử dụng dạng đầu tiên của **Phương trình 6.5**, hoặc áp dụng dạng thứ hai, kết quả đều là 1/3 hay 33%.
 
+Chúng ta có thể thêm một bước vào **Phương trình 6.5** để thể hiện nó dưới dạng thay đổi entropy:
 
+$$
+    \epsilon = \frac{\Delta{W}}{\Delta{Q_{h}}} = \frac{\Delta{Q_{h}} - \Delta{Q_{c}}}{\Delta{Q_{h}}} = \frac{T_{h}\Delta{S_{h}} - T_{c}\Delta{S_{c}}}{T_{h}\Delta{S_{h}}} \tag{6.6}\label{6.6}
+$$
 
+Trong đó chúng ta biểu thị mỗi \Delta{Q} tương đương $T\Delta{S}$ thêm/bớt entropy. Chúng ta có thể chi cả tử và mẫu số cho $\Delta{S_{h}}$:
 
+$$
+    \epsilon = \frac{T_{h} - T_{c}\eta}{T_{h}} \tag{6.7}\label{6.7}
+$$
 
+Trong đó $\eta$ (eta) biểu thị hệ số entropy: $\eta = \Delta{S_{c}}/\Delta{S_{h}}, chúng ta biết từ **Phương trình 6.4** không thể nhỏ hơn 1[^34]:
 
+$$
+    \eta >= 1 \tag{6.8}\label{6.8}
+$$
 
+[^34]:
 
+    Nếu A >= B, thì A/B >= 1.
 
+Nhìn vào **Phương trình 6.7**, nếu chúng ta muốn đạt hiệu quả cao nhất để tạo ra công có ích từ một dòng nhiệt, chúng ta muốn tử số càng lơn càng tốt. Để đạt được điều này, chúng ta muốn trừ $T_{h}$ càng ít càng tốt. Nếu $\eta$ trở nên rất lớn thì tử số sẽ giảm đi. Vì thế chúng ta muốn giá trị nhỏ nhất có thể cho $\eta$, đó là khi $\eta = 1$ từ **Phương trình 6.8**. Từ đó chúng ta có thể suy ra mức hiệu quả vật lí tối đa có thể đạt được của một động cơ nhiệt:
 
+$$
+    \epsilon = \frac{T_{h} - T_{c}}{T_{h}} = \frac{\Delta{T}}{T_{h}} \tag{6.9}\label{6.9}
+$$
 
+Trong đó chúng ta đặt $\Delta{T} = T_{h} - T_{c}$ là độ chênh lệch nhiệt độ giữa bồn nóng và lạnh. Kết luận quan trọng ở đây là hiệu suất tăng khi $\Delta{T}$ tăng, và trở nên nhỏ hơn khi $\Delta{T}$ nhỏ hơn.
 
+!!! warning "Đơn vị nhiệt độ"
+
+    Đơn vị nhiệt độ phải là Kelvin. Nhắc bạn: $T(K) ≈  T(°C) + 273$.
+
+!!! example "Ví dụ 6.4.5" 
+
+    Nếu một động cơ nhiệt hoạt động giữa bể nước nóng ở 800 K và môi trường bình thường có nhiệt độ khoảng 300 K[^35] thì hiệu suất tối đa là 62,5%
+
+[^35]:
+
+    300 K là hợp so với mức nhiệt độ "thông thường" của môi trường, tương ứng 27°C hay 80,6°F.
+
+!!! example "Ví dụ 6.4.6" 
+
+    Một động cơ nhiệt hoạt động giữa nước sôi và nước đóng băng, có nhiệt độ nước sôi $T_{h} ≈ 373 K$ và $\Delta{T} = 100 K$, có hiệu suất cực đại $\epsilon{}_max = 0{,}268$, hay 26,8%.
+
+!!! example "Ví dụ 6.4.7" 
+
+    Một động cơ nhiệt hoạt động ở nhiệt độ da người là 35°C và nhiệt độ môi trường xung quanh là 20°C có hiệu suất cực đại là $\epsilon{}_max = 15/308 ≈ 0{,}05$, hay 5%.
+
+Nếu nhiệt độ bể nước lạnh được cố định[^36] thì hiệu suất tối đa có thể sẽ cải thiện khi nhiệt độ của bể nóng tăng lên. Ngược lại, với nhiệt độ bể nóng nhất định $T_{h}$, hiệu suất tăng khi nhiệt độ bể lạnh giảm và do đó $\Delta{T}$.
+
+[^36]:
+
+    Đây là tình huống phổ biến, vì c thường được thiết lập bởi nhiệt độ môi trường xung quanh của không khí hoặc của
+
+!!! note "Hộp 6.3: Ở giới hạn cực đại..."
+
+    Nếu $T_{c}$ tiến tới 0 K[^37], hiệu quả tối đa đạt được là 100%. Chúng ta có thể suy ra điều này từ mối quan hệ $\Delta{Q} = T\Delta{S}$, ám chỉ rằng khi $T$ rất nhỏ, không cần nhiều nhiệt ($\Delta{Q}$) để đáp ứng yêu cầu về lượng entropy được thêm vào bể lạnh ($\Delta{S_{c}}$) đủ lớn đến mức tổng entropy không âm. Từ đó rộng mũi tên trong $Hình 6.4$ cho $\Delta{Q}$ trở nên mỏng (nhỏ) hơn cho phép $\Delta{W} có độ dày (lớn) gần bằng $Delta{Q_{h}}$. Điều này có nghĩa là toàn bộ năng lượng sẵn có sẽ sinh công có ích và hiệu suất sẽ rất cao. Trên thực tế, Trái đất không chưa phải là một bể nước đủ lạnh để hiệu ứng này phát huy tác dụng, nhưng thảo luận về điều này là một phương tiện để hiểu rõ hơn về cách thức hoạt động của **Phương trình 6.9**.
+
+[^37]:
+
+    ...độ không tuyệt đối, -273°C
+
+Động cơ nhiệt thực tế như nhà máy nhiệt điện (**Hình 6.2**) hoặc động cơ ô tô có xu hướng chỉ đạt được một nửa hiệu suất lý thuyết do gặp phải vô số thách thức
+thực tế. Hiệu suất điển hình của một nhà máy nhiệt điện vào khoảng 30–40%, trong khi ở ô tô thường nằm trong khoảng 15–25%. Ngược lại, nhiệt độ đốt cháy trong động cơ khoảng 700–800C cho thấy hiệu suất lý thuyết tối đa là khoảng 60%.
 
