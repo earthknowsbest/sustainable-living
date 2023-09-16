@@ -123,7 +123,7 @@ nhà có thể được đặc trưng bởi **tốc độ mất nhiệt** (*heat
 
     Các phương pháp thực hành tốt nhất mang lại kết quả là một ngôi nhà được xây dựng ấm cúng đủ tiêu chuẩn gọi là **“Nhà thụ động”** (*Passive House*), đạt được 0,15 W/°C *cho mỗi mét vuông* bề mặt tiếp xúc với bên ngoài[^14] và 0,8 W/°C trên mỗi mét vuông diện tích cửa sổ.
 
-    Hãy tưởng tượng một ngôi nhà có diện tích 12 m × 12 m, tường cao 2,5 m, mỗi bức tường có hai cửa sổ và mỗi cửa sổ có diện tích 2 m^2^ (**Hình 6.1**). Sàn và trần đều rộng 144 m^2^, và diện tích tường (chu vi nhân với chiều cao) 48 × 2,5 = 120 m^2^. Nhưng chúng ta trừ 16 m^2^ cho tám cửa sổ, còn lại 104 m^2^ cho các bức. Kết quả nhiệt mất mát  của ngôi nhà là 13 W/°C đối với cửa sổ ($0,8 W/m^2/C × 16 m^2$), cộng với 59 W/°C đối với tường/sàn/trần với tổng cộng là 72 W/°C.
+    Hãy tưởng tượng một ngôi nhà có diện tích 12 m × 12 m, tường cao 2,5 m, mỗi bức tường có hai cửa sổ và mỗi cửa sổ có diện tích 2 m^2^ (**Hình 6.1**). Sàn và trần đều rộng 144 m^2^, và diện tích tường (chu vi nhân với chiều cao) 48 × 2,5 = 120 m^2^. Nhưng chúng ta trừ 16 m^2^ cho tám cửa sổ, còn lại 104 m^2^ cho các bức. Kết quả nhiệt mất mát  của ngôi nhà là 13 W/°C đối với cửa sổ ($0,8 W/m^2/°C × 16 m^2$), cộng với 59 W/°C đối với tường/sàn/trần với tổng cộng là 72 W/°C.
 
     Tỷ lệ mất nhiệt của một ngôi nhà được xây dựng tươm tất có thể gấp đôi con số này, trong khi một ngôi nhà được xây dựng thông thường (ít chú ý đến hiệu quả) có thể gấp 3–6 lần con số này&mdash;vài trăm W/°C. Tất nhiên, những ngôi nhà nhỏ hơn có diện tích nhỏ hơn cho việc truyền nhiệt nên nnhiệt mất mát sẽ nhỏ hơn.
 
@@ -193,7 +193,7 @@ $$
     PV = Nk_{B}T \tag{6.1}\label{6.1} 
 $$
 
-$P$, $V$ và $T$ lần lượt là áp suất, thể tích và nhiệt độ (đơn vị tính bằng $N/m^2$, $m^3$ và Kelvin). $N$ là số lượng nguyên tử hay phân tử, và $k_{B} = 1{,}38 × 10^{-23}\, J/K$ là **hằng số Boltzmann** (*Boltzmann constant*), chúng ta sẽ gặp lại trong **Phần 2, Chương 13**. Nhiệt độ tăng đủ nhanh khi đánh lửa để thể tích xi lanh không có thời gian thay đổi[^23]. **Phương trình 6.1** cho chúng ta biết áp suất cũng phải tăng vọt khi nhiệt độ tăng lên, khi giữ tất cả các yếu tố khác không đổi. Áp suất tăng lên sẽ đẩy piston ra xa, làm tăng thể tích xi lanh và thực hiện **công** (*work*)[^24]. Nhưng tất cả đều bắt đầu bằng nhiệt,thông qua sự gia tăng mạnh về nhiệt độ.
+$P$, $V$ và $T$ lần lượt là áp suất, thể tích và nhiệt độ (đơn vị tính bằng $N/m^2$, $m^3$ và Kelvin). $N$ là số lượng nguyên tử hay phân tử, và $k_{B} = 1{,}38 × 10^{-23}\, J/K$ là **hằng số Boltzmann** (*Boltzmann constant*), chúng ta sẽ gặp lại trong **Phần 2, Chương 13**. Nhiệt độ tăng đủ nhanh khi đánh lửa để thể tích xi lanh không có thời gian thay đổi[^23]. **Phương trình** $\eqref{6.1}$ cho chúng ta biết áp suất cũng phải tăng vọt khi nhiệt độ tăng lên, khi giữ tất cả các yếu tố khác không đổi. Áp suất tăng lên sẽ đẩy piston ra xa, làm tăng thể tích xi lanh và thực hiện **công** (*work*)[^24]. Nhưng tất cả đều bắt đầu bằng nhiệt,thông qua sự gia tăng mạnh về nhiệt độ.
 
 [^23]: 
 
@@ -350,9 +350,9 @@ Bước thứ hai của phương trình trên áp dụng **định luật bảo 
  
     Nếu quan sát thấy một động cơ nhiệt hoạt chuyển 30 J từ bể nước nóng và truyền 20 J vào bể nước lạnh,như trong **Hình 6.4**, hiệu suất của động cơ nhiệt này trong việc tạo ra công có ích là bao nhiêu?
 
-    Chúng ta có thể suy ra $\Delta{W} = 10\,J$ và sử dụng dạng đầu tiên của **Phương trình 6.5**, hoặc áp dụng dạng thứ hai, kết quả đều là 1/3 hay 33%.
+    Chúng ta có thể suy ra $\Delta{W} = 10\,J$ và sử dụng dạng đầu tiên của **Phương trình** $\eqref{6.5}$, hoặc áp dụng dạng thứ hai, kết quả đều là 1/3 hay 33%.
 
-Chúng ta có thể thêm một bước vào **Phương trình 6.5** để thể hiện nó dưới dạng thay đổi entropy:
+Chúng ta có thể thêm một bước vào **Phương trình** $\eqref{6.5}$ để thể hiện nó dưới dạng thay đổi entropy:
 
 $$
     \epsilon = \frac{\Delta{W}}{\Delta{Q_{h}}} = \frac{\Delta{Q_{h}} - \Delta{Q_{c}}}{\Delta{Q_{h}}} = \frac{T_{h}\Delta{S_{h}} - T_{c}\Delta{S_{c}}}{T_{h}\Delta{S_{h}}} \tag{6.6}\label{6.6}
@@ -364,7 +364,7 @@ $$
     \epsilon = \frac{T_{h} - T_{c}\eta}{T_{h}} \tag{6.7}\label{6.7}
 $$
 
-Trong đó $\eta$ (eta) biểu thị hệ số entropy: $\eta = \Delta{S_{c}}/\Delta{S_{h}}, chúng ta biết từ **Phương trình 6.4** không thể nhỏ hơn 1[^34]:
+Trong đó $\eta$ (eta) biểu thị hệ số entropy: $\eta = \Delta{S_{c}}/\Delta{S_{h}}, chúng ta biết từ **Phương trình** $\eqref{6.4}$ không thể nhỏ hơn 1[^34]:
 
 $$
     \eta >= 1 \tag{6.8}\label{6.8}
@@ -374,7 +374,7 @@ $$
 
     Nếu A >= B, thì A/B >= 1.
 
-Nhìn vào **Phương trình 6.7**, nếu chúng ta muốn đạt hiệu quả cao nhất để tạo ra công có ích từ một dòng nhiệt, chúng ta muốn tử số càng lơn càng tốt. Để đạt được điều này, chúng ta muốn trừ $T_{h}$ càng ít càng tốt. Nếu $\eta$ trở nên rất lớn thì tử số sẽ giảm đi. Vì thế chúng ta muốn giá trị nhỏ nhất có thể cho $\eta$, đó là khi $\eta = 1$ từ **Phương trình 6.8**. Từ đó chúng ta có thể suy ra mức hiệu quả vật lí tối đa có thể đạt được của một động cơ nhiệt:
+Nhìn vào **Phương trình** $\eqref{6.7}$, nếu chúng ta muốn đạt hiệu quả cao nhất để tạo ra công có ích từ một dòng nhiệt, chúng ta muốn tử số càng lơn càng tốt. Để đạt được điều này, chúng ta muốn trừ $T_{h}$ càng ít càng tốt. Nếu $\eta$ trở nên rất lớn thì tử số sẽ giảm đi. Vì thế chúng ta muốn giá trị nhỏ nhất có thể cho $\eta$, đó là khi $\eta = 1$ từ **Phương trình** $\eqref{6.8}$. Từ đó chúng ta có thể suy ra mức hiệu quả vật lí tối đa có thể đạt được của một động cơ nhiệt:
 
 $$
     \epsilon = \frac{T_{h} - T_{c}}{T_{h}} = \frac{\Delta{T}}{T_{h}} \tag{6.9}\label{6.9}
@@ -410,12 +410,235 @@ Nếu nhiệt độ bể nước lạnh được cố định[^36] thì hiệu s
 
 !!! note "Hộp 6.3: Ở giới hạn cực đại..."
 
-    Nếu $T_{c}$ tiến tới 0 K[^37], hiệu quả tối đa đạt được là 100%. Chúng ta có thể suy ra điều này từ mối quan hệ $\Delta{Q} = T\Delta{S}$, ám chỉ rằng khi $T$ rất nhỏ, không cần nhiều nhiệt ($\Delta{Q}$) để đáp ứng yêu cầu về lượng entropy được thêm vào bể lạnh ($\Delta{S_{c}}$) đủ lớn đến mức tổng entropy không âm. Từ đó rộng mũi tên trong $Hình 6.4$ cho $\Delta{Q}$ trở nên mỏng (nhỏ) hơn cho phép $\Delta{W} có độ dày (lớn) gần bằng $Delta{Q_{h}}$. Điều này có nghĩa là toàn bộ năng lượng sẵn có sẽ sinh công có ích và hiệu suất sẽ rất cao. Trên thực tế, Trái đất không chưa phải là một bể nước đủ lạnh để hiệu ứng này phát huy tác dụng, nhưng thảo luận về điều này là một phương tiện để hiểu rõ hơn về cách thức hoạt động của **Phương trình 6.9**.
+    Nếu $T_{c}$ tiến tới 0 K[^37], hiệu quả tối đa đạt được là 100%. Chúng ta có thể suy ra điều này từ mối quan hệ $\Delta{Q} = T\Delta{S}$, ám chỉ rằng khi $T$ rất nhỏ, không cần nhiều nhiệt ($\Delta{Q}$) để đáp ứng yêu cầu về lượng entropy được thêm vào bể lạnh ($\Delta{S_{c}}$) đủ lớn đến mức tổng entropy không âm. Từ đó rộng mũi tên trong $Hình 6.4$ cho $\Delta{Q}$ trở nên mỏng (nhỏ) hơn cho phép $\Delta{W} có độ dày (lớn) gần bằng $Delta{Q_{h}}$. Điều này có nghĩa là toàn bộ năng lượng sẵn có sẽ sinh công có ích và hiệu suất sẽ rất cao. Trên thực tế, Trái đất không chưa phải là một bể nước đủ lạnh để hiệu ứng này phát huy tác dụng, nhưng thảo luận về điều này là một phương tiện để hiểu rõ hơn về cách thức hoạt động của **Phương trình** $\eqref{6.9}$.
 
 [^37]:
 
     ...độ không tuyệt đối, -273°C
 
-Động cơ nhiệt thực tế như nhà máy nhiệt điện (**Hình 6.2**) hoặc động cơ ô tô có xu hướng chỉ đạt được một nửa hiệu suất lý thuyết do gặp phải vô số thách thức
-thực tế. Hiệu suất điển hình của một nhà máy nhiệt điện vào khoảng 30–40%, trong khi ở ô tô thường nằm trong khoảng 15–25%. Ngược lại, nhiệt độ đốt cháy trong động cơ khoảng 700–800C cho thấy hiệu suất lý thuyết tối đa là khoảng 60%.
+Động cơ nhiệt thực tế như nhà máy nhiệt điện (**Hình 6.2**) hoặc động cơ ô tô có xu hướng chỉ đạt được một nửa hiệu suất lý thuyết do gặp phải vô số thách thức thực tế. Hiệu suất điển hình của một nhà máy nhiệt điện vào khoảng 30–40%, trong khi ở ô tô thường nằm trong khoảng 15–25%. Ngược lại, nhiệt độ đốt cháy trong động cơ khoảng 700–800C cho thấy hiệu suất lý thuyết tối đa là khoảng 60%.
+
+## 5. Máy bơm nhiệt (*Heat Pump*)
+
+Chúng ta có thể đảo ngược động cơ nhiệt và gọi nó là máy bơm nhiệt. Trong trường hợp này, chúng ta *dùng* năng lượng từ bên ngoài để điều khiển một dòng nhiệt ngược với hướng tự nhiên của nó&mdash;như đẩy nhiệt đi lên. Đây là cách tủ lạnh[^38] hoạt động. **Hình 6.5** trình bày qui trình này.
+
+[^38]:
+
+    ...hay cách tủ làm đông, hay điều hòa không khí hoạt động.
+
+> **Hình 6.5:** Cân bằng năng lượng bơm nhiệt. Việc dùng năng lượng, tạo ra công có ích ($\W$; từ một nguồn điện chẳng hạn) có thể làm cho nhiệt truyền từ một bình chứa lạnh (như bên trong tủ đông) sang một môi trường nóng hơn&mdash;ngược với trực giác thông thường. Ví dụ cặp truyền nhiệt từ $T_{c} (lạnh) -> T_{h} (nóng)$, có thể áp dụng từ bên trong ngăn đông -> nhiệt độ phòng; nhà mát mẻ bên trong -> mùa hè bên ngoài; mùa đông bên ngoài -> bên trong ấm áp hơng. Chúng ta vẫn phải thỏa mãn sự bảo toàn năng lượng ($\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$), trong đó $\Delta{Q}$ là dòng truyền nhiệt. Các ràng buộc về entropy giới hạn độ lớn $\Delta{Q_{c}}$ đối với $\Delta{W}$ nhất định. Độ rộng mũi tên tỷ lệ thuận với năng lượng và số màu đỏ là lượng năng lượng sử dụng.
+
+Một chuỗi logic tương tự có thể được áp dụng cho qui trình, viện dẫn Định luật nhiệt động học thứ hai để đảm bảo không giảm entropy. Chúng ta định nghĩa hiệu suất dựa trên những ứng và những gì chúng ta quan tâm, dẫn đến hai con số tương ứng như sau.
+
+!!! example "Định nghĩa 6.5.1"
+
+    Đối với các ứng dụng làm mát[^39], chúng ta quan tâm đến lượng nhiệt có thể được chuyển ra khỏi môi trường làm mát ($\Delta{Q_{c}}$) ứng với một đầu vào năng lượng, hay công nhất định ($\Delta{W}$). Khi đó hiệu suất được đặc trưng bởi tỷ suất $\eta{}_{cool} = \frac{\Delta{Q_{c}}}{\Delta{W}}$.
+
+[^39]:
+
+    ...tủ động, tủ lạnh, máy lạnh
+
+
+!!! example "Định nghĩa 6.5.2""
+
+    $\eta{}_heat$: Đối với các ứng dụng sưởi ấm[^40], chúng ta quan tâm đến nhiệt lượng được cung cấp cho bể nóng ($\Delta{Q_{h}}$) đối với một lượng công đầu vào nhất định ($\Delta{W}$). Hiệu suất khi đó được đặc trưng bởi tỷ số $\eta{}_{heat} = \frac{\Delta{Q_{h}}}{\Delta{W}}$.
+
+[^40]:
+
+    ...máy bơm nhiệt gia dụng
+
+Theo định nghĩa trên, và căn cứ theo yêu cầu lượng entropy *thêm vào* bể nóng không được nhỏ hơn lượng entropy *lấy ra* khỏi bể lạnh sao cho tổng độ biến thiên entropy không âm[^41], chúng ta có hiệu suất tối đa cho phép trong làm mát dựa trên máy bơm nhiệt như sau:
+
+$$
+    \eta{cool} <= \frac{T_{c}}{T_{h} - T_{c}} = \frac{T_{c}}{\Delta{T}} \tag{6.10}\label{6.10}
+$$
+
+tương tự với việc làm nóng:
+
+$$
+    \eta{heat} <= \frac{T_{h}}{T_{h} - T_{c}} = \frac{T_{h}}{\Delta{T}} \tag{6.11}\label{6.11}
+$$
+
+[^41]:
+
+    Áp đặt điều kiện này cho ra kết quả $\Delta{S_{h}} >= \Delta{S_{c}}$; ngược lại **Phương trình** $\eqref{6.7}$ do hướng của dòng chảy nhiệt thay đổi.
+
+Các phương trình này ai đoạn trông rất giống **Phương trình** $\eqref{6.9}$), nhưng *bị đảo ngược*. Hiệu suất tối đa có thể lớn hơn 100%[^42]!
+
+[^42]:
+
+    Xem **Hộp 6.4**
+
+!!! example "Ví dụ 6.5.1" 
+    
+    Giới hạn hiệu quả của việc duy trì nhiệt độ tủ ở mức -10°C so với nhiệt độ phòng 20°C?
+
+    Trước hết, chúng ta biểu diễn nhiệt độ bằng Kelvin: $T_{c} ≈ 263\, K$ và $\Delta{T} = 30\, K$[^43]. Hiệu suất tối đa, theo **Phương trình** $\eqref{6.10}$, tính ra được là $\eta_{cool} <= 8{,}8$ (880%).
+
+[^43]:
+
+    Lưu ý rằng $\Delta{T} = 30 ở cả hai thang nhiệt độ K hay °C$
+
+!!! example "Ví dụ 6.5.2"
+
+    Giới hạn hiệu quả của việc giữ nhiệt độ trong nhà ở 20°C khi nhiệt độ ngoài trời là -10°C?
+
+    Trước tiên, chúng ta biểu diễn nhiệt độ bằng K: $T_{h} ≈ 293\,K$ và $\Delta{T} = 30\,K$[^44]. Hiệu suất tối đa, theo **Phương trình** $\eqref{6.11}$, tính ra được là $\eta_{heat} <= 9{,}8$ (980%).
+
+[^44]:
+
+    Lưu ý rằng $\Delta{T} = 30 ở cả hai thang nhiệt độ K hay °C$
+
+!!! note "Hộpe 6.4: Hiệu quả > 100% có thực sự khả thi?
+
+    Ban đầu, hiệu quả có thể > 100% xem ra có vẻ bất khả thi và rất kì lạ. **Ví dụ 6.5.1** đã cho thấy có thể có 8,8 J nhiệt năng được lưu chuyển (từ môi trường lạnh sang môi trường nóng) với chỉ 1 J công! Tình huống này giống như môn kung fu Jiu Jutsu, khi lực của đối phương được tận dụng để đánh ngã chính đối phương, với rất ít lực cần thiết để làm điều này từ phía mình. Trong trường hợp này, chúng ta làm cho nhiệt năng bên trong tủ đông truyền ra bên ngoài có nhiệt độ cao hơn (hay ngược chiều với dòng chảy tự nhiên của nhiệt năng) và quá trình này sử dụng ít năng lượng lượng nhiệt năng đã đã được chuyển ra ngoài.
+
+    Trên thực tế, số đo "hiệu suất" có thể lớn hơn 100% là một ảo tưởng: điều này phụ thuộc vào  cách chúng ta định nghĩa $\eta{cool}$ và $\eta{heat}$. Bảo toàn năng lượng không bị vi phạm; chúng ta chỉ đang lấy một giá trị nhỏ ($\Delta{W}$) trong mẫu số để tạo nên số đo hiệu suất[^45]. Trong tình huống này, đây không thực sự là thước đo hiệu quả, vốn thường đưa đại lượng *lớn nhất* (tổng năng lượng của hệ) vào mẫu số.
+
+[^45]:
+
+    Theo các con số ví dụ trong **Hình 6.5**, chúng ta sẽ nói $\eta{}_{cool}$, được định nghĩa bằng $\frac{\Delta{Q_{c}}}{\Delta{W}}$ là 2,0 và $\eta{}_{heat}$ là 3,0. 
+
+!!! success ""
+
+    Có lẽ hoàn cảnh có thể dễ hiểu hơn khi được so sánh với quá trình chuyển tiền. Người ta có thể phải trả một khoản phí 20 Đô-la Mĩ để chuyển 1.000 Đô từ tài khoản A đến tài khoản B. Điều đó không có nghĩa là 1.000 Đô đó được tạo ra từ 20 Đô&mdash;mà có nghĩa là 20 Đô đã được tiêu (giống như $\Delta{W}$) để chuyển một số tiền từ tài khoản A vào tài khoản B. Nhưng nếu tài khoản A thuộc sở hữu một ai khác, có nghĩa rằng 20 Đô phí chuyển đã biến thành 1.000 Đô với lợi tức 5.000 %, mặc dù số tiền này đến từ một nơi khác.
+
+Trong trường hợp sưởi ấm, cần so sánh nhiệt lượng tạo ra bởi bơm nhiệt so với cấp nhiệt trực tiếp. Chúng ta hãy cùng xem lại tình huống trong [Mục 3](#3-sưởilàm-mát-trong-gia-đình) 
+
+!!! example "Ví dụ 6.5.3"  
+
+    Nếu mức độ mất nhiệt của một ngôi nhà là 150 W/°C và chúng ta muốn giữ nhiệt độ 20°C bên trong so với nhiệt độ bên ngoài rất lạnh -20°C, chúng ta cần phải cung cấp 6.000 W công suất[^46] cho ngôi nhà dưới dạng đốt nhiên liệu (khí ga tự nhiên, propane, củi) hay điện năng trực tiếp từ các máy sưởi[^47].
+
+    Nhưng theo **Phương trình** $\eqref{6.11}$, một máy bơm nhiệt theo lý thuyết có thể chuyển 6.000 W nhiệt năng mà chỉ cần dùng 820 W mà không vi phạm Định luật hai nhiệt động học, vì $\eta{}_{heat} <= 293/40 = 7{,}3$ và $6.000\, J$ ($\Delta{Q_{h}}$) chia cho 7,3 bằng 820 J ($\Delta{W}$)[^48].
+
+[^46]:
+
+    150 W/°C nhân với 40°C chênh lệch giữa môi trường bên trong và bên ngoài.
+
+[^47]:
+
+    ...tương đương với 4 máy sưởi công suất 1.500 W.
+
+[^48]:
+
+    Chúng ta đang giải $\Delta{W} = \Delta{Q_{h}}/\eta{}_{heat}$, và cho rằng năng lượng di chuyển trong 1 giây để có thể chuyển từ Watt (W) ra Joule (J).
+
+Thực tế kỹ thuật sẽ ngăn chặn việc vận hành (máy bơm nhiệt) ở gần mức giới hạn hiệu năng, nhưng ít nhất chúng ta mong đợi có thể hoàn thành mục tiêu 6.000 W của **Ví dụ 6.5.3** với mức điện tiêu thụ dưới 2.000 W. Do đó, bơm nhiệt giảm năng lượng tiêu thụ còn một phần ba (hoặc hơn) để duy trì mức nhiệt trong nhà. Máy bơm nhiệt vì thế rất đặc biệt.
+
+**Phương trình** $\eqref{6.11}$ và **Phương trình** $\eqref{6.11}$ ngụ ý rằng bơm nhiệt hoạt động hiệu quả nhất khi $\Delta{T}$ hay độ chệnh lệch môi trường nhỏ. Vì vậy, một chiếc tủ lạnh trong gara nóng không chỉ cần phải hoạt động nhiều hơn để duy độ chệnh nhiệt độ $\Delta{T}$, nó còn hoạt động kém hiệu quả hơn&mdash;khiến nó trở thành lợi bất cập hại. Để sưởi ấm tại nhà, máy bơm nhiệt mang lại lợi ích cao nhất ở những vùng có khí hậu ôn hòa hơn, nơi $\Delta{T}$ nơi không quá khắc nghiệt.
+
+## 5. Thước đo hiệu năng tiêu dùng: COP, EER, HSPF
+
+Khi mua máy bơm nhiệt hoặc máy điều hòa không khí (hoặc máy làm lạnh/tủ đông), các sản phẩm được xác định bằng **hệ số hiệu suất** (*energy efficiency ratio*) (COP) hoặc **tỷ suất hiệu năng** (*energy efficiency ratio*) (EER) hoặc **hệ số hiệu suất sưởi ấm theo mùa** (*heating seasonal performance factor*) (HSPF), như trong **Hình 6.6**. Những điều này có liên quan gì đến các giá trị $\eta{}_{heat}$ và $\eta{}_{cool}$? 
+
+!!! abstract "Định nghĩa 6.5.3 COP"
+
+    Máy bơm nhiệt được sử dụng để làm nóng được đặc trưng bởi **hệ số hiệu suất** (*COP*), là một khái niệm đã quen thuộc với chúng ta:
+
+    $$
+        COP = \eta{}_{heat} \tag{6.12}\label{6.12}
+    $$
+
+!!! example "Ví dụ 6.5.4 COP" 
+
+    Sử dụng các số màu đỏ trong **Hình 6.5**, chúng ta có thể tính $\eta{}_{heat}$, hay COP, sau đó xác định nhiệt độ lí thuyết có thể đạt được $T_{c}$ (với hiệu suất cao nhất có thể) nếu $T_{h} = 300\,K$[^49].
+
+
+    Chúng tôi quay trở lại với định nghĩa ban đầu của $\eta{}_{heat}$ là $\Delta{Q_{h}}/\Delta{W}$, tính ra là 30/10 hay 3,0 thì COP chỉ đơn giản là 3,0.
+
+    Đặt $eta{}_{heat,max} = T_{h}/\Delta{T}$ bằng 3,0, chúng ta tìm được $\Delta{T} = 100\, K$, vì thế nhiệt độ tối thiểu cho phép là $T_{c} = 200\,K$.
+
+[^49]:
+
+    Điều này tương đương với việc duy trì môi trường nóng hơn ở mức 27°C, trong bối cảnh sưởi ấm một ngôi nhà nào đó.
+
+EER thì khác và có lẽ hơi kỳ quặc. EER được định nghĩa là nhiệt lượng được lưu chuyển ($\Delta{Q_{c}}$), tính bằng Btu, trên mỗi công đầu vào ($\Delta{W}$), tính bằng watt-giờ (Wh). Cái gì?! Đôi khi đơn vị thật điên rồ. Nhưng chúng ta có thể giải quyết được việt này. Nếu có số liệu về EER (Btu/Wh), chúng ta có thể quy đổi nó, cả đơn vị ở tử số và mẫu số, thành cùng một đơn vị. Chúng ta có thể quy đổi Btu thành Wh ở tử số, hoặc qui đổi Wh thành Btu ở mẫu số, hoặc chúng ta có thể chuyển đổi cả tử số và mẫu số thành J[^50]. Để minh họa, chúng ta sẽ chọn phương pháp cuối cùng. Để quy đổi từ Btu sang Joules,
+chúng ta nhân (tử số) với 1.055. Để qui đổi từ Wh thành J, chúng ta nhân mẫu số (hoặc EER) cho 3.600[^51]. Kết quả đạt được làm nổi bật trong phần định nghĩa sau.
+
+[^50]:
+
+    ...hay bất kì đơn vị năng lượng nào
+
+[^51]:
+
+    ...1 watt-giờ (Wh) là 1 J/s nhân với 3.600 s
+
+!!! abstract "Định nghĩa 6.5.4: EER 
+
+    Bơm nhiệt dùng để làm mát được đặc trưng bởi  định bằng **tỷ suất hiệu suất năng (EER)**, điều chỉnh **Phương trình** $\eqref{6.10}$ như sau:
+
+    $$
+    \eta{}_{cool} = EER(\frac{Btu}{Wh})\frac{1055\,J/Btu}{3600\,J/Wh} = EER·0{,}293 \tag{6.13}\label{6.13}
+    $$
+
+    hay ngược lại:
+
+    $$
+    EER = \frac{\eta{}_{cool}}{0{,}293} ≈ 3{,}41 × \eta{}_{cool} \tag{6.14}\label{6.14}
+    $$
+
+!!! example "Ví dụ 6.5.5: Ví dụ về EER" 
+
+    Sử dụng các số màu đỏ trong **Hình 6.5**, chúng ta có thể tính $\eta{}_{cool}$, EER, sau đó xác định được $T_{h}$ tối đa cho phép về mặt lý thuyết (dẫn đến hiệu suất tối đa có thể) ở mức $T_{c}$ là 260 K, nhiệt độ trong tủ đông.
+
+    Chúng ta quay lại định nghĩa ban đầu của $\eta{}_{cool}$, $\Delta{Q_{c}}/\Delta{W}$, tính ra được kết quả 20/10, bằng 2,0. EER theo đó lớn 3,41 lần so với kết quả này, hay bằng 6,8
+
+    Đặt $\eta{}_{cool,max} = T_{c}/\Delta{T}$ bằng 2,0, chúng ta tìm được $\Delta{T}$ bằng 130 K, từ đó nhiệt độ tối đa cho phép là $T_{h} = 390\, K$ trong trường hợp này.
+
+Bởi hiệu suất tối đa về mặt lý thuyết phụ thuộc vào $\Delta{T}$&mdash;theo **Phương trình** $\eqref{6.10}$ và $\eqref{6.11}$&mdash;và do đó có thể dao động khi nhiệt độ ngoài trời thay đổi, giá trị t**rung bình theo mùa thường** được sử dụng, gọi là SEER (EER theo mùa). Tương tự, HSPF đo lường giống như COP, nhưng theo đơn vị của EER[^52] và tính trung bình cho cả mùa sưởi ấm.
+
+[^52]:
+
+    ...Btu/Wh
+
+!!! abstract "Định nghĩa 6.5.5 HSPF"
+
+    Bơm nhiệt được sử dụng để sưởi ấm đôi khi được đặc trưng bởi **hệ số hiệu suất sưởi ấm theo mùa (HSPF)**. Hệ số này điều chỉnh **Phương trình** $\eqref{6.11}$ như sau.
+
+    $$
+    \eta{}_{heat} = HSPF(\frac{Btu}{Wh})\frac{1055\,J/Btu}{3600\,J/Wh} = HSPF·0{,}293 \tag{6.15}\label{6.15}
+    $$
+
+    hay ngược lại:
+
+    $$
+    HSPF = \frac{\eta{}_{heat}}{0{,}293} ≈ 3{,}41 × COP \tag{6.16}\label{6.16}
+    $$
+
+!!! example "Ví dụ 6.5.6 HSPF"
+
+    Sử dụng các số màu đỏ trong **Hình 6.5**, chúng ta có thể tính được $\eta{}_{heat}$ và HSPF.
+
+    Chúng ta quay lại định nghĩa ban đầu của $\eta{}_{heat}$ là $\Delta{Q_{h}}/\Delta{W}$, tính ra được kết quả 30/10, bằng 3,0. COP theo đó bằng 3,0, và HSPF theo đó lớn 3,41 lần, do đó bằng 10,2.
+
+
+Giá trị COP điển hình cho máy bơm nhiệt nằm trong khoảng 2,5–4,5[^53]. Điều đó có nghĩa năng lượng được tiếp tiệm theo hệ số 2,5 đến 4,5 khi sưởi ấm một ngôi nhà thông qua bơm nhiệt so với sưởi ấm bằng điện trực tiếp. Đúng là rất hiệu quả. **Hệ số định mức** (*rating*) của EER của máy điều hòa không khí thường nằm trong khoảng 10–20 lần, tương ứng với 3–6 lần nếu tính theo $\eta{}_{cool}$&mdash;tương đương với máy bơm nhiệt trong khi bật chế độ làm nóng[^54]. Những ngôi nhà được trang bị máy bơm nhiệt điện thường có thể làm mát và sưởi ấm, khiến chúng trở thành giải pháp linh hoạt và hiệu quả để chuyển nhiệt năng ra hay vào ngôi nhà.
+
+[^54]:
+    EER và HSPF được nhân lên hệ số 1/0,293 ≈ 3,41 so với COP, do đơn vị có phần phức tạp của EER và HSPF
+
+Máy bơm nhiệt tận dụng nhiệt độ vừa phải dưới mặt đất làm bể nhiệt bên ngoài được gọi là máy bơm nhiệt “địa nhiệt”, nhưng không liên quan gì đến năng lượng địa nhiệt (như một nguồn năng lượng riêng biệt). So với máy bơm nhiệt tiếp xúc với nhiệt độ không khí bên ngoài khắc nghiệt hơn, máy bơm nhiệt địa nhiệt được hưởng lợi từ độ chênh nhiệt độ $\Delta{T}$ nhỏ hơn và do đó hoạt động với hiệu suất cao hơn.
+
+## 6. Kết luận
+
+Đôi khi chúng ta chỉ cần nhiệt lượng. Nấu ăn, sưởi ấm trong nhà và xử lý nguyên liệu đều cần nhiệt trực tiếp. Đốt nhiên liệu hóa thạch, củi, nhiên liệu sinh
+học, khai thác năng lượng địa nhiệt hay đơn giản là để mặt trời sưởi ấm ngôi nhà của chúng ta đều trực tiếp sử dụng nhiệt lượng. **Nhiệt dung riêng** cho chúng ta biết cần bao nhiêu nhiệt năng để thay đổi nhiệt độ của một vật, sử dụng nhiệt dung riêng $1.000\, J/kg/°C$ làm ước tính sơ bộ nếu thiếu thông tin cụ thể hơn[^55]. Chúng ta cũng đã biết cách ước tính nhu cầu sưởi ấm trong nhà bằng cách sử dụng
+**mức độ mất nhiệt**, chẳng hạn như $200 W/°C$.
+
+Nhưng hóa ra chúng ta sử dụng nhiệt vào nhiều việc hơn thế. 84% điện năng của chúng ta được sản xuất bởi động cơ nhiệt, sử dụng dòng nhiệt để làm quay tua-bin của máy phát điện. Hiệu suất tối đa mà một động cơ nhiệt có thể đạt được bị đặt ra bởi các giới hạn về entropy và lên tới mức $\eta{}_{max} < \Delta{T}/T_{h}$, mặc dù trong thực tế, chúng ta có thường đạt được chỉ một nửa hay ít hơn giới hạn nhiệt động học[^56]. Trong mọi trường hợp, nhiệt năng đóng vai trò to lớn trong cách chúng ta vận hành xã hội.
+
+Máy bơm nhiệt giống như động cơ nhiệt đảo ngược: điều khiển dòng nhiệt năng lượng nhiệt ngược hướng nóng-lạnh tự nhiên bằng cách dùng năng lượng hay công từ bên ngoài. Bất kỳ hệ thống làm lạnh hay làm mát nào cũng có thể sử dụng phương pháp này[^57]. Vì máy bơm nhiệt chỉ cần chuyển nhiệt năng nên mỗi phần năng lượng mà chúng chuyển được có thể chỉ cần một phần năng lượng nhỏ hơn để hoàn thành, khiến chúng trở thành những thiết bị cực kỳ thông minh và hiệu
+quả.
+
+[^55]:
+
+    Hay chúng ta thường xuyên sử dụng giá trị nhiệt dung riêng của của nước ở $4.184\, J/kg/°C$, gắn liền với định nghĩa về kilocalo hay kcal.
+
+[^56]:
+
+    Hiệu suất điển hình là 20% đối với ô tô và 35% đối với nhà máy điện&mdash;so với 60% về mặt lý thuyết.
+
+[^57]:
+
+    Một ngoại lệ đáng chú ý là **làm mát bằng cách bay hơi** (*evaporative cooling*).
 

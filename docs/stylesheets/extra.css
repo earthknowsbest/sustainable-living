@@ -1,3 +1,7 @@
+/* html {
+    font-size: 26px;
+} */
+
 ::selection {
     background: #ffd78d;
     color: #3d1818;
@@ -64,7 +68,7 @@ input {
 
 .md-typeset {
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: 1.45;
 }
 
 .md-typeset h1 {
