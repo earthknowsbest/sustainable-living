@@ -1,8 +1,14 @@
 # 6. Sử dụng nhiệt năng
 
-Chúng ta đã bắt gặp nhiệt năng trong hai bối cảnh.Đầu tiên là bức xạ hồng ngoại ([Phương trình 1.8](https://songbenvung.net/energy/human-ambition/1-growth/#he-qua-theo-nhiet-ong-hoc-thermodynamic-consequences)) và thứ hai là trong định nghĩa kilocalo ([Phần 5, Chương 5](https://songbenvung.net/energy/human-ambition/5-energy-unit/#calo-kcal)). Mặt khác, nhiệt thường được coi là một dạng “chất thải” trong một chuỗi chuyển đổi năng lượng: ma sát, lực cản không khí, v.v. Người ta ám chỉ rằng nhiệt là sản phẩm phụ không mong muốn và không có giá trị.
+![thermal-0](../../assets/images/thermal-0.webp)
 
-Tuy nhiên, 94% năng lượng chúng ta sử dụng ngày nay có bản chất là nhiệt [^1]: chúng ta đốt rất nhiều thứ để lấy năng lượng[^2]! Và đôi lúc nhiệt năng chính là thứ chúng ta cần. Nhưng làm sao có thể sử dụng nó để lái máy bay, đẩy ô tô và làm sáng màn hình? Chương này nhằm mục đích làm rõ cách sử dụng nhiệt năng và khám phá các giới hạn về **hiệu suất** (*efficiency*) mà ở đó nhiệt có thể thực hiện **công** (*work*) phi nhiệt (*non-thermal*).
+!!! quote ""
+
+    Động cơ xe lửa là một ví dụ của động cơ nhiệt. Hình ảnh: Nhiếp ảnh gia Chính phủ Nam Úc.
+
+Chúng ta đã bắt gặp nhiệt năng trong hai bối cảnh.Đầu tiên là bức xạ hồng ngoại ([Phương trình 1.8](1-growth.md#mjx-eqn%3A1.8)) và thứ hai là trong định nghĩa kilocalo ([Phần 5, Chương 5](5-energy-unit.md#5-calo-kcal)). Mặt khác, nhiệt thường được coi là một dạng “chất thải” trong một chuỗi chuyển đổi năng lượng: ma sát, lực cản không khí, v.v. Người ta ám chỉ rằng nhiệt là sản phẩm phụ không mong muốn và không có giá trị.
+
+Tuy nhiên, 94% năng lượng chúng ta sử dụng ngày nay có bản chất là nhiệt [^1]: chúng ta đốt rất nhiều thứ để lấy năng lượng[^2]! Và đôi lúc nhiệt năng chính là thứ chúng ta cần. Nhưng làm sao có thể sử dụng nó để lái máy bay, chạy ô tô và làm sáng màn hình? Chương này nhằm mục đích làm rõ cách sử dụng nhiệt năng và khám phá các giới hạn về **hiệu suất** (*efficiency*) mà ở đó nhiệt có thể thực hiện **công** (*work*) phi nhiệt (*non-thermal*).
 
 [^1]:
 
@@ -15,16 +21,17 @@ Tuy nhiên, 94% năng lượng chúng ta sử dụng ngày nay có bản chất 
 Giống như chương trước, nội dung chương này chỉ nhằm bổ sung cho những phần thiết yếu của cuốn sách, vốn nhằm mục đích xây dựng một câu chuyện về những gì chúng ta không thể kì vọng tiếp tục làm, những lựa chọn nào con người có thể sử dụng để thay đổi hướng đi và cuối cùng là làm thế nào để đạt được thay đổi như vậy. Tuy nhiên, cách chúng ta sử dụng nhiệt năng là phần quan trọng của câu chuyện và liên quan đến cả con đường hiện tại và tương lai để đáp ứng nhu cầu
 năng lượng của chúng ta.
 
-1. Tạo ra nhiệt
+## 1. Tạo ra nhiệt
 
 Trước khi đi sâu vào các vấn đề về nhiệt, chúng ta hãy tóm tắt nhanh các cách khác nhau có thể tạo ra nhiệt.
 
 !!! example "Ví dụ 6.1.1. Các cách tạo nhiệt:" 
 
     Sắp xếp sơ bộ theo mức độ phức tạp:
+
     - Xoa hai bàn tay vào nhau (hoặc các hình thức ma sát khác).
-    - Thu ánh sáng mặt trời, có thể tập trung nó để lấy nhiệt; phơi quần áo bên ngoài và để ánh nắng sưởi ấm căn phòng qua cửa sổ là những ví dụ.
-    - Tiếp cận nguồn nhiệt địa nhiệt ở một số địa điểm được chọn
+    - Thu ánh sáng mặt trời, có thể tập trung ánh sáng ấy để lấy nhiệt; phơi quần áo bên ngoài và để ánh nắng sưởi ấm căn phòng qua cửa sổ là những ví dụ.
+    - Tiếp cận nguồn **địa nhiệt** (*geothermal*) ở một số địa điểm được chọn
     - Đốt củi trong lò sưởi hoặc bếp lò.
     - Đốt nhiên liệu hóa thạch để lấy nhiệt trực tiếp; khí đốt thường được sử dụng trong nhà để sưởi ấm không gian cũng như để đun nước và nấu ăn.
     - Cho dòng điện chạy qua một cuộn dây phát ra ánh sáng màu cam; có thể thấy được trong lò nướng bánh, máy sấy tóc, máy sưởi gia đình.
@@ -34,8 +41,8 @@ Trước khi đi sâu vào các vấn đề về nhiệt, chúng ta hãy tóm t�
 
 ## 2. Nhiệt dung
 
-Trước hết, chúng ta sẽ kết nối khái niệm nhiệt cơ bản với nội dung mà chúngta đã đề cập trong [Phần 5, Chương 5](https://songbenvung.net/energy/human-ambition/5-energy-unit/#calo-kcal) về calo. Khẳng định rằng cần 1 kcal để đun nóng 1 kg H~2~O lên 1°C theo đó xác định được **nhiệt dung riêng** (*specific heat capacity*) của nước. Trong đơn vị SI , chúng ta có thể nói rằng H2O có nhiệt dung riêng là $4.184 J/kg/°C$[^3]. Có rất ít hợp chất có nhiệt dung riêng cao hơn nước. Hầu hết các chất lỏng, như rượu, có nhiệt dung riêng nằm trong khoảng $2.000 J/kg/°C$. Hầu hết các chất rắn phi kim (và thậm chí cả
-không khí) có nhiệt dung riêng khoảng $1.000 J/kg/°C$. Kim loại nằm trong khoảng $130–900 J/kg/°C$&mdash;kim loại nhẹ hơn có nhiệt dung riêng cao hơn[^4]. **Bảng 6.1** một vài mẫu nhiệt dung riêng cho các chất thông thường.
+Trước hết, chúng ta sẽ kết nối khái niệm nhiệt cơ bản với nội dung mà chúngta đã đề cập trong [Phần 5, Chương 5](5-energy-unit.md#5-calo-kcal) về calo. Khẳng định rằng cần 1 kcal để đun nóng 1 kg H~2~O lên 1°C theo đó xác định được **nhiệt dung riêng** (*specific heat capacity*) của nước. Trong đơn vị SI , chúng ta có thể nói rằng H~2~O có nhiệt dung riêng là $4.184\,J/kg/°C$[^3]. Có rất ít hợp chất có nhiệt dung riêng cao hơn nước. Hầu hết các chất lỏng, như rượu, có nhiệt dung riêng nằm trong khoảng $2.000\, J/kg/°C$. Hầu hết các chất rắn phi kim (và thậm chí cả
+không khí) có nhiệt dung riêng khoảng $1.000\, J/kg/°C$. Kim loại nằm trong khoảng $130–900\, J/kg/°C$&mdash;kim loại nhẹ hơn có nhiệt dung riêng cao hơn[^4]. **Bảng 6.1** liệt kê một vài nhiệt dung riêng của các chất thông thường.
 
 [^3]:
 
@@ -45,34 +52,47 @@ không khí) có nhiệt dung riêng khoảng $1.000 J/kg/°C$. Kim loại nằm
 
     Khuôn mẫu ở đây là các chất như nước hoặc rượu chứa nguyên tử nhẹ như hydro có nhiệt dung cao hơn các chất như kim loại chứa nguyên tử nặng hơn.
 
-> **Bảng 6.1:** Nhiệt dung riêng của các loại vật liệu
-thông dụng.
+<div markdown="1" align="center">
+| **Chất **  | **$J/kg/°C$** |
+|:----------:|:-------------:|
+| thép       | 490           |
+| đá, bê-tông | 750-950       |
+| kính       | 840           |
+| nhôm       | 870           |
+| không khí  | 1.005         |
+| nhựa       | 1.100-1.700   |
+| gỗ         | 1.300-2.000   |
+| rượu       | 2.400         |
+| thịt       | 3.500         |
+| nước       | 4.1484        |
+</div>
+> **Bảng 6.1:** Nhiệt dung riêng của các loại vật liệu thông dụng.
 
-Biết nhiệt dung riêng của một chất cho phép chúng ta tính toán cần bao nhiêu năng lượng để tăng nhiệt độ của nó. Một hướng dẫn gần đúng và hữu ích là coi nước có nhiệt dung riêng khoảng $4.000 J/kg/°C$ và tất cả những thứ khác (không khí, đồ nội thất, tường) là $1.000 J/kg/°C$. Các hợp chất, giống như thực phẩm, có thể nằm trong khoảng từ $2.000–3.500 J/kg/°C$, do hàm lượng nước cao. Nếu bạn còn nghi ngờ thì giá trị $1.000 J/kg/°C$ sẽ có sai số không quá lớn. Vì mục đích ước lượng, chúng ta sẽ thêm bớt chỉ khi hợp chất có hàm lượng nước cao[^5] hay có chứa kim loại[^6].
+Biết nhiệt dung riêng của một chất cho phép chúng ta tính toán cần bao nhiêu năng lượng để tăng nhiệt độ của nó. Một hướng dẫn gần đúng và hữu ích là coi nước có nhiệt dung riêng khoảng $4.000\, J/kg/°C$ và tất cả những thứ khác (không khí, đồ nội thất, tường) là $1.000\, J/kg/°C$. Các hợp chất, giống như thực phẩm, có thể nằm trong khoảng từ $2.000–3.500\, J/kg/°C$, do hàm lượng nước cao. Nếu bạn còn nghi ngờ thì giá trị $1.000\, J/kg/°C$ sẽ có sai số không quá lớn. Vì mục đích ước lượng, chúng ta sẽ thêm bớt chỉ khi hợp chất có hàm lượng nước cao[^5] hay có chứa kim loại[^6].
 
 [^5]:
 
-    lên tới $4.000 J/kg/°C$ trong trường hợp này.
+    lên tới $4.000\, J/kg/°C$ trong trường hợp này.
 
 [^6]:
 
-     . . . 500 đối với kim loại nặng hơn như thép; mặc dù các kim loại nhẹ như nhôm không cách xa $1.000 J/kg/°C$
+     . . . 500 đối với kim loại nặng hơn như thép; mặc dù các kim loại nhẹ như nhôm không cách xa $1.000\, J/kg/°C$
 
 !!! example "Ví dụ 6.2.1" 
 
     Một xe bán tải có khối lượng 2.000 kg đang chở một thùng nước có dung tích 1 mét khối. Cần bao nhiêu năng lượng để tăng nhiệt độ của cả xe và nước thể lên 5°C?
 
-    Một mét khối (1.000 L) nước tương đương 1.000 kg và có nhiệt dung riêng khoảng $4.000 J/kg/°C$; chiếc xe tải chủ yếu làm bằng thép nên chúng ta có thể ước chừng là $500 J/kg/°C$. Nhân từng nhiệt dung riêng cụ thể với khối lượng tương ứng và độ thay đổi nhiệt độ 5°C độ để suy ra 20 MJ làm nóng nước và 5 MJ để làm nóng xe tải, tổng cộng là 25 MJ[^7].
+    Một mét khối (1.000 L) nước tương đương 1.000 kg và có nhiệt dung riêng khoảng $4.000 J/kg/°C$; chiếc xe tải chủ yếu làm bằng thép nên chúng ta có thể ước chừng là $500\, J/kg/°C$. Nhân từng nhiệt dung riêng cụ thể với khối lượng tương ứng và độ thay đổi nhiệt độ 5°C để suy ra 20 MJ làm nóng nước và 5 MJ để làm nóng xe tải, tổng cộng là 25 MJ[^7].
 
 [^7]:
 
     Lưu ý rằng nước cần nhiều năng lượng hơn để làm nóng, mặc dù khối lượng của nó chỉ bằng một nửa khối lượng chiếc xe.
 
-Để thực hiện tính toán sử dụng nhiệt dung riêng, hãy thử phương pháp trực quan hơn là những công thức tính toán[^8]. Bạn cần nắm vững điều này sau khi đã tổng hợp từ các ví dụ trên: cần nhiều năng lượng hơn để làm nóng một khối lượng lớn hơn hoặc để tăng nhiệt độ lên cao hơn Tất cả đều tỷ lệ thuận với nhau. Chính đơn vị cũng đã cung cấp một số gợi ý. Để chuyển từ nhiệt dung riêng tính bằng $J/kg/°C$ sang năng lượng tính bằng $J$, chúng ta cần nhân với khối lượng và sự thay đổi nhiệt độ.
+Để thực hiện tính toán sử dụng nhiệt dung riêng, hãy thử phương pháp trực quan hơn là những công thức tính toán[^8]. Bạn cần nắm vững điều này sau khi đã tổng hợp từ các ví dụ trên: **cần nhiều năng lượng hơn để làm nóng một khối lượng lớn hơn hoặc để tăng nhiệt độ lên cao hơn**. Tất cả đều tỷ lệ thuận với nhau. Chính đơn vị cũng đã cung cấp một số gợi ý. Để chuyển từ nhiệt dung riêng tính bằng $J/kg/°C$ sang năng lượng tính bằng $J$, chúng ta cần nhân với khối lượng và sự thay đổi nhiệt độ.
 
 !!! example "Ví dụ 6.2.2" 
     
-    Để tính lượng năng lượng cần thiết để làm nóng một đồ nội thất nặng 30 kg[^9] lên 8°C, chúng ta sẽ nhân nhiệt dung riêng với khối lượng đồ này&mdash;vì “khối lượng lớn hơn” như đã nói ở trên&mdash;và nhân thêm với nhiệt độ tăng&mdash;vì "nhiệt độ cao hơn". Trong trường hợp này, kết quả là 240 kJ.
+    Để tính lượng năng lượng cần thiết để làm nóng một đồ nội thất nặng 30 kg[^9] lên 8°C, chúng ta sẽ nhân nhiệt dung riêng với khối lượng đồ này&mdash;vì “khối lượng lớn hơn” như đã nói ở trên&mdash;và nhân thêm với độ tăng nhiệt độ&mdash;vì "nhiệt độ cao hơn". Trong trường hợp này, kết quả là 240 kJ.
 
 [^8]:
 
@@ -88,11 +108,15 @@ Kinh nghiệm cá nhân của chúng ta với nhiệt năng thường có liên 
 
 Khi nói đến việc sưởi ấm (hoặc làm mát) một ngôi nhà, chúng ta có thể quan tâm đến hai điều:
 
-1. Sẽ mất bao lâu để nhiệt độ của nó thay đổi một mức nhất định.
+1. Sẽ mất bao lâu để thay đổi nhiệt độ đến một mức nhất định.
 
-2. Sẽ cần bao nhiêu năng lượng để giữ nó ở nhiệt độ mong muốn
+2. Sẽ cần bao nhiêu năng lượng để giữ ở nhiệt độ mong muốn
 
-Điều đầu tiên phụ thuộc vào việc có bao nhiêu đồ đạc trong ngôi nhà[^11], mức thay đổi nhiệt độ $\Delta{T}$ mà bạn muốn, và công suất sẵn có để làm nóng/lạnh là bao nhiêu. Năng lượng cần thiết bằng khối lượng nhân với $\Delta{T}$ nhân với khoảng $1.000 J/kg/°C$ nhiệt dung riêng. Thời gian cần thiết bằng năng lượng chia cho công suất.
+Điều đầu tiên phụ thuộc vào việc có bao nhiêu đồ đạc trong ngôi nhà[^11], mức thay đổi nhiệt độ $\Delta{T}$ mà bạn muốn, và công suất sẵn có để làm nóng/lạnh là bao nhiêu. Năng lượng cần thiết bằng khối lượng nhân với $\Delta{T}$ nhân với khoảng $1.000\,J/kg/°C$ nhiệt dung riêng. Thời gian cần thiết bằng năng lượng chia cho công suất.
+
+[^10]:
+
+    ...dưới dạng khí đốt tự nhiên, điện và dầu nhiên liệu
 
 [^11]:
 
@@ -102,7 +126,7 @@ Khi nói đến việc sưởi ấm (hoặc làm mát) một ngôi nhà, chúng 
 
     Mất bao lâu để làm nóng không gian bên trong của một nhà di động (*mobile home*) từ 0°C đến 20°C bằng hai máy sưởi phòng 1.500 W? Chúng ta sẽ giả định rằng cần phải làm nóng một khối lượng 6.000 kg [^12].
 
-    Việc đầu tiên là tìm năng lượng cần thiết sau đó chia cho công suất để có kết quả về thời gian. Chúng ta sẽ sử dụng nhiệt dung riêng tiện lợi $1.000 J/kg/°C$. 
+    Việc đầu tiên là tìm năng lượng cần thiết sau đó chia cho công suất để có kết quả về thời gian. Chúng ta sẽ sử dụng nhiệt dung riêng tiện lợi $1.000\, J/kg/°C$. 
 
     Nhân nhiệt dung riêng này với khối lượng và mức nhiệt độ thay đổi ra kết quả 120 MJ. Với công suất 3.000 W, sẽ cần 40.000 s&mdash;hay khoảng 11 tiếng&mdash;để tạo ra từng này năng lượng, 
 
@@ -110,22 +134,25 @@ Khi nói đến việc sưởi ấm (hoặc làm mát) một ngôi nhà, chúng 
 
     Không khí chỉ chiếm 300 kg: phân khối lượng cần làm nóng còn lại ở trong tường, sàn và trần.
 
-Cần bao nhiêu năng lượng để duy trì nhiệt độ tùy thuộc vào cách truyền nhiệt ra ngoài (hay vào trong) ngôi nhà thông qua của sổ, tường, trần, sàn và lỗ thông khí. khí. Nhưng nó cũng phụ thuộc **tuyến tính** (*linear*) vào sự duy trì $\Delta{T}$&mdash;sự chênh lệch giữa nhiệt độ bên trong và bên ngoài. Một ngôi
-nhà có thể được đặc trưng bởi **tốc độ mất nhiệt** (*heat loss rate*) tính bằng đơn vị **Watts trên độ C**[^13]. Chỉ cần con số này để biết lượng điện năng cần thiết để duy trì một mức chênh lệch nhiệt độ $\Delta{T}$ nhất định giữa bên trong và bên ngoài ngoài. **Hộp 6.1** trình bày một ví dụ về cách tính tốc độ mất nhiệt cho một ngôi nhà và **Ví dụ 6.3.2** áp dụng kết quả đó vào các tình huống thực tế.
+Cần bao nhiêu năng lượng để duy trì nhiệt độ tùy thuộc vào cách truyền nhiệt ra ngoài (hay vào trong) ngôi nhà thông qua cửa sổ, tường, trần, sàn và lỗ thông khí. khí. Nhưng nó cũng phụ thuộc **tuyến tính** (*linear*) vào sự duy trì $\Delta{T}$&mdash;sự chênh lệch giữa nhiệt độ bên trong và bên ngoài. Một ngôi
+nhà có thể được đặc trưng bởi **tốc độ mất nhiệt** (*heat loss rate*) tính bằng đơn vị **Watts trên độ C (W/°C)**[^13]. Chỉ cần con số này để biết năng lượng cần thiết để duy trì một mức chênh lệch nhiệt độ $\Delta{T}$ nhất định giữa bên trong và bên ngoài ngoài. **Hộp 6.1** trình bày một ví dụ về cách tính tốc độ mất nhiệt cho một ngôi nhà và **Ví dụ 6.3.2** áp dụng kết quả đó vào các tình huống thực tế.
 
 [^13]:
 
     ... hay tương đương với Watts trên độ Kelvin
 
-> **Hình 6.1:** Tường ngoài và cửa sổ của ngôi nhà được mô hình hóa trong **Hộp 6.1**. Sàn và trần không được hiển thị. Các con số trong $W/m^2/°C$ là **giá trị U** (*U-values*) và trong trường hợp này được thực hiện bởi **các phương pháp kỹ thuật tốt nhất** (*best engineering practices*). Hầu hết các ngôi nhà sẽ có giá trị lớn hơn gấp đến 2–6 lần. Đừng quên cánh cửa trong một ngôi nhà thực sự!
+![thermal-1-light](../../assets/images/thermal-1-light.svg#only-light)
+![thermal-1-dark](../../assets/images/thermal-1-dark.svg#only-dark)
 
-!!! note "Xây nhà"
+> **Hình 6.1:** Tường ngoài và cửa sổ của ngôi nhà được mô hình hóa trong **Hộp 6.1**. Sàn và trần không được hiển thị. Các con số trong $W/m^2/°C$ là **giá trị U** (*U-values*) và trong trường hợp này được thực hiện bởi **các phương pháp kỹ thuật tốt nhất** (*best engineering practices*). Hầu hết các ngôi nhà sẽ có giá trị lớn hơn gấp đến 2–6 lần. Đừng quên cửa ra vào của một ngôi nhà thực sự!
+
+!!! note "Hộp 6.1: Xây nhà"
 
     Các phương pháp thực hành tốt nhất mang lại kết quả là một ngôi nhà được xây dựng ấm cúng đủ tiêu chuẩn gọi là **“Nhà thụ động”** (*Passive House*), đạt được 0,15 W/°C *cho mỗi mét vuông* bề mặt tiếp xúc với bên ngoài[^14] và 0,8 W/°C trên mỗi mét vuông diện tích cửa sổ.
 
-    Hãy tưởng tượng một ngôi nhà có diện tích 12 m × 12 m, tường cao 2,5 m, mỗi bức tường có hai cửa sổ và mỗi cửa sổ có diện tích 2 m^2^ (**Hình 6.1**). Sàn và trần đều rộng 144 m^2^, và diện tích tường (chu vi nhân với chiều cao) 48 × 2,5 = 120 m^2^. Nhưng chúng ta trừ 16 m^2^ cho tám cửa sổ, còn lại 104 m^2^ cho các bức. Kết quả nhiệt mất mát  của ngôi nhà là 13 W/°C đối với cửa sổ ($0,8 W/m^2/°C × 16 m^2$), cộng với 59 W/°C đối với tường/sàn/trần với tổng cộng là 72 W/°C.
+    Hãy tưởng tượng một ngôi nhà có diện tích 12 m × 12 m, tường cao 2,5 m, mỗi bức tường có hai cửa sổ và mỗi cửa sổ có diện tích 2 m^2^ (**Hình 6.1**). Sàn và trần đều rộng 144 m^2^, và diện tích tường (chu vi nhân với chiều cao) 48 × 2,5 = 120 m^2^. Nhưng chúng ta trừ 16 m^2^ cho tám cửa sổ, còn lại 104 m^2^ cho các bức. Kết quả nhiệt mất mát  của ngôi nhà là 13 W/°C đối với cửa sổ ($0,8\, W/m^2/°C × 16 m^2$), cộng với 59 W/°C đối với tường/sàn/trần với tổng cộng là 72 W/°C.
 
-    Tỷ lệ mất nhiệt của một ngôi nhà được xây dựng tươm tất có thể gấp đôi con số này, trong khi một ngôi nhà được xây dựng thông thường (ít chú ý đến hiệu quả) có thể gấp 3–6 lần con số này&mdash;vài trăm W/°C. Tất nhiên, những ngôi nhà nhỏ hơn có diện tích nhỏ hơn cho việc truyền nhiệt nên nnhiệt mất mát sẽ nhỏ hơn.
+    Tỷ lệ mất nhiệt của một ngôi nhà được xây dựng cẩn thận có thể gấp đôi con số này, trong khi một ngôi nhà được xây dựng thông thường (ít chú ý đến hiệu quả) có thể gấp 3–6 lần con số này&mdash;vài trăm W/°C. Tất nhiên, những ngôi nhà nhỏ hơn có diện tích nhỏ hơn cho việc truyền nhiệt nên nnhiệt mất mát sẽ nhỏ hơn.
 
 [^14]:
 
@@ -133,7 +160,7 @@ nhà có thể được đặc trưng bởi **tốc độ mất nhiệt** (*heat
 
 !!! success ""
 
-    Các con số được sử dụng để mô tả đặc tính mất nhiệt của tường và cửa sổ được gọi là **giá trị U** (U-values), tính bằng đơn vị $W/m2/°C$, trong đó các con số thấp thể hiện chất cách nhiệt tốt hơn. Ở Hoa Kỳ, vật liệu xây dựng được mô tả bằng giá trị nghịch đảo, được gọi là **giá trị R** (*R-value*), đơn vị là $°F·ft^2·giờ/Btu$. Cả hai có liên quan về mặt số học $R = 5{,}7/U$, do đó tường **Nhà thụ động** (*Passive House*) của chúng ta có $R = 38$ và các cửa sổ có $R ≈ 7$&mdash;cả hai con số đều khá ấn tượng và khó đạt được trong thực tế.
+    Các con số được sử dụng để mô tả đặc tính mất nhiệt của tường và cửa sổ được gọi là **giá trị U** (U-values), tính bằng đơn vị $W/m^2/°C$, trong đó các con số thấp thể hiện chất cách nhiệt tốt hơn. Ở Hoa Kỳ, vật liệu xây dựng được mô tả bằng giá trị nghịch đảo, được gọi là **giá trị R** (*R-value*), đơn vị là $°F·ft^2·giờ/Btu$. Cả hai có liên quan về mặt số học $R = 5{,}7/U$, do đó tường **Nhà thụ động** (*Passive House*) của chúng ta có $R = 38$ và các cửa sổ có $R ≈ 7$&mdash;cả hai con số đều khá ấn tượng và khó đạt được trong thực tế.
 
 !!! example "Ví dụ 6.3.2"
 
@@ -150,7 +177,7 @@ nhà có thể được đặc trưng bởi **tốc độ mất nhiệt** (*heat
     ...tương đương công suất một máy sưởi trong nhà.
 
 
-Khi đã biết cần bao nhiêu năng lượng để duy trì nhiệt độ nhất định bên trong trong một ngôi nhà (so với nhiệt độ ngoài nhà, $\Delta{T}$), chúng ta có thể dự đoán trước hoạt động của máy sưởi trong nhà. Máy sưởi thường bật hết công suất hoặc tắt. Việc điều chỉnh đạt được bằng cách bật và tắt nhiệt lượng&mdash;thường được điều khiển bằng bộ điều chỉnh nhiệt. Với **công suất định mức** (*rating*) của máy sưởi[^17], việc dự đoán **chu kỳ hoạt động** (*duty cycle*)[^18] là điều đơn giản: đó là tỷ lệ phần trăm thời gian cần thiết để tạo ra công suất trung bình đáp để duy trì mức chênh lệch $\Delta{T}$.
+Khi đã biết cần bao nhiêu năng lượng để duy trì nhiệt độ nhất định bên trong trong một ngôi nhà (so với nhiệt độ ngoài nhà, $\Delta{T}$), chúng ta có thể dự đoán trước hoạt động của máy sưởi trong nhà. Máy sưởi thường bật hết công suất hoặc tắt. Việc điều chỉnh đạt được bằng cách bật và tắt nhiệt lượng&mdash;thường được điều khiển bằng bộ điều chỉnh nhiệt. Với **công suất định mức** (*rating*) của máy sưởi[^17], việc dự đoán **chu kỳ hoạt động** (*duty cycle*)[^18] là điều đơn giản: đó là tỷ lệ phần trăm thời gian cần thiết để tạo ra công suất trung bình để duy trì mức chênh lệch $\Delta{T}$.
 
 [^17]:
 
@@ -214,16 +241,34 @@ $P$, $V$ và $T$ lần lượt là áp suất, thể tích và nhiệt độ (đ
     3. Nhiệt độ tăng đột ngột trong xi lanh đốt trong làm khí trong xi lanh giãn nở nhanh chóng; 
     4. Hơi nước trong nhà máy nhiệt điện chạy qua tuabin vì nó chảy vào **bình ngưng lạnh** (*cold condenser*)
 
+<div markdown="1" align="center">
+| **Nguồn**       | **% Năng lượng điện ở Hoa Kì** | **Nhiệt năng**   | **Tua-bin và máy phát điện** |
+|:---------------:|:------------------------------:|:----------------:|:----------------------------:|
+| Khí ga tự nhiên | 35,3                           | :material-check: | :material-check:             |
+| Than đá         | 27,3                           | :material-check: | :material-check:             |
+| Nguyên tử       | 19,2                           | :material-check: | :material-check:             |
+| Thủy điện       | 7,0                            |                  | :material-check:             |
+| Điện gió        | 6,6                            |                  | :material-check:             |
+| Điện mặt trời   | 2,2                            |                  |                              |
+| Sinh khối       | 1,5                            | :material-check: | :material-check:             |
+| Dầu mỏ          | 0,6                            | :material-check: | :material-check:             |
+| Địa nhiệt       | 0,4                            | :material-check: | :material-check:             |
+| Nhiệt mặt trời  | 0,09                           | :material-check: | :material-check:             |
+</div>
+
 > **Bảng 6.2**: Kế hoạch sản xuất điện năng. Hầu hết trong số này đều tạo ra nhiệt và gần như tất cả đều sử dụng tua-bin và máy phát điện. Số liệu năm 2018.
 
-Ví dụ cuối cùng xứng đáng có hình ảnh minh họa riêng, vì nó có vai trò quan trọng trong cuộc sống: gần như toàn bộ quá trình sản xuất điện của chúng ta&mdash;từ tất cả các nhiên liệu hóa thạch và thậm chí từ phản ứng phân hạch hạt nhân&mdash;đều đi theo qui trình này. **Hình 6.2** minh họa sơ đồ cơ bản. **Bảng 6.2** chỉ ra rằng 98% sản lượng điện năng của chúng ta liên quan đến việc quay tuabin trên trục nối với máy phát điện và 84% liên quan đến quá trình nhiệt làm tác nhân làm quay tuabin&mdash;thường ở dạng hơi nước.
+Ví dụ cuối cùng xứng đáng có hình ảnh minh họa riêng, vì nó có vai trò quan trọng trong cuộc sống: gần như toàn bộ quá trình sản xuất điện của chúng ta&mdash;từ tất cả các nhiên liệu hóa thạch và thậm chí từ phản ứng phân hạch hạt nhân&mdash;đều đi theo qui trình này. **Hình 6.2** minh họa sơ đồ cơ bản. **Bảng 6.2** chỉ ra rằng 98% sản lượng điện năng của chúng ta liên quan đến việc quay tuabin trên trục nối với máy phát điện và 84% liên quan đến quá trình nhiệt làm quay tuabin&mdash;thường ở dạng hơi nước.
+
+![thermal-2-light](../../assets/images/thermal-2-light.svg#only-light)
+![thermal-2-dark](../../assets/images/thermal-2-dark.svg#only-dark)
 
 > **Hình 6.2:** Sơ đồ nhà máy nhiệt điện thông thường, trong đó một số nguồn nhiệt tại $T_{h}$ tạo ra hơi nước ngưng tụ về phía bình ngưng&mdash;nơi hơi nước nguội đi và ngưng tụ thành nước dạng lỏng, nhờ tiếp xúc nhiệt với nguồn mát tại $T_{c}$ được cung cấp bởi một nguồn nước hoặc tháp bay hơi. Trên đường đi, hơi nước làm quay tuabin nối với máy phát điện, tạo ra điện. Qui trình này cơ bản này được áp dụng cho hầu hết các nhà máy điện sử dụng nhiên liệu hóa thạch, nguồn nhiệt hạt nhân, nhiệt mặt trời hay 
 địa nhiệt (*geothermal*).
 
 ###  Giới hạn entropy và hiệu suất
 
-Một khái niệm sâu sắc và mạnh mẽ của vật lý đặt ra giới hạn cho mức độ "công" hữu ích có thể được sử dụng từ dòng chảy nhiệt phát ra từ một nguồn nóng ở nhiệt độ $T_{h}$ từ một nguồn nhiệt độ $T_{c}$. Đó là **entropy**. Bạn không cần phải hiểu sâu sắc về khái niệm entropy để có thể hiểu đầy đủ diễn biến trong phần này cũng như vai trò của entropy trong việc giới hạn hiệu suất động cơ nhiệt. Nội dung chi tiết sẽ được chúng ta tìm hiểu thêm ngay sau đây.
+Một khái niệm sâu sắc và mạnh mẽ của vật lý đặt ra giới hạn cho mức độ "công" hữu ích có thể được sử dụng từ dòng chảy nhiệt phát ra từ một nguồn nóng ở nhiệt độ $T_{h}$ từ một nguồn nhiệt độ $T_{c}$. Đó là **entropy**. Bạn không cần phải hiểu sâu sắc về khái niệm entropy để có thể hiểu đầy đủ diễn biến trong phần này cũng như vai trò của entropy trong việc giới hạn hiệu suất động cơ nhiệt. Nội dung chi tiết sẽ được chúng ta tìm hiểu ngay sau đây.
 
 !!! abstract "Định nghĩa 6.4.2" 
 
@@ -246,6 +291,9 @@ Một khái niệm sâu sắc và mạnh mẽ của vật lý đặt ra giới h
 [^27]:
 
     Việc trình bày chi tiết cách đếm số kết hợp nằm ngoài phạm vi của cuốn sách này, nhưng có lẽ điều quan trọng là biết rằng các **mức năng lượng** (*energy level*) nhận một giá trị nhất định, mang tính hay **rời rạc** (*discret*)&mdash;hay nói cách khác được **lượng tử hóa** (*quantized*)&mdash;điều này ngăn cản sự hình thành của vô số tổ hợp năng lượng có thể có.
+
+![thermal-3-light](../../assets/images/thermal-3-light.svg#only-light)
+![thermal-3-dark](../../assets/images/thermal-3-dark.svg#only-dark)
 
 > **Hình 6.3:** Một hộp chứa 4 nguyên tử hoặc phân tử cùng một loại (màu trắng) và 4 nguyên tử hoặc phân tử thuộc loại khác (màu đỏ) có nhiều cấu hình hay cách phân bố hơn (số cách phân bố trong ngoặc đơn) khi các loại được phân bố đều sao cho bên trái và bên phải đều có hai phân tử trắng hoặc đen mỗi loại (phần bố 2:2 ở giữa). Entropy liên quan đến số cách mà một hệ thống có thể tự phân bố (ở cùng mức năng lượng), hoạt động theo hướng ưu tiên sự xáo trộn hỗn loại là sự sắp xếp có trật tự (ít có khả năng xảy ra) (phân bố 0:4 hay 4:0 ở hai bên).
 
@@ -288,10 +336,16 @@ Hai định luật nhiệt động lực học này, cộng với cách định 
 
     Khi nói “bể tắm”, chúng tôi muốn nói đến một hồ chứa lớn ở nhiệt độ không đổi, đủ lớn để không thay đổi đáng kể nhiệt độ của nó khi rút một lượng nhiệt năng, $\Delta{Q}$, nào đó.
 
+[^31]:
+
+    ...bảo toàn năng lượng
+
+![thermal-4-light](../../assets/images/thermal-4-light.svg#only-light)
+![thermal-4-dark](../../assets/images/thermal-4-dark.svg#only-dark)
+
 > **Hình 6.4: Cân bằng năng lượng của động cơ nhiệt.** Nhiệt truyền từ bể nóng sang bể lạnh có thể thực hiện công hữu ích, $\Delta{Q}$, trong quá trình đó&mdash;tuân theo sự **bảo toàn năng lượng** ($\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$, trong đó $\Delta{Q}$ là dòng nhiệt năng lưu chuyển. Entropy giới hạn độ lớn có thể của $\Delta{W}$. Độ rộng mũi tên tỷ lệ thuận với năng lượng và số màu đỏ là lượng năng lượng sử dụng trong ví dụ này.
 
-
-Vậy entropy xuất hiện ở đâu? Lấy nhiệt từ bể nước nóng với lượng $\Delta{Q_{h}$}$ dẫn đến sự thay đổi entropy trong bể nước nóng theo **Định nghĩa 6.4.5**
+Vậy entropy xuất hiện ở đâu? Lấy nhiệt từ bể nước nóng với lượng $\Delta{Q_{h}}$ dẫn đến sự thay đổi entropy trong bể nước nóng theo **Định nghĩa 6.4.5**
 
 !!! abstract "Định nghĩa 6.4.5: Thay đổi đổi Entropy""
 
@@ -307,7 +361,7 @@ Vậy entropy xuất hiện ở đâu? Lấy nhiệt từ bể nước nóng v�
 | **Kí hiệu** | **Mô tả**                    |
 |:-----------:|:----------------------------:|
 | $T$         | nhiệt độ ($K$)               |
-| $\Detal{T}$ | thay đổi nhiệt độ ($K$, $°C$) |
+| $\Delta{T}$ | thay đổi nhiệt độ ($K$, $°C$) |
 | $\Delta{Q}$ | nhiệt năng ($J$)             |
 | $\Delta{W}$ | cơ năng ($J$)                |
 | $\Delta{S}$ | thay đổi entropy             |
@@ -316,22 +370,20 @@ Vậy entropy xuất hiện ở đâu? Lấy nhiệt từ bể nước nóng v�
 </div>
 > **Bảng 6.3 Kí hiệu nhiệt động lực học**
 
-
 Vì vậy, việc lấy năng lượng từ bể nước nóng làm giảm entropy trong bể nước nóng tương ứng $\Delta{S_{h}}$ theo phương trình $\Delta{Q_{h}} = T_{h}\Delta{S_{h}}$.Trong khi đó, $\Delta{S_{c}}$ entropy được thêm vào bể lạnh theo phương trình $\Delta{Q_{c}} = T_{c}\Delta{S_{c}}$. Định luật thứ hai của Nhiệt động lực học đòi hỏi rằng *tổng thay đổi* entropy không âm (hay không thể giảm). Theo công thức dạng phương trình (định nghĩa kí hiệu trong **Bảng 6.3**)[^32]:
 
 $$
-    \Delta{S_{tổng}} = \Delta{S_{c}} - \Delta{S_{h}} >= 0 \tag{6.3}\label{6.3}
+    \Delta{S_{tổng}} = \Delta{S_{c}} - \Delta{S_{h}} \ge 0 \tag{6.3}\label{6.3}
 $$
 
 [^32]:
 
     Bạn hãy nhớ: phương trình như một sự biểu đạt khái niệm bằng những cách chính xác&mdash;không chỉ đơn giản là công cụ để ghi nhớ khi giải toán. Bạn cần hiểu và ghi nhớ ý nghĩa của chúng.
 
-
 Ở đây chúng ta trừ đi $\Delta{S_{h}}$ vì đây là bớt entropy, trong khí $\Delta{S_{c}}$ là thêm entropy. Vì thế chúng ta đòi hỏi rằng:
 
 $$
-    \Delta{S_{c}} >= \Delta{S_{h}} \tag{6.4}\label{6.4}
+    \Delta{S_{c}} \ge \Delta{S_{h}} \tag{6.4}\label{6.4}
 $$
 
 Bây giờ chúng ta có thể đặt câu hỏi xem bao nhiêu phần trăm của $\Delta{Q_{h}}$ có thể được chuyển thành công có ích ($\Delta{W}$) trong giới hạn mà Định luật nhiệt động học thứ hai đã đặt ra. Chúng ta biểu diễn điều này dưới dạng **hiệu suất** (*efficieny*)[^33], kí hiệu bằng chữ cái Hy Lạp epsilon:
@@ -367,12 +419,12 @@ $$
 Trong đó $\eta$ (eta) biểu thị hệ số entropy: $\eta = \Delta{S_{c}}/\Delta{S_{h}}, chúng ta biết từ **Phương trình** $\eqref{6.4}$ không thể nhỏ hơn 1[^34]:
 
 $$
-    \eta >= 1 \tag{6.8}\label{6.8}
+    \eta \ge 1 \tag{6.8}\label{6.8}
 $$
 
 [^34]:
 
-    Nếu A >= B, thì A/B >= 1.
+    Nếu $A \ge B$, thì $A/B \ge 1$.
 
 Nhìn vào **Phương trình** $\eqref{6.7}$, nếu chúng ta muốn đạt hiệu quả cao nhất để tạo ra công có ích từ một dòng nhiệt, chúng ta muốn tử số càng lơn càng tốt. Để đạt được điều này, chúng ta muốn trừ $T_{h}$ càng ít càng tốt. Nếu $\eta$ trở nên rất lớn thì tử số sẽ giảm đi. Vì thế chúng ta muốn giá trị nhỏ nhất có thể cho $\eta$, đó là khi $\eta = 1$ từ **Phương trình** $\eqref{6.8}$. Từ đó chúng ta có thể suy ra mức hiệu quả vật lí tối đa có thể đạt được của một động cơ nhiệt:
 
@@ -396,11 +448,11 @@ Trong đó chúng ta đặt $\Delta{T} = T_{h} - T_{c}$ là độ chênh lệch 
 
 !!! example "Ví dụ 6.4.6" 
 
-    Một động cơ nhiệt hoạt động giữa nước sôi và nước đóng băng, có nhiệt độ nước sôi $T_{h} ≈ 373 K$ và $\Delta{T} = 100 K$, có hiệu suất cực đại $\epsilon{}_max = 0{,}268$, hay 26,8%.
+    Một động cơ nhiệt hoạt động giữa nước sôi và nước đóng băng, có nhiệt độ nước sôi $T_{h} ≈ 373 K$ và $\Delta{T} = 100 K$, có hiệu suất cực đại $\epsilon{}_{max} = 0{,}268$, hay 26,8%.
 
 !!! example "Ví dụ 6.4.7" 
 
-    Một động cơ nhiệt hoạt động ở nhiệt độ da người là 35°C và nhiệt độ môi trường xung quanh là 20°C có hiệu suất cực đại là $\epsilon{}_max = 15/308 ≈ 0{,}05$, hay 5%.
+    Một động cơ nhiệt hoạt động ở nhiệt độ da người là 35°C và nhiệt độ môi trường xung quanh là 20°C có hiệu suất cực đại là $\epsilon{}_{max} = 15/308 ≈ 0{,}05$, hay 5%.
 
 Nếu nhiệt độ bể nước lạnh được cố định[^36] thì hiệu suất tối đa có thể sẽ cải thiện khi nhiệt độ của bể nóng tăng lên. Ngược lại, với nhiệt độ bể nóng nhất định $T_{h}$, hiệu suất tăng khi nhiệt độ bể lạnh giảm và do đó $\Delta{T}$.
 
@@ -410,7 +462,7 @@ Nếu nhiệt độ bể nước lạnh được cố định[^36] thì hiệu s
 
 !!! note "Hộp 6.3: Ở giới hạn cực đại..."
 
-    Nếu $T_{c}$ tiến tới 0 K[^37], hiệu quả tối đa đạt được là 100%. Chúng ta có thể suy ra điều này từ mối quan hệ $\Delta{Q} = T\Delta{S}$, ám chỉ rằng khi $T$ rất nhỏ, không cần nhiều nhiệt ($\Delta{Q}$) để đáp ứng yêu cầu về lượng entropy được thêm vào bể lạnh ($\Delta{S_{c}}$) đủ lớn đến mức tổng entropy không âm. Từ đó rộng mũi tên trong $Hình 6.4$ cho $\Delta{Q}$ trở nên mỏng (nhỏ) hơn cho phép $\Delta{W} có độ dày (lớn) gần bằng $Delta{Q_{h}}$. Điều này có nghĩa là toàn bộ năng lượng sẵn có sẽ sinh công có ích và hiệu suất sẽ rất cao. Trên thực tế, Trái đất không chưa phải là một bể nước đủ lạnh để hiệu ứng này phát huy tác dụng, nhưng thảo luận về điều này là một phương tiện để hiểu rõ hơn về cách thức hoạt động của **Phương trình** $\eqref{6.9}$.
+    Nếu $T_{c}$ tiến tới 0 K[^37], hiệu quả tối đa đạt được là 100%. Chúng ta có thể suy ra điều này từ mối quan hệ $\Delta{Q} = T\Delta{S}$, ám chỉ rằng khi $T$ rất nhỏ, không cần nhiều nhiệt ($\Delta{Q}$) để đáp ứng yêu cầu về lượng entropy được thêm vào bể lạnh ($\Delta{S_{c}}$) đủ lớn đến mức tổng entropy không âm. Từ đó rộng mũi tên trong $Hình 6.4$ cho $\Delta{Q}$ trở nên mỏng (nhỏ) hơn cho phép $\Delta{W}$ có độ dày (lớn) gần bằng $\Delta{Q_{h}}$. Điều này có nghĩa là toàn bộ năng lượng sẵn có sẽ sinh công có ích và hiệu suất sẽ rất cao. Trên thực tế, Trái đất không chưa phải là một bể nước đủ lạnh để hiệu ứng này phát huy tác dụng, nhưng thảo luận về điều này là một phương tiện để hiểu rõ hơn về cách thức hoạt động của **Phương trình** $\eqref{6.9}$.
 
 [^37]:
 
@@ -426,13 +478,16 @@ Chúng ta có thể đảo ngược động cơ nhiệt và gọi nó là máy b
 
     ...hay cách tủ làm đông, hay điều hòa không khí hoạt động.
 
-> **Hình 6.5:** Cân bằng năng lượng bơm nhiệt. Việc dùng năng lượng, tạo ra công có ích ($\W$; từ một nguồn điện chẳng hạn) có thể làm cho nhiệt truyền từ một bình chứa lạnh (như bên trong tủ đông) sang một môi trường nóng hơn&mdash;ngược với trực giác thông thường. Ví dụ cặp truyền nhiệt từ $T_{c} (lạnh) -> T_{h} (nóng)$, có thể áp dụng từ bên trong ngăn đông -> nhiệt độ phòng; nhà mát mẻ bên trong -> mùa hè bên ngoài; mùa đông bên ngoài -> bên trong ấm áp hơng. Chúng ta vẫn phải thỏa mãn sự bảo toàn năng lượng ($\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$), trong đó $\Delta{Q}$ là dòng truyền nhiệt. Các ràng buộc về entropy giới hạn độ lớn $\Delta{Q_{c}}$ đối với $\Delta{W}$ nhất định. Độ rộng mũi tên tỷ lệ thuận với năng lượng và số màu đỏ là lượng năng lượng sử dụng.
+![thermal-5-light](../../assets/images/thermal-5-light.svg#only-light)
+![thermal-5-dark](../../assets/images/thermal-5-dark.svg#only-dark)
+
+> **Hình 6.5:** Cân bằng năng lượng bơm nhiệt. Việc dùng năng lượng, tạo ra công có ích ($\Delta{W}$; từ một nguồn điện chẳng hạn) có thể làm cho nhiệt truyền từ một bình chứa lạnh (như bên trong tủ đông) sang một môi trường nóng hơn&mdash;ngược với trực giác thông thường. Ví dụ cặp truyền nhiệt từ $T_{c} (lạnh) → T_{h} (nóng)$, có thể áp dụng từ bên trong ngăn đông → nhiệt độ phòng; nhà mát mẻ bên trong → mùa hè bên ngoài; mùa đông bên ngoài → bên trong ấm áp hơn. Chúng ta vẫn phải thỏa mãn sự bảo toàn năng lượng ($\Delta{Q_{h}} = \Delta{Q_{c}} + \Delta{W}$), trong đó $\Delta{Q}$ là dòng truyền nhiệt. Các ràng buộc về entropy giới hạn độ lớn $\Delta{Q_{c}}$ đối với $\Delta{W}$ nhất định. Độ rộng mũi tên tỷ lệ thuận với năng lượng và số màu đỏ là lượng năng lượng sử dụng.
 
 Một chuỗi logic tương tự có thể được áp dụng cho qui trình, viện dẫn Định luật nhiệt động học thứ hai để đảm bảo không giảm entropy. Chúng ta định nghĩa hiệu suất dựa trên những ứng và những gì chúng ta quan tâm, dẫn đến hai con số tương ứng như sau.
 
 !!! example "Định nghĩa 6.5.1"
 
-    Đối với các ứng dụng làm mát[^39], chúng ta quan tâm đến lượng nhiệt có thể được chuyển ra khỏi môi trường làm mát ($\Delta{Q_{c}}$) ứng với một đầu vào năng lượng, hay công nhất định ($\Delta{W}$). Khi đó hiệu suất được đặc trưng bởi tỷ suất $\eta{}_{cool} = \frac{\Delta{Q_{c}}}{\Delta{W}}$.
+    Đối với các ứng dụng làm mát[^39], chúng ta quan tâm đến lượng nhiệt có thể được chuyển ra khỏi môi trường làm mát ($\Delta{Q_{c}}$) ứng với một đầu vào năng lượng, hay công nhất định ($\Delta{W}$). Khi đó hiệu suất được đặc trưng bởi tỷ suất $\eta{}_{cool} = \Delta{Q_{c}} / \Delta{W}$.
 
 [^39]:
 
@@ -441,7 +496,7 @@ Một chuỗi logic tương tự có thể được áp dụng cho qui trình, v
 
 !!! example "Định nghĩa 6.5.2""
 
-    $\eta{}_heat$: Đối với các ứng dụng sưởi ấm[^40], chúng ta quan tâm đến nhiệt lượng được cung cấp cho bể nóng ($\Delta{Q_{h}}$) đối với một lượng công đầu vào nhất định ($\Delta{W}$). Hiệu suất khi đó được đặc trưng bởi tỷ số $\eta{}_{heat} = \frac{\Delta{Q_{h}}}{\Delta{W}}$.
+    $\eta{}_{heat}$: Đối với các ứng dụng sưởi ấm[^40], chúng ta quan tâm đến nhiệt lượng được cung cấp cho bể nóng ($\Delta{Q_{h}}$) đối với một lượng công đầu vào nhất định ($\Delta{W}$). Hiệu suất khi đó được đặc trưng bởi tỷ số $\eta{}_{heat} = \Delta{Q_{h}} / \Delta{W}$.
 
 [^40]:
 
@@ -450,20 +505,20 @@ Một chuỗi logic tương tự có thể được áp dụng cho qui trình, v
 Theo định nghĩa trên, và căn cứ theo yêu cầu lượng entropy *thêm vào* bể nóng không được nhỏ hơn lượng entropy *lấy ra* khỏi bể lạnh sao cho tổng độ biến thiên entropy không âm[^41], chúng ta có hiệu suất tối đa cho phép trong làm mát dựa trên máy bơm nhiệt như sau:
 
 $$
-    \eta{cool} <= \frac{T_{c}}{T_{h} - T_{c}} = \frac{T_{c}}{\Delta{T}} \tag{6.10}\label{6.10}
+    \eta{}_{cool} \le \frac{T_{c}}{T_{h} - T_{c}} = \frac{T_{c}}{\Delta{T}} \tag{6.10}\label{6.10}
 $$
 
 tương tự với việc làm nóng:
 
 $$
-    \eta{heat} <= \frac{T_{h}}{T_{h} - T_{c}} = \frac{T_{h}}{\Delta{T}} \tag{6.11}\label{6.11}
+    \eta{}_{heat} \le \frac{T_{h}}{T_{h} - T_{c}} = \frac{T_{h}}{\Delta{T}} \tag{6.11}\label{6.11}
 $$
 
 [^41]:
 
-    Áp đặt điều kiện này cho ra kết quả $\Delta{S_{h}} >= \Delta{S_{c}}$; ngược lại **Phương trình** $\eqref{6.7}$ do hướng của dòng chảy nhiệt thay đổi.
+    Áp đặt điều kiện này cho ra kết quả $\Delta{S_{h}} \ge \Delta{S_{c}}$; ngược lại **Phương trình** $\eqref{6.7}$ do hướng của dòng chảy nhiệt thay đổi.
 
-Các phương trình này ai đoạn trông rất giống **Phương trình** $\eqref{6.9}$), nhưng *bị đảo ngược*. Hiệu suất tối đa có thể lớn hơn 100%[^42]!
+Các phương trình này ai đoạn trông rất giống **Phương trình** $\eqref{6.9}$, nhưng *bị đảo ngược*. Hiệu suất tối đa có thể lớn hơn 100%[^42]!
 
 [^42]:
 
@@ -473,7 +528,7 @@ Các phương trình này ai đoạn trông rất giống **Phương trình** $\
     
     Giới hạn hiệu quả của việc duy trì nhiệt độ tủ ở mức -10°C so với nhiệt độ phòng 20°C?
 
-    Trước hết, chúng ta biểu diễn nhiệt độ bằng Kelvin: $T_{c} ≈ 263\, K$ và $\Delta{T} = 30\, K$[^43]. Hiệu suất tối đa, theo **Phương trình** $\eqref{6.10}$, tính ra được là $\eta_{cool} <= 8{,}8$ (880%).
+    Trước hết, chúng ta biểu diễn nhiệt độ bằng Kelvin: $T_{c} ≈ 263\, K$ và $\Delta{T} = 30\, K$[^43]. Hiệu suất tối đa, theo **Phương trình** $\eqref{6.10}$, tính ra được là $\eta_{cool} \le 8{,}8$ (880%).
 
 [^43]:
 
@@ -483,7 +538,7 @@ Các phương trình này ai đoạn trông rất giống **Phương trình** $\
 
     Giới hạn hiệu quả của việc giữ nhiệt độ trong nhà ở 20°C khi nhiệt độ ngoài trời là -10°C?
 
-    Trước tiên, chúng ta biểu diễn nhiệt độ bằng K: $T_{h} ≈ 293\,K$ và $\Delta{T} = 30\,K$[^44]. Hiệu suất tối đa, theo **Phương trình** $\eqref{6.11}$, tính ra được là $\eta_{heat} <= 9{,}8$ (980%).
+    Trước tiên, chúng ta biểu diễn nhiệt độ bằng K: $T_{h} ≈ 293\,K$ và $\Delta{T} = 30\,K$[^44]. Hiệu suất tối đa, theo **Phương trình** $\eqref{6.11}$, tính ra được là $\eta_{heat} \le 9{,}8$ (980%).
 
 [^44]:
 
@@ -509,7 +564,7 @@ Trong trường hợp sưởi ấm, cần so sánh nhiệt lượng tạo ra b�
 
     Nếu mức độ mất nhiệt của một ngôi nhà là 150 W/°C và chúng ta muốn giữ nhiệt độ 20°C bên trong so với nhiệt độ bên ngoài rất lạnh -20°C, chúng ta cần phải cung cấp 6.000 W công suất[^46] cho ngôi nhà dưới dạng đốt nhiên liệu (khí ga tự nhiên, propane, củi) hay điện năng trực tiếp từ các máy sưởi[^47].
 
-    Nhưng theo **Phương trình** $\eqref{6.11}$, một máy bơm nhiệt theo lý thuyết có thể chuyển 6.000 W nhiệt năng mà chỉ cần dùng 820 W mà không vi phạm Định luật hai nhiệt động học, vì $\eta{}_{heat} <= 293/40 = 7{,}3$ và $6.000\, J$ ($\Delta{Q_{h}}$) chia cho 7,3 bằng 820 J ($\Delta{W}$)[^48].
+    Nhưng theo **Phương trình** $\eqref{6.11}$, một máy bơm nhiệt theo lý thuyết có thể chuyển 6.000 W nhiệt năng mà chỉ cần dùng 820 W mà không vi phạm Định luật hai nhiệt động học, vì $\eta{}_{heat} \le 293/40 = 7{,}3$ và $6.000\, J$ ($\Delta{Q_{h}}$) chia cho 7,3 bằng 820 J ($\Delta{W}$)[^48].
 
 [^46]:
 
@@ -527,7 +582,11 @@ Thực tế kỹ thuật sẽ ngăn chặn việc vận hành (máy bơm nhiệt
 
 **Phương trình** $\eqref{6.11}$ và **Phương trình** $\eqref{6.11}$ ngụ ý rằng bơm nhiệt hoạt động hiệu quả nhất khi $\Delta{T}$ hay độ chệnh lệch môi trường nhỏ. Vì vậy, một chiếc tủ lạnh trong gara nóng không chỉ cần phải hoạt động nhiều hơn để duy độ chệnh nhiệt độ $\Delta{T}$, nó còn hoạt động kém hiệu quả hơn&mdash;khiến nó trở thành lợi bất cập hại. Để sưởi ấm tại nhà, máy bơm nhiệt mang lại lợi ích cao nhất ở những vùng có khí hậu ôn hòa hơn, nơi $\Delta{T}$ nơi không quá khắc nghiệt.
 
-## 5. Thước đo hiệu năng tiêu dùng: COP, EER, HSPF
+### Thước đo hiệu năng tiêu dùng: COP, EER, HSPF
+
+![thermal-6-light](../../assets/images/thermal-6-light.svg)
+
+> **Hình 6.6** Nhãn năng lượng điển hình của máy bơm nhiệt ở Hoa Kì, cho thấy EER~21 và HSPF~11.
 
 Khi mua máy bơm nhiệt hoặc máy điều hòa không khí (hoặc máy làm lạnh/tủ đông), các sản phẩm được xác định bằng **hệ số hiệu suất** (*energy efficiency ratio*) (COP) hoặc **tỷ suất hiệu năng** (*energy efficiency ratio*) (EER) hoặc **hệ số hiệu suất sưởi ấm theo mùa** (*heating seasonal performance factor*) (HSPF), như trong **Hình 6.6**. Những điều này có liên quan gì đến các giá trị $\eta{}_{heat}$ và $\eta{}_{cool}$? 
 
@@ -563,12 +622,12 @@ chúng ta nhân (tử số) với 1.055. Để qui đổi từ Wh thành J, chú
 
     ...1 watt-giờ (Wh) là 1 J/s nhân với 3.600 s
 
-!!! abstract "Định nghĩa 6.5.4: EER 
+!!! abstract "Định nghĩa 6.5.4: EER" 
 
-    Bơm nhiệt dùng để làm mát được đặc trưng bởi  định bằng **tỷ suất hiệu suất năng (EER)**, điều chỉnh **Phương trình** $\eqref{6.10}$ như sau:
+    Bơm nhiệt dùng để làm mát được đặc trưng bởi  định bằng **tỷ suất hiệu năng (EER)**, điều chỉnh **Phương trình** $\eqref{6.10}$ như sau:
 
     $$
-    \eta{}_{cool} = EER(\frac{Btu}{Wh})\frac{1055\,J/Btu}{3600\,J/Wh} = EER·0{,}293 \tag{6.13}\label{6.13}
+    \eta{}_{cool} = EER(\frac{Btu}{Wh})\frac{1.055\,J/Btu}{3.600\,J/Wh} = EER·0{,}293 \tag{6.13}\label{6.13}
     $$
 
     hay ngược lại:
@@ -585,7 +644,7 @@ chúng ta nhân (tử số) với 1.055. Để qui đổi từ Wh thành J, chú
 
     Đặt $\eta{}_{cool,max} = T_{c}/\Delta{T}$ bằng 2,0, chúng ta tìm được $\Delta{T}$ bằng 130 K, từ đó nhiệt độ tối đa cho phép là $T_{h} = 390\, K$ trong trường hợp này.
 
-Bởi hiệu suất tối đa về mặt lý thuyết phụ thuộc vào $\Delta{T}$&mdash;theo **Phương trình** $\eqref{6.10}$ và $\eqref{6.11}$&mdash;và do đó có thể dao động khi nhiệt độ ngoài trời thay đổi, giá trị t**rung bình theo mùa thường** được sử dụng, gọi là SEER (EER theo mùa). Tương tự, HSPF đo lường giống như COP, nhưng theo đơn vị của EER[^52] và tính trung bình cho cả mùa sưởi ấm.
+Bởi hiệu suất tối đa về mặt lý thuyết phụ thuộc vào $\Delta{T}$&mdash;theo **Phương trình** $\eqref{6.10}$ và $\eqref{6.11}$&mdash;và do đó có thể dao động khi nhiệt độ ngoài trời thay đổi, giá trị **trung bình theo mùa** được sử dụng, gọi là SEER (EER theo mùa). Tương tự, HSPF đo lường giống như COP, nhưng theo đơn vị của EER[^52] và tính trung bình cho cả mùa sưởi ấm.
 
 [^52]:
 
@@ -596,7 +655,7 @@ Bởi hiệu suất tối đa về mặt lý thuyết phụ thuộc vào $\Delta
     Bơm nhiệt được sử dụng để sưởi ấm đôi khi được đặc trưng bởi **hệ số hiệu suất sưởi ấm theo mùa (HSPF)**. Hệ số này điều chỉnh **Phương trình** $\eqref{6.11}$ như sau.
 
     $$
-    \eta{}_{heat} = HSPF(\frac{Btu}{Wh})\frac{1055\,J/Btu}{3600\,J/Wh} = HSPF·0{,}293 \tag{6.15}\label{6.15}
+    \eta{}_{heat} = HSPF(\frac{Btu}{Wh})\frac{1.055\,J/Btu}{3.600\,J/Wh} = HSPF·0{,}293 \tag{6.15}\label{6.15}
     $$
 
     hay ngược lại:
@@ -614,6 +673,10 @@ Bởi hiệu suất tối đa về mặt lý thuyết phụ thuộc vào $\Delta
 
 Giá trị COP điển hình cho máy bơm nhiệt nằm trong khoảng 2,5–4,5[^53]. Điều đó có nghĩa năng lượng được tiếp tiệm theo hệ số 2,5 đến 4,5 khi sưởi ấm một ngôi nhà thông qua bơm nhiệt so với sưởi ấm bằng điện trực tiếp. Đúng là rất hiệu quả. **Hệ số định mức** (*rating*) của EER của máy điều hòa không khí thường nằm trong khoảng 10–20 lần, tương ứng với 3–6 lần nếu tính theo $\eta{}_{cool}$&mdash;tương đương với máy bơm nhiệt trong khi bật chế độ làm nóng[^54]. Những ngôi nhà được trang bị máy bơm nhiệt điện thường có thể làm mát và sưởi ấm, khiến chúng trở thành giải pháp linh hoạt và hiệu quả để chuyển nhiệt năng ra hay vào ngôi nhà.
 
+[^53]:
+
+    ...tương ứng với HSPF ~8-15. 
+
 [^54]:
     EER và HSPF được nhân lên hệ số 1/0,293 ≈ 3,41 so với COP, do đơn vị có phần phức tạp của EER và HSPF
 
@@ -622,8 +685,7 @@ Máy bơm nhiệt tận dụng nhiệt độ vừa phải dưới mặt đất l
 ## 6. Kết luận
 
 Đôi khi chúng ta chỉ cần nhiệt lượng. Nấu ăn, sưởi ấm trong nhà và xử lý nguyên liệu đều cần nhiệt trực tiếp. Đốt nhiên liệu hóa thạch, củi, nhiên liệu sinh
-học, khai thác năng lượng địa nhiệt hay đơn giản là để mặt trời sưởi ấm ngôi nhà của chúng ta đều trực tiếp sử dụng nhiệt lượng. **Nhiệt dung riêng** cho chúng ta biết cần bao nhiêu nhiệt năng để thay đổi nhiệt độ của một vật, sử dụng nhiệt dung riêng $1.000\, J/kg/°C$ làm ước tính sơ bộ nếu thiếu thông tin cụ thể hơn[^55]. Chúng ta cũng đã biết cách ước tính nhu cầu sưởi ấm trong nhà bằng cách sử dụng
-**mức độ mất nhiệt**, chẳng hạn như $200 W/°C$.
+học, khai thác năng lượng địa nhiệt hay đơn giản là để mặt trời sưởi ấm ngôi nhà của chúng ta đều trực tiếp sử dụng nhiệt lượng. **Nhiệt dung riêng** cho chúng ta biết cần bao nhiêu nhiệt năng để thay đổi nhiệt độ của một vật, sử dụng nhiệt dung riêng $1.000\, J/kg/°C$ làm ước tính sơ bộ nếu thiếu thông tin cụ thể hơn[^55]. Chúng ta cũng đã biết cách ước tính nhu cầu sưởi ấm trong nhà bằng cách sử dụng **tốc độ mất nhiệt**, chẳng hạn như $200\, W/°C$.
 
 Nhưng hóa ra chúng ta sử dụng nhiệt vào nhiều việc hơn thế. 84% điện năng của chúng ta được sản xuất bởi động cơ nhiệt, sử dụng dòng nhiệt để làm quay tua-bin của máy phát điện. Hiệu suất tối đa mà một động cơ nhiệt có thể đạt được bị đặt ra bởi các giới hạn về entropy và lên tới mức $\eta{}_{max} < \Delta{T}/T_{h}$, mặc dù trong thực tế, chúng ta có thường đạt được chỉ một nửa hay ít hơn giới hạn nhiệt động học[^56]. Trong mọi trường hợp, nhiệt năng đóng vai trò to lớn trong cách chúng ta vận hành xã hội.
 

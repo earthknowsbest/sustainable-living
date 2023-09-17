@@ -15,8 +15,10 @@ Background-dark: #2F2322
 <div markdown="1" align="center"></div>
 ```
 
+[Math Symbol](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
+
 ```latex
-≈ , · , ×
+~ , ≈ , · , × , →, \ge
 $\eqref{6.11}$
 $\tag{6.1}\label{6.1}$
 ```
