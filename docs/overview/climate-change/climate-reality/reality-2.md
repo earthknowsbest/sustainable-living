@@ -2,7 +2,7 @@
 
 !!! quote "Giáo sư Johan Rockström&mdash;Giám đốc Viện nghiên cứu tác động khí hậu Potsdam"
 
-    Nếu để nhiệt độ tăng quá 2ºC, rất có thể chúng ta đã gây ra quá nhiều điểm tới hạn (*tipping points*) đến mức một độ nữa có thể tăng thêm chỉ thông qua các thay đổi tự củng cố (*self-reinforcing changes*)...Vào thời điểm mà hệ thống Trái đất chuyển từ việc tự làm mát (self-cooling)&mdash;vốn vẫn đang diễn ra&mdash;sang tự làm nóng (self-warming), đó là lúc chúng ta mất kiểm soát. 
+    Nếu để nhiệt độ tăng quá 2ºC, rất có thể chúng ta đã gây ra quá nhiều **điểm tới hạn** (*tipping points*) đến mức một độ nữa có thể tăng thêm chỉ thông qua các **thay đổi tự củng cố** (*self-reinforcing changes*)...Vào thời điểm mà hệ thống Trái đất chuyển từ việc **tự làm mát** (self-cooling)&mdash;vốn vẫn đang diễn ra&mdash;sang **tự làm nóng** (self-warming), đó là lúc chúng ta mất kiểm soát. 
 
 ## #13 :traffic_light: › Các rủi ro mang tính quyết định đến sự sinh tồn 
 
