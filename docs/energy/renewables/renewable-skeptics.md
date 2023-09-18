@@ -134,7 +134,7 @@ Trung tầm này [nói thêm](https://kleinmanenergy.upenn.edu/research/publicat
 
 Đây là vấn đề đã được tóm lược lại một cách thuyết phục bởi Michaux.
 
-Trong 150 năm nền văng minh đã xây dựng nên một hệ thống công nghiệp rất phức tạp dựa trên nguồn nhiên liệu hoá thạch rẻ. Giá cả phải chăng của các nguồn nhiên liệu này đã tạo nên một hệ thống ngân hàng mạnh và một hệ thống nông nghiệp công nghiệp hoá. Điều này đã thúc đẩy đô thị hoá và toàn cầu hoá. Hơn nữa, năng lượng giá rẻ đã củng cố ảo tưởng rằng các tài nguyên là vô hạn.
+Trong 150 năm nền văn minh đã xây dựng nên một hệ thống công nghiệp rất phức tạp dựa trên nguồn nhiên liệu hoá thạch rẻ. Giá cả phải chăng của các nguồn nhiên liệu này đã tạo nên một hệ thống ngân hàng mạnh và một hệ thống nông nghiệp công nghiệp hoá. Điều này đã thúc đẩy đô thị hoá và toàn cầu hoá. Hơn nữa, năng lượng giá rẻ đã củng cố ảo tưởng rằng các tài nguyên là vô hạn.
 
 Giờ đây khi khí thải nhiên liệu hoá thạch khiến nhiệt độ tăng và phá huỷ đa dạng sinh học, các nhà lãnh đạo không biết sợ hãi của chúng ta lại muốn thay thế toàn bộ hệ thống hiện tại bằng một hệ thống khác còn phức tạp và sử dụng nhiều tài nguyên hơn.
 

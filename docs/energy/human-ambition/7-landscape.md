@@ -171,6 +171,62 @@ khí đốt đang tiến gần đến dầu trong khi tiêu thụ than giảm m�
 Mức tiêu thụ phi hóa thạch trong **Hình 7.5** làm rõ sự phân chia đường cong “năng lượng tái tạo” trong **Hình 7.4**, cùng với điện hạt nhân. Từ đó, chúng ta thấy rằng năng lượng hạt nhân thống trị  năng lượng phi hóa thạch, tăng nhanh từ năm 1970
 đến năm 2000 và giữ ổn định kể từ đó. Thủy điện khá ổn định trong 50 năm qua khi các nguồn khác vượt qua và hạ thấp thứ hạng của nó. Sự gia tăng nhiên liệu sinh học vào khoảng năm 1980 dường như chủ yếu là do việc đốt gỗ tăng lên, trong khi sự gia tăng tiếp theo (2000–2010) là do nhiên liệu sinh học&mdash;chủ yếu là xăng ethanol. Điện gió đang đạt mức đóng góp 3% vào tổng ngân sách tiêu dùng ~100 qBtu của Hoa Kì, tăng khoảng 0,2% mỗi năm. Điện mặt trời cũng đang trên đà phát triển, đạt mức 1% gần đây và tăng chậm hơn điện gió. Địa nhiệt đang và sẽ tiếp tục đóng góp rất ít trong sản lượng năng lượng chung.
 
+## 2. Năng lượng toàn cầu
+
+Không có gì ngạc nhiên khi câu chuyện toàn cầu không khác biệt nhiều so với tình hình ở Hoa Kì, như **Hình 7.6** và **Hình 7.7** cho thấy. Nhiên liệu hóa thạch vẫn chiếm ưu thế, đứng đầu là dầu mỏ. Sử dụng than đá chiếm ưu thế so với khí đốt tự nhiên trên toàn thế giới, không giống như ở Hoa Kỳ. Ngoài ra, trong khi năng lượng hạt nhân gần tương đương năng lượng tái tạo ở Hoa Kì, điều này không đúng trên toàn cầu, lí do sẽ được giải thích ngắn gọn bên dưới. Lưu ý rằng các đánh giá khác nhau về năng lượng toàn cầu có thể đưa ra tỷ lệ phần trăm đóng góp khác nhau tùy thuộc vào việc có sử dụng nhiệt lượng tương đương hay không (xem **Hộp 7.2**).
+
+> **Hình 7.7:** Lịch sử tiêu thụ năng lượng sơ cấp trên thế giới gần đây. Ba loại nhiên liệu hóa thạch và hạt nhân được trình bày riêng biệt, trong khi các nguồn tái tạo được nhóm lại với nhau. Biểu đồ bên phải hiển thị dữ liệu tương tự dưới dạng phần trăm của tổng năng lượng.
+
+Đối với những đóng góp của nguồn nhiên liệu phi hóa thạch, **Hình 7.8** cho thấy sự phát triển của những thập kỷ gần đây. Ở đây, chúng ta thấy rằng phần lớn lý do khiến năng lượng tái tạo vượt năng lượng hạt nhân trên toàn cầu là do sinh khối. Điều này nghĩa là vì các quốc gia có mức sống thấp hơn
+thường hay đốt củi và ít có khả năng phát triển điện hạt nhân.
+
+> **Hình 7.8:** Lịch sử tiêu thụ năng lượng phi hóa thạch toàn cầu gần đây. Dấu hoa thị biểu thị nhiệt lượng tương đương, như được mô tả trong **Hộp 7.2**. Biểu đồ bên phải hiển thị các nguồn năng lượng dưới dạng phần trăm của tổng năng lượng. Sinh khối chiếm 1/4 năng lượng toàn cầu vào năm 1950.
+
+!!! note "Hộp 7.3: TWh và qBtu"
+
+    Bạn có thể nhận thấy rằng ngay khi chúng ta không dùng dữ liệu của AER để biểu thị năng lượng bằng qBtu, đơn vị trên đồ thị (**Hình 7.7**) đã thay đổi thành terawatt-giờ (TWh). Nó có nghĩa như sau: tera là 10^12^, vậy đây là 10^12^ watt-giờ (Wh). Chúng ta sử dụng kWh thường xuyên hơn Wh, vậy TWh tương đương với giga-kWh hoặc GkWh (bạn có thể chuyển đổi đơn vị thế này không?) Một kWh là 3,6 × 10^6^ J, vậy 1 TWh là 3,6 × 10^15^ J. Trong khi đó, 1 qBtu là 1,055 × 10^18^ J, tạo điều kiện thuận lợi cho việc chuyển đổi. Các số liệu về công suất năng lượng toàn cầu cũng đặt qBtu ở bên phải để dễ so sánh giữa các đồ thị.
+
+    Nguồn số liệu cho phần này[^16] kết hợp sản lượng nhiệt năng và điện năng, do đó các đồ thị đã nhân một số mục (dấu hoa thị trong chú thích từng biểu đồ) với 3,06 vì các lý do được mô tả trong **Hộp 7.2**.
+
+[^16]:
+
+    Smil (2017), Chuyển tiếp năng lượng: Quan điểm toàn cầu và quốc gia (*Energy Transitions: Global and National Perspectives*)
+
+### Tỷ trọng năng lượng Hoa Kì so với toàn cầu
+
+Phần tổng quan cuối cùng giúp định hình một số cuộc thảo luận trong cuốn sách này xem xét tỷ lệ tiêu thụ các nguồn năng lượng khác nhau của Hoa Kỳ so với
+tổng lượng tiêu thụ toàn cầu. Sự diễn tiến của đường đồ thị quan sát được ở phía bên trái của **Hình 7.9** cho thấy một cái nhìn sâu sắc quan trọng về địa chính trị. Năm 1950, Mỹ sử dụng tới 84% lượng khí đốt tự nhiên và 72% dầu mỏ trên toàn cầu. Với chỉ 6% dân số thế giới vào thời điểm đó, người Mỹ đã sử dụng hơn 10 lần lượng dầu mỏ và khí đốt trung bình toàn cầu và nhiều hơn đáng kể so với phần còn lại của thế giới cộng lại. Vì năng lượng tiêu thụ hàng năm là định nghĩa của quyền lực, nên chúng ta có thể hiểu Hoa Kỳ đã trở thành một siêu cường theo đúng nghĩa đen như thế nào. Nhại theo thông điệp tranh cử của Bill Clinton: “Đồ ngốc, tài nguyên đó”[^18].
+
+[^18]:
+
+    Câu gốc: "Đồ ngốc, nền kinh tế đó" (*It's the economy, stupid*)
+
+!!! success ""
+
+    Đây có thể là một yếu tố khiến người ta hoài niệm về những gì mà một số người Mỹ coi là “những ngày vinh quang” của những năm 1950.Trong phạm vi mà tiêu thụ năng lượng của Hoa Kỳ đóng một vai trò nào đó trên toàn cầu, mong muốn quay trở lại thời kỳ những năm 1950 khó có thể trở thành hiện thực.
+
+> **Hình 7.9:** Hình bên trái kết hợp **Hình 7.4** và **Hình 7.7** để biểu thị tỷ lệ tài nguyên năng lượng được Mỹ tiêu thụ theo thời gian. Bức tranh tổng thể cho thấy một thế giới đang bắt kịp một quốc gia đã sớm đi đầu. Mỹ là một “siêu cường” theo đúng nghĩa đen vào giữa thế kỷ XX. Đường nét đứt ở phía dưới biểu thị tỷ lệ dân số Hoa Kỳ trên thế giới. Điều đó có nghĩa rằng việc sử dụng năng lượng trên đường này cho thấy tỷ trọng lớn hơn mức trung bình của thế giới, mà điều này đúng với tất cả các nguồn năng lượng ở Hoa Kì. Biểu đồ bên phải kết hợp **Hình 7.5** và **Hình 7.8** để biểu thị tỷ lệ tài nguyên năng lượng tái tạo và năng lượng hạt nhân được Hoa Kỳ tiêu thụ theo thời gian. Năng lượng mặt trời và điện gió là đặc trưng của một quốc gia nổi tiếng với sự đổi mới: đầu tiên xuất hiện ở Hoa Kì.
+
+Đường màu xanh đậm hơn ở phần bên trái của **Hình 7.9** biểu thị tất cả các nguồn năng lượng kết hợp lại. Vào những năm 1950, người Mỹ sử dụng 1/3 tổng năng lượng toàn cầu, tương ứng với gần 8[^19] lần năng lượng trung bình của mỗi người không phải là người Mỹ. Ngày nay, tỷ lệ này gần hơn với 4 lần.
+
+[^19]:
+
+    Theo tính toán: 35% năng lượng sử dụng trên 6% dân số ở Hoà Kì so với 65% năng lượng sử dụng trên 94% dân số: (35/6)/(65/94) ≈ 8,4.
+
+Phía bên phải của **Hình 7.9** cũng thể hiện tương tự tỷ trọng năng lượng tái tạo của Hoa Kỳ. Nguồn tài nguyên có xu hướng tăng duy nhất là sinh khối, do yêu cầu sử dụng ethanol[^20]. Nhưng nó chỉ đóng vai trò thứ yếu trong tổng sản lượng chung. Năng lượng mặt trời và điện gió rất thú vị, ở chỗ Hoa Kỳ ban đầu nắm giữ thị phần lớn trên toàn cầu với tư cách là nước tiên phong về công nghệ này trước khi phần còn lại của thế giới tham gia.
+
+[^20]:
+
+    Thông tin thêm về năng lượng sinh học trong **Chường 14**
+
+## 3. Kết luận
+
+Mục đích của chương này gồm hai phần: thứ nhất là giới thiệu cho bạn đọc những nguồn thông tin đáng tin cậy về sản xuất năng lượng quốc gia ở Hoa Kì và toàn cầu; thứ hai là truyền đạt bối cảnh sử dụng năng lượng. Những gì hiện lên là bức tranh về một thế giới vẫn nằm trong sự kiểm soát của nhiên liệu hóa thạch với mức sử dụng hàng năm tiếp tục tăng.Điện gió và điện mặt trời đang dần có thị phần nhưng cho đến nay chỉ ở mức vài phần trăm. Hoa Kỳ đã đóng một vai trò to lớn trong việc tiêu thụ năng lượng toàn cầu so với dân số của nước này, đặc biệt là vào giữa thế kỷ 20.
+
+
+
+
+
 
 
 
