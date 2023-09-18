@@ -320,7 +320,7 @@ gần bằng một phần tư của 4.184 J.
 
     Hãy nhớ lại rằng 1 kcal là năng lượng cần thiết để làm nóng một kg nước lên 1°C.
 
-!!! note "Quads: qBtu"
+!!! note "Hộp 5.4: Quads: qBtu"
 
     Hoa Kỳ sử dụng triệu triệu Btu để thể hiện chi tiêu năng lượng hàng năm ở quy mô quốc gia. Nó được ký hiệu là qBtu, hay “quads” một cách không chính. Một qBtu xấp xỉ $10^{18}\, J$[^20].
 

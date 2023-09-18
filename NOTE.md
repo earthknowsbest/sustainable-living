@@ -18,7 +18,7 @@ Background-dark: #2F2322
 [Math Symbol](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
 
 ```latex
-~ , ≈ , · , × , →, \ge
+~ , ≈ , · , × , →, \ge , \lt
 $\eqref{6.11}$
 $\tag{6.1}\label{6.1}$
 ```
