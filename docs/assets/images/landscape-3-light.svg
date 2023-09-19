@@ -1,0 +1,94 @@
+
+<svg style='scaling-svg' viewBox="0 0 198 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2" transform="translate(-640.000000, -2282.000000)">
+            <g id="energy-landscape" transform="translate(148.827900, 1419.009000)">
+                <g id="landscape-3" transform="translate(492.000000, 863.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="197" height="125"></rect>
+                    <g id="Group-18" transform="translate(86.397907, 61.725473)">
+                        <path d="M0,47.73515 C6.59808456,50.6013539 13.7193589,52.0686522 20.913084,52.0444807 C28.1067809,52.0197097 35.2179031,50.5039949 41.796362,47.5929688 L20.7360292,0 L0,47.73515 Z" id="Fill-16" fill="#999999"></path>
+                        <path d="M0,47.73515 C6.59808456,50.6013539 13.7193589,52.0686522 20.913084,52.0444807 C28.1067809,52.0197097 35.2179031,50.5039949 41.796362,47.5929688 L20.7360292,0 L0,47.73515 Z" id="Stroke-17" stroke="#3D1818"></path>
+                    </g>
+                    <g id="Group-21" transform="translate(65.227173, 61.725473)">
+                        <path d="M0,30.8618059 C2.71062699,34.5425157 5.89438992,37.8501124 9.4690252,40.6991425 C13.0436605,43.5481754 16.9781177,45.913889 21.170734,47.73515 L41.9067632,0 L0,30.8618059 Z" id="Fill-19" fill="#FF44FF"></path>
+                        <path d="M0,30.8618059 C2.71062699,34.5425157 5.89438992,37.8501124 9.4690252,40.6991425 C13.0436605,43.5481754 16.9781177,45.913889 21.170734,47.73515 L41.9067632,0 L0,30.8618059 Z" id="Stroke-20" stroke="#3D1818"></path>
+                    </g>
+                    <g id="Group-24" transform="translate(57.748034, 61.725473)">
+                        <path d="M0,16.4213042 C0.859155611,19.0051565 1.91977082,21.5176042 3.17204977,23.935487 C4.42435701,26.3533698 5.86446509,28.6692502 7.47913943,30.8618059 L49.3859026,0 L0,16.4213042 Z" id="Fill-22" fill="#22FF22"></path>
+                        <path d="M0,16.4213042 C0.859155611,19.0051565 1.91977082,21.5176042 3.17204977,23.935487 C4.42435701,26.3533698 5.86446509,28.6692502 7.47913943,30.8618059 L49.3859026,0 L0,16.4213042 Z" id="Stroke-23" stroke="#3D1818"></path>
+                    </g>
+                    <g id="Group-15" transform="translate(107.133937, 24.956212)">
+                        <path d="M21.0603328,84.3622295 C28.7868908,80.9431514 35.5658762,75.6933728 40.8094815,69.068064 C46.053115,62.4427751 49.6052968,54.6391567 51.1580684,46.3337841 C52.71084,38.0284398 52.2179653,29.4685561 49.7222304,21.3962873 C47.2264673,13.3240468 42.8020764,5.97967939 36.8327188,0 L0,36.7692607 L21.0603328,84.3622295 Z" id="Fill-13" fill="#33CCFF"></path>
+                        <path d="M21.0603328,84.3622295 C28.7868908,80.9431514 35.5658762,75.6933728 40.8094815,69.068064 C46.053115,62.4427751 49.6052968,54.6391567 51.1580684,46.3337841 C52.71084,38.0284398 52.2179653,29.4685561 49.7222304,21.3962873 C47.2264673,13.3240468 42.8020764,5.97967939 36.8327188,0 L0,36.7692607 L21.0603328,84.3622295 Z" id="Stroke-14" stroke="#3D1818"></path>
+                    </g>
+                    <g id="Group-12" transform="translate(55.173927, 9.681206)">
+                        <path d="M88.7927287,15.2750063 C81.6968489,8.16691001 72.6927871,3.26256788 62.8723104,1.15668731 C53.0518338,-0.949221542 42.8285794,-0.167985888 33.4421006,3.4056879 C24.0556501,6.97933341 15.9013439,13.1948879 9.96795725,21.2986596 C4.03454231,29.4024312 0.571945603,39.053149 0,49.0805713 L51.9600099,52.0442671 L88.7927287,15.2750063 Z" id="Fill-10" fill="#BB8888"></path>
+                        <path d="M88.7927287,15.2750063 C81.6968489,8.16691001 72.6927871,3.26256788 62.8723104,1.15668731 C53.0518338,-0.949221542 42.8285794,-0.167985888 33.4421006,3.4056879 C24.0556501,6.97933341 15.9013439,13.1948879 9.96795725,21.2986596 C4.03454231,29.4024312 0.571945603,39.053149 0,49.0805713 L51.9600099,52.0442671 L88.7927287,15.2750063 Z" id="Stroke-11" stroke="#3D1818"></path>
+                    </g>
+                    <g id="Group-27" transform="translate(55.806621, 61.725473)">
+                        <path d="M0,8.61005057 C0.222179619,9.9345541 0.495541401,11.2499235 0.819474518,12.5532743 C1.14340763,13.8565969 1.51766889,15.1469111 1.94141274,16.4213042 L51.3273154,0 L0,8.61005057 Z" id="Fill-25" fill="#DDDDFF"></path>
+                        <path d="M0,8.61005057 C0.222179619,9.9345541 0.495541401,11.2499235 0.819474518,12.5532743 C1.14340763,13.8565969 1.51766889,15.1469111 1.94141274,16.4213042 L51.3273154,0 L0,8.61005057 Z" id="Stroke-26" stroke="#3D1818"></path>
+                    </g>
+                    <g id="Group-30" transform="translate(55.089474, 61.725473)">
+                        <path d="M0,0.006164822 C0,1.44697987 0.0601720562,2.88717278 0.179851612,4.32301073 C0.299531168,5.75884868 0.478783265,7.18908738 0.717146956,8.61005057 L52.0444623,0 L0,0.006164822 Z" id="Fill-28" fill="#8888FF"></path>
+                        <path d="M0,0.006164822 C0,1.44697987 0.0601720562,2.88717278 0.179851612,4.32301073 C0.299531168,5.75884868 0.478783265,7.18908738 0.717146956,8.61005057 L52.0444623,0 L0,0.006164822 Z" id="Stroke-29" stroke="#3D1818"></path>
+                    </g>
+                    <g id="Group-33" transform="translate(55.089474, 58.761777)">
+                        <path d="M0.0844527797,0 C0.056250133,0.494458315 0.0351059247,0.989284257 0.0210286385,1.48433643 C0.00695135233,1.97936033 0,2.47461045 0,2.96986058 L52.0444627,2.96369576 L0.0844527797,0 Z" id="Fill-31" fill="#FFFF00"></path>
+                        <path d="M0.0844527797,0 C0.056250133,0.494458315 0.0351059247,0.989284257 0.0210286385,1.48433643 C0.00695135233,1.97936033 0,2.47461045 0,2.96986058 L52.0444627,2.96369576 L0.0844527797,0 Z" id="Stroke-32" stroke="#3D1818"></path>
+                    </g>
+                    <g id="text" transform="translate(0.172100, 5.991000)" fill="#3D1818">
+                        <text id="Dầu-mỏ" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="62" y="6">Dầu mỏ</tspan>
+                        </text>
+                        <text id="Điện-mặt-trời" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="0" y="56">Điện mặt trời</tspan>
+                        </text>
+                        <text id="Thuỷ-điện" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="10" y="64">Thuỷ điện</tspan>
+                        </text>
+                        <text id="Điện-gió" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="15" y="72">Điện gió</tspan>
+                        </text>
+                        <text id="Sinh-khối" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="16" y="84">Sinh khối</tspan>
+                        </text>
+                        <text id="Hạt-nhân" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="46" y="100">Hạt nhân</tspan>
+                        </text>
+                        <text id="Than-đá" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="97" y="115">Than đá</tspan>
+                        </text>
+                        <text id="Khí-tự-nhiên" font-family="Helvetica" font-size="6" font-weight="normal">
+                            <tspan x="161" y="66">Khí tự nhiên</tspan>
+                        </text>
+                        <text id="36,6%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="82" y="18">36,6%</tspan>
+                        </text>
+                        <text id="30,9%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="137" y="63">30,9%</tspan>
+                        </text>
+                        <text id="0,9%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="38" y="56">0,9%</tspan>
+                        </text>
+                        <text id="2,6%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="38" y="64">2,6%</tspan>
+                        </text>
+                        <text id="2,5%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="39" y="72">2,5%</tspan>
+                        </text>
+                        <text id="5,0%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="43" y="84">5,0%</tspan>
+                        </text>
+                        <text id="8,4%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="72" y="92">8,4%</tspan>
+                        </text>
+                        <text id="13,2%" font-family="Helvetica-Bold, Helvetica" font-size="7" font-weight="bold">
+                            <tspan x="99" y="103">13,2%</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -13,6 +13,7 @@ Background-dark: #2F2322
 ```html
 <!-- Center -->
 <div markdown="1" align="center"></div>
+<!-- style='scaling-svg' -->
 ```
 
 [Math Symbol](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
