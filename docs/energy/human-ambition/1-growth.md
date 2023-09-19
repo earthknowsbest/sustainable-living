@@ -1,5 +1,11 @@
 # Chương 1: Tăng trưởng theo cấp số nhân (*Exponential Growth*)
 
+![growth-0](../../assets/images/growth-0.webp)
+
+!!! quote ""
+
+    [Thiên hà Ngọc Phu](https://vi.wikipedia.org/wiki/Thi%C3%AAn_h%C3%A0_Ng%E1%BB%8Dc_Phu) (tên khác là NGC 253). Nguồn hình ảnh: Dylan O’Donnell.
+
 Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người cũng có những điểm yếu chí mạng. Một trong số đó có lẽ là sự thiếu nhận thức đầy đủ về những hệ quả của cái gọi là **tăng trưởng theo cấp số nhân** (*exponential growth*)[^1]. Trớ trêu thay, những mục tiêu kinh tế chính trị của chúng ta thường hướng đến việc hỗ trợ tăng trưởng kinh tế. Do sự kì vọng và ham muốn tăng tưởng không ngừng đã ăn sâu vào tư duy xã hội, việc khảo sát kĩ lưỡng về hiện tượng này là một điều hệ trọng, nhằm tránh cho chúng ta những sai lầm căn bản về nhận thức. Trong chương này, chúng ta hãy cùng tìm hiểu bản chất chung của tăng trưởng theo cấp số nhân, để nắm được tính bất khả thi và những hệ quả vô lí của việc tiếp diễn tăng trưởng từ năm này sang năm khác. Kết quả cho thấy kết cấu xã hội của chúng ta (dựa trên tăng trưởng) sớm muộn gì cũng phải đối mặt với những biến cố đáng kể so với cuộc sống hiện tại&mdash;một điều cần hết sức lưu tâm[^2]. Các chương sau sẽ tập trung vào những ứng dụng về kinh tế và tăng trưởng dân số&mdash;bao gồm đường tăng trưởng hàm logistic, và sau đó nhấn mạnh đến những giới hạn (*limits*) mà hành tinh hữu hạn (*finite planet*) của chúng ta đặt ra.
 
 [^1]:

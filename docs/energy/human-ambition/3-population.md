@@ -1,5 +1,11 @@
 # Chương 3: Dân số
 
+![pop-0](../../assets/images/pop-0.webp)
+
+!!! quote ""
+
+    Đàn ong. Nguồn ảnh: Tom Murphy
+
 Hầu hết những mối quan tâm trong đời sống của con người đều có liên quan đến câu chuyện dân số (*population*). Thảo luận về sự tăng trưởng không ngừng ở **Chương 1** được tính toán dựa trên tốc độ tăng trưởng năng lượng trong quá khứ, mà trong đó sự gia tăng dân số và sử dụng tài nguyên trên đầu người đóng góp một phần. Tuy nhiên, việc dân số tăng không ngừng, như đã trình bày trong viễn cảnh ở **Chương 1**, là không thực tế. Vì thế, những “dự báo” trong **Chương 1** trở nên không còn đúng nữa và việc “tăng trưởng mãi mãi sẽ bị chặn lại”.
 
 Chúng ta hãy cùng nhìn vào thực tế với một viễn cảnh khả dĩ hơn. Sử dụng năng lượng trên đầu người của Hoa Kì gấp khoảng *năm lần* so với mức trung bình của thế giới. Nếu dân số toàn cầu tăng gấp đôi, và mức tiêu thụ năng lượng của mỗi công dân trên trái đất tiệm cận với mức tiêu thụ của Người Mĩ[^1], thì qui mô năng lượng toàn cầu sẽ gấp $10$ lần chỉ trong $100$ năm ở mức tăng trưởng hàng năm khoảng $2{,}3\%$. Theo đó, qui mô này đặt ra một thời hạn mà ở đó việc tăng trưởng liên tục sẽ kết thúc&mdash;trên thực tế sớm hơn so với những dự báo ở **Chương 1**.

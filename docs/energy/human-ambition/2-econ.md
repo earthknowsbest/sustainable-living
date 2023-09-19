@@ -1,5 +1,11 @@
 # Chương 2: Những giới hạn của tăng trưởng kinh tế
 
+![econ-0](../../assets/images/econ-0.webp)
+
+!!! quote ""
+
+	Ảnh chủ đề hài hước: điều vật lý (trường hấp dẫn) thấy có giá trị hơn: một đô la bạc thật so với một tờ $100. Nguồn: Tom Murphy
+
 **Chương 1** đã áp  những định luật vật lí và logic toán, cho thấy tiến trình tăng trưởng không ngừng với chỉ vài phần trăm một năm sẽ trở nên phi lí chỉ trong vài trăm năm. Trong chương này, chúng ta sẽ khám phá những hệ quả của một khái niệm ít gắn với vật lí hơn: *tăng trưởng kinh tế*, vốn là nền tảng của xã hội hiện đại. Kế hoạch đầu tư, cho vay, nghỉ hưu hay an sinh xã hội đều căn cứ vào tăng trưởng kinh tế không ngừng. Chương này đưa ra kết luận rằng tăng trưởng kinh tế sẽ không thể nào tiếp tục nếu thế giới vật chất không tăng trưởng tương ứng&mdash;vốn là việc bất khả thi như chúng ta đã xem xét ở chương trước. Điều này kéo theo nhiều sự chỉ trích từ phía các nhà kinh tế học, mặc dù bằng sự kiên nhẫn, chúng ta có thể khiến cho họ hiểu[^1]. Sau đây là những luận điểm chính.
 
 [^1]:
