@@ -346,7 +346,7 @@ gần bằng một phần tư của 4.184 J.
 
     1. Làm nóng $15\, gallon$[^22] ($125\, pound$) nước mát từ nhiệt độ $68°F$ đến nhiệt độ nóng $131°F$ ở tốc độ $30.000\, Btu/giờ$ sẽ mất bao lâu? Chúng ta cần tính được $125\, pound × (131°F - 68°F) = 7.900\, Btu$ với tốc độ tiêu thụ năng lượng 30.000 Btu/giờ. Vì vậy sẽ mất $7.900/30.000$ hay gần $16$ phút.
 
-    2. Theo **hệ đơn vị mét** (*metric*), 15 gallons tương đương $57\, L$ ($57\, kg$), và chúng ta cần làm nóng nước từ nhiệt độ $20°C4 đến $55°C$ với $8.800\, W$[^23]. Vì 1 kcal có thể làm nóng 1 kg nước lên $1°C$, làm nóng $57\, kg$ nước lên $35°C$ cần $57 × 35$ kcal, hay $57 × 35 × 4.184\, J = 8.35\,MJ$; ở công suất $8.800\, W$ sẽ cần $8.350.000/8.800 ≈ 950$ giây hay gần $16$ phút (cùng câu trả lời so với cách 1).
+    2. Theo **hệ đơn vị mét** (*metric*), 15 gallons tương đương $57\, L$ ($57\, kg$), và chúng ta cần làm nóng nước từ nhiệt độ $20°C$ đến $55°C$ với $8.800\, W$[^23]. Vì 1 kcal có thể làm nóng 1 kg nước lên $1°C$, làm nóng $57\, kg$ nước lên $35°C$ cần $57 × 35$ kcal, hay $57 × 35 × 4.184\, J = 8.35\,MJ$; ở công suất $8.800\, W$ sẽ cần $8.350.000/8.800 ≈ 950$ giây hay gần $16$ phút (cùng câu trả lời so với cách 1).
 
 [^22]:
 
