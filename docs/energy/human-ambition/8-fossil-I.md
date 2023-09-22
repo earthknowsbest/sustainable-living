@@ -265,7 +265,7 @@ Khí đốt tự nhiên chiếm 31% mức tiêu thụ năng lượng ở Mỹ v�
 
     Xem [Hình 7.2, Chương 7](7-landscape.md#chi-tiet-phan-bo-nang-luong)
 
-### 3. Năng lượng hoá học
+## 3. Năng lượng hoá học
 
 Năng lượng hoá học được giải phóng dưới dạng nhiệt khi vật liệu dễ chay bốc cháy khi có mặt của ôxy. 
 
