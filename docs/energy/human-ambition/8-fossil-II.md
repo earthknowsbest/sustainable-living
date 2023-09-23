@@ -227,6 +227,76 @@ Sự bùng nổ fracking sẽ kéo dài bao lâu? Một khía cạnh cần đán
 
 ### Địa chính trị
 
+Một vấn đề đáng nói nữa ở góc độ địa chính trị. Nhiều trữ lượng đã được chứng minh trên thế giới không thuộc sở hữu của các quốc gia có tiêu thụ dầu cao nhất. **Hình 8.11** cho thấy những quốc gia nào nắm giữ trữ lượng lớn nhất, với lời cảnh báo rằng trữ lượng ở Venezuela và Canada là **dầu nặng** (*heavy oil*)[^70], khó chiết xuất và tinh chế thành dạng nhẹ hơn như xăng dầu, biến khu vực Trung Đông (A-rập Xê-út, Iran, Irắc, Các tiểu Vương quốc A-rập UAE và Kuwait) thành những nhà lãnh đạo “thực sự” của dầu thô nhẹ[^71], chiếm ưu thế chủ yếu bới phân tử hydrocacbon chuỗi ngắn hữu ích hơn như octan ([Hình 8.3](8-fossil-I.md#dau-mo)). Một điều có thể khiến người Mỹ cảnh giác là phải đi quanh để tìm kiếm đồng minh thân thiết. Ngoài Canada, với sự bất tiện đến từ dầu nặng, tình hình không mấy yên tâm. Trữ lượng dầu đã được chứng minh ở Hoa Kì lên tới 35 tỷ thùng. Với mức tiêu thụ 20 triệu thùng mỗi ngày, phép toán cho thấy chỉ còn 5 năm nếu người Mỹ chỉ tiêu thụ dầu sản xuất nội địa. Tuy nhiên, trữ lượng đã được chúng minh là một con số vừa phải, thường chưa tính đến tổng tài nguyên ước tính: việc thăm dò có thể bổ sung vào trữ lượng đã được chứng minh. Nguồn tài nguyên ước tính ở Mỹ gần 200 tỷ thùng, điều này sẽ kéo dài việc tiêu thụ gần 30 năm nữa mà không cần nhập khẩu với tốc độ tiêu thụ hiện tại. Nhưng thang thời gian ngắn này mang lại một số giải toả cho sự lo ngại về biến đổi khí hậu, nhưng là tin không tốt lành với nhiều nền kinh tế quá phụ thuộc vào nhiên liệu hoá thạch.
+
+[^70]:
+
+    ...ví dụ như **dầu cát nặng** (*tar sand*), chuỗi hydrocacbon mạch dài.
+
+[^71]:
+
+    ...đôi khi được gọi là dầu thô “ngọt”
+
+>**Hình 8.11**: Phân bổ trữ lượng dầu đã được chứng minh theo quốc gia, hình ở phía trên, theo Cơ quan Thông tin Năng lượng Hoa Kỳ. Dầu ở Venezuela và Canada là dầu nặng, khó khai thác và chế biến hơn dầu nhẹ phổ biến ở Trung Đông. Hình bên dưới là dầu tiêu dùng theo quốc gia của 10 nước tiêu thụ hàng đầu (US EIA). Lưu ý rằng Mỹ sở hữu 2% lượng dầu mỏ nhưng tiêu thụ khoảng 20% lượng dầu mỏ sản lượng hàng năm toàn cầu. Hình này cũng thể hiện sự thiếu sự tương quan tổng thể giữa những nước *có* dầu và những nước *cần* dầu.
+
+Do tốc độ khai thác có thể là một yếu tố hạn chế nên điều thường xảy ra là tốc độ sản xuất bắt đầu chậm lại (đạt đỉnh) xung quanh thời điểm một nửa tài nguyên dầu đã cạn kiệt[^72] tạo ra một đồ thị đối xứng theo thời gian. Điều này cho thấy rằng đỉnh có thể xảy ra *sớm hơn nhiều* so khoảng thời gian đưa ra bởi tỷ lệ R/P, như mô tả trong **Hình 8.6**. Một khi thế giới vượt qua tốc độ sản xuất dầu đỉnh điểm, một chuỗi các sự kiện gây thiệt hại do hoảng loạn có thể xảy ra sau đó, làm cho việc hợp tác chung sống trong một thế giới hậu nhiên liệu hoá thạch khó khăn hơn (ít khả thi hơn) lấy năng lượng tái tạo làm trung tâm. **Hộp 8.3** và **Hộp 8.4** đã vẽ ra những kịch bản đáng lo ngại.
+
+[^72]:
+
+    ...có lẽ là trong chính thời điểm này đối với tiêu thụ dầu
+
+!!! note "Hộp 8.3: Chiến tranh tài nguyên"
+
+    Hãy tưởng tượng kịch bản trong đó giá dầu tăng từ $50/thùng lên $100/thùng[^73]. Một số quốc gia sản suất dầu lớn&mdash;nhìn thấy tương lai nguồn tài nguyên quý giá này sẽ chỉ trở nên có giá trị hơn khi nguồn cung chắc chắn giảm đi&mdash;sẽ quyết định rằng nền kinh tế [nội địa] đang vận hành tốt ở mức $50/thùng, do đó [cắt giảm xuất khẩu và có thể] bán một nửa số dầu với $100 USD/thùng mà vẫn thu lại cùng mức doanh thu. Việc cắt giảm sản lượng dầu đó khỏi thị trường sẽ đẩy giá dầu lên cao hơn nữa lên tới $150/thùng, tại thời điểm đó các quốc gia khác có thể bắt đầu chơi trò chơi tương tự, nhưng hiện bán lượng dầu bằng 1/3 với cùng mức doanh thu. Hiệu ứng domino sau đó sẽ gây ra khủng hoảng quốc tế, và một số cường quốc quân sự, đóng vai trò là cảnh sát thế giới[^74] sẽ vào cuộc để đảm bảo dòng chảy liên tục của nguồn tài nguyên toàn cầu quan trọng này. Các quốc gia khác sở hữu sức mạnh quân sự sẽ phản đối quyền tự quyết và kiểm soát của quốc gia này đối với các phân khúc quan trọng của nguồn cung dầu toàn cầu và có khả năng tham gia vào một cuộc chiến tranh tài nguyên. Đáng buồn thay, sự thay đổi này sẽ tiêu tốn một lượng lớn năng lượng và các nguồn tài nguyên khác cho mục đích hủy diệt, thay vì chuyển những nguồn tài nguyên này vào các hoạt động mang tính xây dựng như thiết lập cơ sở hạ tầng năng lượng tái tạo sau thời đại nhiên liệu hóa thạch.
+
+[^73]:
+
+    Giá dầu đã lên tới mức khoảng 160 USD/thùng vào tháng 6 năm 2008 (được điều chỉnh theo lạm phát cho năm 2020). Có thể đưa ra lập luận thuyết phục rằng sức ép của giá dầu cao lên nhiều lĩnh vực trong nền kinh tế đã gây ra cuộc khủng hoảng tài chính&mdash;chấm dứt bong bóng thúc đẩy tăng trưởng trong thị trường nhà đất dưới chuẩn (*sub-prime housing market*) 
+
+[^74]:
+
+    Quốc gia giả định này cũng có thể đã xây dựng nhiều căn cứ quân sự ở Trung Đông để đề phòng ngày này.
+
+!!! note "Hộpe 8.4: Bẫy năng lượng"
+
+    Nếu chúng ta thấy mình đang ở trong tình trạng suy giảm tài nguyên năng lượng hàng năm&mdash;vì đã quá lệ thuộc vào nhiên liệu hóa thạch như một nguồn năng lượng rẻ và vượt trội&mdash; chúng ta sẽ gặp khó khăn về mặt chính trị trong việc rút lui khỏi cuộc chơi, bởi vì làm như vậy có nghĩa là chuyển đổi nhiên liệu hóa thạch thông qua xây dựng cơ sở hạ tầng năng lượng tạo. Nhưng một qui mô khổng lồ như vậy sẽ cần đầu tư năng lượng đáng kể. Và năng lượng chính là thứ đang bị thiếu hụt. Để bắt tay vào quá trình chuyển đổi này, xã hội sẽ phải tự nguyện hy sinh *nhiều hơn* những gì họ đã có trong cuộc khủng hoảng suy giảm năng lượng bằng cách chuyển hướng sang kế hoạch mới kéo dài hàng thập kỷ này. Sự cám dỗ của việc bỏ phiếu cho một chính trị gia sẽ kết thúc chương trình chuyển đổi [sang nhiên liệu tái tạo] và đảm bảo nguồn năng lượng ngay lập tức trong thời gian ngắn có thể là rất lớn. Nói cách khác, chúng ta có thể thấy mình đang ở trong một **bẫy năng lượng** (*energy trap*, sẽ được đề cập sâu hơn trong **Chương 18**). Đó là việc chứng kiến khó khăn mà thế giới đang gặp phải trong việc loại bỏ nhiên liệu hóa thạch bất chấp những nguy cơ rõ ràng dưới dạng biến đổi khí hậu. Nếu việc chuyển sang sử dụng năng lượng tái tạo dễ dàng, rẻ và vượt trội thì điều đó đã xảy ra trong tích tắc. Có lẽ chứng ta đang bị mắc kẹt trên bẫy ruồi.
+
+## 6. Kết luận: Điều tuyệt vời, sự khủng khiếp và những hạn chế
+
+Lịch sử rất có thể coi khoảng thời gian này là Thời đại **Nhiên liệu Hóa thạch** (*Fossil Fuel Age*) hơn là Thời đại Công nghiệp. Nhiên liệu hóa thạch là một đặc điểm phổ biến và mang tính quyết định của thời kỳ bất thường này. Đạt đến trình độ công nghệ, dân số toàn cầu hay trình độ kiến thức ấn tượng hiện nay sẽ không thể thực hiện được nếu không có nhiên liệu hóa thạch. Do đó, chúng ta mang ơn rất lớn đối với ba nguồn tài nguyên tuyệt vời này. Có lẽ loài đầu tiên trên bất kỳ hành tinh nào khám phá và sử dụng nhiên liệu hóa thạch[^75] sẽ đi theo quỹ đạo điên cuồng tương tự và thậm chí tạm thời lao vào không gian, như chúng ta đang làm. 
+
+[^75]:
+
+    Rất có thể nhiên liệu hóa thạch là kết quả chung của hàng tỷ năm tiến hóa , do vật chất sinh học bị chôn vùi trên các hành tinh hỗ trợ các hệ sinh thái phong phú&mdash;Trái đất là hệ sinh thái duy nhất mà chúng ta biết đến. Xem thêm **Chương 18**.
+
+Tuy nhiên, nhiên liệu hóa thạch có một số nhược điểm, như việc gây ra biến đổi khí hậu, tiềm năng dân số tăng quá mức (và vô số áp lực liên quan đến hành tinh), ô nhiễm và hủy hoại môi trường. Vi tế hơn, sự phụ thuộc gần như hoàn toàn vào nhiên liệu hóa thạch đã làm thay đổi kỳ vọng của con người theo hướng có thể dẫn đến thất bại trong việc thích ứng khi chúng không còn nữa. Những sản phẩm thay thế tốt hơn không được đảm bảo và những sản phẩm thay thế kém hơn có thể không được chấp nhận một cách nồng nhiệt.
+
+Một điều chúng ta biết chắc chắn về nhiên liệu hóa thạch là nguồn cung có hạn. Chúng ta được cho là đã đi được nửa chặng đường[^76] trong quá trình khai thác và đã thu hoạch được những nguồn dự trữ tài nguyên dễ khai thác nhất. Khi việc khai thác trở nên khó khăn hơn, tỷ lệ cung (so với cầu) có thể trở thành yếu tố hạn chế trước khi tỷ lệ R/P cho biết chúng ta sẽ “cạn kiệt” (xem **Hộp 8.5**). Hãy nhớ lại rằng nhiên liệu hóa thạch không nằm ở vị trí tương đương với một tài khoản ngân hàng duy nhất cho phép rút tiền với quy mô và tốc độ tùy ý.
+
+[^76]:
+
+    ...đặt biệt là với nguồn tài nguyên dầu mỏ, vốn  khó thay thế nhất. 
+
+!!! note "Hộp 8.5: Hết một ngày?"
+
+    Nhiên liệu hóa thạch sẽ không cạn kiệt đột ngột trong một ngày, thậm chí một năm (xem **Hình 8.6**). Việc sản xuất sẽ giảm dần trong nhiều thập kỷ vì trữ lượng ngày càng nhỏ sẽ khó tiếp cận và khai thác hơn. Theo nghĩa này, việc “cạn kiệt” nhiên liệu hóa thạch sẽ không phải là một sự kiện bất ngờ, đột ngột trong lịch sử loài người khiến chúng ta rơi vào tình trạng hỗn loạn hoảng sợ. Tuy nhiên, qua thời kỳ đỉnh cao và nguồn lực sẵn có ngày càng ít dần theo từng năm sẽ tạo ra những khó khăn riêng. Trong kịch bản tốt nhất, các giải pháp thay thế sẽ phát triển đủ nhanh để bù đắp nguồn cung nhiên liệu hóa thạch đang suy giảm. Nhưng thách thức là rất lớn và thành công không được đảm bảo.
+
+Với vai trò quan trọng của nguồn tài nguyên hóa thạch đang ngày càng suy giảm trong thế giới của chúng ta, sự đóng góp không đáng kể ngày nay từ các nguồn tái
+tạo&mdash;như đã trình bày trong **Chương 7**&mdash; càng tỏ ra đáng lo ngại hơn. Số phận này đã rõ ràng với nhiều người trong ít nhất 50 năm, nhưng việc sử dụng nhiên liệu hóa thạch vẫn tiếp tục tăng trong khi sự phát triển của các lựa chọn thay thế lại mờ nhạt. Một phần lý do liên quan đến chi phí thấp và sự tiện lợi đáng kinh ngạc của nhiên liệu hóa thạch so với các nhiên liệu thay thế[^77]. Một phần khác là do thiếu nhận thức. Đôi khi những câu chuyện cũ&mdash;nhưng không kém phần quan trọng&mdash;gặp khó khăn trong việc duy trì giá trị trong xã hội thiên về tin tức của chúng ta.
+
+[^77]:
+
+    Người ta có lý khi đặt câu hỏi tại sao giá không tăng để ngăn cản việc sử dụng nhiên liệu hóa thạch và thúc đẩy sự phát triển các nhiên liệu thay thế.Xem **Hộp 8.6**
+
+!!! note "Hộp 8.6: Tại sao không tăng giá?"
+
+    Nếu việc tiếp tục phụ thuộc vào nhiên liệu hóa thạch là rủi ro&mdash;từ việc khan hiếm tài nguyên và biến đổi khí hậu&mdash;thì tại sao giá vẫn ở mức thấp, khuyến khích tiếp tục sử dụng và cản trở việc áp dụng các giải pháp thay thế? Tại sao chính phủ không tăng giá?
+
+    Sai lầm ở đây là cho rằng người chịu trách nhiệm điều hành đều có quyền thực hiện những gì mình muốn. Thực chất, thị trường đang chịu trách nhiệm. Chính phủ có thể áp đặt thuế và thuế quan, nhưng không thể quá nhiệt tình khi cử tri phản đối[^78]. Cạnh tranh toàn cầu mà không có chính phủ toàn cầu sẽ trừng phạt những quốc gia tự áp đặt thêm chi phí cho công dân của họ. Và cuối cùng, sự hy sinh ngắn hạn vì lợi ích lâu dài không phải là điểm mạnh của con người&mdash;đặc biệt là khi đối mặt với tình trạng không chắc chắn. Thuyết phục mọi người về một vấn đề tương lai chưa từng xuất hiện từ thế hệ này sang thế hệ khác hóa ra là một điều khó khăn.
+
+[^78]:
+
+    ...trong những nền dân chủ.
 
 
 

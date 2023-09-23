@@ -61,7 +61,7 @@ Không phụ thuộc vào sự lựa chọn của từng cá nhân, nhìn chung 
 
     Theo nghĩa này, việc chấp nhận rủi ro một cách nghiêm túc phù hợp với định nghĩa của từ “bảo thủ” (*conservative*), ngay cả khi những đảng phái chính trị hiện tại bị gán mác sai.
 
-!!! note "Hộpe 8.1: Năng lượng tái tạo có cứu được chúng ta không"
+!!! note "Hộp 8.1: Năng lượng tái tạo có cứu được chúng ta không"
 
     Chỉ vì năng lượng từ nhiên liệu hóa thạch phải quay trở lại mức tiền công nghiệp trong **Hình 8.1** không có nghĩa là xã hội loài người phải quay trở lại mức năng lượng tiền công nghiệp. Rốt cuộc, ba thành phần năng lượng mặt trời, gió, hạt nhân, thủy điện hiện đã có sẵn cho chúng ta. Tuy nhiên, chúng ta sẽ phải chật vật để đạt được mức năng lượng tiêu thụ ngày nay chỉ dựa trên những nguồn tài nguyên này. Đáng lo ngại hơn là quan điểm cho rằng chúng ta không thể duy trì các phương pháp tiếp cận công nghệ cao trong một thế giới không có nhiên liệu hóa thạch. Chưa có ai chứng minh việc này sẽ được thực hiện như thế nào.Ngoài ra, sự gián đoạn do mất đi một nguồn tài nguyên quan trọng như vậy mà không có sự chuẩn bị kỹ càng đầy đủ có thể làm tổn hại đến nguồn lực chung của con người. Câu trả lời ngắn gọn cho câu hỏi trên: đơn giản là chúng ta không biết. Dấu hỏi trong **Hình 8.1** là phát biểu công bằng nhất mà chúng ta có thể đưa ra.
 
