@@ -153,7 +153,7 @@ Trong lộ trình khử carbon, tổng nhu cầu vốn cho giai đoạn 2022 –
 
     **Hình 5:** Lộ trình net-zero (NZP), có và không có các biện pháp hỗ trợ, sẽ ảnh hưởng đến lộ trình tăng trưởng của Việt Nam
 
-## Con đường phía trước&mdash;Ưu tiên hàng đầu
+## Con đường phía trước&mdash;Những ưu tiên hàng đầu
 
 Báo cáo Quốc gia về Khí hậu và Phát triển (CCDR) này trình bày một bộ năm gói chính sách ưu tiên, cần sự chú trọng ngay từ phía Chính phủ, cũng như cần có đầu tư công và đầu tư tư nhân khẩn trương và kịp thời để hoàn thành mục tiêu thích ứng và giảm thiểu của Việt Nam.
 
