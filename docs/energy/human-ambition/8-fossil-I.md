@@ -174,7 +174,7 @@ Ngày nay, dầu mỏ cung cấp 37% năng lượng tiêu thụ ở Mỹ[^23]. 7
 
 [^24]:
 
-    Xem [Hình 7.2, Chương 7](7-landscape.md#chi-tiet-phan-bo-nang-luong)
+    Xem [Hình 7.2, Chương 7](7-landscape.md#nguon-nang-luong-va-cac-nganh)
 
 [^25]:
 
@@ -260,7 +260,7 @@ Khí đốt tự nhiên chiếm 31% mức tiêu thụ năng lượng ở Mỹ v�
 
 [^36]:
 
-    Xem [Hình 7.2, Chương 7](7-landscape.md#dong-chay-nang-luong-energy-flow)
+    Xem [Hình 7.2, Chương 7](7-landscape.md#nguon-nang-luong-va-cac-nganh)
 
 ## 3. Năng lượng hoá học
 
