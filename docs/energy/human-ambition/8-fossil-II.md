@@ -178,7 +178,7 @@ Do đó, than đá[^57] dường như là nhiên liệu hóa thạch dồi dào 
 
 [^57]:
 
-    Ước tính trữ lượng than [46] được chia thành các loại than antraxit và than bitum chất lượng cao hơn (7 kcal/g), sau đó là các loại bitum phụ và than non (4,5 kcal/g), tổng cộng lần lượt là 480 tỷ tấn (Gt, gigaton) và 430 tỷ tấn (xem [Bảng 8.1](8-fossil-I.md#than-a)).
+    [Ước tính trữ lượng than](https://en.wikipedia.org/wiki/List_of_countries_by_coal_reserves) được chia thành các loại than antraxit và than bitum chất lượng cao hơn (7 kcal/g), sau đó là các loại bitum phụ và than non (4,5 kcal/g), tổng cộng lần lượt là 480 tỷ tấn (Gt, gigaton) và 430 tỷ tấn (xem [Bảng 8.1](8-fossil-I.md#than-a)).
 
 Đối với một số người, số năm còn lại (tỉ số R/P) trong **Bảng 8.5** có vẻ ngắn đến mức đáng báo động, trong khi đối với những người khác, chúng có thể báo hiệu một giai đoạn thoải mái để phát triển các chiến lược năng lượng thay thế. Dù sao đi nữa, thế kỷ này hết sức quan trọng. Nhưng điều quan trọng cần phải nhận ra là câu chuyện không hoàn toàn đơn giản như tỉ lệ R/P cho thấy. Mặc dù nó cung cấp một thang đo hữu ích[^58] về thời gian nhưng chúng ta nên xem xét những khía cạnh sau:
 
@@ -216,7 +216,7 @@ Trong mọi trường hợp, rõ ràng là chúng ta sẽ theo đuổi những n
 
 **Hình 8.6** minh họa ba quỹ đạo phát triển khả dĩ của một nguồn tài nguyên hữu hạn. Hình ngoài cùng bên trái tương ứng với tỷ lệ R/P: chúng ta có thể tiếp tục khai thác trong bao lâu với tốc độ tiêu thụ *ngày nay*, nếu chúng ta ấn định mức tiêu thụ ở một giá trị ổn định? Trường hợp thứ hai giả định rằng chúng ta tiếp tục theo quỹ đạo đi lên, điều này rút ngắn thời gian so với tỷ lệ R/P trước khi cạn kiệt tài nguyên (sử dụng nó nhanh hơn bao giờ hết). Cả hai trường hợp này đều phi thực tế theo cách riêng của chúng&mdash;trường hợp thứ hai là do những hạn chế vật lý trong việc khai thác được liệt kê ở trên (không phải là nguồn tài nguyên trôi chảy tự do). Trường hợp thứ ba thực tế hơn: một sự suy giảm một khi khai thác đã đạt đỉnh và có phần đối xứng. Đây là cách các nguồn nhiên liệu hóa thạch thực sự hoạt động trong thực tế. Cả ba kịch bản đều có thể tạo ra những cú sốc cho hệ thống, nhưng hãy lưu ý rằng kịch bản đạt đỉnh (thực tế) sẽ gây ra tổn thương do nguồn cung sụt giảm sớm nhất&mdash;rất lâu trước khi tỷ lệ R/P (hay thời gian còn lại để khai thác) báo hiệu.
 
-### Manh mối trong dữ liệu
+### Tìm manh mối trong dữ liệu
 
 Bất chấp những điều bất định được liệt kê ở trên, nhìn chúng chúng ta có thể nói chắc chắn rằng Trái đất có nguồn cung cấp nhiên liệu hóa thạch hữu hạn và để khai thác, trước tiên các trầm tích phải được phát hiện thông qua thăm dò và sau đó phát triển thành các giếng khoan hoạt động. Ngay cả ở những khu vực được biết là có dầu[^60] cũng chỉ có khoảng một trong mười giếng thăm dò mang lại kết quả. Cơ hội để khoan một mũi vào một vị trí ngẫu nhiên trúng giếng dầu[^61] trên Trái đất là khoảng 0,01%. [Mục 2](8-fossil-I.md#dau-mo) đã chỉ ra chuỗi sự kiện địa chất phải xảy ra để tạo ra dầu có thể được khai thác.
 
@@ -265,7 +265,7 @@ Hoa Kỳ đã trải qua một lịch sử tương tự (**Hình 8.10**) khi vi�
 
 [^65]:
 
-    Đây là nhân tố lớn tạo nên sự thịnh vượng của Hoa Kỳ: đó là “A-rập Xê-út” của nửa đầu thế kỉ 20, dẫn đầu về xuất khẩu dầu mỏ và mỏ rộng vận tải đường bộ (ô tô).
+    Đây là nhân tố lớn tạo nên sự thịnh vượng của Hoa Kỳ: đó là “A-rập Xê-út” của nửa đầu thế kỉ 20, dẫn đầu về xuất khẩu dầu mỏ và mở rộng vận tải đường bộ (ô tô)
 
 [^66]:
 
@@ -324,7 +324,7 @@ Do tốc độ khai thác có thể là một yếu tố hạn chế nên điề
 
 [^73]:
 
-    Giá dầu đã lên tới mức khoảng 160 USD/thùng vào tháng 6 năm 2008 (được điều chỉnh theo lạm phát cho năm 2020). Có thể đưa ra lập luận thuyết phục rằng sức ép của giá dầu cao lên nhiều lĩnh vực trong nền kinh tế đã gây ra cuộc khủng hoảng tài chính&mdash;chấm dứt bong bóng thúc đẩy tăng trưởng trong thị trường nhà đất dưới chuẩn (*sub-prime housing market*) 
+    Giá dầu đã lên tới mức khoảng $160/thùng vào tháng 6 năm 2008 (được điều chỉnh theo lạm phát cho năm 2020). Có thể đưa ra lập luận thuyết phục rằng sức ép của giá dầu cao lên nhiều lĩnh vực trong nền kinh tế đã gây ra cuộc khủng hoảng tài chính&mdash;chấm dứt bong bóng thúc đẩy tăng trưởng trong thị trường nhà đất dưới chuẩn (*sub-prime housing market*) 
 
 [^74]:
 
