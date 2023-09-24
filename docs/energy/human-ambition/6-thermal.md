@@ -704,3 +704,8 @@ quả.
 
     Một ngoại lệ đáng chú ý là **làm mát bằng cách bay hơi** (*evaporative cooling*).
 
+</hr>
+**Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
+
+**Dịch giả: Team Sống bền vững**
+</hr>

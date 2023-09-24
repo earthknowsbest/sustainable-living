@@ -282,7 +282,7 @@ Phía bên phải của **Hình 7.9** cũng thể hiện tương tự tỷ trọ
 Mục đích của chương này gồm hai phần: thứ nhất là giới thiệu cho bạn đọc những nguồn thông tin đáng tin cậy về sản xuất năng lượng quốc gia ở Hoa Kì và toàn cầu; thứ hai là truyền đạt bối cảnh sử dụng năng lượng. Những gì hiện ra là bức tranh về một thế giới vẫn nằm trong sự kiểm soát của nhiên liệu hóa thạch với mức sử dụng hàng năm tiếp tục tăng. Điện gió và điện mặt trời đang dần có thị phần nhưng cho đến nay chỉ ở mức vài phần trăm. Hoa Kỳ đã đóng một vai trò to lớn trong việc tiêu thụ năng lượng toàn cầu so với dân số của nước này, đặc biệt là vào giữa thế kỷ 20.
 
 </hr>
-**Tác giả: T.W. Murphy, Jr.**; ©2022 [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: https://escholarship.org/uc/energy_ambitions.
+**Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
 </hr>

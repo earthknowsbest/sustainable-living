@@ -263,3 +263,9 @@ Công thức cho việc kết thúc tăng trưởng kinh tế đáng để nhắ
 Dù có thể chỉ ra những *ví dụ* chính đáng về **sự không phụ thuộc** (*decoupling*) của nền kinh tế vào tài nguyên hay những câu chuyện về **sự thay thế** (*substitution*) đã diễn ra trong lịch sử, điều đó cũng không có nghĩa là toàn bộ nền kinh tế có thể tăng trưởng mãi mãi. Thể chất của con người trong thế giới vật lí đòi hỏi những nhu yếu căn bản không thể thiếu để sinh tồn. Những hoạt động và hàng hóa cần thiết để hỗ trợ con người không thể tăng trưởng vĩnh viễn, và cũng không thể trở nên quá rẻ một khi chúng đạt chạm những giới hạn vật lí của mình. Tài nguyên hữu hạn của thế giới đảm bảo cho sự tồn tại của những giới hạn, mà ở đó ngăn chặn sự tăng trưởng kinh tế mãi mãi. Chẳng có gì có thể thoát ra được thế giới vật lí. 
 
 Vì thế, mặc dù công nhận sự tăng trưởng trong quá khứ đang mang lại vô vàn lợi ích cho đời sống con người, chúng ta cần phải tự hỏi: Nếu sự tăng trưởng kinh tế chắc chắn sẽ chấm dứt, tại sao tất cả các hoạt động của chúng ta lại đang thuộc vào nó?
+
+</hr>
+**Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
+
+**Dịch giả: Team Sống bền vững**
+</hr>
