@@ -6,6 +6,20 @@
 
 **Mật độ năng lượng**: Như chúng ta đã thấy trong [Mục 3](#3-năng-lượng-hoá-học), mật độ năng lượng của nhiên liệu hoá thạch rất đáng nể: gần như tốt nhất mà hóa học có thể mang lại. Bất kì thứ gì vượt qua 10 kcal/g có thể coi là “siêu thực phẩm” về mặt năng lượng. **Bảng 8.3** so sánh giữa các chất khác nhau. Ở đây chúng ta thấy mật độ năng lượng của nhiên liệu hoá thành thường gấp đến hàng trăm lần so với các pin dự trữ điện.
 
+<div markdown="1" align="center">
+| **Chất**             | **kcal/g** |
+|:--------------------:|:----------:|
+| Xăng                 | 11         |
+| Chất béo (thực phẩm) | 9          |
+| Tinh bột             | 4          |
+| Nhiên liệu tên lửa   | 4          |
+| Thuốc nổ TNT         | 1          |
+| Pin Alkaline         | 0,11       |
+| Trữ năng lượng Tesla | 0,10       |
+| Pin axít chì         | 0,03       |
+| Thủy điện (cao 50m)  | 0,0001     |
+</div>
+
 >**Bảng 8.3**: Mật độ năng lượng của các chất trữ năng lượng quen thuộc. Tesla Powerwall đại diện cho khả năng mà pin lithium-ion sẵn có.Pin dòng Alkaline là loại pin AA hay AAA quen thuộc, và ắc quy axit-chì là loại 12 V được tìm thấy trong hầu hết các xe ô tô. Đối với thuỷ điện, giả định rằng đâp cao 50 m.
 
 **An toàn**: Nhiên liệu hóa thạch có mật độ năng lượng lớn hơn chất nổ, nhưng lại không hay phát nổ! Khía cạnh an toàn của nhiên liệu hóa thạch là một điểm khá lợi thế. Chắc chắn là xăng có thể bốc cháy, nhưng thực ra đó là hơi xăng trộn với oxy đã gây ra đám cháy. Nếu bạn (một cách ngu ngốc; xin đừng làm điều này!) ném một que diêm vào bát xăng, chắc chắn bạn sẽ có được ngọn lửa sống động, nhưng thứ đó sẽ không nổ. Chỉ có hơi phía trên sẽ bốc cháy. Hãy nghĩ xem bạn đã thấy bao nhiêu chiếc ô tô trong đời và bao nhiêu trong số đó đã phát nổ[^43]. Bạn đã thấy bao nhiêu chiếc xe bị hỏng, và có bao nhiêu cái đã phát nổ? Không phải là không thể có tai nạn do chay nổ xăng dầu, nhưng nó xảy ra khá hiếm.
@@ -28,7 +42,7 @@
 
 ###  Những điều khiến nhiên liệu hóa thạch trở nên khủng khiếp
 
-**Biến đổi khí hậu**: Không có gì là miễn phí. Nhiên liệu hóa thạch cũng đem lại nhiều nhược điểm. Điều quan trọng nhất trong suy nghĩ của nhiều người ngày nay là biến đổi khí hậu, thông qua phát thải CO~2~&mdash;một hậu quả không thể tránh khỏi trong quá trình đốt cháy ($\eqref{8.1}$). Khai thác năng lượng từ nhiên liệu hóa thạch[^45] làm cho chúng ta không còn lựa chọn nào khác ngoài việc phải chấp nhận CO~2~ như một sản phẩm phụ với số lượng lớn. Chúng ta sẽ tìm hiểu chi tiết về biến đổi khí hậu ở **Chương 9**. Bây giờ chúng ta sẽ chỉ nói rằng lượng CO~2~ tăng lên trong khí quyển sẽ làm thay đổi nhiệt độ cân bằng của Trái đất bằng cách thay đổi mức độ hiệu quả mà bề mặt có thể bức xạ ra không gian qua khí quyển. Cơ chế vật lý đã được hiểu rất rõ và lượng CO2 mà quá trình đốt cháy nhiên liệu hóa thạch tạo ra là quá đủ để giải thích cho sự gia tăng lượng CO2 đo được trong khí quyển của chúng ta. Điều ít chắc chắn hơn là các hệ thống khí hậu phức tạp, phi tuyến tính, liên kết với nhau sẽ phản ứng như thế nào và liệu những **phản hồi xuôi** (*positive feedback*) làm trầm trọng thêm vấn đề có chiếm ưu thế[^46] so với những **phản hồi ngược** (*negative feedback*) có tác dụng chế ngự những hâu quả của phản hồi xuôi đó hay không. Trong lúc này, nhiên liệu hóa thạch đã mang lại cho chúng ta một mối đe dọa toàn cầu với có mức độ tàn phá không lường hết được và cuối cùng có thể khiến chúng ta&mdash;và các loài khác&mdash;phải trả giá rất đắt.
+**Biến đổi khí hậu**: Không có gì là miễn phí. Nhiên liệu hóa thạch cũng đem lại nhiều nhược điểm. Điều quan trọng nhất trong suy nghĩ của nhiều người ngày nay là biến đổi khí hậu, thông qua phát thải CO~2~&mdash;một hậu quả không thể tránh khỏi trong quá trình đốt cháy ([Phương trình 8.1](8-fossil-I.md#3-nang-luong-hoa-hoc)). Khai thác năng lượng từ nhiên liệu hóa thạch[^45] làm cho chúng ta không còn lựa chọn nào khác ngoài việc phải chấp nhận CO~2~ như một sản phẩm phụ với số lượng lớn. Chúng ta sẽ tìm hiểu chi tiết về biến đổi khí hậu ở **Chương 9**. Bây giờ chúng ta sẽ chỉ nói rằng lượng CO~2~ tăng lên trong khí quyển sẽ làm thay đổi nhiệt độ cân bằng của Trái đất bằng cách thay đổi mức độ hiệu quả mà bề mặt có thể bức xạ ra không gian qua khí quyển. Cơ chế vật lý đã được hiểu rất rõ và lượng CO2 mà quá trình đốt cháy nhiên liệu hóa thạch tạo ra là quá đủ để giải thích cho sự gia tăng lượng CO2 đo được trong khí quyển của chúng ta. Điều ít chắc chắn hơn là các hệ thống khí hậu phức tạp, phi tuyến tính, liên kết với nhau sẽ phản ứng như thế nào và liệu những **phản hồi xuôi** (*positive feedback*) làm trầm trọng thêm vấn đề có chiếm ưu thế[^46] so với những **phản hồi ngược** (*negative feedback*) có tác dụng chế ngự những hâu quả của phản hồi xuôi đó hay không. Trong lúc này, nhiên liệu hóa thạch đã mang lại cho chúng ta một mối đe dọa toàn cầu với có mức độ tàn phá không lường hết được và cuối cùng có thể khiến chúng ta&mdash;và các loài khác&mdash;phải trả giá rất đắt.
 
 [^45]: 
     ...đó là toàn bộ vấn đề
@@ -43,6 +57,14 @@
 
 **Chi phí môi trường**: Tác động moi trường từ việc khai thác nhiên liệu hoá thạch có thể có sức tàn phá rất lớn. Chúng ta đã chứng kiến các tàu chở dầu gặp nạn và phủ đầy các bãi biển cũng như động vật hoang dã trong bùn hắc ín. Sự cố giàn khoan Deepwater Horizon năm 2010 đã phun một lượng lớn dầu vào đại dương. Khai thác than có thể để lại đỉnh núi trơ trụi và làm ô nhiễm nguồn nước địa phương do chất thải. Khai thác mỏ dầu bằng thủy lực (fracking) có thể làm ô nhiễm nguồn cung cấp nước ngầm. Các giếng khí đốt tự nhiên—bao gồm cả các địa điểm khai thác thủy lực&mdash;thường rò rỉ khí mê-tan vào khí quyển, mạnh hơn 80 lần so với CO~2~ như một loại khí nhà kính[^48].
 
+[^47]:
+
+    Quốc gia và vùng lãnh thổ không có nguồn tài nguyên quan trọng này thường rất ít bị các nước phát triển chú ý.
+
+[^48]: 
+
+    Mặc dù mê-tan không duy trì lâu trong khí quyển như khí CO~2~, nhưng đây cũng chính là lí do vì sao khí tự nhiên lại bị đốt cháy ở ngay những giếng khoan do thiếu cơ sở hạ tầng đường ống dẫn khí, thay vì để khí mê-tan thất thoát ra ngoài.
+
 **Chất gây nghiện**: Cuối cùng, thực tế là nhiên liệu hóa thạch là hữu hạn có thể được coi là một bất lợi nghiêm trọng. Đúng là một nguồn cung cấp vô tận sẽ có sức tàn phá đối với câu chuyện về biến đổi khí hậu. Để điều này qua một bên, việc kế thừa nhiên liệu hóa thạch có thể được coi là một loại thủ thuật mồi nhử và thay đổi. Chúng ta đã xây dựng nền văn mình hiện tại hoàn toàn trong bối cảnh nhiên liệu hóa thạch rẻ và sẵn có. Và đơn giản là chúng ta *không biết* liệu có thể tiếp tục sống với tiêu chuẩn đời sống tương tự trong một thế giới hậu nhiên liệu hóa thạch hay không. Nhiên liệu hóa thạch đã tồn tại đủ lâu (nhiều thế hệ) để trở nên bình thường. Chúng ta coi đó là điều hiển nhiên và chưa xây dựng một kế hoạch tổng thể khả thi cho một thế giới không có những nguồn tài nguyên quan trọng này. Việc di chuyển bằng đường hàng không, tàu thủy, tàu hỏa và vận tải đường dài[^49] sẽ được xử lý như thế nào nếu không có xăng dầu? Tình hình hiện tại rất bấp bênh. Việc không lập kế hoạch khôn ngoan cho một thế giới hậu hóa thạch không phải là lỗi của nhiên liệu hóa thạch. Nhưng nguồn nhiên liệu hóa thạch tình cờ xuất hiện trên hành tinh của chúng ta đủ lớn để gây hại cho khí hậu và khiến chúng ta rơi vào trạng thái tự mãn. Nếu trữ lượng nhiên liệu hoá thạch nhỏ hơn nhiều, chúng ta sẽ ít có khả năng rơi vào bẫy[^50]. Đây chính là ảo thuật “con thỏ chui ra khỏi mũ” được đề cập trong [Chương 2](2-econ.md): chỉ cần ra được một con thỏ là chúng ta đã mong đợi sự ra đời vĩnh viễn của những con thỏ tiếp theo.
 
 [^49]:
@@ -55,7 +77,18 @@
 
 ### Tổng kết
 
-Quyết định sau cùng liệu nhiên liệu hóa thạch có tác động tích cực ròng (*net-positive*) hay tiêu cực ròng (*net-negative*) đến nhân loại có thể không được trả lời (**Bảng 8.4** cung cấp một tóm tắt về hai phần trước). Có bao nhiêu sinh mạt đã được cứu sống nhờ công nghệ và chăm sóc sức khoẻ tốt hơn? Có bao nhiêu sinh mạng đã bị tiêu diệt qua những cuộc xung đột, ô nhiễm, và tai nạn giao thông? Có bao nhiêu sinh mạng đã được tạo ra, qua việc nâng cao năng suất nông nghiệp&mdash;cũng như thông qua chăm sóc y tế tốt hơn? Có bao nhiêu giống loài đã bị tuyệt chủng, bằng cách thúc đẩy sự tàn phá môi trường sống thông qua khai thác và gián tiếp như một chất xúc tác cho việc tăng trưởng dân số thông qua gia tăng năng suất nông nghiệp? Đôi khi thật khó để quyết định nên đặt những tác động này vào bên có lợi hay có hại. Chẳng hạn, trong trọn vẹn thời gian, liệu chúng ta có thấy tất cả cuộc sống được tạo ra nhờ nhiên liệu hoá thạch có phải là điều tốt không? Nếu kết quả là sự quá tải, sụp đổ và sự đau khổ chưa từng có của hàng tỷ người thì có lẽ là không. Đó là một mớ bòng bong.
+Quyết định sau cùng liệu nhiên liệu hóa thạch có tác động tích cực ròng (*net-positive*) hay tiêu cực ròng (*net-negative*) đến nhân loại có thể không được trả lời (**Bảng 8.4** cung cấp một tóm tắt về hai phần trước). Có bao nhiêu sinh mạt đã được cứu sống nhờ công nghệ và chăm sóc sức khoẻ tốt hơn? Có bao nhiêu sinh mạng đã bị tiêu diệt qua những cuộc xung đột, ô nhiễm, và tai nạn giao thông? Có bao nhiêu sinh mạng đã được tạo ra, qua việc nâng cao năng suất nông nghiệp&mdash;cũng như thông qua chăm sóc y tế tốt hơn? Có bao nhiêu giống loài đã bị tuyệt chủng, bằng cách thúc đẩy sự tàn phá môi trường sống thông qua khai thác và gián tiếp như một chất xúc tác cho việc tăng trưởng dân số thông qua gia tăng năng suất nông nghiệp? Đôi khi thật khó để quyết định nên đặt những tác động này vào bên có lợi hay có hại. Chẳng hạn, trong trọn vẹn thời gian, liệu tất cả cuộc sống được tạo ra nhờ nhiên liệu hoá thạch có phải là điều tốt không? Nếu kết quả là sự quá tải, sụp đổ và sự đau khổ chưa từng có của hàng tỷ người thì có lẽ là không. Đó là một mớ bòng bong.
+
+<div markdown="1" align="center">
+| **Lợi**               | **Hại**               |
+|:---------------------:|:---------------------:|
+| Mật độ năng lượng cao | Biến đổi khí hậu      |
+| An toàn               | Quá tải dân số        |
+| Giá rẻ                | Tác nhân chiến tranh  |
+| Lưu trữ lâu dài       | Huỷ hoại môi trường   |
+| Nông nghiệp           | Quá phụ thuộc           |
+| Công nghệ             | Công nghệ của quá khứ |
+</div>
 
 >**Bảng 8.4**: Lợi và hại của nhiên liệu hoá thạch.
 
@@ -88,6 +121,22 @@ Chúng ta không khể dự đoán con đường nào trong số này có thể 
 ### Thang thời gian
 
 Cách tiếp cận đơn giản nhất để đánh giá khoảng thời gian về tính sẵn có của tài nguyên là tỷ lệ **R/P** (*Resource/Production*): dự trữ trên sản suất[^49]. Ý tưởng này rất trực quan: nếu bạn có 10.000 Đô-la Mĩ trong tài khoản ngân hàng và có xu hướng chi $1.000/tháng cho chi phí sinh hoạt, bạn có thể dự đoán&mdash;nếu không có thu nhập bổ sung&mdash;bạn sẽ tiêu hết trong 10 tháng. Vì vậy, nếu chúng ta có ước tính về tài nguyên còn lại trong lòng đất và tốc độ sử dụng hiện tại, chỉ cần chia hai con số này để có thời gian.
+<!-- +--------------+-----------+-------------+---------------+-------------------+---------------+
+| **Vùng**     | **Nguồn** | **Còn lại** | **% Đã dùng** | **Dùng hàng năm** | **R/P (Năm)** |
++:============:+:=========:+:===========:+:=============:+:=================:+:=============:+
+|              | Dầu mỏ    | 1.700 Gbbl  | ~45%          | 30 Gbbl           | ~60           |
++              +-----------+-------------+---------------+-------------------+---------------+
+| **Thế giới** | Khí đôt   | 200 Tcm     | ~33%          | 3,5 Tcm           | ~60           |
++              +-----------+-------------+---------------+-------------------+---------------+
+|              | Than đá   | 900 Gt      | ~30%          | 8 Gt              | ~110          |
++--------------+-----------+-------------+---------------+-------------------+---------------+
+|              | Dầu mỏ    | 35 Gbbl     |               | 7 Gbbl            | ~5            |
++              +-----------+-------------+---------------+-------------------+---------------+
+| **Hoa Kì**   | Khí đốt   | 8,5 Tcm     |               | 0,85 Tcm          | ~10           |
++              +-----------+-------------+---------------+-------------------+---------------+
+|              | Than đá   | 250 Gt      |               | 0,7 Gt            | ~360          |
++--------------+-----------+-------------+---------------+-------------------+---------------+ -->
+<table style="width:96%;"><colgroup><col style="width: 15%" /><col style="width: 12%" /><col style="width: 14%" /><col style="width: 16%" /><col style="width: 20%" /><col style="width: 16%" /></colgroup><thead><tr class="header"><th style="text-align: center;"><strong>Vùng</strong></th><th style="text-align: center;"><strong>Nguồn</strong></th><th style="text-align: center;"><strong>Còn lại</strong></th><th style="text-align: center;"><strong>% Đã dùng</strong></th><th style="text-align: center;"><strong>Dùng hàng năm</strong></th><th style="text-align: center;"><strong>R/P (Năm)</strong></th></tr></thead><tbody><tr class="odd"><td rowspan="3" style="text-align: center;"><strong>Thếgiới</strong></td><td style="text-align: center;">Dầu mỏ</td><td style="text-align: center;">1.700 Gbbl</td><td style="text-align: center;">~45%</td><td style="text-align: center;">30 Gbbl</td><td style="text-align: center;">~60</td></tr><tr class="even"><td style="text-align: center;">Khí đôt</td><td style="text-align: center;">200 Tcm</td><td style="text-align: center;">~33%</td><td style="text-align: center;">3,5 Tcm</td><td style="text-align: center;">~60</td></tr><tr class="odd"><td style="text-align: center;">Than đá</td><td style="text-align: center;">900 Gt</td><td style="text-align: center;">~30%</td><td style="text-align: center;">8 Gt</td><td style="text-align: center;">~110</td></tr><tr class="even"><td rowspan="3" style="text-align: center;"><strong>Hoa Kì</strong></td><td style="text-align: center;">Dầu mỏ</td><td style="text-align: center;">35 Gbbl</td><td style="text-align: center;"></td><td style="text-align: center;">7 Gbbl</td><td style="text-align: center;">~5</td></tr><tr class="odd"><td style="text-align: center;">Khí đốt</td><td style="text-align: center;">8,5 Tcm</td><td style="text-align: center;"></td><td style="text-align: center;">0,85 Tcm</td><td style="text-align: center;">~10</td></tr><tr class="even"><td style="text-align: center;">Than đá</td><td style="text-align: center;">250 Gt</td><td style="text-align: center;"></td><td style="text-align: center;">0,7 Gt</td><td style="text-align: center;">~360</td></tr></tbody></table>
 
 **Bảng 8.5** trình bày trữ lượng đã được chứng minh[^52] trên thế giới và ở Hoa Kì đối với ba loại nhiên liệu hóa thạch, ước lượng tốc độ đã được sử dụng[^53] trên toàn cầu, và thang thời gian khai thác còn lại bằng tỉ số R/P.
 
@@ -117,6 +166,12 @@ Thế giới đã tiêu thụ 1,5 nghìn tỷ thùng dầu, gần tương đươ
     Vì khí đốt rất khó để vận chuyển, và thường được trung chuyển bằng đường ống dẫn khí, cung cấp khí đốt nội địa thích hợp hơn với khí đốt so với tài nguyên dầu được thương mại hoá trên toàn cầu.
 
 Rất khó để so sánh trực tiếp nguồn tài nguyên còn lại ở ba dạng nhiên liệu vì các đơn vị khác nhau được sử dụng cho mỗi dạng. Nhưng chúng ta có thể sử dụng từng đơn vị năng lượng để so sánh. Làm như vậy, trữ lượng dầu, khí đốt và than toàn cầu lần lượt tương ứng là 10, 8 và 20 ZJ (zetta-Joules, hay 10^21 J) còn lại. Cho đến nay, chúng ta đã tiêu thụ lần lượt 8, 4 và 8 ZJ dầu, khí đốt và than (**Bảng 8.6**). Đây là cơ sở để ước tính tỉ lệ phần trăm đã tiêu thụ trong **Bảng 8.5**. Lưu ý rằng lượng dầu mỏ và khí đốt còn lại rất gần nhau trong khi lượng than đá gấp đôi cả hai.
+
+| **Nhiên liệu** | **Trữ lượng đã chứng minh, $\bf{10^{21}\,J}$** | **Đã sử dụng, $\bf{10^{21}\,J}$** |
+|:--------------:|:--------------------------------------:|:-------------------------:|
+| **Than đá**    | 20                                     | 8                         |
+| **Dầu mỏ**     | 10                                     | 8                         |
+| **Khí đốt**    | 8                                      | 4                         |
 
 >**Bảng 8.6**: Trữ lượng đã được chứng minh và lượng đã sử dụng, theo đơn vị năng lượng.
 
@@ -155,9 +210,12 @@ Trong mọi trường hợp, rõ ràng là chúng ta sẽ theo đuổi những n
 
     ...sâu hơn dưới lòng đất, dưới nước sâu, hoặc tạo thành trong những địa hình “chặt chẽ” 
 
-**Hình 8.6** minh họa ba quỹ đạo phát triển khả dĩ của một nguồn tài nguyên hữu hạn. Hình ngoài cùng bên trái tương ứng với tỷ lệ R/P: chúng ta có thể sử dụng được bao lâu với tốc độ sử dụng *ngày nay*, nếu chúng ta ấn định mức tiêu thụ ở một giá trị ổn định? Trường hợp thứ hai giả định rằng chúng ta tiếp tục theo quỹ đạo đi lên, điều này rút ngắn thời gian so với tỷ lệ R/P trước khi cạn kiệt tài nguyên (sử dụng nó nhanh hơn bao giờ hết). Cả hai điều này đều phi thực tế theo cách riêng của chúng&mdash;trường hợp thứ hai là do những hạn chế vật lý trong việc khai thác được liệt kê ở trên (không phải là nguồn tài nguyên trôi chảy tự do). Trường hợp thứ ba thực tế hơn: một sự suy giảm đạt đỉnh và có phần đối xứng. Đây là cách các nguồn nhiên liệu hóa thạch thực sự hoạt động trong thực tế. Cả ba kịch bản đều có thể tạo ra những cú sốc cho hệ thống, nhưng hãy lưu ý rằng kịch bản đạt đỉnh (thực tế) sẽ gây ra tổn thương do nguồn cung sụt giảm sớm nhất&mdash;rất lâu trước khi tỷ lệ R/P (hay thời gian còn lại để khai thác) báo hiệu.
+![fossil-6-light](../../assets/images/fossil-6-light.svg#only-light)
+![fossil-6-dark](../../assets/images/fossil-6-dark.svg#only-dark)
 
 >**Hình 8.6:** Ba kịch bản cho một nguồn tài nguyên hữu hạn trong tương lai, tất cả đều dựa trên cùng một lịch sử ban đầu (chấm đỏ là “bây giờ”) và cùng một lượng còn lại (vùng tô màu xanh lam). Thanh màu đỏ trên mỗi thanh biểu thị thời gian còn lại cho đến khi nguồn lực cạn kiệt. 
+
+**Hình 8.6** minh họa ba quỹ đạo phát triển khả dĩ của một nguồn tài nguyên hữu hạn. Hình ngoài cùng bên trái tương ứng với tỷ lệ R/P: chúng ta có thể sử dụng được bao lâu với tốc độ sử dụng *ngày nay*, nếu chúng ta ấn định mức tiêu thụ ở một giá trị ổn định? Trường hợp thứ hai giả định rằng chúng ta tiếp tục theo quỹ đạo đi lên, điều này rút ngắn thời gian so với tỷ lệ R/P trước khi cạn kiệt tài nguyên (sử dụng nó nhanh hơn bao giờ hết). Cả hai điều này đều phi thực tế theo cách riêng của chúng&mdash;trường hợp thứ hai là do những hạn chế vật lý trong việc khai thác được liệt kê ở trên (không phải là nguồn tài nguyên trôi chảy tự do). Trường hợp thứ ba thực tế hơn: một sự suy giảm đạt đỉnh và có phần đối xứng. Đây là cách các nguồn nhiên liệu hóa thạch thực sự hoạt động trong thực tế. Cả ba kịch bản đều có thể tạo ra những cú sốc cho hệ thống, nhưng hãy lưu ý rằng kịch bản đạt đỉnh (thực tế) sẽ gây ra tổn thương do nguồn cung sụt giảm sớm nhất&mdash;rất lâu trước khi tỷ lệ R/P (hay thời gian còn lại để khai thác) báo hiệu.
 
 ### Manh mối trong dữ liệu
 
@@ -177,6 +235,9 @@ Biểu đồ về lịch sử khám phá **dầu mỏ thông thường** (*conve
 
     IEA định nghĩa dầu mỏ “thông thường” là dầu thô cùng với dầu khí hoá lỏng NGLs (*natural gas liquids)
 
+![fossil-7-light](../../assets/images/fossil-7-light.svg#only-light)
+![fossil-7-dark](../../assets/images/fossil-7-dark.svg#only-dark)
+
 >**Hình 8.7:** Tỉ lệ trong lịch sử dầu mỏ thông thường (màu xanh lam), tính bằng tỷ thùng (giga barrels, Gbbl) được phát hiện mỗi năm[^63]. Đường cong màu đỏ thể hiện mức tiêu thụ dầu thô thông thường hàng năm trên toàn cầu. Cho đến khoảng năm 1985, chúng ta có xu hướng khám phá nhiều dầu hơn lượng dầu chúng ta sử dụng mỗi năm, nhưng tốc độ phát hiện đã đạt đỉnh cao từ nhiều thập kỷ trước và hiện đang giảm dần khi chúng ta hoàn thành công việc khám phá các nguồn tài nguyên của Trái đất. Vùng màu xanh được làm bằng diện tích dưới đường cong màu đỏ, bản thân nó thể hiện lượng dầu được sử dụng cho đến nay. Hiệu ứng này nghĩa là chúng ta đã sử dụng hết số dầu được phát hiện cho đến năm 1976 và hiện chỉ còn lại một tài khoản ngân hàng (dự trữ dầu) ngày càng cạn kiệt&mdash;thu nhập hàng năm của chúng ta (phát hiện mới) ít hơn chi tiêu (tiêu dùng) của chúng ta.
 
 [^63]:
@@ -185,15 +246,19 @@ Biểu đồ về lịch sử khám phá **dầu mỏ thông thường** (*conve
 
 Thông tin trong **Hình 8.7** cũng có thể được sử dụng lại để hỏi xem còn lại bao nhiêu năm để khai thác tài nguyên dầu mỏ. Trong bất kỳ năm nào, tổng tài nguyên còn lại có thể được đánh giá là lượng tích lũy được phát hiện cho đến nay trừ đi lượng tích lũy đã tiêu thụ. Sau đó chia cho tốc độ sản xuất hàng năm (giống như mức tiêu thụ) sẽ tạo ra ước tính về thời gian còn lại (chính là tỉ lệ R/P). **Hình 8.8** cho biết kết quả.
 
+![fossil-8-light](../../assets/images/fossil-8-light.svg#only-light)
+![fossil-8-dark](../../assets/images/fossil-8-dark.svg#only-dark)
+
 >**Hình 8.8**: Số năm còn lại của nguồn tài nguyên dầu mỏ thông thường toàn cầu dưới dạng hàm số theo thời gian, được trích từ dữ liệu trong **Hình 8.7**. Kể từ năm 1982, thế giới đã và đang trên đà cạn kiệt nguồn tài nguyên dầu mỏ thong thường vào năm 2050.
 
 Chúng ta đã thấy câu chuyện này diễn ra nhiều lần ở các khu vực sản xuất dầu mỏ. Việc phát hiện dầu ở Biển Bắc đã mang lại cho Vương quốc Anh ngành kinh doanh dầu mỏ khoảng 50 năm trước (**Hình 8.9**). Ban đầu, tốc độ thăm dò rất nhanh, tiếp theo là 20 năm khám phá mỏ dầu mới ở tốc độ khiêm tốn. Có vẻ như không còn gì để tìm kiếm, và các hoạt động thăm dò đã dừng lại. Việc sản xuất cho thấy một đồ thị có hai đỉnh&mdash;có thể lặp lại thời kỳ thăm dò tạm lắng vào khoảng năm 1980&mdash;nhưng trong mọi trường hợp, việc khai thác đã gần kết thúc. Chỉ còn lại khoảng 6% lượng dầu được phát hiện (chủ yếu là dầu được phát hiện sau năm 1996; không được tô màu trong **Hình 8.9**) còn lại: không còn nhiều dầu để bơm.
 
->**Hình 8.9**: Các phát hiện dầu mỏ ở Biển Bắc (Anh) (màu xanh lam, tính bằng tỉ thùng/năm) đạt đỉnh điểm vào những năm 1970 và về cơ bản đã kết thúc. Quá trình sản xuất (màu đỏ) theo sau quá trình phát hiện và không thể tiếp tục lâu hơn nữa khi phần dầu cuối cùng đã phát hiện (đường viền màu xanh lam không tô đậm) được chiết xuất. Các quy ước về đồ thị tuân theo những quy ước trong **Hình 8.7**.
+![fossil-9-light](../../assets/images/fossil-9-light.svg#only-light)
+![fossil-9-dark](../../assets/images/fossil-9-dark.svg#only-dark)
 
-Hoa Kỳ đã trải qua một lịch sử tương tự (**Hình 8.10**) khi việc phát hiện dầu mỏ thông thường đạt đỉnh điểm vào khoảng năm 1950, và sản lượng đạt đỉnh hai
-thập kỷ sau đó, khoảng năm 1970. Không ai muốn điều này xảy ra, mặc dù một số nhà địa chất dầu mỏ (đặc biệt là M. King Hubbert) đã chỉ ra tính tất yếu của nó: dựa trên số lượng mỏ dầu đã phát hiện đã đạt đỉnh trước đó và logic đơn giản[^64]. Hoa Kỳ đã là nhà sản xuất dầu lớn nhất kể từ buổi bình minh của kỷ nguyên dầu mỏ, và hiện đang tụt dốc[^65]. Lên đến đỉnh cao và sự sụt giảm sau đó đã gây ra sự lo lắng lớn và kích thích nỗ lực to lớn để tìm kiếm và phát triển thêm các nguồn dầu mỏ, dẫn đến việc phát hiện ra dầu ở Vịnh Prudhoe ở Alaska&mdash;hình thành đỉnh thứ hai (thấp hơn) vào giữa những năm 80. Nhưng sau đó sự suy
-giảm lại tiếp tục trong vài thập kỷ sau, khiến nhiều người thất vọng[^66]
+>**Hình 8.9**: Các phát hiện dầu mỏ ở Biển Bắc (Anh) (màu xanh lam, tính bằng tỉ thùng/năm) đạt đỉnh điểm vào những năm 1970 và về cơ bản đã kết thúc. Quá trình sản xuất (màu đỏ) theo sau quá trình phát hiện và không thể tiếp tục lâu hơn nữa khi phần dầu cuối cùng đã phát hiện (đường viền màu xanh lam không tô đậm) được khai thác. Các quy ước về đồ thị tuân theo những quy ước trong **Hình 8.7**.
+
+Hoa Kỳ đã trải qua một lịch sử tương tự (**Hình 8.10**) khi việc phát hiện dầu mỏ thông thường đạt đỉnh điểm vào khoảng năm 1950, và sản lượng đạt đỉnh hai thập kỷ sau đó, khoảng năm 1970. Không ai muốn điều này xảy ra, mặc dù một số nhà địa chất dầu mỏ (đặc biệt là M. King Hubbert) đã chỉ ra tính tất yếu của nó: dựa trên số lượng mỏ dầu đã phát hiện đã đạt đỉnh trước đó và logic đơn giản[^64]. Hoa Kỳ đã là nhà sản xuất dầu lớn nhất kể từ buổi bình minh của kỷ nguyên dầu mỏ, và hiện đang tụt dốc[^65]. Lên đến đỉnh cao và sự sụt giảm sau đó đã gây ra sự lo lắng lớn và kích thích nỗ lực to lớn để tìm kiếm và phát triển thêm các nguồn dầu mỏ, dẫn đến việc phát hiện ra dầu ở Vịnh Prudhoe ở Alaska&mdash;hình thành đỉnh thứ hai (thấp hơn) vào giữa những năm 80. Nhưng sau đó sự suy giảm lại tiếp tục trong vài thập kỷ sau, khiến nhiều người thất vọng[^66]
 
 [^64]:
 
@@ -206,6 +271,9 @@ giảm lại tiếp tục trong vài thập kỷ sau, khiến nhiều người t
 [^66]:
 
     Nhắc lại một điểm quan trọng: không phải do thiếu ý chí hay nỗ lực
+
+![fossil-10-light](../../assets/images/fossil-10-light.svg#only-light)
+![fossil-10-dark](../../assets/images/fossil-10-dark.svg#only-dark)
 
 >**Hình 8.10**: Lịch sử sản xuất dầu của Hoa Kỳ (màu xanh; từ [EIA](https://www.eia.gov/dnav/pet/hist_xls/MCRFPUS2m.xls)) và lịch sử tiêu thụ (màu đỏ; từ [EIA](https://www.eia.gov/totalenergy/data/annual/index.php)), đơn vị triệu thùng mỗi ngày (trục trái) và tỷ thùng mỗi năm (trục phải). Đỉnh sản xuất thông thường có thể nhìn thấy vào khoảng năm 1970, đỉnh thứ hai vào khoảng năm 1985 từ Vịnh Prudhoe ở Alaska, và cuối cùng là sự gia tăng đáng kể do hoạt động bẻ gãy thủy lực (*fracking*) trong thập kỷ qua. Khoảng cách giữa các đường cong màu xanh và đỏ được tạo nên bởi hàng nhập khẩu. Sự suy thoái trong sản xuất fracking vào năm 2020 trùng hợp với đại dịch COVID, vì vậy không rõ liệu sản lượng dầu của Mỹ sẽ tiếp tục tăng hay đã vượt qua mức đỉnh.
 
@@ -236,6 +304,12 @@ Một vấn đề đáng nói nữa ở góc độ địa chính trị. Nhiều 
 [^71]:
 
     ...đôi khi được gọi là dầu thô “ngọt”
+
+![fossil-11a-light](../../assets/images/fossil-11a-light.svg#only-light)
+![fossil-11a-dark](../../assets/images/fossil-11a-dark.svg#only-dark)
+
+![fossil-11b-light](../../assets/images/fossil-11b-light.svg#only-light)
+![fossil-11b-dark](../../assets/images/fossil-11b-dark.svg#only-dark)
 
 >**Hình 8.11**: Phân bổ trữ lượng dầu đã được chứng minh theo quốc gia, hình ở phía trên, theo Cơ quan Thông tin Năng lượng Hoa Kỳ. Dầu ở Venezuela và Canada là dầu nặng, khó khai thác và chế biến hơn dầu nhẹ phổ biến ở Trung Đông. Hình bên dưới là dầu tiêu dùng theo quốc gia của 10 nước tiêu thụ hàng đầu (US EIA). Lưu ý rằng Mỹ sở hữu 2% lượng dầu mỏ nhưng tiêu thụ khoảng 20% lượng dầu mỏ sản lượng hàng năm toàn cầu. Hình này cũng thể hiện sự thiếu sự tương quan tổng thể giữa những nước *có* dầu và những nước *cần* dầu.
 
@@ -303,7 +377,7 @@ tạo&mdash;như đã trình bày trong **Chương 7**&mdash; càng tỏ ra đá
 
 
 </hr>
-**Tác giả: T.W. Murphy, Jr.**; ©2022 [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: https://escholarship.org/uc/energy_ambitions.
+**Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
 </hr>

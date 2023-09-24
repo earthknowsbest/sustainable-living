@@ -211,7 +211,7 @@ Dầu mỏ được đo bằng **thùng dầu** (*barrel*) (kí hiệu *bbl*), t
 
 4. Cấu trúc đá giữ[^28] không thấm nước phải nằm trên lớp đá xốp và thấm nước (**Hình 8.5**) giữ dầu ở áp suất cao để giữ cho dầu không bị thoát ra ngoài[^29].
 
-![fossil-6](../../assets/images/fossil-6.webp)
+![fossil-5](../../assets/images/fossil-5.webp)
 
 >**Hình 8.5**: Dầu và khí nằm trong đá xốp, dưới lớp đá giữ (*caprock*) không thấm nước. Từ U. Calgary. Nguồn: [Caprock](https://energyeducation.ca/encyclopedia/Cap_rock).
 
@@ -322,3 +322,9 @@ Lưu ý rằng nhiên liệu hoá thạch có hiệu năng gần như chất bé
 [^42]:
 
     Nhưng hydro rất cồng kềnh và dễ cháy nên rất nguy hiểm khi tích trữ ở dạng khí (bạn hãy Google từ khoá Hindenburg), vì thế đừng quá vui mừng. 
+
+</hr>
+**Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
+
+**Dịch giả: Team Sống bền vững**
+</hr>
