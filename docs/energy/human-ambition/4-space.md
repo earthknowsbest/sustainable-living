@@ -363,7 +363,7 @@ Việc chúng ta không có thỏa thuận chung toàn cầu nào về các ưu 
 
 [^31]:
 
-    Dù bi cám dỗ bởi lời đề nghị qua e-mail từ vị hoàng tử người Nigeria bị phế truất để giúp chuyển hàng triệu đô la của anh ta vào một tài khOản an toàn, chúng ta vẫn tỉnh táo để không bị mắc lừa. Lời hứa về sự sang có thể khiến kẻ cả tin bị huỷ hoại. 
+    Dù bi cám dỗ bởi lời đề nghị qua e-mail từ vị hoàng tử người Nigeria bị phế truất để giúp chuyển hàng triệu đô la của anh ta vào một tài khoản an toàn, chúng ta vẫn tỉnh táo để không bị mắc lừa. Lời hứa về sự sang có thể khiến kẻ cả tin bị huỷ hoại. 
  
 </hr>
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
