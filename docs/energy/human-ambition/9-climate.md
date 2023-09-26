@@ -119,6 +119,145 @@ Cộng cả ba đường phát thải từ đồ thị bên phải của **Hình
 
     Hãy suy ngẫm về phản ứng của chúng ta nếu nồng độ CO~2~ không được điều chỉnh do bị hấp thụ bởi đại dương và đất liền: có lẽ chúng ta đã kết luận rằng mình *chẳng có vấn đề gì* với việc gia tăng nồng độ CO~2~ trong khí quyển khi đốt nhiên liệu hoá thạch, và có khi còn tự hỏi tại sao chúng ta không quan sát được nồng độ tăng *nhanh hơn*. Nói cách khác, giải thích nguyên nhân của sự dư thừa CO~2~ đã không còn là bí ẩn nữa. Nếu nồng độ CO~2~ trong khí quyển tăng *không* do tác nhân con người [^14], chúng ta sẽ có một bí ẩn *thực sự*: vậy toàn bộ khí thải CO~2~ từ việc đốt nhiên liệu hoá thạch đã đi đâu?
 
+### Những quốc gia chịu trách nhiệm chính
 
+Biến đổi khí hậu là một hiện tượng toàn cầu. Ngay cả khi tất cả khí thải đến từ một quốc gia hay khu vực, sự lưu thông khí quyển sẽ lan truyền trên phạm vi toàn cầu&mdash;mặc dù chậm hơn ở khu vực xích đạo. Do đó, đây là một vấn đề toàn cầu. Dù thế nào đi nữa, thật thú vị khi nhìn vào những quốc gia phát thải chính.
+
+>**Hình 9.5**: Đóng góp của các quốc gia về phát thải CO~2~ cho đến nay, được nhóm theo lục địa. Các nước phát thải chính được gọi tên, trong khi các nước còn lại ở mỗi châu lục được nhóm lại thành các “nhóm còn lại”. Nguồn: [Our world in data](https://ourworldindata.org/contributed-most-global-co2)
+
+**Hình 9.5** chỉ ra rằng Hoa Kì là quốc gia lớn nhất chịu trách nhiệm về lượng phát thải khí CO~2~ tích luỹ: gần gấp đôi so với quốc gia đứng thứ hai, Trung quốc (Số liệu năm 2019). Ngày nay, Trung quốc là nước phát thải lớn nhất, với mức 9,4 tỷ tấn CO~2~/năm, trong khi Hoa Kì ở vị trí thứ hai với 5,15 tỷ tấn CO~2~/năm. **Bảng 9.3** liệt kế 6 nước phát thải hàng đầu trong thời gian gần đây, chịu trách nhiệm cho khoảng 60% trong số 34 tỷ tấn CO~2~ phát thải hàng năm[^15].
+
+[^15]:
+
+    Rapier (2019), Top 10 các quốc gia phát thải khí CO~2~.
+
+>**Bảng 9.3**: Các quốc gia phát thải CO~2~ hàng đầu, năm 2018. Gt có nghĩa là gigatons, hay tỷ tấn, tương đương 10^12^ kg, vì 1 tấn bằng 1.000 kg.
+
+## 2. Cơ chế nóng lên toàn cầu
+
+Sự hiện diện của lượng CO2 dư thừa trong bầu khí quyển của chúng ta không thể chối cãi là đốt cháy nhiên liệu hóa thạch. Nhưng điều này làm thay đổi khí hậu của chúng ta như thế nào? Làm sao một thành phần nhỏ của khí quyển (hiện nay nồng độ CO~2~ chỉ chiếm 0,04%) lại có thể gây ra nhiều rắc rối như vậy? Câu trả lời nằm trong **bức xạ hồng ngoại** (*infrared radiation*)[^16]. Hãy nhớ lại từ [Phần 3, Chương 1](1-growth.md#3-he-qua-theo-nhiet-ong-hoc-thermodynamic-consequences) rằng đây cơ chế năng lượng rời khỏi trái đất, với công suất tuân theo **định luật Stefan-Boltzmann** $P = A_{s}\sigma{T^4}$, trong đó, $A_{s}$ là diện tích bề mặt trái đất, **hằng số Stefan-Boltzmann**[^17], $\sigma = 5{,}67\times10^{-8}$ $W/m_2/K^4$, và $T$ là nhiệt độ của bề mặt bức xạ, đơn vị Kelvin ($K$).
+
+[^16]:
+
+    Pierrehumbert (2011), “Bức xạ hồng ngoại và nhiệt độ hành tinh”.
+
+[^17]:
+
+    ...dễ nhớ hơn với chuỗi 5-6-7-8
+
+![Radiation-Light](../../assets/images/radiation-light.svg#only-light)
+![Radiation-Dark](../../assets/images/radiation-dark.svg#only-dark)
+
+>**Hình 9.6**: Trái đất hứng ánh sáng qua bề mặt chắn sáng (đường tròn có diện tích $πR^2$), trong khi bức xạ ánh ra bên ngoài không gian từ mọi phía (diện tích bề mặt Trái đất lớn gấp 4 lần diện tích hứng sáng, hay $4πR^2$).
+
+Mặt trời toả năng lượng *bên trên* bầu khí quyển trái đất với cường độ[^18] là 1.360 W/m^2^. Khoảng 30% năng lượng này sáng này&mdash;chính xác hơn là 29,3%&mdash;được phản chiếu ngay lập tức bởi mây, tuyết và một phần ít hơn bởi bởi nước và địa hinh. 70,7% năng lượng chiếu xuống mặt đất trên diện bề mặt hứng sáng $A_{s} = πR_\oplus^2$ (**Hình 9.6). Nhưng tổng diện tích bề mặt của trái đất&mdash;lớn gấp bốn lần diện tích hứng sáng này&mdash;đều góp phần tạo ra bức xạ hồng ngoại vào không gian. Trong sự cân bằng hoàn hảo[^19] năng lượng hấp thụ bởi trái đất bằng năng bức xạ ra ngoài:
+
+[^18]:
+
+    Đây được gọi là Hằng số mặt trời (*Solar constant*), đo được 1.360 W/m^2^, là luồng công suất ánh sáng mặt trời chiếu lên *bên trên* bầu khí quyển trái đất. Về mặt kĩ thuật, thực chất đây không phải là một hằng số, những rất ổn định.
+
+[^19]:
+
+    Sự mất cân bằng có nghĩa năng lượng đang tích tụ hay đang bị mất đi, dẫn đến ấm lên hay lạnh đi. Ngay cả trong điều kiện hiện tại, sự cân bằng năng lượng hữu ích ở mức 1 W/m^2^.
+
+$$
+    0,707 \times 1.360 W/m^2 \times π{R_\oplus^2} = P_{out} = 4π{R_\oplus^2}\sigma(T^4) \tag{9.1}\label{9.1}
+$$
+
+Triệt tiêu hai vế phương trình trên cho $π{R_\oplus^2}$, chúng ta có kết quả như sau:
+
+$$
+T^4 = \frac{0{,}707 \times 1.360 W/m^2}{4\sigma} \tag{9.2}\label{9.2}
+$$
+
+Giải ra ta được $T ≈ 255 K$, hay $-18^\circ{C}$, khoảng ($0^\circ{F}$). Nhiệt độ này lạnh hơn 33°C so với 288 K (15°C; 59°F) mà chúng ta đo được từ nhiệt độ trung bình Trái đất. Sự khác biệt 33°C này[^20] là do các **khí nhà kính** (*greenhouse gas*)&mdash;chủ yếu là hơi nước H~2~O&mdash;làm ảnh hưởng đến cân bằng nhiệt bằng cách ngăn phần bức xạ thoát ra khỏi ngoài không gian.
+
+[^20]:
+
+    Cuộc sống trên Trái đất đã thích nghi vào dựa vào hiệu ứng khí nhà kính (tạo ra độ chênh 33°C). Thay đổi *một cách đột ngột* sẽ tạo ra nhiều vấn đề. 
+
+Chúng ta hiểu cơ chế này một cách hoàn hảo. Ở nhiệt độ 288 K, phát xạ bề mặt đạt mức cực đại ở bước sóng khoảng 10 μm[^21]. Khí quyển không trong suốt (*transparent*) ở mọi bước sóng; các đặc điểm hấp thụ bức xạ khác nhau của nó được mô tả trong **Hình 9.7**. Đường đồ thị màu xanh lam ở phía trên bên phải trong hình này là quang phổ của bức xạ hồng ngoại.
+
+[^21]:
+
+    Chúng ta sẽ tìm hiểu vì sao trong **Phần 2, Chương 13**
+
+>**Hình 9.7**: [Phổ hấp thụ/truyền qua khí quyển](https://commons.wikimedia.org/w/index.php?curid=2623190). Hình trên cùng biểu diễn đầu vào năng lượng mặt trời có màu đỏ và đầu ra bức xạ hồng ngoại (nhiệt) có màu xanh lam. Các đường cong biểu diễn quang phổ Planck của vật đen (*black body*) theo lý thuyết ở nhiệt độ bề mặt mặt trời (hơn 5000 K ) và bề mặt trái đất đất (khoảng 200-300 K). Từ đó, đường cong màu đỏ thể hiện sự phân bố năng lượng mặt trời đến phía bên trên bầu khí quyển Trái đất, trong khi đặc vùng màu đỏ bên dưới đường cong này là năng lượng xuống được đến mặt đất. Đường cong màu xanh lam (ở giữa bộ ba đường cong) biểu thị bức xạ từ mặt đất, nhưng chỉ một phần nhỏ (vùng chứa đầy màu xanh lam) truyền trực tiếp qua khí quyển [ra ngoài không gian]&mdash;phần còn lại được hấp thụ bởi khí nhà kính. Các hình phía dưới liệt kê chi tiết dải ánh sáng bị hấp thụ hoặc phân tán. Các vùng màu xám biểu thị sự hấp thụ và tán xạ, do đó các phần màu trắng có thể được coi là phần được truyền ra ngoài không gian&mdash;thường được gọi là “cửa sổ” (*window*). Những tác nhân chính (khí nhà kính) được chia thành các hình nhỏ hơn bên dưới hình tổng phần trăm hấp thụ. Lưu ý rằng ozone ngăn chặn tia cực tím (UV) và tán xạ Rayleigh là nguyên nhân khiến bầu trời có màu xanh lam&mdash;bằng cách tán xạ ánh sáng xanh từ mặt trời một cách hiệu quả (màu xanh lam nằm ở phía bên trái, trong khi màu đỏ nằm ở phía bên phải, của dải ánh sách “nhìn thấy”). Nguồn: Robert Rohde.
+
+Trong số các khí nhà kính góp phần hấp thụ ánh sáng mặt trời minh họa trong **Hình 9.7**, hơi nước là tác nhân chiếm ưu thế, tiếp theo là CO~2~. Lưu ý rằng vùng màu xanh lam trong hình[^22] được phản ảnh bằng vùng màu trắng đồ thị tổng hấp thụ năng lượng theo phần trăm ở ngay bên dưới[^23]; và hơi nước chiếm phần chủ yếu trong việc hấp thụ năng lượng. Nhưng phía bên phải&mdash;có bước sóng dài hơn&mdash;của dải hấp thụ hơi nước có phần bị trùng với dải hấp thụ của CO~2~, có thể quan sát rõ hơn trong **Hình 9.8**. Chính dải CO~2~ này đã làm cho cạnh bên phải của vùng màu xanh[^24] có dạng đi xuống thẳng đứng như quan sát thấy trong **Hình 9.7**. Khi nồng độ CO~2~ trong bầu khí quyển gia tăng, dải hấp thụ của CO~2~ rộng ra, khiến cho ít  bức xạ thoát ra bên ngoài hơn (cắt vào phía bên phải của vùng màu xanh lam). 
+
+> **Hình 9.8**: Một góc nhìn khác về quang phổ hấp thụ của hơi nước và CO~2~, biểu diễn rõ hợn sự đan xen của các các mỗi quang phổ . Nguồn: [Robert Rohde (NASA)](https://earthobservatory.nasa.gov/features/EnergyBalance/page7.php)[^25].
+
+[^22]:
+
+    ...bức xạ trực tiếp thoát ra ngoài không gian
+
+[^23]:
+
+    Vì thế vùng màu trắng trong hình này thể hiện “cửa sổ” mở.
+
+[^24]:
+
+    ...bức xạ đã thoát ra ngoài không gian
+
+[^25]
+
+    Tất cả các loại khí trong khí quyển đều có một kiểu hấp thụ năng lượng độc đáo: chúng hấp thụ một số bước sóng năng lượng nhưng trong suốt đối với những bước sóng khác. Kiểu hấp thụ của hơi nước (các vùng màu lam) và CO~2~ dioxide (màu  màu đỏ) trùng nhau ở một số bước sóng. CO~2~ không phải là một loại khí nhà kính mạnh như hơi nước, nhưng nó hấp thụ năng lượng ở các bước sóng (12-15 μm) mà hơi nước không làm được, đóng một phần “cửa sổ” mà qua đó bức xạ nhiệt tỏa từ bề mặt trái đất thường thoát ra ngoài không gian.
+
+
+Nếu một phần bức xạ hồng ngoại không thoát ra ngoài không gian mà bị khí quyển hấp thụ thì hành tinh sẽ không giảm nhiệt một cách hiệu quả, cộng thêm một phần bù vào **Phương trình** $\eqref{9.2}$&mdash;trong trường hợp Trái Đất là 33°C. Nó giống như trái đất đang khoác một tấm chăn làm tăng nhiệt độ lên 33°C. **Hình 9.9** minh họa cơ chế này. Hơi nước tạo ra 20°C trong số 33°C nhiệt độ tăng thêm, và CO~2~ tạo ra thêm 8°C, còn lại 5°C do tầng ozone, mê-tan và các
+chất khác (**Bảng 9.4**). Bất ngờ thay, khí mê-tan (CH~4~) là khí nhà kính mạnh hơn khoảng [80 lần](https://www.factcheck.org/2018/09/how-potent-is-methane/) so với CO~2~ (nếu tính cùng khối lượng và qua thời gian 20 năm), nhưng ở nồng độ trong khí quyển thấp hơn nhiều so với CO2 và cũng tồn tại trong khí quyển ngắn hơn trước khi bị phá hủy về mặt hóa học[^26]. Chúng ta tập trung vào CO2 vì đây là thứ mà hoạt động của con người đang thay đổi nhanh chóng do đốt nhiên liệu hóa thạch. Diện tiếp xúc khí quyển-đại dương rộng lớn cho thấy chúng ta không thể kiểm soát được nồng độ hơi nước. Hơi nước chỉ đơn giản thích nghi với nhiệt độ do thực tế là không khí ấm hơn giữ nhiều hơi ẩm hơn&mdash;trở thành một tác nhân phản hồi quan trọng. Hơi nước  không phải là tài xế (yếu tố quyết định) của nóng lên toàn cầu, mà là một hành khách nặng kí.
+
+[^26]:
+
+    Phát thải khí mê-tan trở nên quan trọng do rò rỉ từ các địa giếng khoản dầu và tan băng vĩnh cửu.
+
+>**Hình 9.9**: Khi không có khí nhà kính, bức xạ hồng ngoại không gặp khó khăn gì khi thoát ra ngoài vũ trụ (trái). Khi có khí nhà kính (phải), phần lớn bức xạ hồng ngoại được các phân tử khí nhà kính hấp thụ. Những phân tử này sau đó sẽ giải phóng năng lượng đã hấp thụ dưới dạng bức xạ hồng ngoại mới, nhưng theo hướng ngẫu nhiên, để một phần năng lượng được đưa trở lại mặt đất, do đó giữ cho bề mặt ấm hơn so với khi không có khí nhà kính.
+
+Nói một cách ngây thơ, việc tăng từ nồng độ CO~2~ trong khí quyển từ 280 ppm~v~ lên 420 ppm~v~ (tăng theo hệ số 1,5), có thể được cho là sẽ biến hiệu ứng nhà kính 8,6°C từ CO2 thành 12,9°C (ở hệ số tăng 1,5 lần) với mức nóng lên do con người gây ra là 4,3°C[^27] Nhưng đặc tính hấp thụ của CO2 ở ~15 μm bị bão hòa, do đó khi nồng độ CO~2~ tăng lên vào, dải hấp thụ của nó sẽ trở nên rộng hơn, nhưng theo hàm logarit chứ không phải tuyến tính theo nồng độ CO~2~. Các nhà khoa học về khí hậu thường biểu thị tác động của các ảnh hưởng khác nhau dưới dạng lực bức xạ, được đo bằng **bức xạ cưỡng bức** (*radiative forcing*), đơn vị W/m^2^.
+
+!!! abstract "Định nghĩa 9.2.1"
+
+    **Bức xạ cưỡng bức** được dùng để mô tả cường độ diện tích (tính bằng W/m^2^) của năng lượng mặt trời được hấp thụ và bức xạ hồng ngoại vào không gian. Mỗi ảnh hưởng hoặc thành phần khác nhau đóng góp bức xạ cưỡng bức riêng của chúng. Ở trạng thái cân bằng, tồn tại một sự cân bằng sao cho bức xạ cưỡng bức ròng[^28] 25 bằng không.
+
+[^27]:
+
+    Đây không phải nguyên lí hoạt động trong thực tế
+
+[^28]:
+
+    ...tổng cộng tất cả bức xạ cưỡng bức dương và âm
+
+Bức xạ cưỡng bức trung bình tính bằng phương trình
+
+$$
+    RF_{☉} = 1.360\, W/m^2 × 0,707/4 ≈ 240\, W/m^2 \tag{9.3}\label{9.3}
+$$
+
+khá giống với **Phương trình** $\eqref{9.2}$&mdash;chia cho 4 đã được giải thích ở phần trước. Nếu không thêm khí nhà kính từ thời tiền công nghiệp vào, chúng ta sẽ có nhiệt độ[^29]:
+
+$$
+    T = (\frac{\textrm{RF_{☉}}}{σ})^0,25 + 33 \tag{9.4}\label{9.4}
+$$
+
+[^29]:
+
+    ...thêm vào 33°C so với nhiệt độ cơ sở nếu không có hiệu ứng nhà kính 
+
+giải ra được 288 K, hay 15°C. Nếu chúng ta thêm (hay bớt) bức xạ cưỡng bức từ nguồn khác, tử số của **Phương trình** $\eqref{9.2}$ sẽ thêm (hay bớt) tương ứng. Thêm khí CO~2~ vào mức trước thời kì công nghiệp (CO~2*~; 280 ppm~v~) sẽ cho ra bức xạ cưỡng bức:
+
+$$
+    RF_{CO_{2}} =5,35\ln\frac{CO_{2}}{CO_{2*}} \, W/m^2 \tag{9.5}\label{9.5}
+$$
+
+trong đó hàm ln() là logarit tự nhiên (cơ số $e$)[^30]. Ở mức ~420 ppm~v~ hiện tại của chúng ta, tỉ số giữa CO~2~ hiện thời trên CO~2*~ thời kì tiền công nghiệp là 1,5 và $RF_{CO_{2}} ≈ 2,2\,W/m^2$, do đó nhiệt độ mới (đã thêm bức xạ cưỡng bức mới và **Phương trình** $\eqref{9.4}$) là:
+
+[^30]:
+
+    ...để biểu diễn đầy đủ theo hàm số mũ độ rộng của dải hấp thụ ánh sách của CO~2~ ở bước sóng 15 μm trong **Hình 9.7**.
+
+$$
+    T = (\frac{\textrm{RF_{☉} + RF_{CO_{2}}}}{σ})^0,25 + 33 ≈ 288,6\,K \tag{9.6}\label{9.6}
+$$
 
 

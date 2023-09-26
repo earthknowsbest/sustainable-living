@@ -20,8 +20,8 @@ Format svg: `style='scaling-svg'`
 [Math Symbol](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
 
 ```latex
-⊕ , ☉ , π, ~ , ≈ , · , × , →, \ge , \lt, \bf, \it, \textbf, \textit
-α, γ, δ, ε, ζ, η, ι, κ, λ, μ, ν, ο, π, ρ, ς, σ, τ, υ, χ
+⊕ , ☉ , π, ~ , ≈ , · , × , →, \ge , \lt, \bf, \it, \textbf, \textit, \textrm
+μ, α, γ, δ, ε, ζ, η, ι, κ, λ, μ, ν, ο, π, ρ, ς, σ, τ, υ, χ
 $\eqref{6.11}$
 $\tag{6.1}\label{6.1}$
 ```
