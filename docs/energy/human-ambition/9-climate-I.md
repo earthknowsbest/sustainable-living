@@ -260,4 +260,48 @@ $$
     T = (\frac{\textrm{RF_{☉} + RF_{CO_{2}}}}{σ})^0,25 + 33 ≈ 288,6\,K \tag{9.6}\label{9.6}
 $$
 
+tức là lớn hơn khoảng 0,6°C ($≈288.6 K - 288 K$) so với trước khi tăng nồng độ CO~2~ trong khí quyển từ thời tiền công nghiệp. Chúng ta có thể biểu thị điều này như một **độ nhạy** (*sensitivity*): chênh lệch nhiệt độ $\Delta{T}$ là bao nhiêu tương ứng với mức mất cân bằng bức xạ cưỡng bức? Trong trường hợp này, 0,6°C từ mức tăng 2,2 W/m^2^ là 0,27°C mỗi W/m^2^ ($≈0,6/2,2$). Nhưng khi đưa vào các cơ chế phản hồi đã biết&mdash;hầu hết là phản hồi xuôi (*positive feedback*)&mdash;độ nhạy nhiệt độ trở thành 0,8°C cho mỗi đơn vị W/m2 bức xạ cưỡng bức thêm vào: đây được gọi là **thông số độ nhạy khí hậu** (*climate sensitivity parameter*)[^31]
+
+[^31]:
+
+    [Đọc thêm](http://www.realclimate.org/index.php/archives/2007/08/the-co2-problem-in-6-easy-steps/) để hiểu tóm tắt nội dung.
+
+!!! abstract "Định nghĩa 9.2.2" 
+
+    Tham số độ nhạy khí hậu kết nối mức độ nóng lên dự kiến đối với một lượng cưỡng bức bức xạ nhất định. Sự hiểu biết hiện tại đặt giá trị này ở mức 0,8C trên W/m2 của lực bức xạ
+
+Do đó, 2,2 W/m^2 bức xạ cưỡng bức bổ sung (do nhiên liệu hoá thạch) sẽ làm nhiệt độ tăng[^32] 1,7°C (**Hình 9.10**), gấp khoảng 3 so với các tính toán không có phản hồi.
+
+[^32]:
+
+    Chỉ cần nhân 2,2 W/m^2 với 0,8°C mỗi W/m^2. 
+
+!!! example "Ví dụ 9.2.1" 
+
+    Nếu chúng ta tăng gấp đôi nồng độ CO~2~ so với thời kỳ tiền công nghiệp thì nhiệt độ sẽ tăng lên bao nhiêu?
+
+    Nồng độ CO~2~ thời kì tiền công nghiệp là 280 ppm~v~, do đó, tăng gấp đôi lượng CO~2~ sẽ tăng thêm 280 ppm~v~ lên tổng cộng 560 ppm~v~. Bức xạ cưỡng bức khi đó tính theo **Phương trình* $\eqref{9.5}$ là 5,35 × ln(2) ≈ 3,7 W/m^2^. Nhân con số này với **độ nhạy khí hậu** ở mức 0,8°C/W/m^2^ sẽ ra nhiệt độ tăng lên khoảng 3.0°C (sẽ là khoảng 0,27 x 3,7 ≈ 1°C nếu không tính đến các phản hồi).
+
+Những phản hồi tích xuôi (hay phản hồi tích cực, *positive feedback*&mdash;phản hồi cùng chiều hướng của tác động) rất quan trọng và bao gồm các yếu tố như:
+
+1. Một hành tinh ấm hơn có nghĩa là ít băng hơn (sông băng, chỏm Bắc Cực), dẫn đến it ánh sáng mặt trời được phản chiếu hơn, làm tăng hệ số hấp thụ 0,707 trong **Phương trình** $\eqref{9.3}$ để tăng cường bức xạ cưỡng bức.
+
+2. Không khí ấm hơn có thể chứa nhiều hơn hơi nước&mdash;một khí nhà kính chủ chốt, từ đó làm tăng mức đóng góp khí vào việc gia tăng nhiệt độ lên mức 33°C.
+
+3. Môi trường ấm hơn dẫn đến lượng CO~2~ phát thải nhiều hơn do mất thêm do rừng khô hạn, sa mạc hóa, quá trình phân hủy thực vật và than bùn tăng nhanh. 
+
+Một vài cơ chế phản hồi ngược (*negative feedback*)[^33] cũng tồn tại, nhưng không sánh được với phản hồi xuôi.
+
+[^33]:
+
+    Cho đến nay, cơ chế phản hồi ngược quan trọng nhất là bức xạ hồng ngoại, tăng mạnh khi nhiệt độ tăng (với mức $T^4$), do đó cản trở sự tăng nhiệt độ do ảnh hưởng làm mát.
+
+Mức tăng nhiệt độ toàn cầu so với thời kì tiền công nghiệp giờ đã vào khoảng [1,24°C năm 2022](https://berkeleyearth.org/global-temperature-report-for-2022/), ngay cả khi chúng ta không bao giờ bổ sung thêm một phân tử CO2 nào nữa vào khí quyển thì nhiệt độ vẫn sẽ tiếp tục tăng khi đại dương[^34] dần bắt kịp trạng thái cân bằng mới. Chúng ta kỳ vọng nhiệt độ sẽ ổn định ở mức nhiệt độ cao hơn 1,7°C đối với lượng CO~2~ dư thừa cho đến nay, theo những tính toán ở trên. Như vậy việc gia tăng nhiệt độ đã hoàn thành được khoảng 73% quãng đường. Tất nhiên, sẽ có thêm nhiều phát thải CO~2~ phát thải hơn, do đó mức tăng nhiệt độ cuối cùng chắc chắn sẽ còn cao hơn.
+
+[^34]:
+
+    ...có khối lượng nhiệt rất lơn, hay **nhiệt dung riêng** rất cao.
+
+
+
 
