@@ -1,16 +1,26 @@
 # Chương 9: Biến đổi khí hậu
 
+![climate-0](../../assets/images/climate-0.webp)
+
 !!! quote ""
 
     Những chú voi đang làm hết sức mình. Ảnh chụp bởi C. O’Connell & T. Rodwell.
 
-**Biến đổi khí hậu** (*Climate change*) đứng đầu trong số các vấn đề quy mô toàn cầu được tạo ra bởi sự đói năng lượng của con người&mdash;gây ra bởi sự tích tụ khí nhà kính, đặc biệt là khí caccbonic (CO~2~) trong bầu khí quyển do đốt chay nhiên liệu hoá thạch. Chương này nhằm mục đích cung cấp một giải thích rõ ràng về cơ sở khoa học của biến đổi khí hậu, giúp loại bỏ dần những điều không chắc chắn gây ra bởi những chiến dịch đưa thông tin sai lệch (*disinformation campagnes*) (cho dù chúng đã có những thành công đáng báo động). Trong khi khó dự đoán chi tiết hệ thống khí hậu sẽ phản ứng như thế nào, những hiểu biết vật lí [về biến đổi khí hậu] không thể bác bỏ được nữa. Chúng ta sẽ thấy sự gia tăng khí CO~2~ không còn là điều bí ẩn nữa mà chủ yếu là do đốt cháy nhiên liệu hoá thạch. Chúng ta cũng sẽ khám phá các kịch bản và liên hệ sự gia tăng CO~2~ với hệ quả về nhiệt độ.
+**Biến đổi khí hậu** (*Climate change*) đứng đầu trong số các vấn đề quy mô toàn cầu được tạo ra bởi sự thèm khát năng lượng của con người&mdash;gây ra bởi sự tích tụ khí nhà kính, đặc biệt là khí cácbonic (CO~2~) trong bầu khí quyển do đốt chay nhiên liệu hoá thạch. Chương này nhằm mục đích cung cấp một giải thích rõ ràng về cơ sở khoa học của biến đổi khí hậu, giúp loại bỏ dần những điều không chắc chắn gây ra bởi **những chiến dịch đưa thông tin sai lệch** (*disinformation campagnes*) (cho dù chúng đã có những thành công đáng báo động). Trong khi khó dự đoán chi tiết hệ thống khí hậu sẽ phản ứng như thế nào, những hiểu biết vật lí [về biến đổi khí hậu] không thể bác bỏ được nữa. Chúng ta sẽ thấy sự gia tăng khí CO~2~ không còn là điều bí ẩn nữa mà chủ yếu là do đốt cháy nhiên liệu hoá thạch. Chúng ta cũng sẽ khám phá các kịch bản và liên hệ giữa gia tăng nồng độ CO~2~ trong khí quyển và hệ quả về nhiệt độ.
 
 ## 1. Nguồn CO~2~
 
-Các tác động của biến đổi khí hậu đang diễn ra ngày nay chủ yếu là do sự gia tăng nồng độ CO~2~ trong khí quyển do đốt cháy nhiên liệu hoá thạc.
+Các tác động của biến đổi khí hậu đang diễn ra ngày nay chủ yếu là do sự gia tăng nồng độ khí CO~2~ trong khí quyển do đốt cháy nhiên liệu hoá thạc.
 
 Hoá học đã chỉ ra rõ ràng ([Phương trình 8.1](8-fossil-I.md#3-nang-luong-hoa-hoc)): năng lượng được giải phóng khi nhiên liệu hóa thạch được đốt cháy bằng ôxy (O~2~) để thu được CO~2~ và H~2~O. **Bảng 9.1** mở rộng các đặc tính của nhiên liệu hoá thạch khi đốt cháy được trình bày trong **Chương 8**, bổ sung thêm các thuộc tính của CO~2~.
+
+<div markdown="1" align="center">
+| **Nhiên liệu** | **Đại diện** | **Khối lượng phân tử** | **kJ/mol** | **kJ/g** | **kcal/g** | **CO~2~ g/g** | **CO~2~ g/MJ** |
+|:--------------:|:------------:|:----------------------:|:----------:|:--------:|:----------:|:-------------:|:--------------:|
+| **Than đá**    | C            | 12                     | 393,5      | 32,8     | 7,8        | 3,67          | 112            |
+| **Khí đốt**    | CH~4~        | 16                     | 890,3      | 55,6     | 13,3       | 2,75          | 49             |
+| **Dầu mỏ**     | C~8~H~18~    | 114                    | 5.471      | 48,0     | 11,5       | 3,09          | 64             |
+</div>
 
 >**Bảng 9.1**: Đặc tính khi đốt cháy của nhiên liệu hoá thạch, bao gồm phát thải CO~2~ trên mỗi gram đầu vào và trên mỗi MJ năng lượng đầu ra.
 
@@ -23,7 +33,6 @@ Hoá học đã chỉ ra rõ ràng ([Phương trình 8.1](8-fossil-I.md#3-nang-l
 [^1]:
 
     ...hay bất cứ thước đo khối lượng/cân nặng nào bạn muốn
-
 
 Trong khi tất cả các dạng nhiên liệu trên đều tạo ra tỷ lệ khối lượng xấp xỉ 3 đơn vị CO~2~ cho mỗi đơn vị nhiên liệu hóa thạch, thì mật độ năng lượng thấp hơn của than cùng với tỷ lệ khối lượng[^2] cao hơn một chút so với khí tự nhiên làm cho nó có cường độ các-bon cao hơn gấp đôi so với khí tự nhiên.
 
@@ -44,16 +53,21 @@ Bắt đầu từ năm 1958, Dave Keeling thuộc Viện Hải dương học Scr
 
     Thực vật hấp thụ và thải ra CO~2~ theo mùa khi lá phát triển rồi tàn lụi.
 
+![climate-1-light](../../assets/images/climate-1-light.svg#only-light)
+![climate-1-dark](../../assets/images/climate-1-dark.svg#only-dark)
+
 >**Hình 9.1**: Các kết quả đo nồng độ CO~2~ từ Mauna Loa (Hawaii) trong 60 năm qua là đường màu xanh lam (trục bên trái), cho thấy xu hướng đi lên không ngừng và ngày càng tăng tốc, hiện nay ở mức [khoảng 2,6 ppm~v~ mỗi năm](https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html). Những biến đổi theo mùa do quá trình quang hợp được quan sát dọc theo đồ thị xu hướng này. **Mức độ tiền công nghiệp** (Pre-industrial levels*) là khoảng 280 ppm~v~, do đó chúng ta đã thêm vào khoảng 130 **phần triệu** (*part per million*, *ppm*, hay 0,0001%). Các chấm đỏ (trên thang đo trục phải) hiển thị các bản ghi nhiệt độ trung bình toàn cầu [trong cùng thời kỳ](https://climate.nasa.gov/vital-signs/global-temperature/). Cho đến nay, nhiệt độ trung bình toàn cầu đã tăng khoảng 1°C. Lưu ý rằng **Nghị định thư Kyoto** (*Kyoto Protocol*) năm 1997 và **Thỏa thuận chung Paris** (*Paris Agreement*) năm 2015 (**Hộp 4, Chương 19**) không làm thay đổi đáng kể xu hướng tăng phát thải khí CO~2~.
 
 Khi các phép đo bắt đầu được thực hiện, bầu khí quyển có ít hơn 320 **phần triệu thể tích** (*part per million by volume*, *ppm~v~*) hay < 0,032%. Đến này, chúng ta đã vượt quá 410 ppm~v~ (Cập nhật tháng 9/2023: gần [418 ppm~v~](https://www.co2levels.org/)) 
 
 Các phép đo bọt khí bị mắc kẹt trong dải băng Greenland cách đây khoảng 100.000 năm và dải băng ở Nam Cực cách đây 800.000 năm cho thấy nồng độ CO~2~ đã dao động trong khoảng 180–280 ppm~v~, đạt đến mức cao hơn trong khoảng thời gian ấm hơn giữa các **kỷ băng hà** (*ice ages*) (**thời kỳ gian băng** (*interglacial periods*)). Trong ít nhất một nghìn năm trước Thời đại Nhiên liệu Hóa thạch, nồng độ CO2 đã giữ ổn định ở mức khoảng 280 ppm~v~.
 
-### Dự kiến về CO~2~
+### Phát thải CO~2~
 
-**Hình 9.2**: Lịch sử sử dụng nhiên liệu hóa thạch
-trên toàn thế giới, được vẽ lại từ [Hình 8.2](8-fossil-I.md#2-than-a-dau-mo-khi-ot). Bên trái là tỷ lệ sử dụng thô được biểu thị bằng terawatt, trong khi bên phải là số liệu bình quân đầu người. Ba loại được xếp chồng lên nhau, do đó khí tự nhiên có đóng góp nhỏ nhất chứ không phải là lớn nhất. Ví dụ: ở cạnh bên phải của hình bên trái, công suất than đi từ 0 đến 5 TW, dầu từ 5 đến 11 (nên có 6 TW từ dầu) và khí đốt từ 11 đến 15, biểu diễn 4 TW từ khí đốt. Hình bên trái cho thấy rõ rằng việc sử dụng nhiên liệu hóa thạch vẫn đang tăng lên đáng kể và do đó lượng khí thải CO~2~ cũng tăng lên.
+![fossil-2-light](../../assets/images/fossil-2-light.svg#only-light)
+![fossil-2-light](../../assets/images/fossil-2-dark.svg#only-dark)
+
+**Hình 9.2**: Lịch sử khai thác nhiên liệu hóa thạch trên toàn thế giới, được vẽ lại từ [Hình 8.2](8-fossil-I.md#2-than-a-dau-mo-khi-ot). Bên trái là tỷ lệ sử dụng thô được biểu thị bằng terawatt, trong khi bên phải là số liệu bình quân đầu người. Ba loại được xếp chồng lên nhau, do đó khí tự nhiên có đóng góp nhỏ nhất chứ không phải là lớn nhất. Ví dụ: ở cạnh bên phải của hình bên trái, công suất than đi từ 0 đến 5 TW, dầu từ 5 đến 11 (nên có 6 TW từ dầu) và khí đốt từ 11 đến 15, biểu diễn 4 TW từ khí đốt. Hình bên trái cho thấy rõ rằng việc sử dụng nhiên liệu hóa thạch vẫn đang tăng lên đáng kể và do đó lượng khí thải CO~2~ cũng tăng lên.
 
 Chúng ta đã thấy trong [Hình 8.2](8-fossil-I.md#2-than-a-dau-mo-khi-ot)&mdash;được lặp lại ở Hình 9.2&mdash;lịch sử sử dụng nhiên liệu hóa thạch trên thế giới của than, dầu và khí tự nhiên. Trong khi
 đó, **Bảng 9.1** cho biết mỗi loại nhiên liệu thải ra nhiêu CO~2~ trên mỗi kg hoặc mỗi Joule sử dụng. Hai phần này có thể được kết hợp để ước tính lượng
@@ -66,6 +80,22 @@ phát thải CO~2~ trên toàn cầu mỗi năm, và để theo dõi tổng lư�
 [^5]:
 
     Ở mức 120 kg mỗi thùng, điều tương ứng với dự kiến 30 tỷ thùng mỗi năm. Một cách kiểm tra xem chúng ta có đi đúng hướng không.
+
+<div markdown="1" align="center">
+| **Phép tính**           | **Kết quả (đơn vị)** | **Than đá**             | **Dầu mỏ** | **Khí đốt** |
+|:-----------------------:|:--------------------:|:-----------------------:|:----------:|:-----------:|
+| Số ban đầu              | TW                   |                         |            |             |
+| × 10^12^ W/TW           | W (J/s)              |                         |            |             |
+| × 3,16 × 10^7^ giây/năm | J/năm                |                         |            |             |
+| ÷ 4.184 J/kcal          | kcal/năm             |                         |            |             |
+| ÷ x kcal/g              | FF g/năm             | x = 6,5                 | x = 1,5   | x = 13,3    |
+| ÷ 1.000 g/kg            | FF kg/năm            |                         |            |             |
+| × y CO~2~ kg/kg         | CO~2~ kg/năm         | y = 3,67                 | y =  3,09  | y = 2,75    |
+| ÷ 5 × 10^18^ kg         | CO~2~ /năm           |                         |            |             |
+| × 10^6^                 | CO~2~ ppm~m~/năm     |                         |            |             |
+| ÷ 4.184                 | CO~2~ ppm~v~/năm     | Tổng phát thải          |            |             |
+| ÷ 4.184                 | CO~2~ ppm~v~/năm     | Còn lại trong khí quyển |            |             |
+</div>
 
 >**Bảng 9.2**: Quy trình chuyển đổi từng bước từ TW sáng ppm~v~ của CO~2~. FF (*fossil fuel*) có nghĩa là nhiên liệu hoá thạch, có thể là than, dầu hay khí đốt&mdash;mỗi loại được tính riêng bằng cách sử dung các giá trị khác nhau được cung cấp ở bên phải của bảng.
 
@@ -87,7 +117,10 @@ Khối lượng của khí quyển vào khoảng 5 × 10^18 kg, thu được b�
 
     Không khí chứa khoảng 75% N~2~ với khối lượng 28 g/mol cộng với 25% O~2~ với khối lượng 32 g/mol.
 
->**Hình 9.3** cho thấy kết quả tính toán này là hàm của thời gian xét về tốc độ hàng năm và lượng phát thải tích luỹ. Chúng ta thấy rằng mặc dù dầu mỏ và than đá cung cấp năng lượng hàng năm như nhau trên toàn cầu, do cường độ các-bon của than cao hơn nhiều nên lượng phát thải CO~2~ đã chiếm ưu thế[^10] so với tất cả các nguồn năng lượng khác. Trên thực tế, than đá **luôn** là nguồn phát thải CO~2~ trội hơn, theo quan sát đồ thị bên trái với đường màu đen trong **Hình 9.3**, luôn cao hơn so với hai nguồn phát thải CO~2~ khác. Nhìn chung, ước tính này gọi ý mức tăng CO~2~hàng năm là 2,6 ppm~v~, với than đóng góp  hơn một nửa trong số đó (1,4 ppm~v~).
+**Hình 9.3** cho thấy kết quả tính toán này là hàm của thời gian xét về tốc độ hàng năm và lượng phát thải tích luỹ. Chúng ta thấy rằng mặc dù dầu mỏ và than đá cung cấp năng lượng hàng năm như nhau trên toàn cầu, do cường độ các-bon của than cao hơn nhiều nên lượng phát thải CO~2~ đã chiếm ưu thế[^10] so với tất cả các nguồn năng lượng khác. Trên thực tế, than đá **luôn** là nguồn phát thải CO~2~ trội hơn, theo quan sát đồ thị bên trái với đường màu đen trong **Hình 9.3**, luôn cao hơn so với hai nguồn phát thải CO~2~ khác. Nhìn chung, ước tính này gọi ý mức tăng CO~2~hàng năm là 2,6 ppm~v~, với than đóng góp  hơn một nửa trong số đó (1,4 ppm~v~).
+
+![climate-3-light](../../assets/images/climate-3-light.svg#only-light)
+![climate-3-dark](../../assets/images/climate-3-dark.svg#only-dark)
 
 >**Hình 9.3**: Ước tính lượng CO2 đóng góp từ tiêu thụ nhiên liệu hóa thạch đã biết dựa trên hóa học và giả định rằng một nửa lượng CO2 còn ở lại trong khí quyển, trong khi phần còn lại được đại dương và đất liền hấp thụ. Đường cong màu đỏ sử dụng điểm bắt đầu là 285 ppm~v~ với 49% lượng khí thải CO2 ở lại trong khí quyển. Đơn vị là phần triệu theo thể tích (ppm~v~). Đồ thị bên trái hiển thị lượng bổ sung hàng năm, thêm vào 2,6 ppm~v~ mỗi năm, thể hiện độ dốc trong **Hình 9.1**. Đồ thị bên phải là lượng phát thải tích lũy cho đến nay theo hàm số của thời gian&mdash;về cơ bản là tổng cộng tất cả lượng phát thải hàng năm từ đồ thị bên trái. Những đường đồ thị này không được xếp chồng lên nhau như trong **Hình 9.2**, do đó mỗi đường có thể được đọc trực tiếp từ trục tung. Lưu ý rằng dầu và khí đốt vẫn đang tăng lên ở đồ thị bên trái: chúng ta thải ra nhiều CO~2~ hơn mỗi năm so với năm trước.
 
@@ -107,6 +140,9 @@ Cộng cả ba đường phát thải từ đồ thị bên phải của **Hình
 
     ...các phép đo CO~2~ thực tế
 
+![climate-4-light](../../assets/images/climate-4-light.svg#only-light)
+![climate-4-dark](../../assets/images/climate-4-dark.svg#only-dark)
+
 >**Hình 9.4**: Phát thải CO~2~ (màu đỏ )của nhiên liệu hóa thạch ngoài so với đo lường nồng độ CO~2~ trên thực tế (màu xanh). Đường màu đỏ sử dụng điểm bắt đầu là 285 ppmv với 49% lượng khí thải CO2 còn lại trong khí quyển. Sự trùng khớp này rất chính xác và đáng thuyết phục.
 
 Đồ thị được tính toán từ việc sử dụng nhiên liệu hóa thạch chồng lên Đường Keeling chính xác đến mức nguồn gốc của lượng CO2 dư thừa trong bầu khí quyển của gần như không còn gì bí ẩn nữa. Hoá học và lịch sử tiêu thụ nhiên liệu hóa thạch không có gì phải bàn cãi. “Điều khó hiểu” duy nhất ở đây là phần CO~2~ thải ra từ quá trình đốt cháy nhiên liệu hóa thạch vẫn còn lại trong khí quyển so với phần được hấp thụ bởi đại dương và các **“bể chứa”** [các-bon] (*carbon sink*) khác. Theo thực nghiệm, khoảng một nửa lượng CO~2~ tồn tại trong khí quyển, trong khi nửa còn lại được hấp thụ bởi đại dương[^13] và trong những thực vật bị chôn vùi dưới lòng đất. Nếu không biết về cơ chế hấp thụ của đại dương và đất liền, chúng ta đã cho rằng nồng độ CO~2~ trong khí quyển do nhiên liệu hóa thạch gây ra cao gấp hai lần (xem **Hộp 9.2**).
@@ -123,6 +159,9 @@ Cộng cả ba đường phát thải từ đồ thị bên phải của **Hình
 
 Biến đổi khí hậu là một hiện tượng toàn cầu. Ngay cả khi tất cả khí thải đến từ một quốc gia hay khu vực, sự lưu thông khí quyển sẽ lan truyền trên phạm vi toàn cầu&mdash;mặc dù chậm hơn ở khu vực xích đạo. Do đó, đây là một vấn đề toàn cầu. Dù thế nào đi nữa, thật thú vị khi nhìn vào những quốc gia phát thải chính.
 
+![climate-5-light](../../assets/images/climate-5-light.svg#only-light)
+![climate-5-dark](../../assets/images/climate-5-dark.svg#only-dark)
+
 >**Hình 9.5**: Đóng góp của các quốc gia về phát thải CO~2~ cho đến nay, được nhóm theo lục địa. Các nước phát thải chính được gọi tên, trong khi các nước còn lại ở mỗi châu lục được nhóm lại thành các “nhóm còn lại”. Nguồn: [Our world in data](https://ourworldindata.org/contributed-most-global-co2)
 
 **Hình 9.5** chỉ ra rằng Hoa Kì là quốc gia lớn nhất chịu trách nhiệm về lượng phát thải khí CO~2~ tích luỹ: gần gấp đôi so với quốc gia đứng thứ hai, Trung quốc (Số liệu năm 2019). Ngày nay, Trung quốc là nước phát thải lớn nhất, với mức 9,4 tỷ tấn CO~2~/năm, trong khi Hoa Kì ở vị trí thứ hai với 5,15 tỷ tấn CO~2~/năm. **Bảng 9.3** liệt kế 6 nước phát thải hàng đầu trong thời gian gần đây, chịu trách nhiệm cho khoảng 60% trong số 34 tỷ tấn CO~2~ phát thải hàng năm[^15].
@@ -131,11 +170,24 @@ Biến đổi khí hậu là một hiện tượng toàn cầu. Ngay cả khi t�
 
     Rapier (2019), Top 10 các quốc gia phát thải khí CO~2~.
 
+<div markdown="1" align="center">
+| **Quốc gia** | **Tỉ tấn/năm** | **Đóng góp (%)** |
+|:------------:|:--------------:|:----------------:|
+| Trung Quốc   | 9,43           | 27,8             |
+| Hoa Kì       | 5,15           | 15,2             |
+| Ấn Độ        | 2,48           | 7,3              |
+| Nga          | 1,55           | 4,6              |
+| Nhật Bản     | 1,15           | 3,4              |
+| Đức          | 0,73           | 2,1              |
+| **Top 6**        | **20,49**          | **60,4**             |
+| **Thế giới**     | **34**             | **100**              |
+</div>
+
 >**Bảng 9.3**: Các quốc gia phát thải CO~2~ hàng đầu, năm 2018. Gt có nghĩa là gigatons, hay tỷ tấn, tương đương 10^12^ kg, vì 1 tấn bằng 1.000 kg.
 
 ## 2. Cơ chế nóng lên toàn cầu
 
-Sự hiện diện của lượng CO2 dư thừa trong bầu khí quyển của chúng ta không thể chối cãi là đốt cháy nhiên liệu hóa thạch. Nhưng điều này làm thay đổi khí hậu của chúng ta như thế nào? Làm sao một thành phần nhỏ của khí quyển (hiện nay nồng độ CO~2~ chỉ chiếm 0,04%) lại có thể gây ra nhiều rắc rối như vậy? Câu trả lời nằm trong **bức xạ hồng ngoại** (*infrared radiation*)[^16]. Hãy nhớ lại từ [Phần 3, Chương 1](1-growth.md#3-he-qua-theo-nhiet-ong-hoc-thermodynamic-consequences) rằng đây cơ chế năng lượng rời khỏi trái đất, với công suất tuân theo **định luật Stefan-Boltzmann** $P = A_{s}\sigma{T^4}$, trong đó, $A_{s}$ là diện tích bề mặt trái đất, **hằng số Stefan-Boltzmann**[^17], $\sigma = 5{,}67\times10^{-8}$ $W/m_2/K^4$, và $T$ là nhiệt độ của bề mặt bức xạ, đơn vị Kelvin ($K$).
+Sự hiện diện của lượng CO~2~ dư thừa trong bầu khí quyển không còn nghi ngờ gì nữa là do đốt cháy nhiên liệu hóa thạch. Nhưng điều này làm thay đổi khí hậu của chúng ta như thế nào? Làm sao một thành phần nhỏ của khí quyển (hiện nay nồng độ CO~2~ chỉ chiếm 0,04%) lại có thể gây ra nhiều rắc rối như vậy? Câu trả lời nằm trong **bức xạ hồng ngoại** (*infrared radiation*)[^16]. Hãy nhớ lại từ [Phần 3, Chương 1](1-growth.md#3-he-qua-theo-nhiet-ong-hoc-thermodynamic-consequences) rằng đây cơ chế năng lượng rời khỏi trái đất, với công suất tuân theo **định luật Stefan-Boltzmann** $P = A_{s}\sigma{T^4}$, trong đó, $A_{s}$ là diện tích bề mặt trái đất, **hằng số Stefan-Boltzmann**[^17], $\sigma = 5{,}67\times10^{-8}$ $W/m_2/K^4$, và $T$ là nhiệt độ của bề mặt bức xạ, đơn vị Kelvin ($K$).
 
 [^16]:
 
@@ -182,9 +234,14 @@ Chúng ta hiểu cơ chế này một cách hoàn hảo. Ở nhiệt độ 288 K
 
     Chúng ta sẽ tìm hiểu vì sao trong **Phần 2, Chương 13**
 
->**Hình 9.7**: [Phổ hấp thụ/truyền qua khí quyển](https://commons.wikimedia.org/w/index.php?curid=2623190). Hình trên cùng biểu diễn đầu vào năng lượng mặt trời có màu đỏ và đầu ra bức xạ hồng ngoại (nhiệt) có màu xanh lam. Các đường cong biểu diễn quang phổ Planck của vật đen (*black body*) theo lý thuyết ở nhiệt độ bề mặt mặt trời (hơn 5000 K ) và bề mặt trái đất đất (khoảng 200-300 K). Từ đó, đường cong màu đỏ thể hiện sự phân bố năng lượng mặt trời đến phía bên trên bầu khí quyển Trái đất, trong khi đặc vùng màu đỏ bên dưới đường cong này là năng lượng xuống được đến mặt đất. Đường cong màu xanh lam (ở giữa bộ ba đường cong) biểu thị bức xạ từ mặt đất, nhưng chỉ một phần nhỏ (vùng chứa đầy màu xanh lam) truyền trực tiếp qua khí quyển [ra ngoài không gian]&mdash;phần còn lại được hấp thụ bởi khí nhà kính. Các hình phía dưới liệt kê chi tiết dải ánh sáng bị hấp thụ hoặc phân tán. Các vùng màu xám biểu thị sự hấp thụ và tán xạ, do đó các phần màu trắng có thể được coi là phần được truyền ra ngoài không gian&mdash;thường được gọi là “cửa sổ” (*window*). Những tác nhân chính (khí nhà kính) được chia thành các hình nhỏ hơn bên dưới hình tổng phần trăm hấp thụ. Lưu ý rằng ozone ngăn chặn tia cực tím (UV) và tán xạ Rayleigh là nguyên nhân khiến bầu trời có màu xanh lam&mdash;bằng cách tán xạ ánh sáng xanh từ mặt trời một cách hiệu quả (màu xanh lam nằm ở phía bên trái, trong khi màu đỏ nằm ở phía bên phải, của dải ánh sách “nhìn thấy”). Nguồn: Robert Rohde.
+![climate-7-light](../../assets/images/climate-7-light.svg#only-light)
+![climate-7-dark](../../assets/images/climate-7-dark.svg#only-dark)
+
+>**Hình 9.7**: [Phổ hấp thụ/truyền qua khí quyển](https://commons.wikimedia.org/w/index.php?curid=2623190). Hình trên cùng biểu diễn đầu vào năng lượng mặt trời có màu đỏ và đầu ra bức xạ hồng ngoại (nhiệt) có màu xanh lam trên dải bước sóng tính bằng micromét trên thang lôgarít. Các đường cong biểu diễn quang phổ Planck của **vật đen** (*black body*) theo lý thuyết ở nhiệt độ bề mặt mặt trời (hơn 5000 K) và bề mặt trái đất đất (khoảng 200-300 K). Từ đó, đường cong màu đỏ thể hiện sự phân bố năng lượng mặt trời đến phía bên trên bầu khí quyển Trái đất, trong khi đặc vùng màu đỏ bên dưới đường cong này là năng lượng xuống được đến mặt đất. Đường cong màu xanh lam (ở giữa bộ ba đường cong) biểu thị bức xạ từ mặt đất, nhưng chỉ một phần nhỏ (vùng chứa đầy màu xanh lam) truyền trực tiếp qua khí quyển [ra ngoài không gian]&mdash;phần còn lại được hấp thụ bởi khí nhà kính. Hình phía dưới liệt kê chi tiết dải ánh sáng bị hấp thụ hoặc tán xạ. Các vùng màu xám biểu thị sự hấp thụ và tán xạ, do đó các phần màu trắng xen kẽ có thể được coi là nơi bức xạ được truyền ra ngoài không gian [mà không bị hấp thụ]&mdash;thường được gọi là “cửa sổ” (*window*). Những tác nhân chính (khí nhà kính) được chia thành các hình nhỏ hơn bên dưới hình tổng phần trăm hấp thụ. Lưu ý rằng ozone ngăn chặn **tia cực tím** (ultraviolet, UV) và tán xạ Rayleigh là nguyên nhân khiến bầu trời có màu xanh lam&mdash;bằng cách tán xạ ánh sáng xanh từ mặt trời một cách hiệu quả (màu xanh lam nằm ở phía bên trái, trong khi màu đỏ nằm ở phía bên phải, của dải ánh sách “nhìn thấy”&mdash;kí hiệu bằng chữ «Thấy» trong hình). Nguồn: Robert Rohde.
 
 Trong số các khí nhà kính góp phần hấp thụ ánh sáng mặt trời minh họa trong **Hình 9.7**, hơi nước là tác nhân chiếm ưu thế, tiếp theo là CO~2~. Lưu ý rằng vùng màu xanh lam trong hình[^22] được phản ảnh bằng vùng màu trắng đồ thị tổng hấp thụ năng lượng theo phần trăm ở ngay bên dưới[^23]; và hơi nước chiếm phần chủ yếu trong việc hấp thụ năng lượng. Nhưng phía bên phải&mdash;có bước sóng dài hơn&mdash;của dải hấp thụ hơi nước có phần bị trùng với dải hấp thụ của CO~2~, có thể quan sát rõ hơn trong **Hình 9.8**. Chính dải CO~2~ này đã làm cho cạnh bên phải của vùng màu xanh[^24] có dạng đi xuống thẳng đứng như quan sát thấy trong **Hình 9.7**. Khi nồng độ CO~2~ trong bầu khí quyển gia tăng, dải hấp thụ của CO~2~ rộng ra, khiến cho ít  bức xạ thoát ra bên ngoài hơn (cắt vào phía bên phải của vùng màu xanh lam). 
+
+![climate-8](../../assets/images/climate-8.webp)
 
 > **Hình 9.8**: Một góc nhìn khác về quang phổ hấp thụ của hơi nước và CO~2~, biểu diễn rõ hợn sự đan xen của các các mỗi quang phổ . Nguồn: [Robert Rohde (NASA)](https://earthobservatory.nasa.gov/features/EnergyBalance/page7.php)[^25].
 
@@ -200,21 +257,34 @@ Trong số các khí nhà kính góp phần hấp thụ ánh sáng mặt trời 
 
     ...bức xạ đã thoát ra ngoài không gian
 
-[^25]
+[^25]:
 
     Tất cả các loại khí trong khí quyển đều có một kiểu hấp thụ năng lượng độc đáo: chúng hấp thụ một số bước sóng năng lượng nhưng trong suốt đối với những bước sóng khác. Kiểu hấp thụ của hơi nước (các vùng màu lam) và CO~2~ dioxide (màu  màu đỏ) trùng nhau ở một số bước sóng. CO~2~ không phải là một loại khí nhà kính mạnh như hơi nước, nhưng nó hấp thụ năng lượng ở các bước sóng (12-15 μm) mà hơi nước không làm được, đóng một phần “cửa sổ” mà qua đó bức xạ nhiệt tỏa từ bề mặt trái đất thường thoát ra ngoài không gian.
 
-
-Nếu một phần bức xạ hồng ngoại không thoát ra ngoài không gian mà bị khí quyển hấp thụ thì hành tinh sẽ không giảm nhiệt một cách hiệu quả, cộng thêm một phần bù vào **Phương trình** $\eqref{9.2}$&mdash;trong trường hợp Trái Đất là 33°C. Nó giống như trái đất đang khoác một tấm chăn làm tăng nhiệt độ lên 33°C. **Hình 9.9** minh họa cơ chế này. Hơi nước tạo ra 20°C trong số 33°C nhiệt độ tăng thêm, và CO~2~ tạo ra thêm 8°C, còn lại 5°C do tầng ozone, mê-tan và các
-chất khác (**Bảng 9.4**). Bất ngờ thay, khí mê-tan (CH~4~) là khí nhà kính mạnh hơn khoảng [80 lần](https://www.factcheck.org/2018/09/how-potent-is-methane/) so với CO~2~ (nếu tính cùng khối lượng và qua thời gian 20 năm), nhưng ở nồng độ trong khí quyển thấp hơn nhiều so với CO2 và cũng tồn tại trong khí quyển ngắn hơn trước khi bị phá hủy về mặt hóa học[^26]. Chúng ta tập trung vào CO2 vì đây là thứ mà hoạt động của con người đang thay đổi nhanh chóng do đốt nhiên liệu hóa thạch. Diện tiếp xúc khí quyển-đại dương rộng lớn cho thấy chúng ta không thể kiểm soát được nồng độ hơi nước. Hơi nước chỉ đơn giản thích nghi với nhiệt độ do thực tế là không khí ấm hơn giữ nhiều hơi ẩm hơn&mdash;trở thành một tác nhân phản hồi quan trọng. Hơi nước  không phải là tài xế (yếu tố quyết định) của nóng lên toàn cầu, mà là một hành khách nặng kí.
+Nếu một phần bức xạ hồng ngoại không thoát ra ngoài không gian mà bị khí quyển hấp thụ thì hành tinh sẽ không giảm nhiệt một cách hiệu quả, cộng thêm một phần bù vào **Phương trình** $\eqref{9.2}$&mdash;trong trường hợp Trái Đất là 33°C. Nó giống như trái đất đang khoác một tấm chăn làm tăng nhiệt độ lên 33°C. **Hình 9.9** minh họa cơ chế này. Hơi nước tạo ra 20°C trong số 33°C nhiệt độ tăng thêm, và CO~2~ tạo ra thêm 8°C, còn lại 5°C do tầng ozone, mê-tan và các chất khác (**Bảng 9.4**). Bất ngờ thay, khí mê-tan (CH~4~) là khí nhà kính mạnh hơn khoảng [80 lần](https://www.factcheck.org/2018/09/how-potent-is-methane/) so với CO~2~ (nếu tính cùng khối lượng và qua thời gian 20 năm), nhưng ở nồng độ trong khí quyển thấp hơn nhiều so với CO2 và cũng tồn tại trong khí quyển ngắn hơn trước khi bị phá hủy về mặt hóa học[^26]. Chúng ta tập trung vào CO2 vì đây là thứ mà hoạt động của con người đang thay đổi nhanh chóng do đốt nhiên liệu hóa thạch. Diện tiếp xúc khí quyển-đại dương rộng lớn cho thấy chúng ta không thể kiểm soát được nồng độ hơi nước. Hơi nước chỉ đơn giản thích nghi với nhiệt độ do thực tế là không khí ấm hơn giữ nhiều hơi ẩm hơn&mdash;trở thành một tác nhân phản hồi quan trọng. Hơi nước  không phải là tài xế (yếu tố quyết định) của nóng lên toàn cầu, mà là một hành khách nặng kí.
 
 [^26]:
 
     Phát thải khí mê-tan trở nên quan trọng do rò rỉ từ các địa giếng khoản dầu và tan băng vĩnh cửu.
 
+<div markdown="1" align="center">
+| **Phân tử**       | $\bf{\Delta{T}}$ **(°C)** |
+|:-----------------:|:------------------:|
+| H~2~O             | 20                 |
+| CO~2~             | 8,6                |
+| O~3~ (ôzôn)       | 2,6                |
+| CH~4~ (mê-tan)    | 1,5                |
+| N~2~O (nitơ ôxit) | 0,5                |
+| Tổng cộng         | 33                 |
+</div>
+
+>**Bảng 9.4**: Đóng góp của các loại khí nhà kính vào sự gia tăng nhiệt độ ($\Delta{T}$)
+
+![climate-9](../../assets/images/climate-9.webp)
+
 >**Hình 9.9**: Khi không có khí nhà kính, bức xạ hồng ngoại không gặp khó khăn gì khi thoát ra ngoài vũ trụ (trái). Khi có khí nhà kính (phải), phần lớn bức xạ hồng ngoại được các phân tử khí nhà kính hấp thụ. Những phân tử này sau đó sẽ giải phóng năng lượng đã hấp thụ dưới dạng bức xạ hồng ngoại mới, nhưng theo hướng ngẫu nhiên, để một phần năng lượng được đưa trở lại mặt đất, do đó giữ cho bề mặt ấm hơn so với khi không có khí nhà kính.
 
-Nói một cách ngây thơ, việc tăng từ nồng độ CO~2~ trong khí quyển từ 280 ppm~v~ lên 420 ppm~v~ (tăng theo hệ số 1,5), có thể được cho là sẽ biến hiệu ứng nhà kính 8,6°C từ CO2 thành 12,9°C (ở hệ số tăng 1,5 lần) với mức nóng lên do con người gây ra là 4,3°C[^27] Nhưng đặc tính hấp thụ của CO2 ở ~15 μm bị bão hòa, do đó khi nồng độ CO~2~ tăng lên vào, dải hấp thụ của nó sẽ trở nên rộng hơn, nhưng theo hàm logarit chứ không phải tuyến tính theo nồng độ CO~2~. Các nhà khoa học về khí hậu thường biểu thị tác động của các ảnh hưởng khác nhau dưới dạng lực bức xạ, được đo bằng **bức xạ cưỡng bức** (*radiative forcing*), đơn vị W/m^2^.
+Nói một cách ngây thơ, việc tăng từ nồng độ CO~2~ trong khí quyển từ 280 ppm~v~ lên 420 ppm~v~ (tăng theo hệ số 1,5), có thể được cho là sẽ biến hiệu ứng nhà kính 8,6°C từ CO2 thành 12,9°C (ở hệ số tăng 1,5 lần) với mức nóng lên do con người gây ra là 4,3°C[^27]. Nhưng đặc tính hấp thụ của CO2 ở ~15 μm bị bão hòa, do đó khi nồng độ CO~2~ tăng lên vào, dải hấp thụ của nó sẽ trở nên rộng hơn, nhưng theo hàm logarit chứ không phải tuyến tính theo nồng độ CO~2~. Các nhà khoa học về khí hậu thường biểu thị tác động của các ảnh hưởng khác nhau dưới dạng lực bức xạ, được đo bằng **bức xạ cưỡng bức** (*radiative forcing*), đơn vị W/m^2^.
 
 !!! abstract "Định nghĩa 9.2.1"
 
@@ -237,7 +307,7 @@ $$
 khá giống với **Phương trình** $\eqref{9.2}$&mdash;chia cho 4 đã được giải thích ở phần trước. Nếu không thêm khí nhà kính từ thời tiền công nghiệp vào, chúng ta sẽ có nhiệt độ[^29]:
 
 $$
-    T = (\frac{\textrm{RF_{☉}}}{σ})^0,25 + 33 \tag{9.4}\label{9.4}
+    T = (\frac{RF_{☉}}{σ})^{0,25} + 33 \tag{9.4}\label{9.4}
 $$
 
 [^29]:
@@ -257,10 +327,10 @@ trong đó hàm ln() là logarit tự nhiên (cơ số $e$)[^30]. Ở mức ~420
     ...để biểu diễn đầy đủ theo hàm số mũ độ rộng của dải hấp thụ ánh sách của CO~2~ ở bước sóng 15 μm trong **Hình 9.7**.
 
 $$
-    T = (\frac{\textrm{RF_{☉} + RF_{CO_{2}}}}{σ})^0,25 + 33 ≈ 288,6\,K \tag{9.6}\label{9.6}
+    T = (\frac{RF_{☉} + RF_{CO_{2}}}{σ})^{0,25} + 33 ≈ 288,6\,K \tag{9.6}\label{9.6}
 $$
 
-tức là lớn hơn khoảng 0,6°C ($≈288.6 K - 288 K$) so với trước khi tăng nồng độ CO~2~ trong khí quyển từ thời tiền công nghiệp. Chúng ta có thể biểu thị điều này như một **độ nhạy** (*sensitivity*): chênh lệch nhiệt độ $\Delta{T}$ là bao nhiêu tương ứng với mức mất cân bằng bức xạ cưỡng bức? Trong trường hợp này, 0,6°C từ mức tăng 2,2 W/m^2^ là 0,27°C mỗi W/m^2^ ($≈0,6/2,2$). Nhưng khi đưa vào các cơ chế phản hồi đã biết&mdash;hầu hết là phản hồi xuôi (*positive feedback*)&mdash;độ nhạy nhiệt độ trở thành 0,8°C cho mỗi đơn vị W/m2 bức xạ cưỡng bức thêm vào: đây được gọi là **thông số độ nhạy khí hậu** (*climate sensitivity parameter*)[^31]
+tức là lớn hơn khoảng 0,6°C ($≈288.6 K - 288 K$) so với trước khi tăng nồng độ CO~2~ trong khí quyển từ thời tiền công nghiệp. Chúng ta có thể biểu thị điều này như một **độ nhạy** (*sensitivity*): chênh lệch nhiệt độ $\Delta{T}$ là bao nhiêu tương ứng với mức mất cân bằng bức xạ cưỡng bức? Trong trường hợp này, 0,6°C từ mức tăng 2,2 W/m^2^ là 0,27°C mỗi W/m^2^ ($≈0,6/2,2$). Nhưng khi đưa vào các cơ chế phản hồi đã biết&mdash;hầu hết là phản hồi xuôi (*positive feedback*)&mdash;độ nhạy nhiệt độ trở thành 0,8°C cho mỗi đơn vị W/m2 bức xạ cưỡng bức thêm vào: đây được gọi là **thông số độ nhạy khí hậu** (*climate sensitivity parameter*)[^31].
 
 [^31]:
 
@@ -270,7 +340,7 @@ tức là lớn hơn khoảng 0,6°C ($≈288.6 K - 288 K$) so với trước kh
 
     Tham số độ nhạy khí hậu kết nối mức độ nóng lên dự kiến đối với một lượng cưỡng bức bức xạ nhất định. Sự hiểu biết hiện tại đặt giá trị này ở mức 0,8C trên W/m2 của lực bức xạ
 
-Do đó, 2,2 W/m^2 bức xạ cưỡng bức bổ sung (do nhiên liệu hoá thạch) sẽ làm nhiệt độ tăng[^32] 1,7°C (**Hình 9.10**), gấp khoảng 3 so với các tính toán không có phản hồi.
+Do đó, 2,2 W/m^2 bức xạ cưỡng bức bổ sung (do nhiên liệu hoá thạch) sẽ làm nhiệt độ tăng[^32] 1,7°C (**Hình 9.10**), gấp khoảng 3 lần so với các tính toán không có phản hồi.
 
 [^32]:
 
@@ -280,7 +350,7 @@ Do đó, 2,2 W/m^2 bức xạ cưỡng bức bổ sung (do nhiên liệu hoá th
 
     Nếu chúng ta tăng gấp đôi nồng độ CO~2~ so với thời kỳ tiền công nghiệp thì nhiệt độ sẽ tăng lên bao nhiêu?
 
-    Nồng độ CO~2~ thời kì tiền công nghiệp là 280 ppm~v~, do đó, tăng gấp đôi lượng CO~2~ sẽ tăng thêm 280 ppm~v~ lên tổng cộng 560 ppm~v~. Bức xạ cưỡng bức khi đó tính theo **Phương trình* $\eqref{9.5}$ là 5,35 × ln(2) ≈ 3,7 W/m^2^. Nhân con số này với **độ nhạy khí hậu** ở mức 0,8°C/W/m^2^ sẽ ra nhiệt độ tăng lên khoảng 3.0°C (sẽ là khoảng 0,27 x 3,7 ≈ 1°C nếu không tính đến các phản hồi).
+    Nồng độ CO~2~ thời kì tiền công nghiệp là 280 ppm~v~, do đó, tăng gấp đôi lượng CO~2~ sẽ tăng thêm 280 ppm~v~ lên tổng cộng 560 ppm~v~. Bức xạ cưỡng bức khi đó tính theo **Phương trình** $\eqref{9.5}$ là 5,35 × ln(2) ≈ 3,7 W/m^2^. Nhân con số này với **độ nhạy khí hậu** ở mức 0,8°C/W/m^2^ sẽ ra nhiệt độ tăng lên khoảng 3,0°C (tương đương 0,27 x 3,7 ≈ 1°C nếu không tính đến các phản hồi).
 
 Những phản hồi tích xuôi (hay phản hồi tích cực, *positive feedback*&mdash;phản hồi cùng chiều hướng của tác động) rất quan trọng và bao gồm các yếu tố như:
 
