@@ -8,7 +8,7 @@ Hành tinh Trái đất cho đến nay là ốc đảo duy nhất có sự sốn
 
 ### Huyền thoại về sự tăng trưởng vô thời hạn
 
-Mô hình công nghiệp và sản xuất mà thế giới hiện đại dựa vào áp dụng hệ tư tưởng "luôn luôn nhiều hơn" và tìm kiếm lợi nhuận không giới hạn trên một hành tinh hữu hạn. Việc tiếp cận các nguồn tài nguyên đạt được thông qua cướp bóc, cạnh tranh và chiến tranh kinh tế giữa các cá nhân. Phụ thuộc vào quá trình đốt cháy năng lượng và dầu mỏ, mà nguồn dự trữ đang cạn kiệt, mô hình này không thể nhân rộng cho tất cả mọi người.
+Mô hình công nghiệp và sản xuất mà thế giới hiện đại dựa vào áp dụng hệ tư tưởng “luôn luôn nhiều hơn” và tìm kiếm lợi nhuận không giới hạn trên một hành tinh hữu hạn. Việc tiếp cận các nguồn tài nguyên đạt được thông qua cướp bóc, cạnh tranh và chiến tranh kinh tế giữa các cá nhân. Phụ thuộc vào quá trình đốt cháy năng lượng và dầu mỏ, mà nguồn dự trữ đang cạn kiệt, mô hình này không thể nhân rộng cho tất cả mọi người.
 
 ### Sức mạnh tối thượng của tiền bạc
 
