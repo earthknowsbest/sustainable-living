@@ -239,6 +239,79 @@ qua vật lý đơn giản;
 
 Thêm một cái nhìn sâu sắc nữa: ngay cả khi chúng ta ngừng phát thải CO~2~ ngày hôm nay, nhiệt độ Trái đất sẽ tiếp tục tăng khi các đại dương dần dần thích ứng với thực tế bức xạ mới do 420 ppm~v~ CO~2~ trong khí quyển áp đặt.
 
+### Nước biển dân
 
+Phần trước đề cập đến năng lượng của các tảng băng tan chảy. Kết quả là nước tan chảy vào đại dương[^63] và góp phần làm mực nước biển dâng cao. Ngoài băng tan, mực nước biển còn tăng do sự giãn nở nhiệt của nước khi nước nóng lên. **Hình 9.16** cho thấy lịch sử gần đây.
 
+[^63]:
 
+    Băng trôi trên đại dương đã làm mất nước nên băng tan không ảnh hướng đến mực nước biển dâng.
+
+>**Hình 9.16**: Đo đạc mực nước biển bằng vệ tinh từ năm 1993 cho thấy mực nước biển dâng 3,6 mm mỗi năm. Băng tan là nguyên nhân lớn nhất, mặc dù sự giãn nở nhiệt cũng đóng một vai trò nào đó. Nguồn: NOAA.
+
+Băng tan góp phần làm tăng khoảng 2,4 mm/năm, trong khi **giãn nở nhiệt** (*thermal expansion*) chiếm khoảng 1,2 mm/năm với tổng tốc độ là [3,6 mm/năm]((https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level)). Năm 1880, mực nước biển đã dâng khoảng 230 mm. Với tốc độ *hiện tại*, chúng ta kỳ vọng vào năm 2100 mực nước biển sẽ dâng lên thêm, dẫn đến tổng cộng 0,5 m nước biển dâng.
+
+Nhưng tốc độ hiện tại có thể không phải là thước đo đúng đắn, vì nhiệt độ không khí ấm lên dẫn đến tốc độ băng tan nhanh hơn. Phản hồi xuôi cũng đẩy nhanh tốc độ tan băng. Ví dụ, những vùng băng đã tan thành nước trên mặt biển có màu sẫm hơn băng, làm tăng tốc độ hấp thụ năng lượng mặt trời.
+
+Chúng ta có thể tìm hiểu nhanh chóng mức nước biển dâng có thể xảy ra, dựa trên thực tế là phần lớn băng “vĩnh cửu” trên hành tinh hiện ở Nam Cực và Greenland. Hai tảng băng này lần lượt chiếm 2,7% và 0,3% diện tích bề mặt toàn cầu. Từ đó, có thể dễ dàng ước tính mực nước biển dâng, vì đại dương
+(chiếm 71% diện tích toàn cầu) có diện tích lớn gấp 26 lần dải băng Nam Cực và lớn hơn 210 lần băng Greenland. Điều này có nghĩa là cần có 26 mét băng tan chảy từ Nam Cực[^64] để nâng mực nước biển lên 1 mét và cần băng ở Greenland tan 210 mét để làm điều tương tự[^65]. Xem **Hình 9.17** để hiểu về logic ở đây.
+
+Bây giờ nếu chúng ta biết độ dày trung bình của mỗi tảng băng, chúng ta có thể tính được mực nước biển sẽ dâng lên bao nhiêu nếu toàn bộ băng tan chảy. Dải băng Greenland được ước tính có thể tích 2,85 triệu km khối, có độ sâu trung bình là 1,7 km[^66]. Độ sâu này bằng 8 lần mức 210 m ở trên, vì vậy chúng ta có thể kì vọng mực nước biển dâng khoảng 8 m nếu toàn bộ băng ở Greenland tan chảy. Đối với Nam Cực, 26,5 triệu km khối tương ứng với độ dày băng trung bình
+là 1,9 km, gấp khoảng 70 lần so với 26 m ở trên, vì thế chúng ta dự đoán mực nước biển sẽ dâng lên khoảng 70 mét trong trường hợp cực đoan: Nam Cực tan băng hoàn toàn.
+
+!!! note "Hộp 9.3: Ước tính chặt chẽ hơn..."
+
+    Tương đối dễ dàng tìm thấy các tài liệu tham khảo ước tính khả năng mực nước biển dâng cao do băng tan hoàn toàn ở Greenland và Nam Cực. [Một ước tính](http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/) cho biết 7,4 m nước biển dâng nếu băng tan hết ở Greenland, 58 m nếu Nam Cực không còn băng và 0,3 m từ các sông băng tan chảy.
+
+    Vậy tại sao chúng ta lại thực hiện quá trình ước tính ở trên? Mục đích là để loại bỏ các bí ẩn[^67]. Một khi chúng ta đã ước tính được độ sâu và tỷ lệ diện tích bề mặt, chúng ta có thể tự mình ước tính được mực nước biển dâng.
+
+[^67]:
+
+    Một mục tiêu của cuốn sách này là giúp bạn đọc có thể kiểm tra một cách độc lập bên cạnh nhiều nguồn thông tin xác thực khác&mdash;như 2 + 2 = 4 có thể tự mình kiểm chứng mà không phải là vấn đề niềm tin.
+
+Các thành phố ven biển hiện nay đang phải vật lộn để đối phó với mực nước biển dâng 0,25 m. Con số này có vẻ không nhiều và vào những ngày bình thường không gây ra vấn đề gì. Nhưng áp suất thấp liên quan đến bão dẫn đến mực nước dâng cao cục bộ[^68], theo đó một cơn bão cộng với thủy cường và sóng lớn sẽ thêm vào sự gia tăng biến đổi khí hậu sẽ phá hủy các công trình kiến trúc của con người mà lẽ ra lẽ ra
+đã có thể không bị tổn hại. Ngay cả khi lượng khí thải CO~2~ chấm dứt ngày hôm nay, hiện tượng nóng lên đã xảy ra sẽ tiếp tục làm tan băng. Nhiệt độ cũng sẽ tiếp tục tăng khi lực tác động do lượng CO~2~ hiện có tiếp tục làm nóng đại dương khi tiến dần đến trạng thái cân bằng (về năng lượng)&mdash;một quá trình diễn ra hết sức chậm chạp. Vì vậy, nước biển dâng có thể trở thành món quà tự nhiên tiếp tục ban tặng trong nhiều thế kỷ nữa.
+
+[^68]:
+
+    Nơi có áp suất cao sẽ đẩy nước vào những khu vực có áp suất thấp.
+
+Mực nước biển trong quá khứ xa xôi&mdash;hàng chục triệu năm trước&mdash;đã từng cao tới 200 m so với hiện tại. 20.000 năm trước, trong thời kỳ băng hà cuối cùng, mực nước biển [thấp hơn](https://doi.org/10.1073/pnas.1411762111) so với ngày nay 120 m. Trái đất không còn xa lạ với những biến động lớn của mực nước biển. Trái lại, nhiều thành phố ven biển không giải quyết được ngay cả mực nước biển dâng 1 mét được dự đoán vào năm 2100 trong một số mô hình khí hậu.
+
+## 5. Chúng ta có thể làm được gì?
+
+Cho đến nay, chúng ta chỉ đang mô tả hiện tượng biến đổi khí hậu là một hậu quả rõ ràng của thói quen sử dụng nhiên liệu hóa thạch, nhưng chưa đề cập đến những gì mình có thể làm để chống lại nó. Trong phần này, tác giả sẽ không cố gắng che giấu quan điểm cá nhân của mình về vấn đề này và sẽ tóm lược ngắn gọn ở đây.
+
+Đầu tiên, những ý tưởng **công nghệ khí hậu** (*geo-engineering*, các phương pháp thay đổi địa chất hay kết cấu bầu khí quyển để giải quyết vấn đề nóng lên toàn cầu) có vẻ ngạo mạn và giống như đang giải quyết vấn đề lao xuống vực bằng cách đào hố đủ nhanh trước khi rơi xuống. Mấu chốt của vấn đề: chúng ta tự thuyết phục bản thân rằng mình có thể khôn ngoan hơn thiên nhiên[^69]. Điều này giống như việc chúng ta sẽ không đến gặp bác sĩ, người đã cố gắng điều trị bệnh cho chúng ta và thay vào đó, áp dụng những biện pháp hời hợt để điều trị tình trạng của mình mà không giải quyết dứt điểm được những nguyên nhân gây bệnh cơ bản.
+
+[^69]:
+
+    Xem **Phần D.6** trong **Phụ lục D** để tiếp tục thảo luận về điều này
+
+Trong trường hợp này, nguyên nhân cơ bản rất đơn giản: tham vọng của con người không được kiểm soát[^70]. Sự kết hợp của nhiên liệu hóa thạch, động lực tăng trưởng không ngừng, sự tàn phá rừng và môi trường sống[^71], áp lực dân số và cách tiếp cận công nghiệp đối với nông nghiệp đều đóng một vai trò nào đó. Đây là lý do tại sao cuộc chiến này vô cùng cam go: chính chúng ta đang chiến đấu chống lại bản thân. Đó là những con người thường làm. Chúng ta là kẻ thù của chính mình. Làm thế nào để chúng ta chiến đấu với chính bản thân? Để làm được điều đó đòi hỏi sự trung thực và thậm chí sự tự nguyện mang tính tập thể, sẵn sàng hy sinh bản thân và ưu tiên sức khỏe của hành tinh hơn những lợi ích ngắn hạn thiển cận hẹp hòi của con người. Điều gì quan trọng hơn: các cá nhân cố gắng thực hiện tất cả ước mơ của họ ngay bây giờ hay một nền văn minh được tồn tại lâu dài? Liệu chúng ta có sẵn sàng từ bỏ những ham muốn của bản thân để hàng tỷ con người trong tương lai mà chúng ta sẽ chưa bao giờ gặp và vô số loài khác trên hành tinh cũng có thể tận hưởng cuộc sống? Chúng ta chưa bao giờ phải đưa ra một lựa chọn khó khăn như vậy trên toàn cầu, vì vậy thật khó để nói liệu loài người, Homo sapiens, có thể thực hiện được hay không.
+
+[^70]:
+
+    Cuối cùng thiên nhiên chắc chắn sẽ “chiếu tướng” (kiểm soát) chúng ta
+
+[^71]:
+
+    ...loại bỏ các **nguồn thu các-bon** (*các-bon sink*) và làm yếu đi khả năng thích nghi của tự nhiên
+
+Các chương cuối cùng trong cuốn sách này, bắt đầu từ **Chương 18**, đề cập đến các yếu tố liên quan đến con người góp phần tạo ra vấn đề hay triển vọng của chúng ta; kết thúc ở **Chương 20** thảo luận về các **chiến lược giảm thiểu tác động** (*mitigation strategy*) ở cấp độ cá nhân. Nó không áp dụng các kỹ thuật khí hậu, mà nhấn mạnh việc **thích ứng hành vi** (*behavioral adaptation*) dẫn đến giảm thiểu tác động [của biến đổi khí hậu nói riêng và nâng cao sức khoẻ hành tinh nói chung] rất lơn nếu được áp dụng rộng rãi.
+
+## 6. Kết luận: Biến đổi khí hậu vô cùng nghiêm trọng
+
+Mặc dù chúng ta có thể dễ dàng chứng minh rằng lượng CO~2~ đo được do việc đốt cháy nhiên liệu hóa thạch với cơ sở vật lý đơn giản chi phối cân bằng nhiệt độ khi có khí nhà kính, điều đáng kinh ngạc là chúng ta không hoàn toàn chấp nhận thực tế. Nhưng có lẽ điều này không đáng ngạc nhiên. Biến đổi khí hậu là một sự đối đầu rõ ràng trong hiện tại với một số hệ tư tưởng kinh tế và chính trị con người mong muốn để thị trường định hướng con đường phát triển của mình mà không gây ra hậu quả gì. Nhưng phủ nhận và khăng khăng rằng chúng ta vẫn tuân theo cách mọi thứ đã diễn ra trong quá khứ không phải là phương pháp thông minh nhất. Biến đổi khí hậu là một dấu hiệu rõ ràng cho thấy chúng ta không thể làm bất cứ điều gì sao cho mình kiếm được nhiều tiền nhất. Các lựa chọn thay thế cho nhiên liệu hóa thạch đắt tiền và kém thuận tiện hơn. Biến đổi khí hậu có hại cho hoạt động kinh doanh và cũng đe dọa chủ nghĩa tư bản bằng cách áp đặt các giới hạn đối với tham vọng của chúng ta. Không có gì ngạc nhiên khi Hoa Kỳ nằm trong số những quốc gia có khả năng nhất để chống lại thực tế biến đổi khí hậu. Vì đây là quốc gia tư bản đáng tự hào nhất, với nhu cầu năng lượng tiêu thụ bình quân đầu người khổng lồ và đóng góp nhiều nhất vào lượng khí thải CO~2~ toàn cầu trong suốt lịch sử ([Hình 9.5](9-climate-I.md#nhung-quoc-gia-chiu-trach-nhiem-chinh)).
+
+Dù biến đổi khí hậu có thực tế đến đâu, vẫn chưa rõ liệu nó có phải là **mối đe dọa đối với sự hiện hữa của nền văn minh** (*existential threat*) hay không[^72]. Mặc dù việc thích ứng có thể vô cùng tốn kém[^73], những thay đổi diễn ra dần dần theo khung thời gian khiến con người có thể vẫn giải quyết được vấn đề&mdash;&mdash;mặc dù rõ ràng là không êm thấm. 
+
+Tuy nhiên, sự gián đoạn của tài nguyên[^74] có thể khiến thị trường rơi tự do và kích thích các hành động quân sự toàn cầu có thể tàn khốc hơn nhiều trong khoảng thời gian ngắn hơn. Chúng ta đang trong một cuộc chạy đua để xem hậu quả nào gây ra vấn đề lớn nhất trong thời gian sớm nhất. Nếu may mắn, lựa chọn thứ ba sẽ xuất hiện để cứu cánh khỏi những khó khăn như thế. Nhưng hãy nhớ rằng xã hội loài người là một cấu trúc **phi tuyến tính** (*non-linear*) cao, có thể bị đổ vỡ một cách không thể nhận ra ở quy mô nhanh hơn nhiều so với trường hợp nhữngg diễn biến [thường chậm hơn] của đổi khí hậu do vật lý chi phối.
+
+[^72]:
+
+    Nó mang tính huỷ diệt toàn cầu, hay chỉ mang lại rất nhiều đau khổ? [Người dịch: với nhiệt độ gia tăng đột biến vào mùa hè năm 2023, các thảm hoạ cháy rừng, hạn hán và lũ lụt xảy ra trên mọi lục địa, sự suy giảm hệ sinh thái trên cạn và biển cùng với băng tan vượt xa ước tính, v.v. báo hiệu rằng sự huỷ diệt là điều hoàn toàn khả thi].
+
+[^73]:
+
+    ...từ bỏ một số khu vực ven biển, di cư khỏi vùng khí hậu không thể tồn tại được, giảm dân số để đối phó sự suy giảm tài nguyên nông nghiệp, thích ứng với các hệ sinh thái mới có được do sự tước đoạt từ một số loài khác.
