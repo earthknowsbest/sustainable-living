@@ -12,7 +12,8 @@ Background-dark: #2F2322
 
 ```html
 <!-- Center -->
-<div markdown="1" align="center"></div>
+<div markdown="1" align="center">
+</div>
 ```
 
 Format svg: `style='scaling-svg'`

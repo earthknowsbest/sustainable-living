@@ -1,4 +1,4 @@
-# Nhiên liệu hoá thạch (*fossil fuel*) (Phần I)
+# Chương 8: Nhiên liệu hoá thạch (*fossil fuel*) (Phần I)
 
 ![fossil-0](../../assets/images/fossil-0.webp)
 !!! quote ""

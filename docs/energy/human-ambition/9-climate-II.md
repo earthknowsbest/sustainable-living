@@ -1,3 +1,5 @@
+# Chương 9: Biến đổi khí hậu (Phần II)
+
 ## 3. Quỹ đạo phát thải
 
 Bắt đầu từ dữ liệu được sử dụng trong **Hình 9.3**, bây giờ chúng ta thử hình dung vài ví dụ để hiểu xem tương lai có thể ra sao khi tổng phát thải CO~2~ tăng tương ứng với nhiệt độ ($\Delta{T}$) tăng vào năm 2100 trong kịch bản giả định khác nhau[^32].
@@ -18,7 +20,16 @@ Trước hết, hãy hình dung rằng chúng ta đột nhiên chấm dứt sự
 
     ...cho ra kết quả 620 ppm~v~; tăng thêm 339 ppm~v~ so với thời kì tiền công nghiệp 280 ppm~v~
 
->**Bảng 9.5**: Tóm tắt các kịch bản
+<div markdown="1" align="center">
+| **Kịch bản**        | **&Delta;CO~2~ (ppm~v~)** | **So với hiện tại** | **CO~2~ (ppm~v~)** | $\bf{RF_{CO_{2}}}$ **(W/m^2^)** | **&Delta;T (°C)** |
+|:-------------------:|:-------------------------:|:-------------------:|:------------------:|:-------------------------:|:--------------------:|
+| **FF không tăng**   | 339                       | 2,75 ×              | 620                | 4,25                      | 3,4                  |
+| **Không than **     | 268                       | 2,18 ×              | 548                | 3,6                       | 2,9                  |
+| **Bằng 0 năm 2100** | 235                       | 1,91 ×              | 515                | 3,3                       | 2,6                  |
+| **Bằng 0 năm 2050** | 169                       | 1,37 ×              | 450                | 2,5                       | 2,0                  |
+</div>
+
+>**Bảng 9.5**: Tóm tắt các kịch bản. **FF** (*Fossil Fuels*): các loại nhiên liệu hoá thạch
 
 Chúng ta đang chứng kiến những vấn đề nghiêm trọng đang diễn ra lên hiện nay, ở nhiệt độ khoảng hơn 1,2°C tăng lên, vì vậy kịch bản 3,4°C này là không hề mong muốn (ở mức thảm hoạ)[^35]. Hãy suy nghẫm một chút về việc con người dừng tăng mức phát thải hàng năm một cách đột ngột. Thực tế cho thấy tốc độ phát thải CO~2~ thường tăng từ năm này qua năm khác: chúng ta còn chưa biết đỉnh điểm ở đâu!
 
@@ -147,7 +158,25 @@ Sử dụng các đặc tính của các thành phần khác nhau trong **Bảng
 
     Có hai mục còn trống trong bảng, vì sẽ không có nhiều ý nghĩa khi nói về việc làm nóng chỉ một lớp khí quyển hoặc làm nóng “toàn bộ” mặt đất.
 
->**Bảng 9.6**: Tính chất các thành phần có khối lượng trên bề mặt Trái đất. Khoảng 90% khối lượng băng nằm ở dải băng Nam Cực, 10% ở dải băng Greenland và chưa đến một nửa phần trăm ở các sông băng. Nguồn [1](https://www.usgs.gov/special-topic/water-science-school/science/how-much-water-there-earth?), [2](http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/)
+<div markdown="1" align="center">
+| **Thành phần** | **Diện tích (10^12^ m^2^)** | **Thể tích (10^15^ m^3^)** | **Khối lượng (10^18^ kg)** | **Mật độ (kg/m^3^)** | **Nhiệt dung (J/kg)** |
+|:--------------:|:---------------------------:|:--------------------------:|:--------------------------:|:--------------------:|:---------------------:|
+| **Khí quyển**  | 510                         | 4.000                      | 5,3                        | 1,3                  | 1.000/°C              |
+| **Đất/đá**     | 150                         | &mdash;                    | &mdash;                    | 2.000                | 1.000/°C              |
+| **Đại dương**  | 360                         | 1.400                      | 1.400                      | 1.000                | 4.184/°C              |
+| **Băng**       | 16                          | 29                         | 2,6                        | 917                  | 334.000               |
+</div>
+
+>**Bảng 9.6**: Tính chất các thành phần có khối lượng trên bề mặt Trái đất. Khoảng 90% khối lượng băng nằm ở dải băng Nam Cực, 10% ở dải băng Greenland và chưa đến một nửa phần trăm ở các sông băng. Nguồn [1](https://www.usgs.gov/special-topic/water-science-school/science/how-much-water-there-earth?), [2](http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/).
+
+<div markdown="1" align="center">
+| **Thành phần** | **Nhiệt trên mét**</br>**(10^21^ J/m)** | **Tổng nhiệt</br>(10^24^ J)** |
+|:--------------:|:-------------------------------:|:------------------------------:|
+| **Khí hậu**    | &mdash;                         | 0,0053/°C                      |
+| **Đất/đá**     | 0,3/°C                          | &mdash;                        |
+| **Đại dương**  | 1,5/°C                          | 4,59/°C                        |
+| **Băng**       | 4,9                             | 8,8                            |
+</div>
 
 >**Bảng 9.7**: Nhu cầu năng lượng để làm nóng (“nhiệt tích”) các thành phần của Trái đất, lấy từ **Bảng 9.6**. Việc đầu tư năng lượng cho ba hợp phần đầu tiên phụ thuộc vào sự thay đổi nhiệt độ mong muốn, trong khi làm tan băng không phụ thuộc vào sự thay đổi nhiệt độ.
 
@@ -173,6 +202,41 @@ Với thông tin trên, giờ đây chúng ta có thể ước lượng được
 
     Nếu có thể chuyển *toàn bộ* dư thừa năng lượng 1,6 × 10^22^ J từ 1 W/m^2^ mất cân bằng năng lượng vào chỉ một thành phần của Trái đất[^57], thử hỏi khi thêm 1°C sẽ làm nóng/làm tan thành phần này đến độ sâu bao nhiêu?
 
+    <div class="md-custom__scrollwrap">
+    <table class="md-custom__table">
+    <thead>
+    <tr class="md-custom__tr">
+    <th class="md-custom__th"><strong>Thành phần</strong></th>
+    <th class="md-custom__th"><strong>Tính toán</strong></th>
+    <th class="md-custom__th"><strong>Độ sâu (m)</strong></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td class="md-custom__td"><strong>Đất liền</strong></td>
+    <!-- <td class="md-custom__td">1,6 × 10<sup>22</sup> </br>J/(0,3 ×
+    10<sup>21</sup> J/m/°C·1°C)</td> -->
+    <td class="md-custom__td">$1{,}6 × 10^{22}\,J/(0{,}3 × 10^{21}\,J/m/°C·1°C)$</td>
+    <td class="md-custom__td">$54$</td>
+    </tr>
+    <tr class="even">
+    <td class="md-custom__td"><strong>Đại dương</strong></td>
+    <!-- <td class="md-custom__td">1,6 × 10<sup>22</sup> </br>J/(1,5 ×
+    10<sup>21</sup> J/m/°C·1°C)</td> -->
+    <td class="md-custom__td">$1{,}6 × 10^{22}\,J/(1{,}5 × 10^{21}\,J/m/°C·1°C)$</td>
+    <td class="md-custom__td">$11$</td>
+    </tr>
+    <tr class="odd">
+    <td class="md-custom__td"><strong>Băng</strong></td>
+    <!-- <td class="md-custom__td">1,6 × 10<sup>22</sup> </br>J/(4,9 ×
+    10<sup>21</sup> J/m)</td> -->
+    <td class="md-custom__td">$1{,}6 × 10^{22}\,J/(4{,}9 × 10^{21}\,J/m)$</td>
+    <td class="md-custom__td">$3{,}3$</td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+
     Từ đây, chúng ta thấy rằng đất dễ bị làm nóng hơn và băng chống chịu tốt hơn&mdash;chỉ tan 3 m mỗi năm nếu tất cả nhiệt dư thừa đều dồn vào việc làm tan băng 
 
 [^57]:
@@ -188,6 +252,42 @@ Tương tự như vậy, chúng ta có thể khám phá xem sẽ mất bao lâu 
 !!! example "Ví dụ 9.4.3""
 
     Nếu chúng ta có thể dùng thặng dư năng lượng hàng năm  1,6 × 10^22^ J từ mỗi 1 W/m^2^ mất cân bằng nhiệt độ vào việc làm nóng chỉ một thành phần[^58], thử hỏi nhiệt độ mỗi thành phần sẽ tăng bao nhiêu mỗi năm, hay băng sẽ tan trong bao nhiêu lâu?
+
+    <div class="md-custom__scrollwrap">
+    <table class="md-custom__table">
+    <thead>
+    <tr class="md-custom__tr">
+    <th class="md-custom__th"><strong>Thành phần</strong></th>
+    <th class="md-custom__th"><strong>Tính toán</strong></th>
+    <th class="md-custom__th"><strong>&Delta;T (°C)</strong></th>
+    <th class="md-custom__th"><strong>Số năm → 1°C</strong></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td class="md-custom__td"><strong>Khí hậu</strong></td>
+    <!-- <td class="md-custom__td">1,6 × 10<sup>22</sup> </br>J/(5,3 × 10<sup>21</sup> J/°C)</td> -->
+    <td class="md-custom__td">$1{,}6 × 10^{22}\,J/(5{,}3 × 10^{21}\,J/°C)$</td>
+    <td class="md-custom__td">$3{,}0$</td>
+    <td class="md-custom__td">$0{,}33$</td>
+    </tr>
+    <tr class="even">
+    <td class="md-custom__td"><strong>Đại dương</strong></td>
+    <!-- <td class="md-custom__td">1,6 × 10<sup>22</sup> J/(5,9 × 10<sup>24</sup> J/°C)</td> -->
+    <td class="md-custom__td">$1{,}6 × 10^{22}\,J/(5{,}9 × 10^{24}\,J/°C)$</td>
+    <td class="md-custom__td">$0{,}0027$</td>
+    <td class="md-custom__td">$367$</td>
+    </tr>
+    <tr class="odd">
+    <td class="md-custom__td"><strong>Băng</strong></td>
+    <!-- <td class="md-custom__td">1,6 × 10<sup>22</sup> </br>J/(8,8 × 10<sup>24</sup> J)</td> -->
+    <td class="md-custom__td">$1{,}6 × 10^{22}\,J/(8{,}8 × 10^{24}\,J)$</td>
+    <td class="md-custom__td">$0,185%$</td>
+    <td class="md-custom__td">$545$ năm để tan</td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
 
     Khí quyển rất lạ: chỉ cần rất ít nhiệt năng để thay đổi nhiệt độ. Trong khi đó, đại dương lại rất khó thay đổi nhiệt độ. Với băng, chúng ta quan sát thấy một phần nhỏ mất đi mỗi năm thay vì nhiệt độ tăng.
 
