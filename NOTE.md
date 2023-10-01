@@ -19,9 +19,10 @@ Background-dark: #2F2322
 Format svg: `style='scaling-svg'`
 
 [Math Symbol](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
+[ASCII Code](https://ascii.cl/htmlcodes.htm)
 
 ```latex
-⊕ , ☉ , π, ~ , ≈ , · , × , ÷ , →, \ge , \lt, \bf, \it, \textbf, \textit, \textrm
+² , ³ , ⊕ , ☉ , π, ~ , ≈ , · , × , ÷ , →, \ge , \lt, \bf, \it, \textbf, \textit, \textrm
 μ, α, γ, δ, ε, ζ, η, ι, κ, λ, μ, ν, ο, π, ρ, ς, σ, τ, υ, χ
 $\eqref{6.11}$
 $\tag{6.1}\label{6.1}$

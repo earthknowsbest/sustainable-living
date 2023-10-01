@@ -14,6 +14,9 @@ Trước hết, hãy hình dung rằng chúng ta đột nhiên chấm dứt sự
 
     ...được thể hiện trong đồ thị bên trái **Hình 9.3**
 
+![climate-11-light](../../assets/images/climate-11-light.svg#only-light)
+![climate-11-dark](../../assets/images/climate-11-dark.svg#only-dark)
+
 >**Hình 9.11**: CO~2~ tăng nếu cố định mức độ sử dụng nhiên liệu hoá thành ngày nay trong phần còn lại của thế kỉ, tuân theo các qui ước trong [Hình 9.3](9-climate-I.md#phat-thai-co2). Chúng ta vẫn sẽ thêm vào nồng độ CO~2~ mỗi năm 2,6 ppm~v~ kể từ bay giờ cho đến hết năm 2100, tương đương với mức tăng tổng cộng 339 ppm~v~[^34], hay khoảng 2,75 lần mức dư thừa hiện tại. Nhiệt độ theo đó sẽ tăng thêm 3,4°C (hãy kiểm tra lại với [Ví dụ 9.2.1](9-climate-I.md#2-co-che-lam-nong)). Với kịch bản này và các kịch bản khác, đồ thị sẽ chỉ biểu diễn một nửa lượng CO~2~ còn lại trong khí quyển&mdash;không bị hấp thụ bởi các nguồn khác.
 
 [^34]:
@@ -39,6 +42,11 @@ Chúng ta đang chứng kiến những vấn đề nghiêm trọng đang diễn 
 
 Kịch bản thức hai tập trung vào việc loại bỏ than đá, vì đây là nhiên liệu có cường độ phát thải CO~2~ nhiều nhất[^36], như **Hình 9.3** đã chỉ ra. Nếu khí tự nhiên&mdash;nhiên liệu hoá thạch có cường độ các-bon thấp&mdash;có thể thay thế tất cả các ứng dụng của than thì sao? Điều này trên thực tế đang diễn ra&mdash;một cách từ từ&mdash;trong lĩnh vực sản xuất điện. Không biết bao nhiêu người đã tham gia cổ vũ cho quá trình chuyển dịch năng lượng này xảy ra theo cách nhanh chóng nhất có thể. Kịch bản giả tưởng này cho phép chúng ta thực hiện việc thay thế than hoàn toàn *ngay lập tức* (một viễn cảnh không thực tế) để có thể hiểu những giới hạn về mặt lợi ích thu được khi chuyển dịch năng lượng. **Hình 9.12** cho thấy những điều có thể xảy ra khi thực hiện việc này. Tốc độ phát thải CO~2~ ngay lập tức giảm xuống còn 1,8 ppm~v~/năm[^37]. Lợi ích thu được có vẻ đáng kể, nhưng khi kéo dài tình trạng phát thải cho đến năm 2100&mdash;tiếp tục đáp ứng nhu cầu nhiên liệu hoá thạch ngày nay&mdash;tổng phát thải sẽ lên tới 268 ppm~v~ so với thời kì tiền công nghiệp. Tác động này hơn gấp đôi mức 123 ppm~v~ (năm 2017) chúng ta *đã* phát thải thêm so với thời kì tiền công nghiệp, và sẽ gia tăng nồng độ CO~2~ trong khí quyển lên gấp đôi, dễn đến bức xạ cưỡng bức 3,6 W/m^2 và $\Delta{T} ≈ 2,9°C (được tóm tắt trong **Bảng 9.5). Vì vậy, dù việc chấm dứt sử dụng than có mang lại lợi ích như thế nào thì bất kỳ quỹ đạo nào liên quan đến việc thúc đẩy việc sử dụng nhiên liệu hóa thạch của chúng ta ở mức độ ngày nay&mdash;thậm chí thay thế dạng tốt nhất bằng dạng tồi tệ nhất&mdash;đều không có vẻ hứa hẹn.
 
+![climate-12-light](../../assets/images/climate-12-light.svg#only-light)
+![climate-12-dark](../../assets/images/climate-12-dark.svg#only-dark)
+
+>**Hình 9.12**: Nồng độ CO~2~ tăng nếu thay thế than đá (có cường độ CO~2~ tệ nhất) với khí đốt tự nhiên (có cường độ CO~2~ tốt nhất) và giữ nguyên như vậy đến cuối thế kỉ này. Mức phát thải hàng năm giảm từ 2,6 ppm~v~/năm xuống còn 1,8 ppm~v~/năm do sự thay thế này, và tổng lượng tích luỹ sẽ bằng 268 ppm~v~ ở cuối thế kỉ này (gấp 2,2 lần mức tích luỹ cho đến thời điểm hiện tại). Nhiệt độ theo đó sẽ tăng 2,9°C.
+
 [^36]:
 
     ...dựa trên mật độ năng lượng thấp hơn của nó (5-8 kcal/g so với 13 kcal/g đối với khí tự nhiên) và tỷ lệ khối lượng CO~2~ trên nhiên liệu cao hơn (3,67 so với 2,75 đối với khí tự nhiên).
@@ -47,12 +55,21 @@ Kịch bản thức hai tập trung vào việc loại bỏ than đá, vì đây
 
     Tỷ lệ này sẽ bằng khoảng 70% tỷ lệ hiện tại là 2,6 ppmv mỗi năm.
 
-Do đó, việc giảm thiểu việc sử dụng nhiên liệu hóa thạch là rất quan trọng để chúng ta cai nghiện thành công sự phụ thuộc vào nhiên liệu này. Quá trình chuyển đổi có thể nhanh hoặc chậm. Một phiên bản chậm
-hơn có thể nhắm mục tiêu đến năm 2100 để chấm dứt hoàn toàn nhiên liệu hóa thạch. **Hình 9.13** cho thấy sự lý tưởng hóa của điều này sẽ diễn ra như thế nào. Lưu ý rằng các đường cong đồ thị gần như đối xứng, trong đó độ dốc đi xuống không khác biệt nhiều so với độ dốc đi lên. Hãy dừng lại để suy ngẫm về sự gia tăng nhanh chóng và đáng kinh ngạc của nhiên liệu hóa thạch. Độ dốc đi lên cũng như đi xuống thể hiện sự thay đổi với tốc độ đáng kinh ngạc&mdash;điều này sẽ gây ra những đổ vỡ nghiêm trọng ngay cả trong trường hợp tốt nhất. Khi không có những chất thay thế thích hợp, đây sẽ là một hành trình vô cùng gian nan, nhưng là con đường chúng ta có thể buộc phải đi hiện bằng bất cứ cách nào[^38]. Trong mọi trường hợp, lượng CO~2~ phát thải bổ sung cuối cùng sẽ đạt mức 235 ppm~v~&mdash;gần gấp đôi lượng chúng ta đã phát thải và làm tăng gần gấp nồng độ mức CO~2~ trong bầu khí quyển so với thời kì tiền công nghiệp. Bức xạ cưỡng bức trong trường hợp này sẽ là 3,3 W/m2 và mức tăng nhiệt độ $\Delta{T} ≈ 2,6°C$.
+Do đó, việc giảm thiểu việc sử dụng nhiên liệu hóa thạch là rất quan trọng để chúng ta cai nghiện thành công sự phụ thuộc vào nhiên liệu này. Quá trình chuyển đổi có thể nhanh hoặc chậm. Một phiên bản chậm hơn có thể nhắm mục tiêu đến năm 2100 để chấm dứt hoàn toàn nhiên liệu hóa thạch. **Hình 9.13** cho thấy sự lý tưởng hóa của điều này sẽ diễn ra như thế nào. Lưu ý rằng các đường cong đồ thị gần như đối xứng, trong đó độ dốc đi xuống không khác biệt nhiều so với độ dốc đi lên. Hãy dừng lại để suy ngẫm về sự gia tăng nhanh chóng và đáng kinh ngạc của nhiên liệu hóa thạch. Độ dốc đi lên cũng như đi xuống thể hiện sự thay đổi với tốc độ đáng kinh ngạc&mdash;điều này sẽ gây ra những đổ vỡ nghiêm trọng ngay cả trong trường hợp tốt nhất. Khi không có những chất thay thế thích hợp, đây sẽ là một hành trình vô cùng gian nan, nhưng là con đường chúng ta có thể buộc phải đi hiện bằng bất cứ cách nào[^38]. Trong mọi trường hợp, lượng CO~2~ phát thải bổ sung cuối cùng sẽ đạt mức 235 ppm~v~&mdash;gần gấp đôi lượng chúng ta đã phát thải và làm tăng gần gấp nồng độ mức CO~2~ trong bầu khí quyển so với thời kì tiền công nghiệp. Bức xạ cưỡng bức trong trường hợp này sẽ là 3,3 W/m2 và mức tăng nhiệt độ $\Delta{T} ≈ 2,6°C$.
+
+![climate-13-light](../../assets/images/climate-13-light.svg#only-light)
+![climate-13-dark](../../assets/images/climate-13-dark.svg#only-dark)
+
+>**Hình 9.13**: Nồng độ CO~2~ tăng nếu ngay lập tức loại bỏ dần việc sử dụng nhiên liệu hoá thạch với mức giảm đầy tham vọng tiến tới phát thải bằng không năm 2100. CO~2~ tích luỹ sẽ chạm mức 235 ppm~v~, gần cao gấp đôi so với mức hiện tại (1,9 lần). Nhiệt độ theo đó tăng lên 2,6°C.
 
 [^38]:
 
     ...được dẫn dắt bởi các chính sách, thị trường hay gần như chắc chắn&mdash;bởi các giới hạn về tài nguyên.
+
+![climate-14-light](../../assets/images/climate-14-light.svg#only-light)
+![climate-14-dark](../../assets/images/climate-14-dark.svg#only-dark)
+
+>**Hình 9.14**: Nồng độ CO~2~ tăng nếu chúng ta thực hiện kế hoạch vô cùng tham vọng: lập tức loại bỏ dần việc sử dụng nhiên liệu hoá thạch bằng cách giảm dần về không từ nay đến năm 2050. CO~2~ tích luỹ sẽ chạm mức 169 ppm~v~, hơn 37% so với mức hiện tại. Nhiệt độ theo đó tăng lên 2°C.
 
 Việc giảm sử dụng nhiên liệu hóa thạch thậm chí còn nhanh hơn, giảm dần về 0 vào năm 2050, được biểu diễn trong **Hình 9.14**. Độ dốc đi xuống đáng báo động và khó tưởng tượng điều này sẽ xảy ra trên thực tế trừ khi có những gián đoạn lớn[^39] buộc chúng ta phải làm như vậy. Trong mọi trường hợp, nếu chúng ta đạt được kỳ tích như vậy, tổng lượng phát thải CO~2~ đóng góp vào bầu khí quyển sẽ tăng 169 ppm~v~, nhiều hơn 37% so với mức chúng ta đã phát thải cho đến nay. Việc bổ sung thêm ~40% phát thải nữa có vẻ là mức tốt nhất mà chúng ta có thể hy vọng được thấy, nhưng có thể đi kèm với những gian khổ cùng cực trong việc thích ứng. Cường độ bức xạ cho kịch bản này là 2,5 W/m2, tương ứng với mức tăng $\Delta{T} ≈ 2°C$ (Bạn đọc hay thử tính lại từ [Ví dụ 9.2.1](9-climate-I.md#2-co-che-lam-nong) xem!)
 
@@ -62,10 +79,7 @@ Việc giảm sử dụng nhiên liệu hóa thạch thậm chí còn nhanh hơn
 
 ## 4. Hệ quả của biến đổi khí hậu
 
-Việc tăng nhiệt độ trên hành tinh sẽ gây ra vô và tác động để liệt kê hết ở đây (Tham khảo thêm về [Khủng hoảng sinh thái](../../ecology/bio-crisis.md)). Rõ ràng, khí hậu bị ảnh hưởng&mdash;về tần suất và cường độ bão, lượng mưa, lượng tuyết rơi và nguồn cung cấp nước, thời lượng mùa trong năm và khả
-năng thích ứng của các loài thực vật và động vật với những thay đổi. Thang thời gian mà chúng ta đang thay đổi khí hậu nhanh hơn nhiều so với tốc độ tiến hóa bình thường, ngoại trừ đời sống vi sinh vật và có thể cả côn trùng, những loài có chu kỳ thế hệ ngắn hơn cho phép phản ứng năng động hơn. Con người là một loài đến muộn trong một chuỗi tiến hóa lâu
-dài, đã đặt nền móng để hỗ trợ sự sống trong các mối liên kết phức tạp theo những cách mà chúng ta còn chưa hiểu đầy đủ. Biến đổi khí hậu gây rối loạn hệ
-thống theo cách ngăn chặn dự đoán chính xác về hậu quả lâu dài của việc loài này hay loài khác biến mất khỏi mạng lưới sự sống. Hậu quả của biến đổi khí hậu được trình bày chi tiết ở nhiều nguồn khác không khó tìm. Thay vì cố gắng bổ sung vào nhận thức chung, phần này&mdash;theo tinh thần của cuốn sách&mdash;nhằm mục đích cung cấp cho bạn đọc một số công cụ[^40] để có thể hiểu một cách định lượng thế giới vật chất phản ứng như thế nào với những thay đổi cường độ bức xạ. Cụ thể, chúng ta tập trung vào quá trình làm nóng[^41] hành tinh và mực nước biển dâng.
+Việc tăng nhiệt độ trên hành tinh sẽ gây ra vô và tác động để liệt kê hết ở đây (Tham khảo thêm về [Khủng hoảng sinh thái](../../ecology/bio-crisis.md)). Rõ ràng, khí hậu bị ảnh hưởng&mdash;về tần suất và cường độ bão, lượng mưa, lượng tuyết rơi và nguồn cung cấp nước, thời lượng mùa trong năm và khả năng thích ứng của các loài thực vật và động vật với những thay đổi. Thang thời gian mà chúng ta đang thay đổi khí hậu nhanh hơn nhiều so với tốc độ tiến hóa bình thường, ngoại trừ đời sống vi sinh vật và có thể cả côn trùng, những loài có chu kỳ thế hệ ngắn hơn cho phép phản ứng năng động hơn. Con người là một loài đến muộn trong một chuỗi tiến hóa lâu dài, đã đặt nền móng để hỗ trợ sự sống trong các mối liên kết phức tạp theo những cách mà chúng ta còn chưa hiểu đầy đủ. Biến đổi khí hậu gây rối loạn hệ thống theo cách ngăn chặn dự đoán chính xác về hậu quả lâu dài của việc loài này hay loài khác biến mất khỏi mạng lưới sự sống. Hậu quả của biến đổi khí hậu được trình bày chi tiết ở nhiều nguồn khác không khó tìm. Thay vì cố gắng bổ sung vào nhận thức chung, phần này&mdash;theo tinh thần của cuốn sách&mdash;nhằm mục đích cung cấp cho bạn đọc một số công cụ[^40] để có thể hiểu một cách định lượng thế giới vật chất phản ứng như thế nào với những thay đổi cường độ bức xạ. Cụ thể, chúng ta tập trung vào quá trình làm nóng[^41] hành tinh và mực nước biển dâng.
 
 [^40]:
 
@@ -95,7 +109,10 @@ Như chúng ta đã thấy trong [Phần 6, Chương 6](6-thermal/#2-nhiet-dung)
 
 Trái đất nhìn chung đang ở **trạng thái cân bằng nhiệt động** (*thermodynamic equilibrium*). Mặt trời truyền năng lượng lên Trái đất với cường độ 240 W/m2, khi tính trung bình trên bề mặt ([Phương trình 9.3](9-climate-I.md#2-co-che-lam-nong)) [9.3](9-climate-I.md#mjx-eqn%3A93). Trước sự gia tăng nồng độ CO2 hiện tại, chúng ta không có cường độ bức xạ bổ sung từ CO~2~ và có nhiệt độ bề mặt trung bình là 288 K (15°C), như trong [Phương trình 9.4](9-climate-I.md#2-co-che-lam-nong). Vì nó ở trạng thái cân bằng nên chúng ta biết rằng bức xạ hồng ngoại từ Trái đất cũng phải có tổng cộng 240 W/m^2 để cân bằng với mặt trời.
 
->**Hình 9.15**: Bốn bước minh họa (một cách đơn giản hóa) quá trình Trái đất thích ứng với sự gia tăng khí nhà kính (GHG, Green House Gas). Bắt đầu từ bên trái trong mỗi hình vẽ, với đầu vào cường độ năng lượng mặt trời được giữ không đổi ở mức 240 W/m^2^. Hầu hết bức xạ rời khỏi mặt đất&mdash;về mặt định lượng được tính bằng σT^4^&mdash;được hấp thụ bởi các khí nhà kính (một phần hấp thụ được biểu thị trong “đám mây” GHG), phần còn lại thoát ra ngoài không gian. Một nửa năng lượng hấp thụ được bức xạ lên trên (thoát ra ngoài) và một nửa đi xuống dưới. Mũi tên nét đứt ở bên phải là bức xạ thực thoát ra. Các số nguyên tính bằng W/m^2^ và chiều rộng mũi tên được chia theo tỷ lệ tương ứng. Nhiệt độ mặt đất được biểu diễn ở phía dưới cùng.
+![climate-15-light](../../assets/images/climate-15-light.svg#only-light)
+![climate-15-dark](../../assets/images/climate-15-dark.svg#only-dark)
+
+>**Hình 9.15**: Bốn bước minh họa (một cách đơn giản hóa) quá trình Trái đất thích ứng với sự gia tăng khí nhà kính (GHG, Green House Gas). Bắt đầu từ bên trái trong mỗi hình vẽ, với đầu vào cường độ năng lượng mặt trời được giữ không đổi ở mức 240 W/m^2^. Hầu hết bức xạ rời khỏi mặt đất&mdash;về mặt định lượng được tính bằng σT^4^&mdash;được hấp thụ bởi các khí nhà kính (một phần hấp thụ được biểu thị trong “đám mây” GHG), phần còn lại thoát ra ngoài không gian. Một nửa năng lượng hấp thụ được bức xạ lên trên (thoát ra ngoài) và một nửa đi xuống dưới. Mũi tên nét đứt ở bên phải là bức xạ thực thoát ra. Các số nguyên tính bằng W/m^2^ và độ rộng mũi tên được vẽ theo tỷ lệ tương ứng. Nhiệt độ mặt đất được biểu diễn ở phía dưới cùng.
 
 **Hình 9.15** tóm tắt câu chuyện[^45]. ***Ô đầu tiên*** cho thấy điều kiện cân bằng thời kì tiền công nghiệp, trong đó 77% bức xạ hồng ngoại từ mặt đất bị các khí nhà kính chặn lại, trong khi 23% (90 W/m^2^) thoát ra ngoài. 77% bức xạ hồng ngoại được hấp thụ (330 W/m^2^) được tái bức xạ đều cả phía trên lẫn dưới (khoảng 150 W/m^2^ mỗi chiều). Bức xạ ra ngoài khớp với đầu vào từ 240 W/m^2^ từ mặt trời[^46], tạo ra điều kiện cân bằng.
 
@@ -122,7 +139,7 @@ K (16°C)[^48] làm tăng bức xạ rời khỏi mặt đất theo định lu�
 
 [^49]:
 
-    H~2~O, CH~4~ ví dụ
+    Ví dụ, H~2~O, CH~4~
 
 Cuối cùng, trạng thái cân bằng được thiết lập lại ở ***ô cuối cùng*** trong **Hình 9.15**, tại đó năng lượng thoát ra và năng lượng đầu vào lại bằng nhau ở mức 240 W/m^2^. Các cơ chế phản hồi về cơ bản đã tăng gấp ba lần sự thay đổi về khả năng hấp thụ GHG: ban đầu tăng 1% cuối cùng lên thành 3%. Nếu không có hiệu ứng này, hệ thống sẽ cân bằng ở 288,6 K (15,6°C)[^50] trong đó trường hợp 393 W/m^2^ rời khỏi mặt đất và 153 W/m^2^ được bức xạ lại từ khí quyển.
 
@@ -140,7 +157,7 @@ Bây giờ chúng ta hãy tìm hiểu thêm một chút về quá trình làm n�
 
 !!! abstract "Định nghĩa 9.4.1" 
 
-    Nhiệt dung riêng của nước đá là 334 J/gram, nghĩa là nhiệt độ mỗi gram nước đá tăng từ ngay dưới điểm đóng băng đến ngay trên mức đóng băng[^52ˆ] cần một lượng nhiệt đầu vào là 334 J."
+    Nhiệt dung riêng của nước đá là 334 J/gram, nghĩa là nhiệt độ mỗi gram nước đá tăng từ ngay dưới điểm đóng băng đến ngay trên mức đóng băng[^52] cần một lượng nhiệt đầu vào là 334 J."
 
 Đặt vào trong bối cảnh, lượng tươn đương 334 J đó sẽ làm nóng một gram nước lỏng lên 80°C, trong khi đó bị tiêu hao trong quá trình chuyển pha (từ đóng băng sang lỏng) mà thực tế không làm thay đổi nhiệt độ chút nào[^53].
 
@@ -299,14 +316,11 @@ Tương tự như vậy, chúng ta có thể khám phá xem sẽ mất bao lâu 
 
 [^59]:
 
-    ...334 kJ so với ~ 4 kJ để làm nóng nước lên 1°C
+    ...334 kJ so với ~4 kJ để làm nóng nước thêm 1°C
 
 !!! success ""
 
     Mẹo: đừng coi những phần như thế này là thể sách giáo khoa “dạy” cho bạn điều gì đó. Sẽ hiệu quả hơn nhiều nếu đi theo logic, lập luận và tự coi mình là người tham gia tích cực vào vào câu chuyện. Nếu không, trời ơi sao mà chán thế! Giá trị của việc này ở chỗ dùng công cụ để hiểu rõ bản chất của quá trình vật lí.
-
-59: ... 334 kJ so với 4 kJ để làm nóng nước thêm 1 C
-câu chuyện. Nếu không thì OMG thậ
 
 Bỏ qua các giả thiết ở trên, đây là cách các hệ thống trái thực sự vận hành: khi nhiệt dư thừa 1,6 × 10^22^ J hàng năm gắn với bức xạ cưỡng bức 1 W/m^2^ sẽ phân bổ ra các thành phần khác nhau của trái đất cùng một lúc. Nếu băng chỉ hấp thụ 3% nhiệt lượng này&mdash;tương ứng với diện tích của mình&mdash;chỉ có 5 × 10^20^ J nhiệt lượng đi vào băng mỗi năm. Chia cho 4,9 × 10^21^ J/m (từ **Bảng 9.7**), chúng ta có thể kì vọng 0,1 m băng tan mỗi năm. Vì đại dương có diện tích lớn gấp 25 lần diện tích băng[^60], mực nước biển dâng do băng tan đóng góp vào phân phối trên toàn bộ mặt biển sẽ ít hơn 25 lần so với chiều cao băng mất đi, hay khoảng 4 mm/năm[^61].
 
@@ -339,13 +353,15 @@ qua vật lý đơn giản;
 
 Thêm một cái nhìn sâu sắc nữa: ngay cả khi chúng ta ngừng phát thải CO~2~ ngày hôm nay, nhiệt độ Trái đất sẽ tiếp tục tăng khi các đại dương dần dần thích ứng với thực tế bức xạ mới do 420 ppm~v~ CO~2~ trong khí quyển áp đặt.
 
-### Nước biển dân
+### Nước biển dâng
 
 Phần trước đề cập đến năng lượng của các tảng băng tan chảy. Kết quả là nước tan chảy vào đại dương[^63] và góp phần làm mực nước biển dâng cao. Ngoài băng tan, mực nước biển còn tăng do sự giãn nở nhiệt của nước khi nước nóng lên. **Hình 9.16** cho thấy lịch sử gần đây.
 
 [^63]:
 
     Băng trôi trên đại dương đã làm mất nước nên băng tan không ảnh hướng đến mực nước biển dâng.
+
+![climate-16](../../assets/images/climate-16.webp)
 
 >**Hình 9.16**: Đo đạc mực nước biển bằng vệ tinh từ năm 1993 cho thấy mực nước biển dâng 3,6 mm mỗi năm. Băng tan là nguyên nhân lớn nhất, mặc dù sự giãn nở nhiệt cũng đóng một vai trò nào đó. Nguồn: NOAA.
 
@@ -356,8 +372,23 @@ Nhưng tốc độ hiện tại có thể không phải là thước đo đúng 
 Chúng ta có thể tìm hiểu nhanh chóng mức nước biển dâng có thể xảy ra, dựa trên thực tế là phần lớn băng “vĩnh cửu” trên hành tinh hiện ở Nam Cực và Greenland. Hai tảng băng này lần lượt chiếm 2,7% và 0,3% diện tích bề mặt toàn cầu. Từ đó, có thể dễ dàng ước tính mực nước biển dâng, vì đại dương
 (chiếm 71% diện tích toàn cầu) có diện tích lớn gấp 26 lần dải băng Nam Cực và lớn hơn 210 lần băng Greenland. Điều này có nghĩa là cần có 26 mét băng tan chảy từ Nam Cực[^64] để nâng mực nước biển lên 1 mét và cần băng ở Greenland tan 210 mét để làm điều tương tự[^65]. Xem **Hình 9.17** để hiểu về logic ở đây.
 
-Bây giờ nếu chúng ta biết độ dày trung bình của mỗi tảng băng, chúng ta có thể tính được mực nước biển sẽ dâng lên bao nhiêu nếu toàn bộ băng tan chảy. Dải băng Greenland được ước tính có thể tích 2,85 triệu km khối, có độ sâu trung bình là 1,7 km[^66]. Độ sâu này bằng 8 lần mức 210 m ở trên, vì vậy chúng ta có thể kì vọng mực nước biển dâng khoảng 8 m nếu toàn bộ băng ở Greenland tan chảy. Đối với Nam Cực, 26,5 triệu km khối tương ứng với độ dày băng trung bình
-là 1,9 km, gấp khoảng 70 lần so với 26 m ở trên, vì thế chúng ta dự đoán mực nước biển sẽ dâng lên khoảng 70 mét trong trường hợp cực đoan: Nam Cực tan băng hoàn toàn.
+[^64]:
+
+    ...nếu phân phối đều lên lục địa
+
+[^65]:
+
+    Theo tinh thần tạo ra những ước tính gần đúng, chúng ta sẽ bỏ qua 10% khác biệt giữa mật độ nước và băng và giả sử rằng 1 mét khối băng sẽ chiếm chỗ 1 mét khối nước
+
+![climate-17](../../assets/images/climate-17.webp)
+
+>**Hình 9.17**: Nếu diện tích biển lớn gấp $x$ lần diện tích bao phủ bởi đảo băng, mực nước biển sẽ dâng $1/x$ nhân với độ dày của băng nếu tất cả băng đều tan. Biểu đồ này cho thấy cách để tư duy về vấn đề này. Với $x = 3$: chúng ta có thể chia độ dày của băng thành 3 phần và phân phối thể tích này lên trên mặt nước. Trong trường hợp này, băng với độ dày 30 m nếu tan hết sẽ làm nước biển dâng 10 m.
+
+Bây giờ nếu chúng ta biết độ dày trung bình của mỗi tảng băng, chúng ta có thể tính được mực nước biển sẽ dâng lên bao nhiêu nếu toàn bộ băng tan chảy. Dải băng Greenland được ước tính có thể tích 2,85 triệu km khối, có độ sâu trung bình là 1,7 km[^66]. Độ sâu này bằng 8 lần mức 210 m ở trên, vì vậy chúng ta có thể kì vọng mực nước biển dâng khoảng 8 m nếu toàn bộ băng ở Greenland tan chảy. Đối với Nam Cực, 26,5 triệu km khối tương ứng với độ dày băng trung bình là 1,9 km, gấp khoảng 70 lần so với 26 m ở trên, vì thế chúng ta dự đoán mực nước biển sẽ dâng lên khoảng 70 mét trong trường hợp cực đoan: Nam Cực tan băng hoàn toàn.
+
+[^66]:
+
+    Chia thể tích cho diện tích
 
 !!! note "Hộp 9.3: Ước tính chặt chẽ hơn..."
 
@@ -392,7 +423,7 @@ Trong trường hợp này, nguyên nhân cơ bản rất đơn giản: tham v�
 
 [^70]:
 
-    Cuối cùng thiên nhiên chắc chắn sẽ “chiếu tướng” (kiểm soát) chúng ta
+    Cuối cùng thiên nhiên sẽ “chiếu tướng” (hay kiểm soát) chúng ta
 
 [^71]:
 
