@@ -2,24 +2,14 @@
 
 {% block extrahead %}  
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif+TC" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type="text/javascript" src="{{ 'assets/javascripts/head.load.min-1.0.3.js' | url }}"></script>
     <script type="text/javascript">
     head.load([{
         jQ: "https://code.jquery.com/jquery-2.2.4.min.js"
     }], function() {
         head.load([{
-            BS: "{{ 'assets/javascripts/extra.bootstrap.min.js' | url }}"
-        }, {
             TV: "{{ 'assets/javascripts/extra.js' | url }}"
         }]);
     });
-    // head.load(["{{ 'assets/javascripts/extra.bootstrap.min.js' | url }}", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]);
     </script>
-    <!-- <style type="text/css">
-        @font-face {
-            font-family: "DFKai-SB";
-            src: url("{{ 'assets/fonts/kaiu.ttf' }}") format("truetype");
-        }
-    </style> -->
 {% endblock %}

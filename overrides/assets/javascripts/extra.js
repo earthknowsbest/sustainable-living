@@ -24,14 +24,6 @@ function Chinese2Links() {
     })
 }
 
-// $("abbr").one('hover', function(){
-//     $(this).attr("aria-describedby", $(this).attr("title")||'wth');
-//     $(this).atrr("title");
-//   }, function(){
-//     $(this).attr("title", $(this).attr("aria-describedby")||'wth');
-//      $(this).removeAttr("aria-label");
-// }),
-
 function replaceTitleAttributes(){
     var elements = document.querySelectorAll('abbr[title]'),
         i;
@@ -40,9 +32,6 @@ function replaceTitleAttributes(){
         elements[i].removeAttribute('title');
     }
 }
-// document.addEventListener('DOMContentLoaded', function(){
-//     replaceTitleAttributes();
-// });
 window.onload = replaceTitleAttributes;
 
 head.ready(function() {
