@@ -249,7 +249,7 @@ Trong số các khí nhà kính góp phần hấp thụ ánh sáng mặt trời 
 
 ![climate-8](../../assets/images/climate-8.webp)
 
-> **Hình 9.8**: Một góc nhìn khác về quang phổ hấp thụ của hơi nước và CO~2~, biểu diễn rõ hợn sự đan xen của các các mỗi quang phổ . Nguồn: [Robert Rohde (NASA)](https://earthobservatory.nasa.gov/features/EnergyBalance/page7.php)[^25].
+> **Hình 9.8**: Một góc nhìn khác về quang phổ hấp thụ của hơi nước và CO~2~, biểu diễn rõ hợn sự đan xen của các dải quang phổ . Nguồn: [Robert Rohde (NASA)](https://earthobservatory.nasa.gov/features/EnergyBalance/page7.php)[^25].
 
 [^22]:
 
@@ -383,6 +383,7 @@ Mức tăng nhiệt độ toàn cầu so với thời kì tiền công nghiệp 
 
     ...có khối lượng nhiệt rất lơn, hay **nhiệt dung riêng** rất cao.
 
+<br/>
+**Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
-
-
+**Dịch giả: Team Sống bền vững**

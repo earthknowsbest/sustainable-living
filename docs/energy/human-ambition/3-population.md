@@ -563,8 +563,7 @@ Có lẽ chúng ta chẳng cần phải hành động. **Phản hồi ngược**
 
 Rất ít học giả tỏ ra không quan ngại về sức ép dân số. Nhưng vấn đề này thường trở nên giai góc do liên quan đến lựa chọn cá nhân hay một sự miễn cưỡng chính đáng, để làm sao không “lên lớp” các quốc gia đang phát triển phải dừng tăng dân số trước khi có cơ hội trải qua quá trình **chuyển dịch dân số** một cách tự nhiên. Tư duy thông thường cho rằng việc tuân theo **chuyển dịch dân số** là giải pháp tốt nhất cho vấn đề dân số. Câu hỏi mà quá ít người đặt ra là liệu hành tinh này có chịu đựng được quá trình này cho tất cả mọi người hay không, căn cứ vào việc bùng nổ dân số và cầu tài nguyên. Nếu không, việc theo đuổi quá trình **chuyển dịch dân số** có thể sẽ gây ra nhiều thiệt hại và đau khổ hơn so với những gì sẽ xảy ra do sự gia tăng dân số cạnh tranh các nguồn tài nguyên đang cạn kiệt.
 
-</hr>
+<br/>
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
-</hr>

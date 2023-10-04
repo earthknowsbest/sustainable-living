@@ -448,3 +448,8 @@ Tuy nhiên, sự gián đoạn của tài nguyên[^74] có thể khiến thị t
 [^74]:
 
     ...như năng lượng, nước, thực phẩm và các chất khai khoáng
+
+<br/>
+**Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
+
+**Dịch giả: Team Sống bền vững**

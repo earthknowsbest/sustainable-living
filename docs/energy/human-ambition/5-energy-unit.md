@@ -555,8 +555,7 @@ Chúng ta cũng thường xuyên biểu diễn năng lượng photon bằng elec
 
 Mỗi chương đều có phần kết luận, thường là chắt lọc những bài học quan trọng từ chương đó hoặc đưa ra những suy ngẫm sau cùng. Ở đây, chúng ta có thể củng cố thêm quan điểm rằng năng lượng luôn có thể được biểu thị bằng Joules hoặc chuyển đổi thành bất kỳ đơn vị nào được mô tả trong chương này. Điều quan trọng nữa là khái niệm về năng lượng được bảo toàn&mdash;chỉ có thể biến đổi từ dạng này sang dạng khác nhưng không bao giờ thực sự mất đi hay tự sinh ra.
 
-</hr>
+<br/>
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
-</hr>

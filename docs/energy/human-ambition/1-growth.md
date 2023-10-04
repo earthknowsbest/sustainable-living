@@ -373,8 +373,7 @@ Kết luận, vật lí đã đặt ra những giới hạn về kì vọng củ
 
 Có rất nhiều yếu tốt khác có thể can thiệp vào quá trình giới hạn tăng trưởng ở cả qui mô dân số lẫn tài nguyên sử dụng: sự khan hiếm các nguồn tài nguyên, ô nhiễm, tầng nước ngầm cạn kiệt, thiếu nước ngọt, biến đổi khí hậu, chiến tranh, sự sụp đổ của nghề đánh bắt thủy sản, diện tích đất trồng trọt thu hẹp (do sa mạc hóa), nạn phá rừng, bệnh tật, v.v. Những yếu tố này đều ngăn cản việc tăng trưởng không ngừng. Bằng cách này hay cách khác, chúng ta cần xem giai đoạn tăng trưởng hiện tại chỉ là một quá trình ngắn hạn: một chớp mắt trong lịch sử nhân loại.
 
-</hr>
+<br/>
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
-</hr>

@@ -51,7 +51,7 @@ nav:
         - 7. Bối cảnh: energy/human-ambition/7-landscape.md
         - 8. Nhiên liệu (I): energy/human-ambition/8-fossil-I.md
         - 8. Hoá thạch (II): energy/human-ambition/8-fossil-II.md
-        - 9. Khí hậu (I): energy/human-ambition/9-climate-I.md
+        - 9. Biến đổi (I): energy/human-ambition/9-climate-I.md
         - 9. Khí hậu (II): energy/human-ambition/9-climate-II.md
     - Năng lượng tái tạo: 
       - Hoài nghi °1: energy/renewables/renewable-skeptics.md
@@ -98,7 +98,7 @@ nav:
   #     - Lọc nước °2: lowtech/water/water-purify/water-purify-2.md
   #     - Lọc nước °3: lowtech/water/water-purify/water-purify-3.md
   #   - Bơm nước: lowtech/water/water-pump.md
-  # - Chữa Lành Trái Đất:
+  # - Sáng kiến:
   #   - Sinh quyển: 
   #     - Một nửa Trái Đất: earth/biosphere/half-earth.md
   #     - Đại dương: earth/biosphere/ocean.md
@@ -113,8 +113,9 @@ nav:
   #     - Giao thông: earth/personal/transport.md
   #     - Tài nguyên: earth/personal/material.md
   #     - Thành phố: earth/personal/city.md
-  # - Con người:
-  #   - Tâm linh: human/spirituality.md
+  - Nhân sinh:
+    - Tâm linh: 
+      - Thơ thiền (I): human/spirituality/poem-I.md
   #   - Thể chất: human/body.md
   #   - Dinh dưỡng: human/nutrition.md
   #   - Giấc ngủ: human/sleep.md
@@ -130,10 +131,11 @@ theme:
   # logo_light_mode: assets/logo-light.svg
   language: vi
   font:
-    # text: Source Serif Pro
+    # text: Source Serif Pro, Fraunces
     # text: Playfair Display
     # text: Noto Serif
     text: Literata
+    # text: Source Serif 4
   icon:
     repo: fontawesome/brands/github-alt
     logo: custom/logo
@@ -153,12 +155,8 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   features:
-    - search.highlight
-    # - search.share
     - search.suggest
     - announce.dismiss
-    # - content.action.edit
-    # - content.action.view
     - content.code.annotate
     - content.code.copy
     # - content.tabs.link
@@ -190,6 +188,7 @@ extra:
   #     - manage
 
 markdown_extensions:
+  - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -209,6 +208,9 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -218,8 +220,9 @@ extra_javascript:
 # Plugins
 plugins:
   - search:
-      lang: 
-        - en
+      # enabled: false
+      lang: en
+    #   - vi
 
 watch:
   - .  # reload docs for any file changes

@@ -264,8 +264,7 @@ Dù có thể chỉ ra những *ví dụ* chính đáng về **sự không phụ
 
 Vì thế, mặc dù công nhận sự tăng trưởng trong quá khứ đang mang lại vô vàn lợi ích cho đời sống con người, chúng ta cần phải tự hỏi: Nếu sự tăng trưởng kinh tế chắc chắn sẽ chấm dứt, tại sao tất cả các hoạt động của chúng ta lại đang thuộc vào nó?
 
-</hr>
+<br/>
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
-</hr>

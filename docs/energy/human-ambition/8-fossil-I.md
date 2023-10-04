@@ -323,8 +323,7 @@ Lưu ý rằng nhiên liệu hoá thạch có hiệu năng gần như chất bé
 
     Nhưng hydro rất cồng kềnh và dễ cháy nên rất nguy hiểm khi tích trữ ở dạng khí (bạn hãy Google từ khoá Hindenburg), vì thế đừng quá vui mừng. 
 
-</hr>
+<hr/>
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
-</hr>

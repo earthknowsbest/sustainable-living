@@ -14,15 +14,15 @@ Vì vậy, sau cùng khi nói đến từ thành công, nếu chúng ta muốn, 
 
 Ít nhất các bạn hãy đọc các đoạn giới thiệu và các phần **Kết luận** ngắn ở cuối mỗi chương để có một cái nhìn toàn diện về thông điệp trong chương đó. Sau đây là tóm tắt logic toàn bộ cuốn sách:
 
-- Vật lý cho biết sự tăng trưởng liên tục với tốc độ bình thường hiện hay là không thể sau vài thế kỷ (chương [Tăng trưởng](https://songbenvung.net/energy/life/human-ambition/1-growth/)).
+- Vật lý cho biết sự tăng trưởng liên tục với tốc độ bình thường hiện hay là không thể sau vài thế kỷ (chương [Tăng trưởng](human-ambition/1-growth.md)).
 
-- Tăng trưởng kinh tế và dân số phải chấm dứt, thậm chí giảm mạnh do sự hiện diện phổ biến của phản hồi tiêu cực bị trì hoãn (*delayed negative feedback*) (chương [Kinh tế](https://songbenvung.net/energy/life/human-ambition/2-econ/) và [Dân số](https://songbenvung.net/energy/life/human-ambition/3-population/)).
+- Tăng trưởng kinh tế và dân số phải chấm dứt, thậm chí giảm mạnh do sự hiện diện phổ biến của phản hồi tiêu cực bị trì hoãn (*delayed negative feedback*) (chương [Kinh tế](human-ambition/2-econ.md) và [Dân số](human-ambition/3-population.md)).
 
-- Không gian là một giai đoạn tuyệt vời để khám phá, nhưng không đưa ra giải pháp hữu hình, thực tế cho các vấn đề trên (chương **Không Gian**).
+- Không gian là một giai đoạn tuyệt vời để khám phá, nhưng không đưa ra giải pháp hữu hình, thực tế cho các vấn đề trên (chương [Không Gian](human-ambition/4-space.md)).
 
-- Nhiên liệu hóa thạch có nhiều thuộc tính kỳ diệu khó thay thế. Chúng có thể tạo ra sự tăng trưởng bùng nổ, nhưng nhất thiết sẽ lụi tàn và có thể châm ngòi cho các cuộc chiến tranh tài nguyên mang tính hủy diệt trong giai đoạn suy tàn (Chương **Nhiên liệu hoá thạch**).
+- Nhiên liệu hóa thạch có nhiều thuộc tính kỳ diệu khó thay thế. Chúng có thể tạo ra sự tăng trưởng bùng nổ, nhưng nhất thiết sẽ lụi tàn và có thể châm ngòi cho các cuộc chiến tranh tài nguyên mang tính hủy diệt trong giai đoạn suy tàn (Chương [Nhiên liệu hoá thạch](human-ambition/8-fossil-I.md)).
 
-- Biến đổi khí hậu, hệ quả của đốt cháy nhiên liệu hóa thạch, là một mối đe dọa nghiêm trọng, nhưng chỉ là một trong danh sách dài các tệ nạn gây ra cho các hệ sinh thái và tài nguyên hữu hạn (chương **Khí hậu**).
+- Biến đổi khí hậu, hệ quả của đốt cháy nhiên liệu hóa thạch, là một mối đe dọa nghiêm trọng, nhưng chỉ là một trong danh sách dài các tệ nạn gây ra cho các hệ sinh thái và tài nguyên hữu hạn (chương [Khí hậu](human-ambition/9-climate-I.md)).
 
 - Các công nghệ năng lượng thay thế gặp khó khăn trong việc duy trì kỳ vọng, do đó không chỉ sự tăng trưởng sẽ dừng lại: chúng ta rất có thể phải đối mặt với sự suy giảm năng lượng sẵn có (các chương về năng lượng thay thế: **Nhiên liệu tái tạo**, **Thuỷ điện**, **Năng lượng gió**, **Năng lượng mặt trời**, **Sinh khối**, **Hạt nhân**, **Năng lượng khác**).
 

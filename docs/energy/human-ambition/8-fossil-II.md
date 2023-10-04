@@ -370,12 +370,10 @@ Với vai trò quan trọng của nguồn tài nguyên hóa thạch đang ngày 
 
     ...trong những nền dân chủ.
 
-</hr>
+<hr/>
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
-</hr>
-
 
 
 <!-- https://drive.google.com/drive/folders/1tPnuxtm2uuFIt8xeiIlW-WTk0ZekOPhI -->
