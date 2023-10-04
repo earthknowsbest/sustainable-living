@@ -113,9 +113,9 @@ nav:
   #     - Giao thông: earth/personal/transport.md
   #     - Tài nguyên: earth/personal/material.md
   #     - Thành phố: earth/personal/city.md
-  - Nhân sinh:
-    - Tâm linh: 
-      - Thơ thiền (I): human/spirituality/poem-I.md
+  # - Nhân sinh:
+  #   - Tâm linh: 
+  #     - Thơ thiền (I): human/spirituality/poem-I.md
   #   - Thể chất: human/body.md
   #   - Dinh dưỡng: human/nutrition.md
   #   - Giấc ngủ: human/sleep.md

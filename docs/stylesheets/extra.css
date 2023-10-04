@@ -2,6 +2,8 @@
     font-size: 26px;
 } */
 
+/* @import url(//fonts.googleapis.com/css?family=Noto+Sans+TC/); */
+
 p:empty {display: none;}
 
 ::selection {
@@ -70,7 +72,7 @@ input {
 
 .md-typeset {
     font-size: 1rem;
-    line-height: 1.45;
+    line-height: 1.54;
 }
 
 .md-typeset h1 {
@@ -197,6 +199,7 @@ html .md-typeset details>:last-child {
     display: flex;
     flex-direction: row;
     column-gap: 1rem;
+    justify-content: center;
 }
 
 @media screen and (max-width: 800px) {
@@ -402,4 +405,146 @@ video {
     text-align: center;
     padding: 0.3em 0.2em;
     border-top: 1px solid #d6d6d6;
+}
+
+.han-row-content-II {
+    max-width: 60rem;
+    display: block;
+    justify-content: center;
+}
+
+.han-row-content {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    justify-content: center;
+}
+
+.han-row-content>div {
+    flex-basis: 50%;
+}
+
+.hanco {
+    font-family: "Noto Serif TC", serif, DFKai-SB, Literata, Arial;
+    font-size:1.3rem;
+    line-height: 1.54rem;
+    font-weight: 300;
+    letter-spacing: 0.17rem;
+}
+
+.hanco-title{
+    font-family: "Noto Serif TC", serif, DFKai-SB, Literata, Arial;
+    font-weight: 700;
+    font-size: 1.7rem;
+    line-height: 1.54rem;
+    margin-bottom: 1rem;
+}
+
+.dich-title{
+    font-weight:700;
+    font-size: 1.2rem;
+    margin-bottom:0.6rem;
+}
+
+.spacer-minus {
+    margin-top: -0.5rem;
+}
+
+.spacer-sm {
+    margin-top: 1rem;
+}
+
+.spacer-md {
+    margin-top: 1.5rem;
+}
+
+.spacer-lg {
+    margin-top: 3rem;
+}
+
+@media screen and (max-width: 800px) {
+    .han-row-content {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+        margin: 1rem auto;
+    }
+    .hanco-title {
+        font-family: "Noto Serif TC", serif, DFKai-SB, Literata, Arial;
+        font-weight: 700;
+        font-size: 1.7rem;
+        margin-bottom: 0rem;
+        letter-spacing: 0.3rem;
+    }
+    .dich-title{
+        font-weight:700;
+        font-size: 1.2rem;
+        margin-bottom: 0rem;
+    }
+    .spacer-lg {
+        margin-top: 2rem;
+    }
+    .spacer-md {
+        margin-top: 0rem;
+    }
+}
+
+.md-typeset abbr {
+    border-bottom: .1rem dotted var(--md-default-fg-color--light);
+    cursor: help;
+    text-decoration: none;
+}
+
+.md-tooltip, .md-tooltip--inline, .md-tooltip--active {
+    display:none;
+}
+
+abbr {
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.md-typeset abbr[title]::selection {
+    display: none;
+}
+
+.md-typeset abbr:hover {
+    overflow-y: scroll;
+}
+
+.md-typeset abbr:hover::after { 
+    background-color: var(--md-default-fg-color);
+    border-radius: .2rem;
+    box-shadow: var(--md-shadow-z3);
+    color: var(--md-default-bg-color);
+    content: attr(data-title);
+    position: fixed;
+    min-width: 20%;
+    font-size: 0.85rem;
+    padding: 1rem 1.5rem;
+    display: inline;
+    max-width: 20rem;
+    bottom: auto; 
+    top: 15%;
+    left: 50%;
+    text-align: left;
+    transform: translate(-50%);
+    white-space: normal;
+    z-index: 100;
+    overflow-y: scroll;
+    max-height: 80%;
+}
+
+@media screen and (max-width: 800px) {
+    .md-typeset abbr:hover::after {
+      min-width: 20%;
+      max-width: 15rem;
+      top: 10%;
+      left: 5%;
+      transform: translate(5%);
+      overflow-y: scroll;
+      z-index: 1000;
+      max-height: 60%;
+      display: inline-block;
+    }
 }
