@@ -407,7 +407,7 @@ video {
     border-top: 1px solid #d6d6d6;
 }
 
-.han-row-content-II {
+.han-dich {
     max-width: 60rem;
     display: block;
     justify-content: center;
@@ -424,6 +424,18 @@ video {
     flex-basis: 50%;
 }
 
+.han-col-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+    /* margin: 1rem auto; */
+}
+
+.han-col-content>div {
+    flex-basis: 50%;
+}
+
 .hanco {
     font-family: "Noto Serif TC", serif, DFKai-SB, Literata, Arial;
     font-size:1.3rem;
@@ -437,7 +449,7 @@ video {
     font-weight: 700;
     font-size: 1.7rem;
     line-height: 1.54rem;
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
 }
 
 .dich-title{
@@ -455,7 +467,7 @@ video {
 }
 
 .spacer-md {
-    margin-top: 1.5rem;
+    margin-top: 2rem;
 }
 
 .spacer-lg {
@@ -467,6 +479,10 @@ video {
         flex-direction: column;
         gap: 1rem;
         align-items: center;
+        margin: 1rem auto;
+    }
+    .han-col-content {
+        gap: 0.75rem;
         margin: 1rem auto;
     }
     .hanco-title {
@@ -484,9 +500,9 @@ video {
     .spacer-lg {
         margin-top: 2rem;
     }
-    .spacer-md {
+    /* .spacer-md {
         margin-top: 0rem;
-    }
+    } */
 }
 
 .md-typeset abbr {

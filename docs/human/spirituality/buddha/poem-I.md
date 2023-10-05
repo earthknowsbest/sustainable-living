@@ -32,7 +32,7 @@ Thái Tông nói trong bài Tọa Thiền Luận: “Người học đạo cốt
 莫作長年客，<br/>
 終歸早照功。<br/>
 </div>
-<div>
+<div class="han-viet">
 Dạ sắc sơ phân hiểu, <br/>
 Thần quang tiệm xuất không. <br/>
 Ám thôi tân phát bạch, <br/>
@@ -45,11 +45,11 @@ Mạc tác trường niên khách, <br/>
 Chung quy tảo chiếu công. <br/>
 </div>
 </div>
-<div class='spacer-md'></div>
+<!-- <div class='spacer-md'></div> -->
 
 <div markdown="1" align='center' class='dich-title'>Kệ vô thường buổi sớm</div>
 <div class='spacer-minus'></div>
-<div class="han-row-content-II" align="center">
+<div class="han-dich" align="center">
 Sắc đêm mới vừa hửng sáng,<br/>
 ánh ban mai hiện dần trên bầu trời.<br/>
 Ngầm giục mái tóc xanh điểm trắng,<br/>
@@ -63,7 +63,7 @@ Cuối cùng hãy quay về với công soi rọi sớm.<br/>
 </div>
 
 <div class='spacer-sm'></div>
-<div align="center">
+<div class="viet-thi" align="center">
 Sáng giời đêm nửa nhuộm màu <br/>
 Ánh quang dạn rỡ hiện bầu ban mai <br/>
 Xuân xanh điểm tóc trắng vai <br/>
@@ -76,7 +76,47 @@ Chớ làm khách trọ long đong <br/>
 Về công quản sớm thanh lòng tự tâm. <br/>
 </div>
 
-<div class='spacer-lg'></div>
+<div class='spacer-md'></div>
+<div class="han-col-content" align="center">
+<div class='hanco-title hanco'>寄清風庵僧德山</div>
+<div class='dich-title'>2. Ký Thanh Phong am tăng Đức Sơn</div>
+</div>
+
+<div class="han-col-content" align="center">
+<div class='hanco'>
+風打松關月照亭， <br/>
+心期風景共凄清。 <br/>
+個中滋味無人識， <br/>
+付與山僧樂到明。 <br/>
+</div>
+<div class="han-viet">
+Phong đả tùng quan nguyệt chiếu đình, <br/>
+Tâm kỳ phong cảnh cộng thê thanh. <br/>
+Cá trung tư vị vô nhân thức, <br/>
+Phó dữ sơn tăng lạc đáo minh. <br/>
+</div>
+</div>
+<!-- <div class='spacer-md'></div> -->
+
+<div markdown="1" align='center' class='dich-title'>Gửi sư Đức Sơn am Thanh Phong</div>
+<div class='spacer-minus'></div>
+<div class="han-dich" align="center">
+Gió đập cổng thông, trăng sáng trước sân, <br/>
+Lòng hẹn với phong cảnh cùng trong sạch lặng lẽ. <br/>
+Bao nhiêu thú vị trong đó không ai hay, <br/>
+Mặc cho nhà sư trong núi vui đến sáng. <br/>
+</div>
+
+<div class='spacer-sm'></div>
+<div class="viet-thi" align="center">
+Gió đạp cửa thông sáng trăng đình <br/>
+Cảnh tâm giao thức tuyệt u minh <br/>
+Mang mang đến sáng chẳng ai biết <br/> 
+Mặc vị sơn tăng thoả chí tình. <br/> 
+</div>
+<div class='spacer-md'></div>
+
+<!-- <div class='spacer-lg'></div>
 <div class="han-row-content" align="center">
 <div class='hanco-title hanco'>此時無常偈</div>
 <div class='dich-title'>Thử thời vô thường kệ</div>
@@ -128,4 +168,105 @@ Không tránh khỏi lúc vô thường dẫn tới, <br/>
 Khó trốn khỏi cái hạn lớn kéo về. <br/>
 Ai nấy nên tu hành chính đạo, <br/>
 Chớ để mình lạc vào rừng tà. <br/>
+</div> -->
+
+## Tuệ Trung Thượng sĩ
+
+!!! quote "Vua Trần Nhân Tông viết:"  
+
+    “Thượng sĩ sống giữa lòng thế tục, hòa ánh sáng mình trong cuộc đời bụi bặm; trong mọi cuộc tiếp xúc thượng sĩ luôn luôn giữ thái độ hòa ái nên chưa bao giờ gặp phải những trường phiền nghịch. Do đó, ngài có thể làm tiếp nối được hạt giống chánh pháp, dìu dắt được những kẻ mới học. Ai đến tham cứu tìm học với ngài cũng được ngài chỉ dẫn sơ lược cho thấy phần cương yếu của đạo pháp khiến tâm họ có chỗ nương tựa. Thượng sĩ không bì ràng buộc bởi hình thức; khi thì ẩn tàng, khi thì lộ diện, ngài không chấp vào hình thức và danh từ.”
+
+“Vua Nhân Tông một hôm hỏi về tông chỉ thiền phái của Tuệ Trung. Ý của Nhân Tông là muốn tìm hiểu bí quyết giác ngộ mà Tuệ Trung đã được thiền sư Tiêu Diêu trao truyền, 
+
+!!! quote "Tuệ Trung nói:"
+
+    “Hãy quay về tự thân mà tìm lấy tông chỉ ấy, không thể đạt được từ ai khác”.
+    
+Lời nói ấy khiến Nhân Tông thấy được ánh sáng của thiền đạo.”
+
+<div class='spacer-md'></div>
+<div class="han-row-content" align="center">
+<div class='hanco-title hanco'>迷悟不異</div>
+<div class='dich-title'>Mê ngộ bất dị</div>
+</div>
+
+<div class="han-row-content" align="center">
+<div class='hanco'>
+迷去生空色，<br/>
+悟來無色空。<br/>
+色空迷悟者，<br/>
+一理古今同。<br/>
+<div class='spacer-sm'></div>
+
+妄起三途起，<br/>
+真通五眼通。<br/>
+涅槃心寂寞，<br/>
+生死海重重。<br/>
+<div class='spacer-sm'></div>
+
+不生還不滅，<br/>
+無始亦無終。<br/>
+但能忘二見，<br/>
+法界盡包融。<br/>
+</div>
+<div class="han-viet">
+Mê khứ sinh không sắc, <br/>
+Ngộ lai vô sắc không. <br/>
+Sắc không mê ngộ giả, <br/>
+Nhất lý cổ kim đồng. <br/>
+<div class='spacer-sm'></div>
+
+Vọng khởi tam đồ khởi, <br/>
+Chân thông ngũ nhãn thông. <br/>
+Niết-bàn tâm tịch tịch, <br/>
+Sinh tử hải trùng trùng. <br/>
+<div class='spacer-sm'></div>
+
+Bất sinh hoàn bất diệt, <br/>
+Vô thuỷ diệc vô chung. <br/>
+Đãn năng vong nhị kiến, <br/>
+Pháp giới tận bao dung. <br/>
+</div>
+</div>
+<!-- <div class='spacer-sm'></div> -->
+
+<div markdown="1" align='center' class='dich-title'>Mê ngộ không hai</div>
+<div class='spacer-minus'></div>
+<div class="han-dich" align="center">
+Lúc mê sinh ra “không” và “sắc”, <br/>
+Khi ngộ không còn “sắc”, không, mê, ngộ. <br/>
+“Sắc”, “không”, với “mê”, “ngộ”, <br/>
+Xưa nay vẫn chung nhau ở một lẽ. <br/>
+<div class='spacer-sm'></div>
+
+Mê vọng nổi dậy thì ba đường nổi dậy, <br/>
+Cứ chân thông suốt thì năm mắt đều thông suốt. <br/>
+Tâm niết-bàn lặng lẽ, <br/>
+Biển sống chết trùng trùng. <br/>
+<div class='spacer-sm'></div>
+
+Không sinh mà không diệt, <br/>
+Không trước cũng không sau. <br/>
+Nếu quên được hai tà kiến, <br/>
+Thì bao hàm được cả pháp giới. <br/>
+</div>
+
+<div class='spacer-sm'></div>
+<div class="viet-thi" align="center">
+Khi mê thấy không sắc <br/>
+Khi ngộ hết sắc, không <br/>
+Sắc, không và mê ngộ <br/>
+Xưa nay một lẽ đồng <br/>
+<div class='spacer-sm'></div>
+
+Vọng niệm tam đồ hiện <br/>
+Chân thông ngũ nhãn thông <br/>
+Tâm niết bàn tĩnh lặng <br/>
+Biển sinh tử ngàn trùng <br/>
+<div class='spacer-sm'></div>
+
+Không sinh cũng không diệt <br/>
+Không thủy cũng không chung <br/>
+Đập tan hai tà kiến <br/>
+Thực tại lộ hình dung <br/>
 </div>

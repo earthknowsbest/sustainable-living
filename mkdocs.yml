@@ -115,7 +115,15 @@ nav:
   #     - Thành phố: earth/personal/city.md
   - Nhân sinh:
     - Tâm linh: 
-      - Thơ thiền (I): human/spirituality/poem-I.md
+      - Đạo Phật:
+        - Thơ văn thiền (I): human/spirituality/buddha/poem-I.md
+      - Đạo Lão—Trang:
+        - Giản lược (I): human/spirituality/lao-trang/summary-I.md
+        - Giản lược (II): human/spirituality/lao-trang/summary-II.md
+        - Giản lược (III): human/spirituality/lao-trang/summary-III.md
+      # - Đạo Khổng:
+      #   - Trung Dung: human/spirituality/khong/trungdung.md
+
   #   - Thể chất: human/body.md
   #   - Dinh dưỡng: human/nutrition.md
   #   - Giấc ngủ: human/sleep.md

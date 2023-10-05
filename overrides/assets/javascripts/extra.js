@@ -36,7 +36,8 @@ window.onload = replaceTitleAttributes;
 
 head.ready(function() {
     Chinese2Links(),
-    $(".han-row-content-II").css("font-style", "italic"),
+    $(".han-dich").css({"font-weight": "300", "font-style": "italic"}),
+    $(".han-viet").css("font-weight", "300"),
     $(".deleted").hover(function() {
         var t = $(this);
         t.data("old-html", t.html()).html(t.data("content"))

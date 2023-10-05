@@ -13,7 +13,9 @@ Background-dark: #2F2322
 ```html
 <!-- Center -->
 <div markdown="1" align="center">
-</div>
+<div class="viet-thi" align="center">
+<div markdown="1" class="viet-thi" align="center">
+<a class="hanco">
 ```
 
 Format svg: `style='scaling-svg'`
@@ -22,7 +24,7 @@ Format svg: `style='scaling-svg'`
 [ASCII Code](https://ascii.cl/htmlcodes.htm)
 
 ```latex
-² , ³ , ⊕ , ☉ , π, ~ , ≈ , · , × , ÷ , →, ± , \ge , \lt, \bf, \it, \textbf, \textit, \textrm
+« , » , ² , ³ , ⊕ , ☉ , π, ~ , ≈ , · , × , ÷ , →, ± , \ge , \lt, \bf, \it, \textbf, \textit, \textrm
 μ, α, γ, δ, ε, ζ, η, ι, κ, λ, μ, ν, ο, π, ρ, ς, σ, τ, υ, χ
 $\eqref{6.11}$
 $\tag{6.1}\label{6.1}$
