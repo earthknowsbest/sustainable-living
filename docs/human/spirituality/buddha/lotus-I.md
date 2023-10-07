@@ -1,5 +1,94 @@
 # Pháp Hoa Đề Cương
 
+## Lời giới thiệu
+
+Quyển Pháp Hoa Đề Cương là một tác phẩm thật có giá trị của một Thiền sư Việt Nam gần thời đại chúng ta. Chúng tôi khuyến khích Thiền sinh Thích Nhật Quang phiên dịch nhằm mục đích phổ biến tài liệu Phật giáo do người Việt Nam sáng tác, còn sót lại trong những bản văn chữ Hán.
+
+Phật tử Việt Nam rất sùng mộ đọc tụng kinh Pháp Hoa, mà rất ít người hiểu được huyền chỉ của kinh. Vì thế phổ biến được quyển Đề Cương này sẽ giúp nhiều Phật tử thấy được chỗ cao siêu thâm áo của kinh. Thường trì tụng mà không hiểu được lý kinh thì công đức đâu được là bao. Đọc kinh mà thâm được lý, thật là người đi đêm được ngọn đuốc sáng lo gì sa hầm sụp hố. Công đức của người tụng kinh thâm đạt lý thú thật không sao kể xiết.
+
+Với bản nguyện xương minh Phật giáo nước nhà, cùng phá dẹp thành trì mê lầm đang ngăn lấp con đường Chánh giác của hàng Phật tử, nên chúng tôi ghi vào đây vài lời giới thiệu với độc giả.
+
+<div markdown="1" class="viet-thi" align="right">
+**THÍCH THANH TỪ**
+</div>
+
+## Lời người dịch
+
+Vào hạ năm trước, khi trao tập Đề Cương này cho tôi, Thầy tôi dạy: “Chú chịu khó đọc kỹ rồi dịch ra, để phổ biến một tài liệu quý giá của Phật Giáo Việt Nam chúng ta, cũng để đánh tan quan niệm sai lầm của một số người cho rằng: “Người nước ta thua kém người Trung Quốc”.
+
+Sau khi nhận sách và đọc qua, thâm tâm tôi khoan khoái lạ thường. Khác nào người bệnh ngặt, được toát mồ hôi. Như kẻ lạc lối trong đêm dày, chợt gặp mục tiêu và ánh sáng. Cũng như kẻ khốn cùng, bỗng được của báu vô lượng.
+
+Ôi thích thú, sung sướng không kể xiết !
+
+Thật vậy, không luận người Ấn hay người Hoa, chẳng riêng Việt Nam hay Nhật Bản, mà toàn thể nhân loại, cho đến muôn loài sanh trong Pháp giới, đều có “Tri kiến Phật”, đều sẵn đủ “ Trí tuệ Như Lai”. Chỉ khác nhau ở chỗ, người hữu duyên sớm nhận ra trân bảo nhà mình, đời đời giàu sang, kẻ vô phần thì Đông Tây rong ruổi, mãi mãi đói khó.
+
+Chớ nào phải, trong biển Tỳ-lô lại nổi bất bình, trên pháp thể an tường há sanh bỉ thử...
+
+Việt Nam chúng ta, được một vinh hạnh lớn lao vô cùng là, viên đá đầu tiên của tòa nhà Phật Giáo, đã được đặt trên lãnh thổ này từ thế kỷ thứ III. Kịp đến năm 580 TL, thì Thiền tông phát triển, dần dần đến thế kỷ thứ XI, tòa nhà Phật Giáo hoàn thành tráng lệ. Thế thì, có thể nói Phật Giáo có mặt trên xứ sở ta, cùng lúc hoặc sớm hơn Trung Quốc. Bấy giờ, chư vị Thiền đức đạo cao đức trọng lần lượt ra đời.
+
+Những vị tích cực như Khuông Việt, Vạn Hạnh... Những vị kỳ bí như Không Lộ, Giác Hải... Những vị uyên bác như Thanh Biện, Viên Thông... Cho đến những vị siêu thoát như Thiền Lão... những vị mẫu mực như Đạo Huệ... và vô số những vị khác, hoặc ẩn hoặc hiển, cùng nêu cao ngọn đuốc trí tuệ, làm cho Cơ Thiền đã vang lừng một thuở. Chính các Ngài đã khéo léo hòa tấu khúc Tông phong thanh tao vi vút khắp sơn khê. Mãi đến thời Pháp thuộc gần đây, âm hưởng đó vẫn còn bàng bạc gội nhuần ngoài cỏ nội. Các bậc kiến tánh thâm tu quảng học như thế, vẫn tiếp tục ra đời, mà nhân vật đại biểu cho thời này là Minh Chánh thượng nhân, người làm ra Đề Cương này.
+
+Thế nên biết: “Giọt nước dòng Tào nhuần thấm khắp nơi” vậy.
+
+Hôm nay, con thành kính đốt nén tâm hương, dâng lên mười phương các đấng Điều Ngự, cùng lịch đại Thánh Hiền, và Minh Chánh thượng nhân, nguyện từ bi phủ giám cho con. Đồng thời, soi tỏ lòng con, khiến con sáng suốt phiên dịch Đề Cương này, hầu khêu sáng ngọn đuốc trí tuệ mà các Ngài đã nhen nhúm từ lâu.
+
+Con cũng mong mỏi hiện tại chư Thiện tri thức, từ mẫn bổ chính cho bản dịch, để khi đến tay quý độc giả được hoàn bị hơn.
+
+Lại nguyện mọi loài cùng dự hội Pháp Hoa, đều ngộ nhập Tri kiến Phật, hằng sống với bản thể thanh tịnh như như của mình.
+
+<div markdown="1" class="viet-thi" align="center">
+TU VIỆN CHÂN KHÔNG<br/>
+Đầu xuân năm Quý Sửu 1973 (PL 2517) <br/>
+**THÍCH NHẬT QUANG**<br/>
+Kính đề<br/>
+</div>
+
+## **Phàm lệ**
+
+Trong nguyên bản Đề Cương này, có nhiều phẩm tác giả chỉ nói tóm lược, mà không nêu rõ tên mỗi phẩm.
+Vì muốn tiện lợi cho việc tham khảo của quý độc giả, dịch giả tự ý ghi thêm tên mỗi phẩm, theo thứ tự của mục lục toàn kinh.
+
+Ngoài ra, khi gặp những danh từ chuyên môn, dịch giả chú thích ra, và chỗ nào dẫn danh hiệu Phật... xin lược bớt. Như vậy, trình tự và ý thú của toàn kinh được liên tục, và quý vị sẽ theo dõi dễ dàng.
+Sau cùng, dịch giả dẫn thêm mục lục của toàn kinh theo bản dịch của Hòa thượng Trí Tịnh.
+
+
+<div markdown="1" class="viet-thi" align="right">
+Cung kính dâng lên Thầy, <br/>
+Người chỉ con lối sống. <br/>
+**NHẬT QUANG**
+</div>
+
+<div markdown="1" class="viet-thi" align="center">
+Ba mươi năm trôi giạt，  <br/>
+Chả biết ta là gì !  <br/>
+Quày đầu trông lối cũ，  <br/>
+A đấy, chính ta đi ! <br/>
+</div>
+<div class='hanco' align="center">
+三十年兮漂泊，  <br/>
+我是誰兮不知！ <br/>
+回頭兮瞻故跡， <br/>
+阿哩分即睊礴！ <br/>
+稽首
+</div>
+
+## Lời dẫn tựa Pháp Hoa Đề cương
+
+Kinh nói: “Chư Phật vì một đại sự nhân duyên xuất hiện trong đời là muốn khiến cho chúng sanh khai thị ngộ nhập tri kiến Phật”. Nhưng câu kinh trên cũng là cương lĩnh chánh yếu của toàn bộ, các nhà sớ giải lấy đó làm chỉ thú nòng cốt để giải thích rộng bộ kinh này. Do đó mới biết chư Phật nói ba câu hỏi, chín thí dụ, hội ba về một, dẫn quyền vào thật để khai thị. Đó là khiến tất cả chúng sanh biết được bản lai diện mục, gọi là tri kiến Phật để ngộ nhập nó. Xét khi Phật còn tại thế, hàng Thanh văn nghe qua hai lượt được ngộ, Phật liền thọ ký cho họ. Cho đến tất cả chúng sanh nghe qua một câu một kệ của kinh này có một niệm tùy hỷ, Phật cũng huyền ký cho họ. Đó là rốt ráo một đại sự nhân duyên vậy.
+
+Trộm nghĩ kinh này là vua trong các kinh, các nước đều truyền bá rộng rãi. Riêng ở Trung Hoa có đến hơn trăm nhà sớ giải thì đủ biết tầm quan trọng của nó rồi. Bộ kinh này lưu thông đến nước ta (Việt Nam) đặc biệt vào triều vua Gia Long, có một vị cao tăng là Hòa thượng Bích Động y theo kinh này mà làm đề cương.
+
+Nay ty Hoằng pháp chúng tôi (Thanh Chúc, Thanh Quy, Thanh Trà) phát tâm khắc lại và lấy bộ này làm một trong mười khoa công án. Đây là lời dẫn vậy.
+
+<div markdown="1" class="viet-thi" align="center">
+**Vĩnh nghiêm, hậu học Tỳ-kheo Thanh Hanh**<br/>
+Kính đề lời dẫn tựa.<br/>
+</div>
+
+Hoàng triều Bảo Đại năm thứ chín (1933) tháng 4 mùng 10.<br/>
+
+Nước Đại Nam, tỉnh Ninh Bình, phủ An Khánh, huyện An Mô, tổng Đam Khê, xã Đam Khê, chùa Bích Động tàng trữ bản để về sau biết mà in.
+
 ## Tựa tông chỉ đề cương Kinh Diệu Pháp Liên Hoa
 
 Một lúc nọ, nhân khi du hóa đặt bước đến Liêm Khê, mừng rỡ gặp được Thiền sư Thanh Đàm, cùng nhau luận bàn vui vẻ. Thiền sư bảo: “ Vừa mới biên tập đề cương kinh Diệu Pháp chưa được phân nửa. Hồi hôm nằm mộng thấy đức Bổn Sư dường như về ấn thọ cho, lại thấy rõ trên nửa tòa có đức Đa Bảo. Nay tôn giả vừa đến đây, là ý Phật khiến cho Ngài đến chứng minh đó vậy”. Lúc đó, Thanh Nguyên tôi nửa mừng nửa sợ cầm bản thảo nhuận sắc vừa biên xong, mới rõ tạng tánh, hồ tâm Như Lai chói suốt. Tôi xin thành thật viết bài tựa này để chứng minh. Kệ rằng:
@@ -328,7 +417,7 @@ Hoa Quang cõi Phật quả y nhiên, <br/>
 Các trời hớn hở vui đồng tánh, <br/>
 Hai dụ tuyên dương rõ đốn viên, <br/>
 Đầu hứa ba xe, sau tặng một, <br/> 
-Trước cho nhà cỏ[^2] cuối thêm kiên, <br/> 
+Trước cho nhà cỏ cuối thêm kiên, <br/> 
 Trong đây quyền thật đều phô diễn, <br/> 
 Được ý quên lời mới là hiền. <br/>
 </div>
@@ -350,15 +439,11 @@ Cá trung quyền thiệt câu phu diễn,  <br/>
 諸天喜讚明同性， <br/>
 二喻宣揚顯頓圓， <br/>
 初說三車終與一， <br/>
-前居草舍後加堅， <br/>
+前居艸舍後加堅， <br/>
 箇中權實俱敷演， <br/>
 得意忘言始是賢。 <br/>
 </div>
 </div>
-
-[^2]:
-
-    Thay chữ <a class='hanco'>州</a>(châu) bằng chữ <a class='hanco'>草</a>(thảo: cỏ) trong phần chữ Hán
 
 ## Phẩm Dược thảo dụ và Hoá thành dụ
 
@@ -379,7 +464,7 @@ Phật thừa cùng thọ hội Liên hoa,<br/>
 Đại Thông Trí Thắng, nhân còn đó, <br/>
 Bồ-tát Sa-di, chánh hộ gia,<br/>
 Chớ kẹt Hóa thành, nên tiến lộ,<br/>
-Ngay đây Bảo sở, chẳng đâu xa.[^3]<br/>
+Ngay đây Bảo sở, chẳng đâu xa.<br/>
 </div>
 <div class='spacer-sm'></div>
 <div class="han-col-content" align="center">
@@ -404,10 +489,6 @@ Mục tiền Bảo sở đạo phi hà.<br/>
 目前寶所道非遐。<br/>
 </div>
 </div>
-
-[^3]:
-
-    Thay chữ <a class='hanco'>遯</a>(độn: trốn tránh) bằng chữ <a class='hanco'>遐</a>(hà: xa cách) trong phần chữ Hán
 
 ## Phẩm Ngũ bá đệ tử thọ ký, Thọ học vô nhân ký và Phẩm Pháp sư
 
@@ -479,7 +560,7 @@ Nhân gì tháp báu vọt trước đây, <br/>
 Lại nghe trong đó tiếng “Lành thay”, <br/> 
 Đại Nhạo Thuyết Tôn, nghi đến hỏi, <br/> 
 Thích-ca Văn Phật quyết tỏ bày, <br/> 
-Phân thân vốn thật Mâu-ni[^4] hóa, <br/> 
+Phân thân vốn thật Mâu-ni hóa, <br/> 
 Tháp báu nguyên là cổ Phật đài, <br/>
 Đấy chỉ ba thân về một chỗ, <br/>
 Tòa sen cùng ngự, lý không sai. <br/>
@@ -508,8 +589,107 @@ Liên hoa đồng tọa lý vô sai. <br/>
 </div>
 </div>
 
-[^4]:
+## Phẩm Đề-bà-đạt-đa
 
-    Thay chữ <a class='hanco'>车</a>(xa: xe) bằng chữ <a class='hanco'>牟</a>(mâu, trong Mâu-ni) trong phần chữ Hán
+Phẩm Đề-bà-đạt-đa, là chỉ cho người tu hành đã ngộ tâm Diệu liên hoa. Lúc muốn tu tiến phải như đức Thế Tôn, trong tâm chỉ còn Diệu pháp, cởi bỏ mọi yêu thích, quên mất nỗi nhọc nhằn, sấn tới trong gian lao, và nhẫn nhục phát tinh tấn lớn, mong mỏi đến thành Phật mới thôi. Người xưa nói: “Thấy người hiền, nghĩ rằng ta sẽ được như họ, thấy kẻ ác, trong tâm hãy tự tỉnh lấy !”.
+
+Nhưng trong tiết này, là trưng biểu lìa tướng ngã, xả sân hận, kiêu mạn, giải đãi... Chính cái tâm hay xả ấy, bèn thành hạt giống trí tuệ, nên rồi Đề-bà cũng sẽ làm Phật. Đến như việc Long nữ thành Phật, lý cũng rất u huyền.
+
+Xét ra, vì nhiều tham dục, nên phải đọa vào loài súc sanh, mà rồng là loài có ưu thắng hơn các loài khác. Hơn thế nữa, đã thọ thân cái trong loài rồng, thì tâm ngu si, tham dục kia, hẳn lớn không gì hơn. Thế mà được đức Văn Thù giáo hóa cũng có thể làm Phật. Bởi Văn Thù là tượng trưng cho hạt giống trí tuệ. Bảo rằng, kia tuy thọ thân rồng cái, mà cũng hàm chứa hạt giống trí tuệ. Kia, sau khi cởi viên bảo châu dâng lên đức Phật, là trưng biểu đã xa lìa tâm tham dục, gìn giữ tâm trí tuệ. Liền chuyển nữ thân thành tướng nam tử, đó là trưng biểu cho tâm bỏ tham dục, liền thành giống trí Bồ-đề. Qua phương nam, nơi cõi Vô Cấu liền thành Chánh giác. Phương nam tức tâm địa rỗng sáng. Vô Cấu tức sạch trong. Liền thành Chánh giác tức chỉ cho đã ngộ đạt tâm châu, xưa nay rỗng rang sáng suốt, trong sạch, bèn chóng vượt hành tướng của ba thừa bốn quả, tiến thẳng vào chân tế, thì làm sao nghiệp báo của sáu đường mà có thể trói buộc được ư ? Tổ sư Vĩnh Gia nói:
+
+<div markdown="1" class="viet-thi" align="center">
+Chứng thật tướng, không nhân pháp, <br/>
+Sát-na diệt hết nghiệp A-tỳ. <br/>
+</div>
+
+Bởi văn tiết của kinh này, nhằm bày tỏ tất cả chúng sanh trong ba cõi, bốn loài, sáu ngả, đều có Phật tánh. Chỉ vì theo nghiệp thức mà bị trôi lăn trong sáu ngả. Nếu gặp duyên phát giác, được nghe kinh điển Pháp Hoa, thấy được tâm xưa nay trong sạch, liền khi ấy chuyển tham sân si thành Giới Định Tuệ. Thế nào mà chẳng có thể chóng làm Phật ?
+
+Kệ rằng:
+
+<div markdown="1" class="viet-thi" align="center">
+Thế Tôn đã từng làm quốc vương, <br/>
+Vì đạo quên thân chẳng thể lường, <br/>
+Hái trái cúng dường gìn Diệu pháp, <br/>
+Lượm cây nấu nướng hiến tiên nhân,[^2] <br/>
+Đành rành nhẫn nhục thành vô thượng, <br/>
+Đề-đạt, thầy ta việc phi thường, <br/>
+Long nữ cởi châu dâng đức Phật, <br/>
+Ý lìa tham ái hộ châu vương. <br/>
+</div>
+<div class='spacer-sm'></div>
+<div class="han-col-content" align="center">
+<div class="han-viet">
+Thế Tôn thường tác quốc vương sơ, <br/>
+Vị đạo vong bì bất khả tư, <br/>
+Thái quả cúng dường tồn Diệu pháp, <br/>
+Thập tân thiết thực phụng A-tư <br/>
+Thử minh nhẫn nhục thành vô thượng, <br/>
+Thùy tín Đề-bà thị ngã sư, <br/>
+Long nữ xả châu trì thượng Phật, <br/>
+Ý ly tham ái hộ châu ky. <br/>
+</div>
+<div class='hanco'>
+世尊常作國王初，<br/>
+爲道忘疲不可恩，<br/>
+採果供養存妙法，<br/>
+拾薪設食奉阿私，<br/>
+此明忍辱成無上，<br/>
+誰信提婆是我師，<br/>
+龍女捨珠持上佛，<br/>
+意離貪愛護珠璣。<br/>
+</div>
+</div>
+
+[^2]:
+
+    A-tư: Một vị tiên trưởng tên Vô Tỷ, tiền thân của Đề-bà-đạt-đa.
+
+## Phẩm trì
+
+Tỳ-kheo ni thọ ký, là nhiếp ý việc Long nữ thành Phật ở trước. Bởi súc sanh cái ngộ tâm, còn có thể thành Phật thay, huống là người nữ hộ tâm mà chẳng được đạo hay sao ? Không vì hình tướng để chia nam nữ, một tâm thanh tịnh xưa nay đồng.
+
+Lại Bồ-tát trì kinh, nghĩa là người tu hành muốn hộ trì tâm này, thì chốn chốn nơi nơi, phải mặc áo nhẫn nhục, giữ giáp tinh tiến, cầm kiếm trí tuệ, vào rừng phiền não, dứt giống vô minh, khiến tâm được thường không tịch, tri kiến rỗng suốt, không các chướng ngại. Dù hành đạo này, mà bị đánh mắng cũng phải nhịn chịu. Tâm này chẳng tán động, cùng tột thuở vị lai, trọn không mảy may thối chuyển.
+Như gió giữ thế giới, bền chắc chẳng động. Như đất chở chúng sanh không chút nhàm mỏi. Đấy mới thật là Phật tử biết gìn giữ tâm, cũng chính là người hoàn toàn không có ngã, và thật sự là vị Bồ-tát hộ pháp vậy.
+
+Kệ rằng:
+
+<div markdown="1" class="viet-thi" align="center">
+Chớ đem năm chướng báng chư ni,  <br/>
+Thọ ký rành rành chẳng thiếu gì, <br/>
+Di Mẫu ngộ tâm, thành Chánh giác, <br/> 
+Da Thâu kiến tánh, chứng Bồ-đề,  <br/>
+Đã hay thấy đạo, mới hành đạo, <br/>
+Rõ suốt vô vi, nói hữu vi, <br/>
+Bồ-tát trì kinh nào có tướng ? <br/>
+Pháp nhẫn vô sanh khéo siêng trì. <br/> 
+</div>
+<div class='spacer-sm'></div>
+<div class="han-col-content" align="center">
+<div class="han-viet">
+Hưu tương ngũ chướng báng chư ni, <br/> 
+Thọ ký chi trung diệc hữu chi, <br/>
+Di Mẫu ngộ tâm thành Chánh giác, <br/> 
+Da Thâu kiến tánh chứng Bồ-đề, <br/>
+Dĩ năng kiến đạo phương hành đạo, <br/> 
+Liễu đạt vô vi thuyết hữu vi, <br/>
+Bồ-tát trì kinh hà hành tướng, <br/>
+Vô sanh pháp nhẫn tự tinh trì. <br/>
+</div>
+<div class='hanco'>
+休將五障謗諸尼， <br/>
+授記之中亦有之， <br/>
+姨母悟心成正覺， <br/>
+耶輸見性證菩提， <br/>
+已能見道方行道， <br/>
+了達無寫說有寫， <br/>
+菩薩持經何行相， <br/>
+無生法忍自精持。 <br/>
+</div>
+</div>
+
+
+
+
+
 
 
