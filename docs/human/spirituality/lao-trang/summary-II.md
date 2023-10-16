@@ -101,7 +101,7 @@ Các Ngài cho rằng con người sinh ra phải tìm về cho được tới n
 
 Mà nguồn mạch linh thiêng huyền diệu ấy đã tiềm ẩn ngay trong lòng con người. Con người chỉ việc lắng lòng lại, chỉ việc thu thần định trí nhìn sâu vào tâm khảm mình sẽ tìm ra được Bản thể siêu việt huyền nhiệm ấy.
 
-Khi đã đạt tới cõi tâm linh siêu vi huyền nhiệm ấy, con người sẽ thoát được mọi trạng thái vong thân, và vươn lên bên trên cái thế giới tương đối đầy mâu thuẫn như: Thị phi, thiện ác, sinh tử, và thoát ly được hết những gì hữu hạn, nhân vi, kiềm tỏa con người.
+Khi đã đạt tới cõi tâm linh siêu vi huyền nhiệm ấy, con người sẽ thoát được mọi trạng thái vong thân, và vươn lên bên trên cái thế giới tương đối đầy mâu thuẫn như: thị phi, thiện ác, sinh tử, và thoát ly được hết những gì hữu hạn, nhân vi, kiềm tỏa con người.
 
 Khi đã đạt tới cõi tâm linh ấy, thì lập tức cũng sẽ thâm nhập, hòa đồng được với cõi vô biên man mác, và chính nhờ đó mà con người lấy lại được cái phẩm giá vô song của mình. Vì nhận ra được chiều kích mênh mông vô hạn, vì nhận ra được giá trị vô biên của mình, con người sẽ sống hồn nhiên, tiêu sái, thảnh thơi, hạnh phúc…
 
@@ -382,7 +382,7 @@ Ta hãy quên lời quên chuyện của Trang kể mà chỉ lưu tâm lượm 
 
 [^22]: 
 
-    Thị cố phù hĩnh tuy đoản, tục chi tắc ưu, hạc hĩnh tuy trường, đoạn chi tắc bi. Cố tính trường phi sở đoản, tính đoản phi sở tục, vô sở khứ ưu dã. <a class="hanco">是故鳧脛雖短,續之則憂,鶴脛雖長,短之則悲.故性長非所短,性短非所續,無所去憂也</a> (Biền mẫu, 8-a).
+    thị cố phù hĩnh tuy đoản, tục chi tắc ưu, hạc hĩnh tuy trường, đoạn chi tắc bi. Cố tính trường phi sở đoản, tính đoản phi sở tục, vô sở khứ ưu dã. <a class="hanco">是故鳧脛雖短,續之則憂,鶴脛雖長,短之則悲.故性長非所短,性短非所續,無所去憂也</a> (Biền mẫu, 8-a).
 
 [^23]: 
 

@@ -1,6 +1,6 @@
 # Một quan niệm tổng quát về Đạo Phật
 
-Nếu hạnh phúc chỉ là cuộc say sưa kéo dài trong một đời sống, chỉ là một lý tưởng đủ sức hấp dẫn để nắm hết hảy ý nghĩa, lời nói và việc làm của chúng ta cùng chảy một chiều... thì nào chúng ta hãy chọn một lý tưởng cao quí nhất để phụng sự.
+Nếu hạnh phúc chỉ là cuộc say sưa kéo dài trong một đời sống, chỉ là một lý tưởng đủ sức hấp dẫn để nắm hết thảy ý nghĩa, lời nói và việc làm của chúng ta cùng chảy một chiều... thì nào chúng ta hãy chọn một lý tưởng cao quí nhất để phụng sự.
 
 !!! quote ""
 

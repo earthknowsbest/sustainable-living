@@ -61,7 +61,7 @@ Người chỉ con lối sống. <br/>
 <div markdown="1" class="viet-thi" align="center">
 Ba mươi năm trôi giạt，  <br/>
 Chả biết ta là gì !  <br/>
-Quày đầu trông lối cũ，  <br/>
+Quay đầu trông lối cũ，  <br/>
 A đấy, chính ta đi ! <br/>
 </div>
 <div class='hanco' align="center">

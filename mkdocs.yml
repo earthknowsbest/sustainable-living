@@ -117,6 +117,8 @@ nav:
     - Tâm linh: 
       - Đạo Phật:
         - Nói với tuổi trẻ: human/spirituality/buddha/intro.md
+        - Thực tập: human/spirituality/buddha/practice.md
+        - Tâm kinh: human/spirituality/buddha/tamkinh.md
         - Pháp Hoa (I): human/spirituality/buddha/lotus-I.md
         - Pháp Hoa (II): human/spirituality/buddha/lotus-II.md
         - Thơ văn thiền (I): human/spirituality/buddha/poem-I.md
@@ -147,6 +149,7 @@ theme:
     # text: Noto Serif
     text: Literata
     # text: Source Serif 4
+    # text: Georgia 
   icon:
     repo: fontawesome/brands/github-alt
     logo: custom/logo
