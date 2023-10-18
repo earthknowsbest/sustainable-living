@@ -77,7 +77,7 @@ Truy cập vào [Bản đồ của dự án Nửa Trái đất](https://map.half
 
 <hr/>
 
-Nguồn: [Quỹ Đa dạng sinh học E.O. Wilson](https://eowilsonfoundation.org)
+**Nguồn:** [Quỹ Đa dạng sinh học E.O. Wilson](https://eowilsonfoundation.org)
 
 
 
