@@ -201,4 +201,8 @@ Các bản kinh, văn nghĩa và chú giải khác:
 - [Thiền và Bát Nhã](https://hoavouu.com/p16a19879/02-luoc-chu-van-nghia)
 - [Tâm kinh trực thuyết](https://thuvienhoasen.org/a31108/bat-nha-ba-la-mat-da-tam-kinh-truc-thuyet)
 - **Giải thích tâm kinh, Hoà thượng Thích Thanh Từ**: [nghe Pháp](https://www.youtube.com/watch?v=xafUFiH0Fp8), [đọc văn bản](https://thienphatgiao.org/kinh-bat-nha-gg-ttt/) 
+!!! quote "[Tinh tuý Bát Nhã Tâm Kinh, Đức Đalai Lama](https://www.hongnhu.org/tinh-tuy-bat-nha-tam-kinh/)"
+
+    ...lòng sân hận phá vỡ an lạc nội tại, ngược lại, lòng từ bi tha thứ, tình tương thân tương trợ, tâm ít muốn biết đủ và biết tự chế, đều là căn bản của an vui hòa bình&mdash;hòa bình trong nhân loại và hòa bình trong tâm tưởng. Nền hòa bình chân chính lâu dài chỉ có thể phát triển nhờ mỗi người trong chúng ta cố gắng phát huy những đức tính nói trên. Ðây là điều tôi muốn nói khi đề cập đến tiến bộ của tâm linh. Cũng có khi tôi gọi điều này là “giải trừ vũ khí nội tâm”
+
 <!-- &mdash;https://thuvienhoasen.org/a21196/bat-nha-ba-la-mat-da-tam-kinh -->

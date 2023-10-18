@@ -10,6 +10,7 @@
 - [Kinh tạng](https://suttacentral.net/pitaka/sutta?lang=vi)
 - [Kinh văn chọn lọc](https://langmai.org/tang-kinh-cac/kinh-van/)
 - [Nghe Pháp thoại qua video](https://langmai.org/thien-duong/nghe-phap-thoai/nghe-phap-thoai-hinh-mp4/ts-thich-nhat-hanh/phap-thoai-bo/cong-phu-no-doa-sen-ngan-canh/)
+- [Đức Phật và Phật Pháp](https://thuvienhoasen.org/p21a3842/duc-phat-va-phat-phap)
 
 ## Thực tập thiền
 
@@ -17,7 +18,7 @@
 
 !!! quote "[An trú trong hiện tại](https://langmai.org/tang-kinh-cac/vien-sach/thien-tap/an-tru-trong-hien-tai/thien-hanh/)"
 
-    “Những lời chỉ dẫn trong sách này rất là đơn giản, thực tiễn và để thực hành. Trong cuộc sống bận rộn hằng ngày, nếu ta áp dụng được những điều chỉ dạy cặn kẽ và rõ ràng trong sách thì ta có thể nuôi dưỡng được an lạc, phát triển được trí tuệ và từ bi, tránh thoát được những lôi cuốn và áp lực của xã hội thác loạn vật chất và những hậu quả tai hại của những lôi cuốn và áp lực này. Những tâm trạng dao động, lo lắng, hoảng hốt, và những chứng bệnh tâm thần rất phổ thông trong thời đại mới này, đều là những hậu quả tai hại của những áp lực xã hội mà chỉ có thiển tập mới giải thoát được.”
+    “Những lời chỉ dẫn trong sách này rất là đơn giản, thực tiễn và để thực hành. Trong cuộc sống bận rộn hằng ngày, nếu ta áp dụng được những điều chỉ dạy cặn kẽ và rõ ràng trong sách thì ta có thể nuôi dưỡng được an lạc, phát triển được trí tuệ và từ bi, tránh thoát được những lôi cuốn và áp lực của xã hội thác loạn vật chất và những hậu quả tai hại của những lôi cuốn và áp lực này. Những tâm trạng dao động, lo lắng, hoảng hốt, và những chứng bệnh tâm thần rất phổ thông trong thời đại mới này, đều là những hậu quả tai hại của những áp lực xã hội mà chỉ có thiền tập mới giải thoát được.”
 
 - [Thiền tập cho người bận rộn](https://langmai.org/thien-duong/thien-tap-cho-nguoi-ban-ron/)
 
@@ -85,3 +86,5 @@
 - [Pháp thoại thiền sư Thích Nhất Hạnh](https://langmai.org/thien-duong/nghe-phap-thoai/nghe-phap-thoai-hinh-mp4/ts-thich-nhat-hanh/phap-thoai-bo/)
 - [Kinh tạng](https://suttacentral.net/pitaka/sutta?lang=vi)
 - [Hoa vô ưu](https://hoavouu.com/)
+- [Phật học phổ thông](https://thuvienhoasen.org/p43a40137/phat-hoc-pho-thong-tron-bo-3-tap-hoa-thuong-thich-thien-hoa-sach-ebook-pdf-)
+- [Thích Trí Tịnh toàn tập](https://thuvienhoasen.org/p43a19043/5/tri-tinh-toan-tap)

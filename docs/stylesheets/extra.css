@@ -565,3 +565,7 @@ abbr {
       width: calc(100vw - 4rem);
     }
 }
+
+/* .no-optical-sizing {
+    font-optical-sizing: none;
+} */

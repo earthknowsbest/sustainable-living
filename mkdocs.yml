@@ -98,9 +98,11 @@ nav:
   #     - Lọc nước °2: lowtech/water/water-purify/water-purify-2.md
   #     - Lọc nước °3: lowtech/water/water-purify/water-purify-3.md
   #   - Bơm nước: lowtech/water/water-pump.md
-  # - Sáng kiến:
-  #   - Sinh quyển: 
-  #     - Một nửa Trái Đất: earth/biosphere/half-earth.md
+  - Sáng kiến:
+    # - Sinh quyển: 
+    - Nửa Trái Đất: earth/half-earth.md
+    - 30 × 30: earth/30by30.md
+    - Hiệp ước: earth/fossil-treaty.md
   #     - Đại dương: earth/biosphere/ocean.md
   #   - Cộng đồng:
   #     - Phong trào: earth/community/movements.md
