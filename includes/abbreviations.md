@@ -15,7 +15,7 @@
 
 *[Hữu học]: Các vị chứng từ quả A-na-hàm trở xuống chưa được giải thoát còn phải học tập nên gọi là Hữu học.
 
-*[Khai]: 開, là phá bỏ vọng tưởng tình thức kia, bày tỏ căn tánh chân thường tức là Phật tri kiến, tâm bản lai thanh tịnh.
+<!-- *[Khai]: 開, là phá bỏ vọng tưởng tình thức kia, bày tỏ căn tánh chân thường tức là Phật tri kiến, tâm bản lai thanh tịnh. -->
 
 *[lục tặc]: 六賊; C: liùzéi; J: rokusoku; «Sáu kẻ trộm». Chỉ 6 căn: mắt, tai, mũi, lưỡi, thân và ý thường đem lại phiền não.
 
@@ -31,7 +31,7 @@
 
 *[Ngộ]: 悟, là chúng sanh từ kiếp vô thủy đến giờ, chẳng biết chân tánh xưa nay trong sạch. Chỉ nhận bốn đại, năm uẩn làm thân, sáu thức vọng tưởng làm tâm. Nên cần phải mở bày, mới có thể giác ngộ “tình thức là vọng, căn tánh là chân”.
 
-*[Nhập]: 入, là đã biết vọng thức, nhận ra chân tánh, bèn hồi tâm ngộ nhập tánh chân thật, chóng bỏ thức tình vọng tưởng. Lại, Nhập cũng chính là nghĩa “nhập lưu vong sở”. Là thu nhiếp các thức trở về căn nguyên, trái bỏ cảnh giới vọng trần vậy.
+<!-- *[Nhập]: 入, là đã biết vọng thức, nhận ra chân tánh, bèn hồi tâm ngộ nhập tánh chân thật, chóng bỏ thức tình vọng tưởng. Lại, Nhập cũng chính là nghĩa “nhập lưu vong sở”. Là thu nhiếp các thức trở về căn nguyên, trái bỏ cảnh giới vọng trần vậy. -->
 
 *[Niết-bàn]: 涅槃; S: nirvāṇa; P: nibbāna; C: nièpán; J: nehan; dịch nghĩa là Diệt (滅), Diệt tận (滅盡), Diệt độ (滅度), Tịch diệt (寂滅), Bất sinh (不生), Viên tịch (圓寂), Giải thoát (解脫), Vô vi (無爲), An lạc (安樂); Tiếng phiên âm tương đương với chữ nibban thuộc hệ ngôn ngữ Ấn âu thông dụng; 1. Tình trạng ngọn lửa phiền não; đã bị dập tắt; 2. Là động từ, có nghĩa là nhập Niết-bàn; 3. Vô vi. Niết-bàn mục đích tu hành của mọi trường phái Phật giáo. Trong đạo Phật nguyên thuỷ, Niết-bàn được xem là đoạn triệt Luân hồi (saṃsāra) và đi vào một thể tồn tại khác. Ðó là sự tận diệt gốc rễ của ba nghiệp Bất thiện (s: akuśala) là tham, sân và si. Ðồng thời Niết-bàn có nghĩa là không còn chịu sự tác động của Nghiệp (s: karma), không còn chịu quy luật nhân duyên, Vô vi (s: asaṃkṛta), đặc tính của nó là thiếu vắng sự sinh, thành, hoại, diệt. Với sự xuất hiện của Ðại thừa (s: mahāyā-na), người ta có một quan điểm mở rộng của Niết-bàn dựa trên khái niệm Bồ Tát (s: bo-dhisattva) và trên tính nhất thể của vạn vật. Niết-bàn được xem là sự thống nhất với cái Nhất thể tuyệt đối (sự bình đẳng của chúng sinh; s: sattvasamatā) đó, sự thống nhất của luân hồi với «dạng chuyển hoá» của nó. Ở đây Niết-bàn được xem như sự lưu trú trong tính tuyệt đối, sự an lạc khi thấy mình cùng một thể với tuyệt đối, khi thấy mình giải thoát khỏi mọi ảo giác, mọi biến tướng, mọi tham ái.
 
@@ -51,7 +51,7 @@
 
 *[Thanh văn]: Các vị này sanh cùng thời với Phật, được nghe pháp Tứ Đế ngộ lý Vô sanh chứng quả A-la-hán. Thanh văn có bốn bậc: 1. Tu-đà-hoàn; 2. Tư-đà- hàm; 3. A-na-hàm; 4. A-la-hán
 
-*[Thị]: 示, là đã khai phá vọng thức rồi, liền chỉ ra căn tánh chân thường, là Phật tri kiến, tâm bản lai thanh tịnh.
+<!-- *[Thị]: 示, là đã khai phá vọng thức rồi, liền chỉ ra căn tánh chân thường, là Phật tri kiến, tâm bản lai thanh tịnh. -->
 
 *[Thọ ký]: 授記; Đức Phật nói trước những việc sắp đến của vị đó một cách chắc chắn như: sau bao nhiêu năm sẽ thành Phật danh hiệu gì, ở cõi nào và tuổi thọ bao nhiêu v.v...
 
@@ -67,4 +67,19 @@
 *[tcn]: Trước Công nguyên
 *[cn]: Sau Công nguyên
 
+<!-- Nóng lên toàn cầu -->
+*[khí thải nhà kính]: Greenhouse gas. Hiệu ứng nhà kính là hiện tượng xảy ra khiến Trái Đất trở thành một nhà kính khổng lồ. Bên trong nhà kính, nhiệt lượng từ ánh nắng Mặt trời chiếu xuống sẽ bị giữ lại do chúng không thể thoát khỏi các tấm kính khiến không khí bên trong nhà kính trở nên ấm hơn. Điều tương tự cũng xảy ra với Trái Đất với tấm kính khổng lồ là những khí thải nhà kính (chủ yếu là các-bon và mêtan). Trong lịch sử phát triển của Trái Đất, lớp “kính” carbon giúp Trái Đất không bị đóng băng, tạo ra môi trường thuận lợi cho sinh vật phát triển. Tuy nhiên, ngày nay, chủ yếu bắt đầu từ Cách mạng công nghiệp, lượng khí nhà kính đã vượt quá mức cần thiết. Thay vì sưởi ấm Trái đất, chúng đang biến Trái Đất thành một bếp lò. Băng ở 2 cực đóng vai trò như những tấm gương phản lại nhiệt lượng từ Mặt trời xuống Trái đất. Hiện tượng nóng lên toàn cầu đang khiến băng 2 cực tan nhanh hơn mức độ đóng băng, khiến lượng băng đang ngày một giảm dần. Điều này khiến lượng nhiệt mà băng bức xạ ra ngoài không gian cũng bị giảm xuống, khiến Trái đất lại càng nóng hơn.
 
+*[muội than]: Black carbon. Muội than là những thành phần còn lại của quá trình đốt cháy. Dễ hình dung nhất là khi chúng ta đốt vàng mã thường sẽ còn lại những mảnh nhỏ màu đen mà không hoàn toàn cháy hết. Tất cả các hoạt động đốt cháy đều tạo ra muội than. Những mẩu nhỏ màu đen ấy tưởng như vô hại nhưng lại là nhân tố chính gây nóng lên toàn cầu bởi nó có khả năng giữ nhiệt cực tốt. Ở một số nơi trên thế giới, người ta còn dùng than rải lên mặt băng để phá băng do đặc tính hấp thụ nhiệt mạnh của chúng. Biến đổi khí hậu gây ra những vụ cháy rừng có quy mô và sức ảnh hưởng ngày càng lớn. Không chỉ mất đi một diện tích rất lớn cây xanh, muội than và CO2 sinh ra cũng gây ra những thiệt hại nặng nề đến môi trường.
+
+*[Dấu chân carbon]: Carbon footprint. Hiểu đơn giản, đây là chỉ số thể hiện mức độ các-bon bạn thải ra (thường tính theo năm). Bất kỳ hoạt động nào của chúng ta cũng đều tạo ra carbon và để lại “dấu chân” lên môi trường. Chỉ số Dấu chân các-bon trung bình một người tạo ra 1 năm là 1,18 tấn. Biết được điều này sẽ giúp các nhà hoạch định chiến lược đưa ra những giải pháp để giảm thiểu chỉ số này xuống.
+
+*[đền bù các-bon]: Carbon offset. Đền bù các-bon là việc giảm hoặc loại bỏ lượng khí thải CO2 hoặc các loại khí nhà kính khác được thực hiện để bù đắp cho lượng khí thải được tạo ra ở nơi khác. Đó là khi một cá nhân hay tổ chức nào đó triển khai một dự án như năng lượng tái tạo, sử dụng năng lượng hiệu quả hoặc tái sinh rừng, và họ chỉ ra được rằng dự án của mình đã giảm phát thải một cách hiệu quả, như vậy họ đã tạo ra các tín chỉ các-bon (carbon credit).  Sau đó các tín chỉ các-bon này sẽ được bán cho các chính phủ, tổ chức, cá nhân có nhu cầu giảm dấu chân các-bon (carbon footprint) và trở thành các-bon trung tính (carbon neutral). Bhutan&mdash;quốc gia sử dụng chỉ số hạnh phúc (GNH) thay thế cho GDP&mdash;là quốc gia duy nhất không phát thải khí nhà kính, hoặc phát thải âm. Quốc gia này trở thành nơi đền bù CO2 cho thế giới. Ước tính tới năm 2025, Bhutan sẽ bù đắp tới 22.4 triệu tấn CO2 mỗi năm.
+
+*[tín chỉ carbon]: Carbon Credit. Khí thải CO2 còn có thể được đem ra mua bán. Tín dụng carbon hoặc tín dụng bù đắp là một công cụ tài chính có thể chuyển nhượng (tức là sản phẩm phái sinh của một mặt hàng cơ bản) được chính phủ hoặc cơ quan chứng nhận độc lập chứng nhận để thể hiện mức giảm phát thải mà sau đó có thể được mua hoặc bán. Cả khoản bù đắp và khoản tín dụng đều được đo bằng tấn carbon dioxide tương đương (CO2e). Một khoản bù đắp hoặc tín dụng carbon thể hiện việc giảm hoặc loại bỏ một tấn carbon dioxide hoặc lượng tương đương của nó trong các loại khí nhà kính khác.
+
+*[các-bon trung tính]: Carbon neutral. Đây là quá trình làm giảm lượng phát thải CO2 qua các hoạt động sản xuất bằng cách loại bỏ CO2 hoặc đền bù carbon. Mục đích của hoạt động này là không tạo ra dấu chân các-bon. Rất nhiều quốc gia và tổ chức lớn đã ký những cam kết để đạt mức các-bon trung tính.
+
+*[phát thải ròng bằng không]: Net-zero. Khái niệm này gần giống với trung hòa carbon nhưng áp dụng cho tất cả các loại khí thải nhà kính. Net-zero đạt được khi hoạt động của con người không còn gây nên hiện tượng nóng lên toàn cầu. Nói cách khác, lượng khí thải nhà kính trong khí quyển được cân bằng lại bằng cách loại giảm thiểu phát thải trong quá khứ và loại bỏ khí thải trong một thời gian cụ thể. Ủy ban Liên chính phủ về Biến đổi Khí hậu IPCC đã đặt mục tiêu ngăn Trái đất nóng lên 1.5 độ C vào năm 2050. Mục tiêu này đã được rất nhiều quốc gia trên thế giới ủng hộ bằng những cam kết net-zero.
+
+*[phát thải âm]: Carbon Negative. Sau khi đạt được trạng thái phát thải ròng bằng không thì đây chính là bước tiếp theo. Giai đoạn này chúng ta sẽ loại bỏ nhiều hơn lượng khí thải phát ra. Qua đó đặt mục tiêu đưa khí hậu Trái Đất trở về trước thời kỳ tiền công nghiệp. Bhutan hiện là quốc gia duy nhất trên thế giới đạt được mục tiêu này. Với hơn 70% lãnh thổ là rừng, lượng hấp thụ gấp 3 lần lượng khí thải người dân nước này tạo ra. Đây cũng là quốc gia xuất khẩu năng lượng tái tạo (thủy điện) giúp giảm phát thải các-bon với số tín chỉ các-bon lên đến 17 triệu.

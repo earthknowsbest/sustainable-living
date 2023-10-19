@@ -45,7 +45,7 @@ Các cộng đồng ảnh hưởng trực tiếp, đặc biệt là những ngư
 
 Năm 2016, sau hội nghị thượng đỉnh ở Quần đảo Solomon, [14 quốc đảo Thái Bình Dương](https://www.theguardian.com/world/2016/jul/14/pacific-islands-nations-consider-worlds-first-treaty-to-ban-fossil-fuels) đã thảo luận về hiệp ước đầu tiên trên thế giới cấm khai thác than mới và thực hiện mục tiêu 1,5°C đặt ra tại cuộc đàm phán về khí hậu ở Paris.
 
-## 2017: Các quốc gia kém phát triển nhất kêu gọi xoá bỏ dần việc sử dụng nhiên liệu hoá thạch
+### 2017: Các quốc gia kém phát triển nhất kêu gọi xoá bỏ dần việc sử dụng nhiên liệu hoá thạch
 
 Một bước quan trọng khác là lời kêu gọi của các nước kém phát triển nhất về việc loại bỏ nhiên liệu hóa thạch.
 
@@ -55,7 +55,7 @@ Năm 2017, nhóm các nước kém phát triển nhất (LDC) đã đưa ra tuy�
 
     “sự gia tăng tham vọng của tất cả các quốc gia nhằm đưa chúng ta đi đúng hướng nhằm hạn chế mức tăng nhiệt độ toàn cầu ở mức 1,5°C bằng cách tăng cường đóng góp quốc gia, quản lý việc loại bỏ nhiên liệu hóa thạch, thúc đẩy năng lượng tái tạo và thực hiện hành động khí hậu đầy tham vọng nhất”.
 
-## 2017: Xã hội dân sự kêu gọi chấm dứt phát triển nhiên liệu hoá thạch
+### 2017: Xã hội dân sự kêu gọi chấm dứt phát triển nhiên liệu hoá thạch
 
 Ở cấp độ quốc tế, các chủ thể **xã hội dân sự** (*civil society*) cũng tích cực huy động để loại bỏ dần dần trên toàn cầu. Điều này dẫn đến [Tuyên bố Lofoten](http://www.lofotendeclaration.org/), được viết vào năm 2017 tại một cuộc họp mặt ở Quần đảo Lofoten, Na Uy, với các học giả, nhà phân tích và nhà hoạt động.
 
