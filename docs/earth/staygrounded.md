@@ -2,23 +2,29 @@
 
 ## Tác động khí hậu của hàng không là gì?
 
-Ngăn chặn khủng hoảng khí hậu là thách thức lớn nhất mà nhân loại từng phải đối mặt. Nếu chúng ta muốn đảm bảo một tương lai có thể sống được cho tất cả mọi người trên hành tinh, chúng ta phải giữ mức nhiệt độ toàn cầu ở mức thấp nhất có thể và tránh **các điểm tới hạn** (*tipping points*) nguy hiểm. Điều này đòi hỏi những nỗ lực to lớn và cấp bách. Chúng ta phải ngừng đốt nhiên liệu hóa thạch và thay đổi các quy tắc của hệ thống. Mặc dù vậy, hiện tại chúng ta đang trên đà hướng tới sự suy thoái khí hậu.
+Ngăn chặn khủng hoảng khí hậu là thách thức lớn nhất mà nhân loại từng phải đối mặt. Nếu chúng ta muốn đảm bảo một tương lai sống còn cho tất cả mọi người trên hành tinh, chúng ta phải giữ mức nhiệt độ toàn cầu ở mức thấp nhất có thể và tránh **các điểm tới hạn** (*tipping points*) nguy hiểm. Điều này đòi hỏi những nỗ lực to lớn và cấp bách. Chúng ta phải ngừng đốt nhiên liệu hóa thạch và thay đổi các quy tắc của hệ thống. Mặc dù vậy, chúng ta hiện vẫn đang trên đà hướng tới sự suy thoái khí hậu.
 
 ![grounded-1](../assets/images/grounded-1.webp)
 
-Hàng không là phương thức vận tải gây hại cho khí hậu nhất. Năm 2018, sự đóng góp của giao thông hàng không vào tổng lượng phát thải khí nhà kính hàng năm do con người gây ra đạt khoảng [6%](https://stay-grounded.org/wp-content/uploads/2020/10/SG_Factsheet_Non-CO2_2020.pdf). Ở các nước châu Âu, nơi có nhiều người bay thường xuyên, tỷ lệ này thậm chí còn lớn hơn. Tuy nhiên, ngành hàng không muốn chúng ta tin rằng hàng không chỉ chiếm 2% lượng khí thải toàn cầu. Nhưng đó không phải là toàn bộ bức tranh: tác động của ngành hàng không đến khí hậu không chỉ giới hạn ở CO2. Do lượng khí thải khác nhau ngoài lượng CO2 diễn ra ở độ cao, nên tác động tổng thể đến khí hậu của các chuyến bay trung bình gấp 3 lần tác động của riêng lượng CO2 thải ra.
+Hàng không là phương thức vận tải gây hại cho khí hậu nhất. Năm 2018, sự đóng góp của giao thông hàng không vào tổng lượng phát thải khí nhà kính hàng năm do con người gây ra đạt khoảng [6%](https://stay-grounded.org/wp-content/uploads/2020/10/SG_Factsheet_Non-CO2_2020.pdf). Ở các nước châu Âu, nơi có nhiều người bay thường xuyên, tỷ lệ này thậm chí còn lớn hơn. Tuy nhiên, ngành này muốn chúng ta tin rằng hàng không chỉ chiếm 2% lượng khí thải toàn cầu. Nhưng đó không phải là toàn bộ bức tranh: tác động của ngành hàng không đến khí hậu không chỉ giới hạn ở CO~2~. Do lượng khí thải khác ngoài CO~2~ diễn ra ở mức độ cao, nên tác động tổng thể đến khí hậu của các chuyến bay trung bình gấp 3 lần tác động của riêng lượng CO~2~ thải ra.
+
+![grounded-2](../assets/images/grounded-2.webp)
 
 !!! quote "Không chỉ là khí CO~2~"
 
     [Tổng đóng góp của hàng không gây ra nóng lên toàn cầu khoảng 6%] là rất lớn, đặc biệt khi tính đến việc tác động này là do một phần rất nhỏ những người thực sự đi máy bay gây ra: hơn 80% dân số toàn cầu chưa bao giờ đi máy bay trong khi 10% người có thu nhập cao nhất toàn cầu sử dụng 75% hàng không với nhiên liệu hoá thạch.
 
-Trước Covid-19, ngành này dự kiến nhu cầu đi lại bằng đường hàng không sẽ [tăng gấp đôi](https://www.iata.org/contentassets/c81222d96c9a4e0bb4ff6ced0126f0bb/iata-annual-review-2019.pdf) trong 20 năm tới. Sự tăng trưởng nhanh chóng này có nghĩa là đến năm 2050, riêng ngành hàng không có thể sử dụng khoảng 15% tổng **ngân sách các-bon** (*carbon budget*) còn lại của thế giới, ngân sách giúp chúng ta có cơ hội tốt để hạn chế nhiệt độ toàn cầu tăng lên 1,5°C so với thời kì công nghiệp. Nếu chúng ta coi cuộc khủng hoảng khí hậu là nghiêm trọng, thì không có cách nào khác ngoài việc dừng các kế hoạch tăng trưởng và bắt đầu giảm lượng lưu lượng hàng không.
+Trước Covid-19, ngành này dự kiến nhu cầu đi lại bằng đường hàng không sẽ [tăng gấp đôi](https://www.iata.org/contentassets/c81222d96c9a4e0bb4ff6ced0126f0bb/iata-annual-review-2019.pdf) trong 20 năm tới. Sự tăng trưởng nhanh chóng này có nghĩa là đến năm 2050, riêng ngành hàng không có thể sử dụng khoảng 15% tổng **ngân sách các-bon** (*carbon budget*) còn lại của thế giới, ngân sách giúp chúng ta có cơ hội tốt để hạn chế nhiệt độ toàn cầu tăng lên 1,5°C so với thời kì tiền công nghiệp. Nếu chúng ta coi cuộc khủng hoảng khí hậu là nghiêm trọng, thì không có cách nào khác ngoài việc dừng các kế hoạch tăng trưởng và bắt đầu giảm lượng lưu lượng hàng không.
 
-## Du lịch bằng hàng không bay gây ra lượng khí thải carbon của bạn tệ đến mức nào?
+## Du lịch bằng hàng không khiến cho lượng phát thải các-bon của bạn tệ đến mức nào?
 
 Cứ mỗi tấn CO~2~ mà một người thải ra, [ba mét vuông](https://www.ucl.ac.uk/news/2016/nov/arctic-sea-ice-loss-linked-personal-co2-emissions) băng biển mùa hè ở Bắc Cực sẽ biến mất. Điều này có nghĩa là khi thực hiện chuyến bay xuyên Đại Tây Dương, một hành khách sẽ phải chịu trách nhiệm về việc mất ít nhất sáu mét vuông băng tan. Nhưng không chỉ có băng trên biển mà các sông băng trên đất liền cũng đang tan. Và với [mực nước biển dự kiến](https://www.theguardian.com/environment/2019/nov/06/sea-level-rise-centuries-climate-crisis) sẽ tăng hơn một mét vào cuối thế kỷ này, mỗi mét băng đều có giá trị… không chỉ đối với [chim cánh cụt](https://www.cbsnews.com/news/nasa-satellite-images-dramatic-melting-antarctica-record-heat-wave/), nơi môi trường sống và dân số của chúng đang suy giảm nhanh chóng.
 
-Thực hiện một chuyến bay đường dài tạo ra lượng khí thải carbon nhiều hơn lượng khí thải cácbon mà [nhiều người](https://stay-grounded.org/get-information/#injustice) trên thế giới thải ra trong cả năm&mdash;và nhiều hơn lượng khí thải trung bình của một người châu Âu khi sưởi ấm và ăn uống. Sự khác biệt là trong hầu hết các trường hợp, sưởi ấm và ăn uống có lẽ quan trọng hơn việc đi nghỉ bằng máy bay. Để giải quyết cuộc khủng hoảng khí hậu, điều cấp thiết là phải thách thức cách sống của chúng ta trong mọi lĩnh vực&mdash;có thể là thực phẩm hoặc giao thông. Tin tốt là: Có những lựa chọn thay thế thân thiện với khí hậu cho việc đi máy bay. **Một chuyến tàu có thể thải ra lượng khí thải ít hơn từ 7 tới 70 lần so với một chuyến bay.[^1]**
+![grounded-3](../assets/images/grounded-3.webp)
+
+Thực hiện một chuyến bay đường dài tạo ra lượng khí thải các-bon nhiều hơn lượng khí thải cácbon mà [nhiều người](https://stay-grounded.org/get-information/#injustice) trên thế giới thải ra trong cả năm&mdash;và nhiều hơn lượng khí thải trung bình của một người châu Âu khi sưởi ấm và ăn uống. Sự khác biệt là trong hầu hết các trường hợp, sưởi ấm và ăn uống có lẽ quan trọng hơn việc đi nghỉ bằng máy bay. Để giải quyết cuộc khủng hoảng khí hậu, điều cấp thiết là phải thách thức cách sống của chúng ta trong mọi lĩnh vực&mdash;có thể là thực phẩm hoặc giao thông. Tin tốt là: Có những lựa chọn thay thế thân thiện với khí hậu cho việc đi máy bay. **Một chuyến tàu có thể thải ra lượng khí thải ít hơn từ 7 tới 70 lần so với một chuyến bay.[^1]**
+
+![grounded-4](../assets/images/grounded-4.webp)
 
 [^1]:
 
@@ -30,13 +36,19 @@ Thực hiện một chuyến bay đường dài tạo ra lượng khí thải ca
 
 Một nghiên cứu khoa học gần đây cho thấy: “Thói quen đi máy bay phản lực của Bill Gates và Paris Hilton có nghĩa là họ tạo ra lượng khí thải các-bon từ việc bay cao gấp 10.000 lần so với một người bình thường”. Ai bay, ai không&mdash;và ai không thể bay?
 
+![grounded-5](../assets/images/grounded-5.webp)
+
 Tính trung bình toàn cầu, để giữ mức tăng nhiệt độ ở mức dưới 1,5°C, mọi người sẽ phải [cắt giảm lượng khí thải nhà kính dựa trên tiêu dùng](https://www.aalto.fi/en/department-of-design/15-degree-lifestyles) xuống 2,5 tấn CO~2~ tương đương vào năm 2030, xuống còn 1,4 tấn CO~2~ vào năm 2040 và 0,7 tấn CO~2~ vào năm 2050. Chỉ riêng một chuyến bay đường dài đã vượt quá ngân sách này.
 
 Giao thông hàng không là một trở ngại lớn cho **công lý khí hậu** (*climate justice*). Trong khi đối với người Tây Âu, việc đi máy bay có vẻ bình thường, thì “sự bình thường” này mới chỉ tồn tại trong những thập kỷ gần đây và vẫn còn hiếm trên phạm vi toàn cầu. Thật khó để tìm ra con số chính xác, nhưng ước tính cho thấy khoảng [10%](https://stay-grounded.org/position-paper/), hoặc [từ 5 đến 20%](https://ieep.eu/news/linking-aviation-emissions-to-climate-justice) dân số toàn cầu đã từng đi máy bay. Rất nhiều người không đủ khả năng đi máy bay hoặc không thể làm như vậy vì các chính sách hạn chế di cư.
 
 Trong số ít phần trăm dân số thế giới đã từng đi máy bay, một tỷ lệ còn nhỏ hơn nữa là bay thường xuyên. Các con số ở Anh cho thấy trong một năm nhất định, 10% cư dân thực hiện hơn một nửa số chuyến bay ra nước ngoài. Số liệu thống kê tương tự cũng tồn tại ở các quốc gia khác.
 
+![grounded-6](../assets/images/grounded-6.webp)
+
 Một số ít những người bay thường xuyên làm nóng hành tinh&mdash;và gây thiệt hại cho những người khác: cư dân tiếp xúc với tiếng ồn và ô nhiễm bụi mịn từ máy bay, hệ sinh thái địa phương chịu ảnh hưởng, các thế hệ tương lai và những người ở miền Nam bán cầu, những người đã phải gánh chịu gánh nặng của việc trái đất nóng lên.
+
+![grounded-7](../assets/images/grounded-7.webp)
 
 Cũng có sự khác biệt lớn giữa lý do đi máy bay. Vậy liệu một doanh nhân trên các chuyến bay hàng tháng đến biệt thự Tuscan của mình có nên được đối xử giống như một người bay hai năm một lần để thăm gia đình thân thiết ở lục địa khác không? Có những giải pháp cho vấn đề bất công này&mdash;chúng ta tìm hiểu thêm về thuế dành cho khách hàng thường xuyên và các biện pháp khác các phần bên dưới.
 
@@ -44,7 +56,7 @@ Cũng có sự khác biệt lớn giữa lý do đi máy bay. Vậy liệu một
 
 “Đi máy bay không phải là vấn đề nếu bạn trả nhiều hơn một chút để **đền bù các-bon** (*carbon offset*) lượng khí thải”. Đó là thông điệp mà các hãng hàng không gửi đến khách hàng. Nhiều tổ chức đang cố gắng thực hiện các chính sách du lịch bền vững hơn lại phụ thuộc vào việc đền bù. Nhưng đó không phải là tất cả: thỏa thuận quốc tế duy nhất hiện có về lượng khí thải CO2 của ngành hàng không, được gọi là CORSIA, được xây dựng dựa trên việc đền bù đắp. Điều gì đằng sau những sự bù đắp này?
 
-### Sự đền bù các-bon là gì?
+### Đền bù các-bon là gì?
 
 Các dự án đền bù hầu hết nằm ở các quốc gia phía Nam bán cầu. Nhiều trong số đó là các dự án thủy điện, tuyên bố ngăn chặn việc sản xuất năng lượng từ nhiên liệu hóa thạch. Ngoài ra, các dự án bảo tồn rừng, người điều hành trồng cây hoặc tổ chức phân phối bếp nấu ăn thân thiện với khí hậu cho phụ nữ ở các vùng nông thôn cũng có thể bán tín dụng các-bon.
 
@@ -54,6 +66,8 @@ Các dự án đền bù hầu hết nằm ở các quốc gia phía Nam bán c�
 
 Các nghiên cứu cho thấy phần lớn các dự án tính toán sai khoản tiết kiệm của họ. Öko-Institut đã điều tra tính hiệu quả của các dự án đền bù hiện có của Liên hợp quốc và kết luận rằng chỉ 2% dự án có khả năng cao dẫn đến giảm phát thải bổ sung. Bằng cách này, việc giảm phát thải cũng có thể xảy ra mà không phải trả khoản bù đắp, chẳng hạn vì dù sao thì một nhà máy thủy điện cũng đã được xây dựng. Đối với cây cối, chúng cần nhiều năm để phát triển đủ để hấp thụ lại lượng các-bon từ chuyến bay của bạn. Thật khó để đảm bảo rằng chúng sẽ đứng đủ lâu để đền bù cho chuyến bay của bạn.
 
+![grounded-8](../assets/images/grounded-8.webp)
+
 **2. Việc đền bù thường dẫn đến các vấn đề về sinh thái và nhân quyền**
 
 Vì đền bù đắp ở các quốc gia nghèo hay ở miền Nam bán cầu sẽ rẻ hơn nên đây là nơi tập trung hầu hết các dự án. Chúng thường dẫn đến xung đột địa phương hoặc chiếm đoạt đất đai. Điều này đặc biệt đúng với các dự án dựa vào đất hoặc rừng như REDD+ (Giảm phát thải từ mất rừng và suy thoái rừng). Thông thường, các chủ sở hữu nhỏ và người dân bản địa bị hạn chế sử dụng rừng theo cách tổ tiên của họ để lưu trữ lượng các-bon trong cây. Cuối cùng, việc đền bù bị nhiều nhóm bản địa coi là chủ nghĩa thực dân các-bon.
@@ -62,9 +76,9 @@ Vì đền bù đắp ở các quốc gia nghèo hay ở miền Nam bán cầu s
 
 Việc bù đắp cho phép một phần nhỏ dân số thế giới bay vô thời hạn với ý thức bảo vệ môi trường được cho là trong sáng. Do đó, một số người so sánh việc buôn bán tín dụng các-bon với việc bán ân xá của nhà thờ Công giáo. Tiền có thể mua được sự xá tội&mdash;nhưng tất nhiên ngay từ đầu nó đã không ngăn chặn được tội lỗi. Số tiền này có thể được sử dụng để xây dựng thánh đường và duy trì hoạt động của Vatican. Đức Giáo hoàng Phanxicô hiện tại có cái nhìn sâu sắc hơn về việc đền bù các-bon ngày nay. Ông nói: “Máy bay gây ô nhiễm bầu không khí, nhưng với một phần nhỏ tiền vé, họ sẽ trồng cây để bù đắp một phần thiệt hại đã gây ra... Đây là đạo đức giả!”
 
-4. Đền bù các-bon làm chuyển hướng sự chú ý công luận khỏi các giải pháp thực tế
+**4. Đền bù các-bon làm chuyển hướng sự chú ý công luận khỏi các giải pháp thực tế**
 
-Một số người lập luận rằng nếu chúng ta coi việc đền bù là ”biện pháp cuối cùng” và cố gắng bù đắp lượng khí thải tại địa phương thì điều này sẽ tốt hơn là không làm gì cả. Tuy nhiên, thực tế là việc đền bù sau đó sẽ trở thành giấy thông hành cho phép gây ô nhiễm và giúp duy trì tình trạng hiện nay. Bằng cách này, việc đền bù sẽ ngăn cản những [thay đổi cơ bản cần thiết](https://stay-grounded.org/get-information/#changes) của hệ thống vận tải của chúng ta.
+Một số người lập luận rằng nếu chúng ta coi việc đền bù là “biện pháp cuối cùng” và cố gắng bù đắp lượng khí thải tại địa phương thì điều này sẽ tốt hơn là không làm gì cả. Tuy nhiên, thực tế là việc đền bù sau đó sẽ trở thành giấy thông hành cho phép gây ô nhiễm và giúp duy trì tình trạng hiện nay. Bằng cách này, việc đền bù sẽ ngăn cản những [thay đổi cơ bản cần thiết](https://stay-grounded.org/get-information/#changes) của hệ thống vận tải của chúng ta.
 
 Vì vậy, nếu bạn thực sự muốn quyên góp tiền, hãy ủng hộ chiến dịch này hơn là trả tiền cho các công ty đền bù.
 
@@ -73,15 +87,6 @@ Vì vậy, nếu bạn thực sự muốn quyên góp tiền, hãy ủng hộ ch
 Đối mặt với sự chỉ trích ngày càng tăng và nhu cầu bảo vệ các kế hoạch tăng trưởng gây tổn hại đến khí hậu sau cuộc khủng hoảng COVID, ngành hàng không đang củng cố các câu chuyện của họ.. Trong các chiến dịch **tẩy xanh** (*greenwash*), họ công bố ý định biến ngành hàng không thành đạt mức “phát thải ròng bằng không” vào năm 2050. Hiệu quả công nghệ, nhiên liệu thay thế và đền bù các-bon đóng một vai trò lớn. **Vấn đề là: sự tăng trưởng của ngành hàng không thường không bị chất vấn và các giải pháp được đề xuất còn lâu mới giải quyết được vấn đề tác động lên khí hậu của hàng không.**
 
 Vào tháng 2 năm 2020, hãng phát thải hàng không lớn nhất châu Âu, Ryanair, đã bị tòa án xử phạt vì tuyên bố sai lệch rằng đây là hãng hàng không xanh. Đây là một phán quyết rõ ràng&mdash;nhưng nếu không biết chi tiết thì thật khó để giải mã những huyền thoại và thông tin mập mờ trong ngành hàng không.
-
-Trong Chuỗi tờ thông tin mới nhất về Greenwashing, chúng tôi đã vạch trần những lầm tưởng và quan niệm sai lầm phổ biến.
- 
-Hiệu quả năng lượng: Quá ít
-Bằng cách sử dụng công nghệ tốt hơn trên máy bay mới, dường như có thể tăng hiệu suất khoảng 1,3% mỗi năm. Tuy nhiên, việc tăng hiệu quả thường làm cho việc bay trở nên rẻ hơn và do đó càng khuyến khích nhiều người đi máy bay hơn. Do tốc độ tăng trưởng hàng năm dự kiến của ngành hiện là 4% và gần đây tăng 7%, khoản tiết kiệm từ lợi ích hiệu quả hầu như không xuất hiện.
-Để biết thêm thông tin, hãy xem Tờ thông tin về Cải thiện hiệu quả của chúng tôi
-Nhiên liệu sinh học: Một giải pháp thay thế có vấn đề
-Ngành công nghiệp này có kế hoạch thay thế một phần dầu hỏa hóa thạch bằng nhiên liệu sinh học. Việc mở rộng quy mô nhiên liệu sinh học đã được hứa hẹn trong hơn một thập kỷ nhưng điều này vẫn chưa thành hiện thực. Ngày nay, nhiên liệu sinh học chỉ chiếm chưa đến 0,01% tổng lượng nhiên liệu hàng không được sử dụng. Đây là một con số rất ít - có thể thực sự là một tin tốt. Mặc dù ngành này cho biết họ sẽ chỉ sử dụng nhiên liệu sinh học thế hệ thứ hai từ chất thải, nhiên liệu sinh học thế hệ đầu tiên làm từ cây trồng vẫn không bị loại trừ. Những điều này đã được chứng minh là gây ra những tác động rất nghiêm trọng đến môi trường và xã hội như mất đa dạng sinh học, tăng giá lương thực và khan hiếm nước. Dầu cọ sẽ là lựa chọn khả thi nhất, mặc dù một nghiên cứu của Ủy ban Châu Âu đã kết luận rằng nhiên liệu sinh học từ dầu cọ thải ra lượng khí thải nhà kính nhiều hơn ít nhất ba lần so với nhiên liệu hóa thạch mà chúng thay thế.
-Mặt khác, nguyên liệu nhiên liệu sinh học thế hệ thứ hai chỉ có sẵn với số lượng hạn chế. Cuối cùng, nhiên liệu sinh học sẽ chỉ giảm một phần lượng khí thải không phải CO2, vốn chiếm phần lớn trong tác động đến khí hậu của ngành hàng không.
 
 Chúng tôi đã vạch trần những lầm tưởng và quan niệm sai lầm phổ biến của ngành này:
  
@@ -95,6 +100,8 @@ Ngành công nghiệp này có kế hoạch thay thế một phần [dầu hóa 
 
 Mặt khác, nguyên liệu nhiên liệu sinh học thế hệ thứ hai chỉ có sẵn với số lượng hạn chế. Cuối cùng, nhiên liệu sinh học sẽ chỉ giảm một phần lượng khí thải không phải CO~2~, vốn chiếm phần lớn trong tác động đến khí hậu của ngành hàng không. 
 
+![grounded-9](../assets/images/grounded-9.webp)
+
 **Máy bay điện: Quá nhỏ và tầm hoạt động quá ngắn**
 
 Máy bay điện có khả năng được chứng nhận trong thập kỷ này sẽ rất nhỏ và chỉ phục vụ cho những chuyến bay rất ngắn. Nhưng những thứ đó có thể dễ dàng được thay thế bằng vận tải mặt đất trong hầu hết các trường hợp hiệu quả hơn.
@@ -107,11 +114,15 @@ Nhiên liệu Hydro sẽ không thể được sử dụng cho các chuyến bay
 
 Nhiên liệu tổng hợp tạo ra từ điện (*Power to Liquid*) khả thi về mặt kỹ thuật nhưng hầu như chưa có cơ sở sản xuất chúng. Sẽ cần phải đầu tư nhiều thập kỷ để mở rộng quy mô sản xuất. Và chuyển đổi điện thành nhiên liệu là một quá trình tốn nhiều năng lượng. Vấn đề là: chúng ta còn lâu mới sản xuất đủ năng lượng tái tạo chỉ cho các các ngành vận chuyển trên đất liền, hay chế biến, sản xuất nông nghiệp hoặc sưởi ấm. Nếu ngày nay tất cả các máy bay đều bay bằng nhiên liệu từ điện (năm 2019), điều này sẽ tiêu thụ khoảng 2,5 lần toàn bộ sản lượng điện tái tạo hiện có trên toàn cầu. Ngoài ra, hầu hết các tác động khí hậu ngoài khí CO~2~ của việc bay sẽ vẫn còn&mdash;và chúng hiện có tác động cao gấp khoảng hai lần so với khí thải CO~2~.
 
+![grounded-10](../assets/images/grounded-10.webp)
+
+![grounded-11](../assets/images/grounded-11.webp)
+
 **Định tuyến lại các đường bay: giảm thiểu ảnh hưởng từ các vệt hơi nước** 
 
 Một cách tiếp cận khá hứa hẹn là thay đổi lộ trình của một số chuyến bay đường dài: điều này có thể giảm thiểu tác động làm nóng khí hậu của các **vệt hơi nước** (*contrail*, vệt hơi nước sau đuôi máy bay khi máy bay đang bay có thể nhìn bằng mắt thường), vốn là những đám mây ti hình thành trong điều kiện khí quyển đặc biệt, tùy thuộc vào vị trí và thời gian. Nó chủ yếu ảnh hưởng đến các chuyến bay đêm xuyên Đại Tây Dương. Các vệt nước có tác động đến khí hậu tương tự như CO~2~&mdash;do đó việc hạn chế chúng là rất có ý nghĩa. Tuy nhiên, việc thay đổi lộ trình sẽ dẫn đến việc đốt cháy nhiều nhiên liệu hơn. Do đó, điều này cần phải đi cùng với việc giảm các chuyến bay.
  
-**Đền bù lượng khí thải: chuyển đổi vấn đề thay vì giải quyết nó**
+**Đền bù lượng khí thải: chuyển đổi vấn đề thay vì giải quyết vấn đề**
 
 Trong bối cảnh chưa có giải pháp công nghệ trong thời gian tới, giải pháp được ngành hàng không đưa ra thường xuyên nhất là đền bù các-bon: bù đắp lượng khí thải thông qua mua tín dụng các-bon. (Xem thêm phần bù đắp các-bon ở trên)
  
@@ -132,11 +143,13 @@ Nhiều quốc gia biện minh cho việc từ chối quản lý lĩnh vực hà
 
 ## Tại sao đi máy bay lại rẻ đến mức vô lý?
 
-Bay với giá € 11,50 đến Palma de Mallorca (một hòn đảo ở Tây Ban Nha)!? Đi máy bay chưa bao giờ rẻ hơn thế. Một số vé máy bay có giá thấp hơn vé tàu tới thành phố tiếp theo. Nhưng sao điều đó có thể xảy ra? Thực ra, giá thành đi máy bay không hề rẻ như thế. Và cuối cùng, luôn sẽ có người phải trả tiền.
+Bay với giá 11,50 Euro (khoảng 300.000 VNĐ) đến Palma de Mallorca (một hòn đảo ở Tây Ban Nha)!? Đi máy bay chưa bao giờ rẻ hơn thế. Một số vé máy bay có giá thấp hơn vé tàu tới thành phố tiếp theo. Nhưng sao điều đó có thể xảy ra? Thực ra, giá thành đi máy bay không hề rẻ như thế. Và cuối cùng, luôn sẽ có người phải trả tiền.
 
 **Ưu đãi thuế của ngành hàng không**
 
 Một lý do chính khiến giá vé thấp là tiền thuế góp phần làm cho việc bay trở nên rẻ. Tất cả mọi người&mdash;kể cả những người không bay&mdash;đều phải trả tiền cho một loạt **trợ cấp** (*subsidy*, như trong các hoạt động bay), **miễn thuế** (*tax exemption*, như thuế nhiên liệu, thuế GTGT) và **đầu tư công** (*public investments*, như việc xây sân bay) khó hiểu để phương thức vận tải gây ô nhiễm nhất vẫn rẻ.
+
+![grounded-12](../assets/images/grounded-12.webp)
 
 Trong khi nhiên liệu ô tô hoặc dầu sưởi bị đánh thuế thì dầu hàng không lại không bị đánh thuế. Ở hầu hết các quốc gia, vé máy bay cũng được miễn thuế giá trị gia tăng&mdash;trong khi chúng ta phải trả thuế cho các sản phẩm thiết yếu như thực phẩm và thuốc men. Hơn nữa, hầu như không có sân bay nào trả thuế tài sản trên đất và cơ sở vật chất của họ. Hàng chục tỷ Euro bị mất ở Liên minh châu Âu, số tiền này có thể được sử dụng để thúc đẩy các lựa chọn du lịch thay thế. Trên hết, các nhà sản xuất máy bay được hưởng lợi từ trợ cấp của nhà nước, dẫn đến máy bay rẻ hơn. Trên thực tế, Mỹ cũng như một số nước EU đã cung cấp cho các nhà sản xuất máy bay tương ứng của họ&mdash;một bên là Boeing và bên kia là Airbus&mdash;hàng tỷ USD hỗ trợ bất hợp pháp của nhà nước và các khoản vay giá rẻ.
 
@@ -151,6 +164,8 @@ Do đó, hãng hàng không lớn nhất châu Âu hiện nay Ryanair đã phả
 Không thể có sự tăng trưởng vô hạn trên một hành tinh hữu hạn. Thay vì phủ xanh sự phát triển của ngành hàng không, đã đến lúc giảm tốc độ giao thông hàng không. Chúng ta cần tàu hỏa chứ không phải máy bay. Hãy đi du lịch như thể còn có ngày mai và nuôi dưỡng những lựa chọn thay thế. Và chúng ta hãy ngừng đổ tiền thuế vào ngành hàng không.
 
 Có rất nhiều cách để giải quyết vấn đề hàng không. Cần chú ý đến các biện pháp công tâm: Thật không công bằng nếu chỉ tăng giá vé máy bay, để chỉ cho người giàu đi máy bay. Làm thế nào để giảm bớt việc sử dụng máy bay một cách công bằng là chủ đề của hội nghị Stay Grounded được tổ chức vào tháng 7 năm 2019 tại Barcelona. Kết quả có thể được đọc trong báo cáo [Phản tăng trưởng trong ngành hàng không”](https://stay-grounded.org/report-degrowth-of-aviation/).
+
+![grounded-13](../assets/images/grounded-13.webp)
 
 ## Điều gì xảy ra khi số sân bay tăng lên?
 
