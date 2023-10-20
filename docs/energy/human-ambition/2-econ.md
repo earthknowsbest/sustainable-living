@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 2: Những giới hạn của tăng trưởng kinh tế
 
 ![econ-0](../../assets/images/econ-0.webp)

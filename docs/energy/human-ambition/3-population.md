@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 3: Dân số
 
 ![pop-0](../../assets/images/pop-0.webp)

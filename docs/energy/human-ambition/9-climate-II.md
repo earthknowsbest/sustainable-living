@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 9: Biến đổi khí hậu (Phần II)
 
 ## 3. Quỹ đạo phát thải

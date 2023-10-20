@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 8: Nhiên liệu hoá thạch (*fossil fuel*) (Phần II)
 
 ## 4. Nhiên liệu hoá thạch lợi và hại

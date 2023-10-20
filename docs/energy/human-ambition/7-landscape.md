@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 7: Bối cảnh năng lượng (*Energy Landscape*)
 
 ![landscape-0](../../assets/images/landscape-0.webp)

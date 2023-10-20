@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 4: Khám phá và chinh phục không gian vũ trụ
 
 <!-- ![apollo-8](../../assets/images/apollo08_earthrise.jpg) -->

@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 9: Biến đổi khí hậu (Phần I)
 
 ![climate-0](../../assets/images/climate-0.webp)

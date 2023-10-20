@@ -24,7 +24,7 @@ Trong khi tài nguyên thiên nhiên hiện đã đủ để đáp ứng nhu c�
 
 ### Ngắt kết nối giữa con người và thiên nhiên
 
-Phần lớn các đô thị, đời sống hiện đại đã xây dựng một nền văn minh “không dựa vào đất đai” (*hors sol*), tách rời khỏi thực tế và nhịp điệu tự nhiên, điều này chỉ làm trầm trọng thêm tình trạng của con người và những thiệt hại gây ra cho trái đất.
+Phần lớn các đô thị, đời sống hiện đại đã xây dựng một nền văn minh “không dựa vào đất đai” (*hors sol*), tách rời khỏi thực tế và nhịp điệu tự nhiên, điều này chỉ làm trầm trọng thêm tình trạng của con người và những thiệt hại gây ra cho Trái đất.
 
 Ở miền Bắc cũng như miền Nam, nạn đói, suy dinh dưỡng, bệnh tật, bị loại trừ, bạo lực, bất hạnh, bất an, ô nhiễm đất, nước, không khí, cạn kiệt tài nguyên quan trọng, sa mạc hóa, v.v., tiếp tục gia tăng. Những thực trạng này thách thức mạnh mẽ lương tâm của chúng ta, kêu gọi trách nhiệm và hành động khẩn cấp để ngăn chặn những diễn biến khôn lường khiến tương lai chúng ta và các thế hệ tiếp theo ngày càng trở nên bất ổn.
 
@@ -36,7 +36,7 @@ Xã hội không tưởng (*l'utopie*) không phải là ảo ảnh mà là "m�
 
 ### Trái đất và chủ nghĩa nhân văn
 
-Chúng tôi nhận thức về trái đất như nơi nuôi dưỡng những lợi ích chung của nhân loại và là bảo đảm duy nhất cho sự sống và sự sống còn của mình. Chúng tôi cam kết một cách có ý thức, dưới cảm hứng của chủ nghĩa nhân văn tích cực, góp phần tôn trọng mọi dạng sống cũng như hạnh phúc và sự viên mãn của toàn thể nhân loại. Cuối cùng, chúng ta coi vẻ đẹp, sự tỉnh táo, công bằng, lòng biết ơn, lòng nhân ái, sự đoàn kết là những giá trị thiết yếu để xây dựng một thế giới khả thi và đáng sống cho tất cả mọi người.
+Chúng tôi nhận thức về Trái đất như nơi nuôi dưỡng những lợi ích chung của nhân loại và là bảo đảm duy nhất cho sự sống và sự sống còn của mình. Chúng tôi cam kết một cách có ý thức, dưới cảm hứng của chủ nghĩa nhân văn tích cực, góp phần tôn trọng mọi dạng sống cũng như hạnh phúc và sự viên mãn của toàn thể nhân loại. Cuối cùng, chúng ta coi vẻ đẹp, sự tỉnh táo, công bằng, lòng biết ơn, lòng nhân ái, sự đoàn kết là những giá trị thiết yếu để xây dựng một thế giới khả thi và đáng sống cho tất cả mọi người.
 
 ### Logic của cuộc sống
 
@@ -64,7 +64,7 @@ Chúng tôi mong muốn bằng tất cả lý trí và bằng cả trái tim mì
 
 !!! quote "Pierre Rabhi"
  
-    Để cây cối nảy nở, để các loài động vật ăn được nuôi dưỡng từ đó sinh sôi, để con người được sống, trái đất phải được tôn vinh.
+    Để cây cối nảy nở, để các loài động vật ăn được nuôi dưỡng từ đó sinh sôi, để con người được sống, Trái đất phải được tôn vinh.
 
 <hr/>
 **Tác giả: Pierre Rabhi**. Nông dân, nhà văn và nhà tư tưởng người Pháp gốc Algeria, Pierre Rabhi là một trong những người tiên phong về nông nghiệp sinh thái ở Pháp (1938-2021)

@@ -62,8 +62,8 @@ Những nơi có mức độ ưu tiên cao cho việc bảo tồn, chúng tôi g
 
     ![viet-saola](../assets/images/viet-saola.webp)
 
-![viet-spi-light](../assets/images/viet-spi-light.svg#only-light)
-![viet-spi-dark](../assets/images/viet-spi-dark.svg#only-dark)
+![viet-spi-light](../assets/images/viet-spi-light.svg#only-light){ .off-glb }
+![viet-spi-dark](../assets/images/viet-spi-dark.svg#only-dark){ .off-glb }
 
 Người dùng có thể xem Thẻ Báo cáo Quốc gia SPI về các địa điểm được bảo vệ được xác định ở mọi quốc gia trên Trái đất, bao gồm cả các khu bảo tồn biển. Điểm SPI dao động từ 0-100 thể hiện số lượng loài động vật có xương sống được đại diện đầy đủ trong các khu bảo tồn của một quốc gia và mức độ trách nhiệm toàn cầu đối với loài mà một quốc gia nắm giữ. Thẻ báo cáo hiển thị các khu vực bổ sung cần được ưu tiên để bảo vệ tốt nhất các loài mà khu vực đó đóng góp duy nhất cho đa dạng sinh học toàn cầu.
 

@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # 6. Sử dụng nhiệt năng
 
 ![thermal-0](../../assets/images/thermal-0.webp)

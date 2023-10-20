@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 5. Đơn vị năng lượng và công suất
 
 ![unit-0](../../assets/images/unit-0.webp)

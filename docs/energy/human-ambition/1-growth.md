@@ -1,3 +1,7 @@
+---
+glightbox: false
+---
+
 # Chương 1: Tăng trưởng theo cấp số nhân (*Exponential Growth*)
 
 ![growth-0](../../assets/images/growth-0.webp)
