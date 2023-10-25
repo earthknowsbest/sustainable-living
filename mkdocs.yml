@@ -87,6 +87,8 @@ nav:
         - Lý do 26-30: vegan/why-vegan/excuses/excuses-26-30.md
       - Phim tài liệu: vegan/why-vegan/documentaries.md
   - Low-tech:
+    - Sinh khối:
+      - Than sinh học I: lowtech/biomass/biochar-I.md
     - Năng lượng mặt trời:
       # - Lời mở đầu: lowtech/solar/manifesto.md
       - Bếp mặt trời I: lowtech/solar/solar-cook-I.md

@@ -566,6 +566,6 @@ abbr {
     }
 }
 
-/* .no-optical-sizing {
+.no-optical-sizing {
     font-optical-sizing: none;
-} */
+}
