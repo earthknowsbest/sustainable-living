@@ -375,7 +375,7 @@ Nhưng hãy cùng xem xét lại mức tăng dân số ở các quốc gia khác
 
     Nhưng hãy kiểm tra lại sau $100$ năm!
 
-**Hình** $\textbf{3.14}$ nhân tỉ suất gia tăng dân số thuần với dân số của mỗi nước để biểu diễn **số người thêm thuần** (*net new people*) của mỗi quốc gia; **Bảng** $\textbf{3.3}$ liệt kê top $10$ nước. Châu Phi không còn là vùng đáng lo nhất nếu nhìn theo khía cạnh này[^25]. Ấn độ hiện là quốc gia sản sinh dân số nhiều nhất, thêm vào mỗi năm $18$ triệu người. Tiếp theo đó là Trung Quốc ở vị trí thứ hai. Hoa Kì đóng góp thêm *1{,}6* triệu người mỗi năm, chỉ nằm ngoài top $10$ một chút. Điều này cho thấy tầm quan trọng bối cảnh trong việc phân tích dữ liệu dựa trên bối cảnh. 
+> **Hình** $\textbf{3.14}$ nhân tỉ suất gia tăng dân số thuần với dân số của mỗi nước để biểu diễn **số người thêm thuần** (*net new people*) của mỗi quốc gia; **Bảng** $\textbf{3.3}$ liệt kê top $10$ nước. Châu Phi không còn là vùng đáng lo nhất nếu nhìn theo khía cạnh này[^25]. Ấn độ hiện là quốc gia sản sinh dân số nhiều nhất, thêm vào mỗi năm $18$ triệu người. Tiếp theo đó là Trung Quốc ở vị trí thứ hai. Hoa Kì đóng góp thêm *1{,}6* triệu người mỗi năm, chỉ nằm ngoài top $10$ một chút. Điều này cho thấy tầm quan trọng bối cảnh trong việc phân tích dữ liệu dựa trên bối cảnh. 
 
 [^25]:
 
