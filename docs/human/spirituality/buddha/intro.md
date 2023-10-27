@@ -248,6 +248,6 @@ Lúc ấy các bạn mới có thể nói rằng: chúng ta đã sống đời s
 
 **Tác giả: Huyền Chân**, trong Đoàn Phật học Đức dục. Trích trong sách “Đạo Phật”, Phật học đường Tổng hội Phật học.
 
-“Vào khoảng 1940, các hội Phật giáo chú trọng đặc biệt đến giáo dục thanh thiếu niên, nhất là ở Trung Kỳ. Hội An nam Phật Học mở một lớp đặc biệt dạy về Phật học, Lão học và Khổng học cho thanh niên tân học. Sau đó đoàn Thanh Niên Phật Học Đức Dục được thành lập. Dưới sự hướng dẫn của bác sĩ Lê Đình Thám, vừa có tân học, vừa vững chãi về Phật học, đoàn thanh niên này tiến bộ rất mau chóng. Đến đầu năm 1942 báo Viên Âm được giao lại cho đoàn Thanh Niên Phật Học Đức Dục biên tập. Thể tài Viên Âm biến đổi hẳn và Viên Âm trở thành một tập san gần như của giới tuổi trẻ tân học”. Trích Việt Nam Phật Giáo Sử Luận, Thích Nhất Hạnh
+“Vào khoảng 1940, các hội Phật giáo chú trọng đặc biệt đến giáo dục thanh thiếu niên, nhất là ở Trung Kỳ. Hội An nam Phật Học mở một lớp đặc biệt dạy về Phật học, Lão học và Khổng học cho thanh niên tân học. Sau đó đoàn Thanh Niên Phật Học Đức Dục được thành lập. Dưới sự hướng dẫn của bác sĩ Lê Đình Thám, vừa có tân học, vừa vững chãi về Phật học, đoàn thanh niên này tiến bộ rất mau chóng. Đến đầu năm 1942 báo Viên Âm được giao lại cho đoàn Thanh Niên Phật Học Đức Dục biên tập. Thể tài Viên Âm biến đổi hẳn và Viên Âm trở thành một tập san gần như của giới tuổi trẻ tân học”. Trích Việt Nam Phật Giáo Sử Luận, Thích Nhất Hạnh.
 
 <!-- [Số 111, Viên Âm](https://phatviet.info/tap-chi-vien-am-nguyet-san-xem-pdf/) -->

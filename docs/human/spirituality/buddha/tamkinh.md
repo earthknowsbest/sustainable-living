@@ -72,7 +72,7 @@ Nên không còn sợ hãi, <br/>
 Chư Bụt trong ba đời <br/>
 Nương tuệ giác qua bờ <br/>
 Đều có thể thành tựu <br/>
-Quả chánh giác toàn vẹn. (C) <br/>
+Quả chánh giác toàn vẹn. (C) <br/><br/>
 
 “Vậy nên phải biết rằng <br/>
 Phép tuệ giác qua bờ <br/>
@@ -126,7 +126,7 @@ bodhi, svaha!” (CC) <br/>
 
 (trích Kinh [Nghĩa lí siêu việt về Không](https://langmai.org/tang-kinh-cac/kinh-van/kinh-van/kinh-nghia-ly-sieu-viet-ve-khong/), [Tạp A Hàm, số 335](https://suttacentral.net/sa335/lzh/taisho?lang=vi&reference=none&highlight=false))
 
-“Trong bản dịch Đại Bát-nhã của Huyền Trang, có kể đến 18 hình thức của Không[^2], và chúng được giải thích kỹ trong luận Đại trí độ của Long Thọ (Nāgārjuna)[^3]. Thực ra lối liệt kê này nói đến khá nhiều ngã đường khác nhau quyết định dẫn tới ý niệm về Không. Mười tám con đường diễn tả Không như sau:
+“Trong bản dịch Đại Bát-nhã của Huyền Trang, có kể đến 18 hình thức của Không[^2], và chúng được giải thích kỹ trong luận Đại trí độ của Long Thọ (Nāgārjuna)[^3]. Thực ra lối liệt kê này nói đến khá nhiều ngả đường khác nhau quyết định dẫn tới ý niệm về Không. Mười tám con đường diễn tả Không như sau:
 
 [^2]:
 

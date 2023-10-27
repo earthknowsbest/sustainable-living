@@ -56,7 +56,7 @@
 
 !!! quote "[Việt Nam Phật giáo sử luận](https://thuvienhoasen.org/p49a34061/viet-nam-phat-giao-su-luan-tron-bo)"
 
-    “...Việt Nam Phật giáo sử luận vẫn là một trong số rất ít công trình nghiên cứu nghiêm chỉnh về Phật Học Việt Nam trong vòng 20 năm qua. Ðối với người nghiên cứu chuyên sâu hay với bạn đọc rộng rãi muốn nhìn lại lịch sử Phật giáo Việt Nam, hẳn chắc đều có thể tìm thấy ở đây những gợi ý hữu ích, và một người dẫn đường đáng tin cậy.” - Trích lời giới thiệu của GS. Nguyễn Huệ Chi”
+    “...Việt Nam Phật giáo sử luận vẫn là một trong số rất ít công trình nghiên cứu nghiêm chỉnh về Phật Học Việt Nam trong vòng 20 năm qua. Ðối với người nghiên cứu chuyên sâu hay với bạn đọc rộng rãi muốn nhìn lại lịch sử Phật giáo Việt Nam, hẳn chắc đều có thể tìm thấy ở đây những gợi ý hữu ích, và một người dẫn đường đáng tin cậy.”&mdash;Trích lời giới thiệu của GS. Nguyễn Huệ Chi”
 
 - [Nghe Pháp thoại qua video](https://www.youtube.com/watch?v=hPRF4HB8XoI&list=PLMG8i-w8rYWncQgO8eHEpY19FgFiKJ18a)
 

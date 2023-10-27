@@ -20,7 +20,7 @@ Sau khi nhận sách và đọc qua, thâm tâm tôi khoan khoái lạ thường
 
 Ôi thích thú, sung sướng không kể xiết !
 
-Thật vậy, không luận người Ấn hay người Hoa, chẳng riêng Việt Nam hay Nhật Bản, mà toàn thể nhân loại, cho đến muôn loài sanh trong Pháp giới, đều có “Tri kiến Phật”, đều sẵn đủ “ Trí tuệ Như Lai”. Chỉ khác nhau ở chỗ, người hữu duyên sớm nhận ra trân bảo nhà mình, đời đời giàu sang, kẻ vô phần thì Đông Tây rong ruổi, mãi mãi đói khó.
+Thật vậy, không luận người Ấn hay người Hoa, chẳng riêng Việt Nam hay Nhật Bản, mà toàn thể nhân loại, cho đến muôn loài sanh trong Pháp giới, đều có “Tri kiến Phật”, đều sẵn đủ “Trí tuệ Như Lai”. Chỉ khác nhau ở chỗ, người hữu duyên sớm nhận ra trân bảo nhà mình, đời đời giàu sang, kẻ vô phần thì Đông Tây rong ruổi, mãi mãi đói khó.
 
 Chớ nào phải, trong biển Tỳ-lô lại nổi bất bình, trên pháp thể an tường há sanh bỉ thử...
 
@@ -91,7 +91,7 @@ Nước Đại Nam, tỉnh Ninh Bình, phủ An Khánh, huyện An Mô, tổng �
 
 ## Tựa tông chỉ đề cương Kinh Diệu Pháp Liên Hoa
 
-Một lúc nọ, nhân khi du hóa đặt bước đến Liêm Khê, mừng rỡ gặp được Thiền sư Thanh Đàm, cùng nhau luận bàn vui vẻ. Thiền sư bảo: “ Vừa mới biên tập đề cương kinh Diệu Pháp chưa được phân nửa. Hồi hôm nằm mộng thấy đức Bổn Sư dường như về ấn thọ cho, lại thấy rõ trên nửa tòa có đức Đa Bảo. Nay tôn giả vừa đến đây, là ý Phật khiến cho Ngài đến chứng minh đó vậy”. Lúc đó, Thanh Nguyên tôi nửa mừng nửa sợ cầm bản thảo nhuận sắc vừa biên xong, mới rõ tạng tánh, hồ tâm Như Lai chói suốt. Tôi xin thành thật viết bài tựa này để chứng minh. Kệ rằng:
+Một lúc nọ, nhân khi du hóa đặt bước đến Liêm Khê, mừng rỡ gặp được Thiền sư Thanh Đàm, cùng nhau luận bàn vui vẻ. Thiền sư bảo: “Vừa mới biên tập đề cương kinh Diệu Pháp chưa được phân nửa. Hồi hôm nằm mộng thấy đức Bổn Sư dường như về ấn thọ cho, lại thấy rõ trên nửa tòa có đức Đa Bảo. Nay tôn giả vừa đến đây, là ý Phật khiến cho Ngài đến chứng minh đó vậy”. Lúc đó, Thanh Nguyên tôi nửa mừng nửa sợ cầm bản thảo nhuận sắc vừa biên xong, mới rõ tạng tánh, hồ tâm Như Lai chói suốt. Tôi xin thành thật viết bài tựa này để chứng minh. Kệ rằng:
 
 <div class="viet-thi" align="center">
 Đề Cương kinh báu Diệu Liên Hoa, <br/>
@@ -118,7 +118,7 @@ Tán dương Diệu Pháp, tán Liên Hoa. <br/>
 <div class='hanco'>
 提網玉軸妙蓮華，<br/>
 能使否爲昔卡和，<br/>
-二十入週淵覺海，<br/>
+二十八週淵覺海，<br/>
 大千沙界會心機，<br/>
 能仁和尚冥相授，<br/>
 多寶如來密護加，<br/>
@@ -134,7 +134,7 @@ Diệu Pháp là huyền vi khó vạch bày mà lại cao lớn vòi vọi. Li�
 
 Đến như ngài sa-môn Thanh Đàm có duyên tam học từ đời trước, ngày nay may mắn gặp được chánh tông. Ngài noi theo phong cách tuyệt vời của cửa Động đỉnh giác, nếm pháp vị sâu mầu của Tổ Đạo Nguyên. Vào năm Đinh Mão Ngài theo Tổ sư ở Nguyệt Quang Thiền tự, trong lòng mừng vui cung kính tưởng như khó gặp mà gặp được một vị Phật sống như thế, thật là cởi mở tấc lòng. Giữa một buổi trưa mặt nhật rỡ ràng, Ngài bèn sửa sang y phục, hình sắc nghiêm trang, trải tọa cụ trước Tổ, quỳ gối chắp tay bạch cùng Tổ sư Đạo Nguyên rằng:
 
-&mdash; Tâm chẳng ở trong, chẳng ở ngoài, chẳng ở chặng giữa. Vậy rốt ráo tâm ở chỗ nào ?
+&mdash; Tâm chẳng ở trong, chẳng ở ngoài, chẳng ở chặng giữa. Vậy rốt ráo tâm ở chỗ nào?
 
 Tổ sư mỉm cười xoa đầu Ngài, liền chỉ bày tâm ấn và nói kệ rằng:
 
@@ -142,7 +142,7 @@ Tổ sư mỉm cười xoa đầu Ngài, liền chỉ bày tâm ấn và nói k�
 Theo thời ứng dụng, <br/>
 Gặp vật thấy cơ, <br/>
 Tánh vốn như như,  <br/>
-Trong ngoài nào mắc ? <br/>
+Trong ngoài nào mắc? <br/>
 </div>
 <div class='spacer-sm'></div>
 <div class="han-col-content" align="center">
@@ -156,7 +156,7 @@ Hà quan nội ngoại. <br/>
 隨時應用，<br/>
 遇物見機，<br/>
 性本如如，<br/>
-何關内外。<br/>
+何關內外。<br/>
 </div>
 </div>
 
@@ -184,7 +184,7 @@ Triêu tịch thục canh bỉ thốn điền. <br/>
 </div>
 </div>
 
-Ngài Thanh Đàm từ đó càng thêm tinh tấn, tay không rời quyển kinh. Trải qua bốn mươi tám năm (từ năm Đinh Tỵ đến Đinh Mão), Ngài chống tích đến Liêm Khê tư duy bí tạng của Cổ Phật, không tiếc rẻ với chúng sanh mà muốn cho tất cả đồng được vào tri kiến, nên nói: “Tôi dầu được chút ít đâu nên xẻn tiếc ư ?”.
+Ngài Thanh Đàm từ đó càng thêm tinh tấn, tay không rời quyển kinh. Trải qua bốn mươi tám năm (từ năm Đinh Tỵ đến Đinh Mão), Ngài chống tích đến Liêm Khê tư duy bí tạng của Cổ Phật, không tiếc rẻ với chúng sanh mà muốn cho tất cả đồng được vào tri kiến, nên nói: “Tôi dầu được chút ít đâu nên xẻn tiếc ư?”.
 
 Đề Cương kinh Diệu Pháp này nếu có chút công đức lành nào, chẳng dám dành riêng phần mình mà muốn cho Liên Hoa đồng mọc ở đầm trong; chẳng tìm cầu bên ngoài mà khiến Diệu Pháp sẵn chứa nơi tấc đất. Trông mong hàng thanh chúng đầy đủ mắt chân chánh. Như trong đây lý sự được đi đôi thì xin tất cả được Như Lai thọ ký.
 
@@ -258,7 +258,7 @@ Nên biết, tâm này trong các kinh đều khai thị nó trước nhất. Ph
 
 Hai chữ Liên Hoa là thí dụ. Lấy trong sạch chẳng ô nhiễm làm nghĩa. Vì tất cả sự vật trong thế gian, chẳng kham làm dụ cho tâm, nên cưỡng lấy hoa sen để ví cho nó. Bởi loài hoa này sanh trong nước bùn, mà chẳng bị nước bùn làm ô uế. Cũng như tâm ở trong trần lao, mà chẳng bị trần lao làm mê hoặc. Nhưng, tâm không hình tướng, hoa có xanh, vàng. Nhân hoa mà rõ cái thấy, do thấy mới biết hoa. Hoa là sắc tướng vô tình, còn thấy biết chính là chân tâm. Chỉ chẳng vọng sanh phân biệt thì vật ngã tự như như.
 
-Kinh là sợi chỉ xâu suốt tâm. Bảy quyển bao hàm hơn sáu muôn lời, đều là những số của tâm. Lấy một sợi chỉ xâu hết lại thành một kinh vậy. Nhưng, chỗ tỏ bày của kinh là môn học Định, Tuệ. Thế là nói lược đi, kỳ thật gồm cả Giới trong đó, do Giới giúp cho Định Tuệ. Nhân Giới sanh Định, do Định phát Tuệ. Thế nên, Giới là phương tiện đầu của Định Tuệ, há có thể lãng quên được ư ?
+Kinh là sợi chỉ xâu suốt tâm. Bảy quyển bao hàm hơn sáu muôn lời, đều là những số của tâm. Lấy một sợi chỉ xâu hết lại thành một kinh vậy. Nhưng, chỗ tỏ bày của kinh là môn học Định, Tuệ. Thế là nói lược đi, kỳ thật gồm cả Giới trong đó, do Giới giúp cho Định Tuệ. Nhân Giới sanh Định, do Định phát Tuệ. Thế nên, Giới là phương tiện đầu của Định Tuệ, há có thể lãng quên được ư?
 
 Nói Định Tuệ, tức là tông chỉ của Thiền định. Tuy trong các kinh đều nói Định Tuệ, nhưng có Định Tuệ Tiểu thừa, Định Tuệ Nhị thừa, hoặc Định Tuệ của Quyền thừa Bồ-tát. Đến như kinh này thì Phật tuệ rốt ráo, chỉ bày Nhất thừa, Phật tri kiến đạo, khiến các chúng sanh rốt ráo đều được Trí nhất thiết chủng.
 
@@ -351,11 +351,11 @@ Vân phi tùng hưởng bổn thiên nhiên.<br/>
 
 [^1]:
 
-    Khai, Thị, Ngộ, Nhập: Tất cả các đức Phật Thế Tôn ra đời chỉ vì muốn cho chúng sanh “Khai thị ngộ nhập Phật tri kiến”. Chúng sanh được khai thị ngộ nhập Phật tri kiến rồi lòng Phật mới thỏa, nguyện Phật mới xong, một đại sự nhân duyên ra đời của các Ngài mới hoàn tất. Kinh nói: “Các đức Phật Thế Tôn chỉ vì một đại sự nhân duyên mà hiện ra trong đời. Xá-lợi-phất ! Thế nào nói rằng các đức Phật Thế Tôn hiện ra trong đời chỉ vì một đại sự nhân duyên ? Các đức Phật Thế Tôn vì muốn chúng sanh khai mở Phật tri kiến để được thanh tịnh mà hiện ra trong đời. Vì muốn chỉ thị Phật tri kiến cho chúng sanh mà hiện ra trong đời. Vì muốn cho chúng sanh tỏ ngộ Phật tri kiến mà hiện ra trong đời. Vì muốn tất cả chúng sanh chứng nhập Phật tri kiến mà hiện ra trong đời. Xá-lợi-phất ! Đó là các đức Phật Thế Tôn vì đại sự nhân duyên mà hiện ra trong đời vậy”. Phật tri kiến chính là bản giác diệu tâm, là chân tánh bình đẳng của tất cả Thánh phàm. Từ xưa đến giờ khắp cùng pháp giới, Phật và chúng sanh vẫn đồng một thể tánh này. Thể tánh dù đồng, nhưng mê chính nó là chúng sanh, ngộ chính nó là Phật. Ngộ tức thuận theo tánh. Thuận theo tánh thì luôn luôn thụ hưởng bốn đức “thường, lạc, ngã, tịnh”. Mê là trái tánh theo trần. Trái tánh theo trần hẳn luân hồi sanh tử đảo điên khôn cùng. Vì trần lao là cảnh “huyễn mộng vô thường”. Kinh Lăng Nghiêm nói: “Trái giác hợp trần, trái trần hợp giác”, là đấy.
+    Khai, Thị, Ngộ, Nhập: Tất cả các đức Phật Thế Tôn ra đời chỉ vì muốn cho chúng sanh “Khai thị ngộ nhập Phật tri kiến”. Chúng sanh được khai thị ngộ nhập Phật tri kiến rồi lòng Phật mới thỏa, nguyện Phật mới xong, một đại sự nhân duyên ra đời của các Ngài mới hoàn tất. Kinh nói: “Các đức Phật Thế Tôn chỉ vì một đại sự nhân duyên mà hiện ra trong đời. Xá-lợi-phất ! Thế nào nói rằng các đức Phật Thế Tôn hiện ra trong đời chỉ vì một đại sự nhân duyên? Các đức Phật Thế Tôn vì muốn chúng sanh khai mở Phật tri kiến để được thanh tịnh mà hiện ra trong đời. Vì muốn chỉ thị Phật tri kiến cho chúng sanh mà hiện ra trong đời. Vì muốn cho chúng sanh tỏ ngộ Phật tri kiến mà hiện ra trong đời. Vì muốn tất cả chúng sanh chứng nhập Phật tri kiến mà hiện ra trong đời. Xá-lợi-phất ! Đó là các đức Phật Thế Tôn vì đại sự nhân duyên mà hiện ra trong đời vậy”. Phật tri kiến chính là bản giác diệu tâm, là chân tánh bình đẳng của tất cả Thánh phàm. Từ xưa đến giờ khắp cùng pháp giới, Phật và chúng sanh vẫn đồng một thể tánh này. Thể tánh dù đồng, nhưng mê chính nó là chúng sanh, ngộ chính nó là Phật. Ngộ tức thuận theo tánh. Thuận theo tánh thì luôn luôn thụ hưởng bốn đức “thường, lạc, ngã, tịnh”. Mê là trái tánh theo trần. Trái tánh theo trần hẳn luân hồi sanh tử đảo điên khôn cùng. Vì trần lao là cảnh “huyễn mộng vô thường”. Kinh Lăng Nghiêm nói: “Trái giác hợp trần, trái trần hợp giác”, là đấy.
 
 ## Nêu rõ diệu lý theo mỗi phẩm trong kinh phân giải
 
-Phẩm Tựa, vào đầu nói: “Phật nói kinh vô lượng nghĩa xong, Ngài vào chánh định vô lượng nghĩa xứ. Thân tâm chẳng động, giữa chặng mày phóng ánh sáng trắng, chiếu thẳng đến phương đông, tướng các cảnh giới bên đó đều hiện rành rõ”, ấy là sao ?
+Phẩm Tựa, vào đầu nói: “Phật nói kinh vô lượng nghĩa xong, Ngài vào chánh định vô lượng nghĩa xứ. Thân tâm chẳng động, giữa chặng mày phóng ánh sáng trắng, chiếu thẳng đến phương đông, tướng các cảnh giới bên đó đều hiện rành rõ”, ấy là sao?
 
 Bởi ánh sáng này trưng biểu cho nhãn căn thấy tánh, tức là Diệu pháp đạo lớn Nhất thừa chẳng nghĩ bàn, cũng là Tối thượng Phật thừa. Lại phương đông thuộc mộc, can tạng chúng ta cũng thuộc mộc. Trong can ngoài nhãn, tinh quang chiếu kiến. Chiếu kiến này chính là tâm. Thân tâm chẳng động phóng ra ánh sáng, là trưng biểu cho tâm thường lặng lẽ, ánh sáng thông cả chiếu kiến. Tâm này xưa nay trong sạch chẳng thể nghĩ bàn. Nhưng chúng sanh theo chiếu bỏ mất chân tông, đuổi cảnh mà bị lưu chuyển. Ấy bởi chấp nhận vọng thức làm tâm vậy.
 
@@ -595,14 +595,14 @@ Phẩm Đề-bà-đạt-đa, là chỉ cho người tu hành đã ngộ tâm Di�
 
 Nhưng trong tiết này, là trưng biểu lìa tướng ngã, xả sân hận, kiêu mạn, giải đãi... Chính cái tâm hay xả ấy, bèn thành hạt giống trí tuệ, nên rồi Đề-bà cũng sẽ làm Phật. Đến như việc Long nữ thành Phật, lý cũng rất u huyền.
 
-Xét ra, vì nhiều tham dục, nên phải đọa vào loài súc sanh, mà rồng là loài có ưu thắng hơn các loài khác. Hơn thế nữa, đã thọ thân cái trong loài rồng, thì tâm ngu si, tham dục kia, hẳn lớn không gì hơn. Thế mà được đức Văn Thù giáo hóa cũng có thể làm Phật. Bởi Văn Thù là tượng trưng cho hạt giống trí tuệ. Bảo rằng, kia tuy thọ thân rồng cái, mà cũng hàm chứa hạt giống trí tuệ. Kia, sau khi cởi viên bảo châu dâng lên đức Phật, là trưng biểu đã xa lìa tâm tham dục, gìn giữ tâm trí tuệ. Liền chuyển nữ thân thành tướng nam tử, đó là trưng biểu cho tâm bỏ tham dục, liền thành giống trí Bồ-đề. Qua phương nam, nơi cõi Vô Cấu liền thành Chánh giác. Phương nam tức tâm địa rỗng sáng. Vô Cấu tức sạch trong. Liền thành Chánh giác tức chỉ cho đã ngộ đạt tâm châu, xưa nay rỗng rang sáng suốt, trong sạch, bèn chóng vượt hành tướng của ba thừa bốn quả, tiến thẳng vào chân tế, thì làm sao nghiệp báo của sáu đường mà có thể trói buộc được ư ? Tổ sư Vĩnh Gia nói:
+Xét ra, vì nhiều tham dục, nên phải đọa vào loài súc sanh, mà rồng là loài có ưu thắng hơn các loài khác. Hơn thế nữa, đã thọ thân cái trong loài rồng, thì tâm ngu si, tham dục kia, hẳn lớn không gì hơn. Thế mà được đức Văn Thù giáo hóa cũng có thể làm Phật. Bởi Văn Thù là tượng trưng cho hạt giống trí tuệ. Bảo rằng, kia tuy thọ thân rồng cái, mà cũng hàm chứa hạt giống trí tuệ. Kia, sau khi cởi viên bảo châu dâng lên đức Phật, là trưng biểu đã xa lìa tâm tham dục, gìn giữ tâm trí tuệ. Liền chuyển nữ thân thành tướng nam tử, đó là trưng biểu cho tâm bỏ tham dục, liền thành giống trí Bồ-đề. Qua phương nam, nơi cõi Vô Cấu liền thành Chánh giác. Phương nam tức tâm địa rỗng sáng. Vô Cấu tức sạch trong. Liền thành Chánh giác tức chỉ cho đã ngộ đạt tâm châu, xưa nay rỗng rang sáng suốt, trong sạch, bèn chóng vượt hành tướng của ba thừa bốn quả, tiến thẳng vào chân tế, thì làm sao nghiệp báo của sáu đường mà có thể trói buộc được ư? Tổ sư Vĩnh Gia nói:
 
 <div markdown="1" class="viet-thi" align="center">
 Chứng thật tướng, không nhân pháp, <br/>
 Sát-na diệt hết nghiệp A-tỳ. <br/>
 </div>
 
-Bởi văn tiết của kinh này, nhằm bày tỏ tất cả chúng sanh trong ba cõi, bốn loài, sáu ngả, đều có Phật tánh. Chỉ vì theo nghiệp thức mà bị trôi lăn trong sáu ngả. Nếu gặp duyên phát giác, được nghe kinh điển Pháp Hoa, thấy được tâm xưa nay trong sạch, liền khi ấy chuyển tham sân si thành Giới Định Tuệ. Thế nào mà chẳng có thể chóng làm Phật ?
+Bởi văn tiết của kinh này, nhằm bày tỏ tất cả chúng sanh trong ba cõi, bốn loài, sáu ngả, đều có Phật tánh. Chỉ vì theo nghiệp thức mà bị trôi lăn trong sáu ngả. Nếu gặp duyên phát giác, được nghe kinh điển Pháp Hoa, thấy được tâm xưa nay trong sạch, liền khi ấy chuyển tham sân si thành Giới Định Tuệ. Thế nào mà chẳng có thể chóng làm Phật?
 
 Kệ rằng:
 
@@ -646,7 +646,7 @@ Long nữ xả châu trì thượng Phật, <br/>
 
 ## Phẩm trì
 
-Tỳ-kheo ni thọ ký, là nhiếp ý việc Long nữ thành Phật ở trước. Bởi súc sanh cái ngộ tâm, còn có thể thành Phật thay, huống là người nữ hộ tâm mà chẳng được đạo hay sao ? Không vì hình tướng để chia nam nữ, một tâm thanh tịnh xưa nay đồng.
+Tỳ-kheo ni thọ ký, là nhiếp ý việc Long nữ thành Phật ở trước. Bởi súc sanh cái ngộ tâm, còn có thể thành Phật thay, huống là người nữ hộ tâm mà chẳng được đạo hay sao? Không vì hình tướng để chia nam nữ, một tâm thanh tịnh xưa nay đồng.
 
 Lại Bồ-tát trì kinh, nghĩa là người tu hành muốn hộ trì tâm này, thì chốn chốn nơi nơi, phải mặc áo nhẫn nhục, giữ giáp tinh tiến, cầm kiếm trí tuệ, vào rừng phiền não, dứt giống vô minh, khiến tâm được thường không tịch, tri kiến rỗng suốt, không các chướng ngại. Dù hành đạo này, mà bị đánh mắng cũng phải nhịn chịu. Tâm này chẳng tán động, cùng tột thuở vị lai, trọn không mảy may thối chuyển.
 Như gió giữ thế giới, bền chắc chẳng động. Như đất chở chúng sanh không chút nhàm mỏi. Đấy mới thật là Phật tử biết gìn giữ tâm, cũng chính là người hoàn toàn không có ngã, và thật sự là vị Bồ-tát hộ pháp vậy.
@@ -660,7 +660,7 @@ Di Mẫu ngộ tâm, thành Chánh giác, <br/>
 Da Thâu kiến tánh, chứng Bồ-đề,  <br/>
 Đã hay thấy đạo, mới hành đạo, <br/>
 Rõ suốt vô vi, nói hữu vi, <br/>
-Bồ-tát trì kinh nào có tướng ? <br/>
+Bồ-tát trì kinh nào có tướng? <br/>
 Pháp nhẫn vô sanh khéo siêng trì. <br/> 
 </div>
 <div class='spacer-sm'></div>
