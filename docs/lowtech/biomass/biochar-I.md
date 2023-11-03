@@ -226,7 +226,7 @@ Vào năm 1545, trong khu rừng rậm vùng Amazon, các nhà thám hiểm Tây
 
 [^10]:
 
-    trong Molecular signature and sources of biochemical recalcitrance of organic các-bone in Amazonian Dark Earths, (2007)
+    Molecular signature and sources of biochemical recalcitrance of organic carbon in Amazonian Dark Earths, (2007)
 
 ![biochar-5](../../assets/images/biochar/biochar-5.webp)
 
