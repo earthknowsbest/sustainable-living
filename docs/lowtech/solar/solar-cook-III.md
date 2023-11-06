@@ -1,4 +1,4 @@
-# Bếp mặt trời (Phần III): 
+# Bếp mặt trời (Phần III)
 
 ## Nấu ăn bằng bếp mặt trời & sức khoẻ
 
