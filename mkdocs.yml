@@ -88,6 +88,8 @@ nav:
         - Lý do 26-30: vegan/why-vegan/excuses/excuses-26-30.md
       - Phim tài liệu: vegan/why-vegan/documentaries.md
   - Low-tech:
+    - Khái quát:
+      - Giới thiệu: lowtech/overview/intro.md
     - Sinh khối:
       - Than sinh học I: lowtech/biomass/biochar-I.md
       - Than sinh học II: lowtech/biomass/biochar-II.md
@@ -156,7 +158,7 @@ theme:
     # text: Noto Serif
     text: Literata
     # text: Source Serif 4
-    # text: Georgia 
+    # text: Merriweather 
   icon:
     repo: fontawesome/brands/github-alt
     logo: custom/logo

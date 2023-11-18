@@ -7,7 +7,7 @@
     “Học Phật phải thấy lòng nhẹ nhàng... Khi học Phật Pháp, chúng ta phải làm cách nào để giáo lý của Bụt giúp cho tâm tư ta nhẹ nhàng hơn, chứ không làm cho ta nặng nề thêm. Những bài pháp thoại có thể khiến cho đầu óc chúng ta thêm nặng nề nếu chúng ta chỉ học giáo lý với mục đích chất chứa thêm kiến thức. Phương pháp đó không hay. Trái lại, nếu trong khi học mà ta cảm thấy càng ngày càng nhẹ nhàng hơn thì như thế chúng ta đang theo đúng đường. Nhẹ nhàng hơn vì những điều ta học có tác dụng tháo gỡ và phá bỏ những thấy nghe và hiểu biết sai lầm. Nghe tới đâu, học tới đâu, ta cảm thấy nhẹ nhàng và thoải mái tới đó.”
 
 - [Nghe pháp thoại qua video](https://www.youtube.com/watch?v=_f_X9Jg5HCE&list=PLMG8i-w8rYWnLFnsnEkmx4pbhRdd5BK1O)
-- [Kinh tạng](https://suttacentral.net/pitaka/sutta?lang=vi)
+- [Kinh điển](https://www.rongmotamhon.net/kinh-bac-truyen_hien-thi_none_welcome.html)
 - [Kinh văn chọn lọc](https://langmai.org/tang-kinh-cac/kinh-van/)
 - [Nghe Pháp thoại qua video](https://langmai.org/thien-duong/nghe-phap-thoai/nghe-phap-thoai-hinh-mp4/ts-thich-nhat-hanh/phap-thoai-bo/cong-phu-no-doa-sen-ngan-canh/)
 - [Đức Phật và Phật Pháp](https://thuvienhoasen.org/p21a3842/duc-phat-va-phat-phap)
@@ -82,9 +82,10 @@
 
 ## Thư viện sách
 
-- [Thư viện hoa sen](https://thuvienhoasen.org/a37877/thu-vien-luu-tru-sach-xua-phat-giao)
+- [Các Website Phật giáo](https://www.rongmotamhon.net/xem-sach_cac-trang-phat-giao_va-van-hoa_website-phat-giao.html)
+- [Sách xưa Phật giáo](https://thuvienhoasen.org/a37877/thu-vien-luu-tru-sach-xua-phat-giao)
 - [Pháp thoại thiền sư Thích Nhất Hạnh](https://langmai.org/thien-duong/nghe-phap-thoai/nghe-phap-thoai-hinh-mp4/ts-thich-nhat-hanh/phap-thoai-bo/)
-- [Kinh tạng](https://suttacentral.net/pitaka/sutta?lang=vi)
-- [Hoa vô ưu](https://hoavouu.com/)
+- [Kinh điển đối chiếu](https://suttacentral.net/pitaka/sutta?lang=vi)
 - [Phật học phổ thông](https://thuvienhoasen.org/p43a40137/phat-hoc-pho-thong-tron-bo-3-tap-hoa-thuong-thich-thien-hoa-sach-ebook-pdf-)
-- [Thích Trí Tịnh toàn tập](https://thuvienhoasen.org/p43a19043/5/tri-tinh-toan-tap)
+- [Sách khác dạng ebooks](https://dotchuoinon.com/ebooks/)
+<!-- - [Thích Trí Tịnh toàn tập](https://thuvienhoasen.org/p43a19043/5/tri-tinh-toan-tap) -->
