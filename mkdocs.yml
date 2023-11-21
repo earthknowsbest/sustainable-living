@@ -90,6 +90,8 @@ nav:
   - Low-tech:
     - Khái quát:
       - Giới thiệu: lowtech/overview/intro.md
+      - Lo-TEK: lowtech/overview/lo-tek.md
+      - Nhật Bản thời Edo: lowtech/overview/edo-japan.md
     - Sinh khối:
       - Than sinh học I: lowtech/biomass/biochar-I.md
       - Than sinh học II: lowtech/biomass/biochar-II.md

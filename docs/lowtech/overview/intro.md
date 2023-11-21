@@ -1,5 +1,7 @@
 # Công nghệ thấp: Vì sao lối sống bền vững không nhất thiết phải phụ thuộc vào các giải pháp công nghệ cao
 
+![lowtech-00](../../assets/images/lowtech/lowtech-00.jpg)
+
 Có một quan điểm phổ biến cho rằng con đường dẫn đến lối sống bền vững nằm ở các giải pháp công nghệ cao. Bằng cách cải tiến các phương tiện đồ dùng hàng ngày như ô tô chạy xăng thành chạy điện, lắp đặt hệ thống thông minh để giám sát và giảm thiểu mức sử dụng năng lượng, dường như chúng ta vẫn có thể tận hưởng những tiện nghi mà chúng ta đã quen thuộc trong khi vẫn đóng góp vào phương thức phát triển hiện tại&mdash;được gọi là “tăng trưởng xanh”.
 
 Nhưng những rủi ro của phương thức này ngày càng trở nên rõ ràng hơn. Nhiều công nghệ hiện đại sử dụng các vật liệu như đồng, cô-ban, lithium và các nguyên tố đất hiếm. Những kim loại này có trong các thiết bị như điện thoại di động, tivi và động cơ. Nguồn cung cấp của chúng không chỉ hữu hạn mà còn đòi hỏi một lượng lớn năng lượng để khai thác và xử lý&mdash;tạo ra lượng khí thải nhà kính đáng kể.
