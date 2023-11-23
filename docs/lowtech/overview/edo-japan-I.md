@@ -5,7 +5,7 @@
 
     ***Hiroshige: (Địa điểm nổi tiếng ở đông đô) Thị trấn Suruga [minh họa]: Album Hiroshige (Thư viện Quốc hội)***
 
-Trong lịch sử Nhật Bản, khoảng thời gian 265 năm từ năm 1603 (khi Tokugawa Ieyasu trở thành tướng quân hay “shogun” vĩ đại của Mạc phủ Tokugawa) đến năm 1867 (khi Tokugawa Yoshinobu chính thức trao lại quyền lực chính trị cho hoàng đế) được gọi là Thời kỳ Edo. Edo là tên cũ của Tokyo ngày nay. Thời kỳ này được đặt tên như vậy vì chính phủ phong kiến vào thời điểm đó đặt trụ sở ở Edo, thay vì ở Kyoto như trước đây.
+Trong lịch sử Nhật Bản, khoảng thời gian 265 năm từ năm 1603 (khi Tokugawa Ieyasu trở thành tướng quân hay “shogun” vĩ đại của Mạc phủ Tokugawa) đến năm 1867 (khi Tokugawa Yoshinobu chính thức trao lại quyền lực chính trị cho hoàng đế) được gọi là Thời kỳ Edo. Edo là tên cũ của Tokyo ngày nay. Thời kỳ này đặt tên như vậy vì chính phủ phong kiến vào thời điểm đó đặt trụ sở ở Edo, thay vì ở Kyoto như trước đây.
 
 Trong hầu hết thời kỳ Edo, Nhật Bản đóng cửa với thế giới, không chịu sự xâm lược từ bên ngoài và hầu như không có giao lưu với các nước khác. Đây phần lớn là thời kỳ hòa bình, hầu như không có chiến tranh trong nước và đánh dấu một giai đoạn phát triển vượt bậc về kinh tế và văn hóa của Nhật Bản.
 
@@ -19,7 +19,7 @@ Nhật Bản chỉ có trữ lượng nhỏ nhiên liệu hóa thạch như dầ
 
 Trong những năm gần đây, ngày càng nhiều người Nhật bắt đầu nhận ra rằng trong thời kỳ Edo, đất nước của họ đã có được những gì mà ngày nay chúng ta công nhận là một xã hội bền vững. Dân số ổn định và xã hội không phụ thuộc vào vật chất đầu vào từ bên ngoài. Nhiều người hiện đang cố gắng tìm hiểu thêm về hệ thống xã hội thời đó và áp dụng “sự khôn ngoan của thời kỳ Edo” vào xã hội và cuộc sống đương đại.
 
-Tiểu thuyết gia Eisuke Ishikawa là một trong những nhà nghiên cứu hàng đầu của Nhật Bản về thời kỳ Edo. Tham khảo cuốn sách “Thời kỳ Edo có một xã hội tái chế” (“O-edo Recycle jijo”: xuất bản năm 1994, Công ty xuất bản Kodansha), giờ đây chúng tôi xin giới thiệu một số yếu tố đã tạo nên xã hội bền vững này trong suốt 250 năm. Bản tin JFS hàng tháng, có số này tập trung vào các hoạt động tái sử dụng và tái chế của Thời kỳ Edo. Tháng tới chúng ta sẽ tập trung vào hệ thống năng lượng, cho thấy vào thời điểm đó Nhật Bản là một quốc gia hoạt động dựa vào hệ thống cây cối thực vật.
+Tiểu thuyết gia Eisuke Ishikawa là một trong những nhà nghiên cứu hàng đầu của Nhật Bản về thời kỳ Edo. Tham khảo cuốn sách “Thời kỳ Edo có một xã hội tái chế” (“O-edo Recycle jijo”: xuất bản năm 1994, Công ty xuất bản Kodansha), giờ đây chúng tôi xin giới thiệu một số yếu tố đã tạo nên xã hội bền vững này trong suốt 250 năm. Bản tin JFS hàng tháng, có số này tập trung vào các hoạt động tái sử dụng và tái chế của Thời kỳ Edo. Tháng tới chúng ta sẽ tập trung vào hệ thống năng lượng, cho thấy vào thời điểm đó Nhật Bản là một quốc gia hoạt động dựa vào thực vật.
 
 Nhật Bản hiện đang thúc đẩy nỗ lực tái chế các sản phẩm và vật liệu hết hạn sử dụng. Động lực chính cho mục tiêu này ngày nay là giảm gánh nặng cho các bãi chôn lấp và ngăn chặn điôxin cũng như các phát thải hóa chất độc hại khác từ lò đốt rác. Nhưng người dân ở Edo Nhật Bản tái chế hàng hóa và vật liệu vì một lý do khác: ngay từ đầu họ có rất ít hàng hóa và vật liệu.
 
@@ -89,10 +89,9 @@ Nhật Bản trong thời kỳ Edo có thể được coi là một hình mẫu 
 
 Chắc chắn rằng ngày nay có nhiều thứ đã thay đổi, nhưng có lẽ có một số gợi ý cho một tương lai bền vững nếu chúng ta nhìn lại quá khứ.
 
-</hr>
+<hr/>
 **Nguồn: Bản tin JFS số 7 (tháng 3 năm 2003)**
 
 [Japan's sustainable society in the Edo period (1603-1867)](https://www.japanfs.org/sp/en/news/archives/news_id027757.html) 
 [Sustainable Lifestyles in Edo and Japanese History](https://www.japanlivingguide.com/living-in-japan/culture/sustainable-edo/)
-</hr>
 
