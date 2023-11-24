@@ -1,0 +1,57 @@
+# Chương 1: Mặt Trời và Dầu mỏ
+
+!!! quote "Sống bền vững trong thời kỳ Edo của Nhật Bản&mdash;300 năm trước"
+
+    Trong suốt thời kỳ Edo, người Nhật chỉ sống bằng năng lượng mặt trời. Toàn nhân loại đã từng sống như thế trước thời Cách mạng Công nghiệp khởi nguồn ở Anh và đánh dấu bằng việc sử dụng nhiên liệu hóa thạch làm nguồn năng lượng chính; Nhật Bản bắt đầu công nghiệp hóa sau Anh khoảng một trăm năm (khoảng cuối thế kỷ 19). Trong số các quốc gia được gọi là tiên tiến hiện nay, Nhật Bản là quốc gia cuối cùng sử dụng năng lượng mặt trời làm nguồn năng lượng duy nhất. Tổ tiên người Nhật đã xây dựng nền văn hóa Edo độc đáo bằng cách sử dụng năng lượng mặt trời dự trữ (tối đa trong hai năm liền trước) và thực vật (cần hấp thụ lượng mặt trời và là cách sử dụng năng lượng mặt trời gián tiếp). Họ cũng sử dụng năng lượng mặt trời một cách trực tiếp.
+
+Một bài thơ haiku của Takeshi Ikeuki viết:
+
+Nước mặt trời <br/>
+Sử dụng tiết kiệm <br/>
+Cũng chẳng bỏ đi <br/>
+
+Nước mặt trời là một chậu chứa đầy nước được làm nóng bằng ánh sáng mặt trời trực tiếp trong một thời gian dài. Người ta sẽ tìm nơi có ánh nắng chiếu gay gắt nhất trong ngày để đặt chậu. Vào giữa mùa hè, nước mặt trời ở Tokyo trở nên ấm áp nhất. Điều này hiệu quả hơn so với nước được làm nóng thông qua thiết bị nhiệt mặt trời. Gần đây nhất là năm mươi năm trước, người ta đã tiết kiệm nhiên liệu bằng cách pha trà và tắm vào mùa hè bằng nước mặt trời pha với một ít nước đun sôi. Hình thức tắm này, được gọi là ***gyouzui***, gần như đã biến mất nên cần giải thích&mdash;người ta sẽ té nước lên cơ thể từ một chậu nước; sau đó nước được đổ ra góc vườn. Trẻ nhỏ sẽ thưởng thức ***gyouzui*** vào giữa mùa hè nhưng chỉ vào giữa mùa hè.
+
+Chúng ta sử dụng năng lượng mặt trời theo mọi cách có thể tưởng tượng được vì đó là nguồn năng lượng duy nhất hiện có. Dựa trên suy tư phân tích cẩn thận, chúng ta biết rằng tổ tiên của mình chỉ có thể sử dụng năng lượng mặt trời mặc dù không chắc họ tự nhận biết được về sự thật này. Trong trái tim và lương tâm của nhiều người luôn có sự trân trọng tôn kính đối với mặt trời. Mặc dù có thể chưa có ý tưởng về năng lượng mặt trời nhưng có lẽ nhiều người đã biết rằng sự sống sót của họ là nhờ vào mặt trời. Đối với nhiều người, buổi sáng sớm bắt đầu bằng nghi lễ thờ mặt trời bằng cách quay mặt về hướng đông, vỗ tay và cúi đầu.
+
+Do những cách gián tiếp và đơn giản mà con người sử dụng công nghệ năng lượng mặt trời được thực hiện trong thời kỳ này, mà không sử dụng [tài nguyên] thiên nhiên một tuỳ tiện; [trong khi] công nghệ hiện đại đòi hỏi nguồn năng lượng dồi dào để tự cung cấp nhiên liệu. Không giống như thời hiện đại, con người thời đó không đối xử tàn bạo với thiên nhiên bằng cách sử dụng nhiều năng lượng. Người thời Edo luôn lưu tâm đến từng hành động của mình; ví dụ như pha trà đòi hỏi nhiều sức lực&mdash;múc nước bằng tay, kiếm củi, chuẩn bị và sử dụng bếp nấu.
+
+Kể từ thời **Minh Trị** (*Meji*), việc tôn thờ văn hóa phương Tây trở nên phổ biến và ý nghĩ về một cuộc sống phụ thuộc vào năng lượng mặt trời đã suy giảm [và dần thay thế bằng] ý nghĩ sử dụng nhiên liệu hóa thạch với số lượng lớn&mdash;đó là một suy nghĩ sẽ tồn tại dai dẳng. Khi mọi người bận rộn trong việc áp dụng khoa học và công nghệ tiên tiến của châu Âu, họ đã đưa ra những lời chỉ trích gay gắt và đánh giá thấp về thời kỳ Edo. Hơn nữa, quan điểm về lịch sử cho rằng con người tiến bộ theo thời gian bắt đầu lan rộng sau Chiến tranh Thái Bình Dương. Điều này cản trở bất kỳ ai đánh giá lại Thời kỳ Edo; sự công kích từ những người có tư tưởng tiến bộ đã gây ra hậu quả cho những người đã cố gắng [nhìn về quá khứ]. Định kiến này miêu tả thời kỳ Edo như một thời kỳ phong kiến ngu ngốc kéo dài hơn một trăm năm.
+
+Không nghi ngờ gì nữa, việc kết luận xã hội này ưu việt hơn xã hội khác chỉ bằng cách sử dụng những quan điểm hời hợt và thuận tiện là rất thiển cận. Để so sánh: một nền văn minh canh tác và điều khiển thiên nhiên sử dụng một lượng lớn năng lượng trong khi nền văn minh kia, sử dụng một lượng nhỏ năng lượng, bảo tồn sự hoà hợp hơn với thiên nhiên.
+
+Nếu quan điểm cho rằng nhân loại tiến bộ theo tuổi tác và xã hội đa tiêu dùng (là kết quả của sự tiến bộ gần đây) thực sự xuất sắc thì cuộc sống ngày nay phải tiến gần hơn một bước tới thiên đường so với Nhật Bản của 50 năm trước. Tuy nhiên, tôi không thể tin rằng chúng ta thực sự đang từng bước tiếp cận thiên đường trên trái đất.
+
+Mọi người đều nhận ra rằng cuộc sống hàng ngày hiện tại của chúng ta tiện lợi và thoải mái hơn rất nhiều so với những gì người ta nghĩ cách đây 50 năm. Tuy nhiên, điều ngày càng trở nên rõ ràng là chúng ta hiện đang phải gánh chịu những vấn đề có quy mô toàn cầu. Căn nguyên của những vấn đề hiện nay là việc tiêu thụ hàng loạt cái gọi là nhiên liệu hóa thạch (dầu mỏ, than đá, khí tự nhiên, v.v.).
+
+Người Nhật chỉ phụ thuộc vào thực vật và ánh nắng mặt trời cho đến khi sự xâm lược từ các nước phương Tây khiến chúng ta gặp nhiều nguy hiểm. Những người tôn thờ nền văn minh châu Âu như một nền văn minh phổ quát cho rằng thái độ hung hăng này của người phương Tây là bằng chứng cho sự thấp kém của Nhật Bản. Một số tiếp tục nghĩ theo cách này. Chúng ta hiện đang sống ở Nhật Bản, nơi không có chỗ cho bãi rác do hoàn toàn áp dụng nền văn minh phổ biến này.
+
+Nếu tôi viết rằng loài người không thể tồn tại&mdash;bất kể lý thuyết ngoài kia có đáng kính và tiến bộ đến mức nào&mdash;nếu đất nước của họ tràn ngập rác thải và bầu không khí cũng như nguồn nước bị ô nhiễm, các nhà phê bình có thể chỉ ra rằng người Nhật không thực sự hiểu văn hóa châu Âu nhưng hầu hết các chuyên gia về năng lượng và tài nguyên sẽ bỏ qua sự mâu thuẫn đó. Dù những lời chỉ trích có đứng vững hay không cũng không làm thay đổi thực tế rằng loài người phải vượt qua nền tư tưởng hiện tại khi đặt con người chống đối với thiên nhiên.
+
+Không rõ chúng ta sẽ vượt qua thời đại khó khăn này như thế nào nhưng điều tốt nhất có thể là việc chuyển sang cuộc sống bằng năng lượng mặt trời một lần nữa. Mặc dù chúng ta không thể quay ngược thời gian về thời Edo và tôi cũng không muốn làm như vậy, nhưng sẽ là sai lầm nếu bỏ qua hoặc đơn phương phản đối cuộc sống ở Edo khi nói rằng nó đã cũ và lạc hậu.
+
+Cuộc sống thời Edo là sự tích lũy kiến thức của những nền văn minh chỉ sử dụng năng lượng mặt trời. Đó là ví dụ cụ thể nhất về một xã hội sử dụng năng lượng mặt trời.
+
+Tôi nói điều này dù biết rằng có những người phản đối tôi hoặc nói rằng những gì tôi đang làm là vô nghĩa, nhưng sẽ thực tế hơn nhiều khi hiểu biết về một xã hội kiểu tuần hoàn gần như hoàn hảo mà ba mươi triệu tổ tiên đã trải nghiệm hơn là mơ về một cuộc cách mạng hướng tới một xã hội lý tưởng hư cấu. Càng có nhiều thông tin chi tiết về một xã hội phụ thuộc vào năng lượng mặt trời, chúng ta càng bắt đầu nhận ra những điều không chắc chắn gắn liền với sự phụ thuộc vào nhiên liệu hóa thạch hiện tại của chúng ta.
+
+!!! quote ""
+
+    ***Để biết chiều dài của một vật nào đó, tốt nhất nên sử dụng thước đo tiêu chuẩn (ví dụ: thước kẻ). Để biết được tình hình cuộc sống hiện tại của chúng ta, tốt nhất là hãy dùng thước đo lịch sử (tức là thời Edo).***
+
+Có hai lý do khiến tôi nghĩ đến việc sử dụng Thời kỳ Edo làm thước đo. Thứ nhất, Thời kỳ Edo sử dụng năng lượng mặt trời một cách tinh tế nhất so với bất kỳ thời kỳ nào khác trong lịch sử Nhật Bản. Chẳng hạn, điều đó không có nghĩa là văn hóa săn bắt và hái lượm kém cỏi hơn, nhưng nó không hữu ích cho các mục tiêu đã nhắm đến của chúng ta do quá mờ nhạt so với thực tế hiện tại của chúng ta. Nghiên cứu chi tiết về thời kỳ Edo (đặc biệt là Nhật Bản sau nửa sau những năm 1700) cho thấy hầu hết mọi thứ cần thiết cho cuộc sống hiện tại của người Nhật đều đã được phát minh ra (tất nhiên điều này không bao gồm các sản phẩm dựa trên nền công nghiệp hiện đại). Nền công nghiệp hiện đại phụ thuộc vào năng lượng nhiên liệu hóa thạch, vì vậy chúng ta có thể thấy rõ sự khác biệt giữa loại năng lượng mặt trời và loại năng lượng nhiên liệu hóa thạch nếu xem xét Nhật Bản thời kỳ Edo khi chúng ta không sử dụng nhiên liệu hóa thạch. Hơn nữa, do tỷ lệ biết đọc biết viết cao vào thời kỳ đó nên có một lượng lớn hồ sơ ghi chép chi tiết về cuộc sống ở Thời kỳ Edo.
+
+Thứ hai, Thời kỳ Edo nói lên chính cuộc sống lịch sử của Nhật Bản. Trong khi việc đến thăm Đan Mạch và Đức để nghiên cứu về các biện pháp môi trường là phổ biến, điều đó không mang lại một xã hội Nhật Bản thành công. Mặc dù trong năm mươi đến một trăm năm qua, chúng ta đã bắt chước những gì có vẻ thành công ở các quốc gia xa xôi&mdash;rất khác biệt về khí hậu, môi trường địa lý, dân số và mật độ dân số&mdash;nhưng nó đã khiến chúng ta rơi vào tình trạng chán ghét. Không cần phải nói thêm, Nhật Bản hiện vẫn đang ở vị trí [địa lí] tương tự trên Trái đất giống như thời Edo. Ngay cả khi một tai nạn khí hậu xảy ra trên toàn thế giới, khí hậu của Nhật Bản thời Edo sẽ có nhiều điểm tương đồng với Nhật Bản hiện nay hơn bất kỳ quốc gia nào khác. Ngoài ra, chúng ta cũng được phép nói rằng tổ tiên của thời Edo và thời hiện tại đều có chung nguồn gốc chủng tộc. Mặc dù con người đã trở nên to lớn hơn nhờ thay đổi thói quen sống và hình dạng khuôn mặt cũng thay đổi, nhưng người dân thời Edo vẫn được so sánh tốt nhất với người dân Nhật Bản ngày nay hơn bất kỳ quốc gia nào khác. Ngoài ra, cuộc sống hàng ngày của Nhật Bản thời Edo đã để lại những dấu vết trong thói quen của người dân hiện tại (ngoại trừ một số ít đã thay đổi hoàn toàn theo hướng có lợi cho lối sống nước ngoài).
+
+Duy trì lối sống truyền thống sẽ an toàn và thoải mái hơn, biết được những ưu điểm và nhược điểm của nó từ kinh nghiệm thực tế, hơn là coi thường nó và chuyển sang lối sống lý tưởng hóa phương Tây.
+
+Có những điểm được liệt kê ở trên, coi Nhật Bản thời Edo là tấm gương phản chiếu cho Nhật Bản hiện tại, khiến cho phân tích này dễ được chấp nhận hơn. Mặc dù vậy, điều này không phủ nhận sự tồn tại của những lời chỉ trích&mdash;những gì đang được thực hiện ở Nhật Bản thời phong kiến là vô nghĩa và cần phải bị bỏ qua hoàn toàn. Tôi hoan nghênh quyền giữ quan điểm của họ.
+
+Mặc dù tồn tại trên những hòn đảo biệt lập nhưng văn hóa Edo vẫn nguyên bản và phong phú nhờ những nỗ lực đáng kinh ngạc trong việc sử dụng nguồn năng lượng hạn chế một cách hiệu quả. Sống không bền vững với tất cả những gì mình có có thể là vấn đề sống còn. Điều này hoàn toàn trái ngược với sự thời hiện đại ngày nay, vốn cho phép chúng ta trở nên phù phiếm với những gì chúng ta coi là phế phẩm.
+
+Một sự tương phản khác với thời nay là cấu trúc cơ thể. Vào thời đó con người gầy gò và cơ bắp còn ở thời công nghiệp này, cơ thể con người mập mạp và đầy chất thải. Điều này là do thực tế là trong xã hội dựa trên năng lượng mặt trời, sự thoải mái và thuận tiện là rất hiếm. Nếu chúng ta vứt bỏ thái độ kiêu ngạo và chán ghét đối với sự bất tiện, chúng ta bắt đầu thấy được giá trị của chúng và bắt đầu nhận ra rõ ràng lối sống hiện tại của mình. Bằng cách nhìn qua nhiều lăng kính khác nhau, cuốn sách này sẽ trình bày một cách cụ thể nhất có thể, một xã hội dựa trên năng lượng mặt trời sẽ giúp mang lại lối sống bình thường cho con người như thế nào.
+
+<hr/>
+
+**Tác giả: Eisuke Ishikawa**, nhà văn chuyên viết về các vấn đề môi trường và sinh thái thời Edo (1603-1867). Ông cũng là giảng viên tại Đại học Nghệ thuật Musashino. Những cuốn sách gần đây của ông giới thiệu sự khôn ngoan về cuộc sống bền vững trong thời kỳ Edo từ các góc độ công nghệ, năng lượng, quản lý tài nguyên và hệ thống tái chế của thời kỳ đó.
+
+[Sustainability in EDO (1603-1867)](https://www.japanfs.org/en/edo/index.html)
