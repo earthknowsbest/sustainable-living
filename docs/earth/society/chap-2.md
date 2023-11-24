@@ -37,5 +37,3 @@ Trong chương tiếp theo, tôi sẽ mô tả thực tế cuộc sống truyề
 **Tác giả: Eisuke Ishikawa**, nhà văn chuyên viết về các vấn đề môi trường và sinh thái thời Edo (1603-1867). Ông cũng là giảng viên tại Đại học Nghệ thuật Musashino. Những cuốn sách gần đây của ông giới thiệu sự khôn ngoan về cuộc sống bền vững trong thời kỳ Edo từ các góc độ công nghệ, năng lượng, quản lý tài nguyên và hệ thống tái chế của thời kỳ đó.
 
 [Sustainability in EDO (1603-1867)](https://www.japanfs.org/en/edo/index.html)
-
-
