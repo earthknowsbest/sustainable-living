@@ -1,0 +1,37 @@
+# Chương 6: Biết đủ
+
+Một đặc điểm của thời kỳ con người chỉ phụ thuộc vào năng lượng mặt trời: khả năng sản xuất hàng hóa thấp. Kết quả là cuộc sống của tổ tiên chúng ta ở thời Edo rất đơn giản&mdash;thực tế phải như vậy, bởi vì một khi họ cam chịu hài lòng với một cuộc sống đơn giản, họ có thể sống với ít lượng năng lượng hơn. Mặc dù khó có thể biết một cách khách quan tổ tiên chúng ta đã sống như thế nào trong Thời kỳ Edo, nhưng có một manh mối được cung cấp qua một số tài liệu được viết và để lại bởi những người nước ngoài đến Nhật Bản từ những năm cuối của Thời kỳ Edo đến đầu Thời kỳ Minh Trị.
+
+Harris Townsend, người thành lập lãnh sự quán Mỹ đầu tiên ở Nhật Bản vào năm 1856, đã viết về cuộc gặp với một ông trùm Nhật Bản (một lãnh chúa, tướng quân) trong cuốn sách của mình:
+
+“Bộ váy của ông trùm được làm bằng lụa, và chất liệu này có một ít vàng dệt bên trong. Nhưng nó khác xa với vẻ lộng lẫy vương giả mà người ta có thể tưởng tượng. Không có đồ trang sức đắt tiền, không có đồ trang sức bằng vàng cầu kỳ, không có vũ khí chuôi kim cương nào xuất hiện, và tôi có thể chắc chắn rằng bộ của tôi đắt hơn của ông ấy rất nhiều. Người Nhật nói với tôi rằng vương miện của ông là một chiếc mũ sơn mài màu đen, có hình chuông ngược”. “Tôi không thấy mạ vàng ở bất kỳ bộ phận nào, và tất cả các cột gỗ đều không được sơn. Không có bất kỳ vật dụng nào xuất hiện trong bất kỳ căn phòng nào, ngoại trừ lò than và những chiếc bàn ghế mang đến cho tôi sử dụng". (Harris Townsend, Nhật kí hoàn chỉnh của Townsend Harris)
+
+Ngay cả trong hình minh họa của các cuốn tiểu thuyết được viết vào thời Edo, chúng ta thường chỉ tìm thấy các công cụ như lò than và bình phong gấp. Những người sống trong những ngôi nhà lớn để quần áo của họ trong những chiếc rương lớn gọi là **“nagamochi”** trong phòng chứa đồ. Những người sống trong những dãy nhà nhỏ ở những con phố phía sau quấn quần áo của mình bằng một mảnh vải vuông gọi là **“furoshiki”** và đặt nó ở góc phòng hoặc trên kệ. Điều này là đủ vì họ chỉ có một vài bộ quần áo.
+
+Alice Mabel Bacon, một người Mỹ được bổ nhiệm làm giáo viên tại một trường học ở Nhật Bản vào năm 1888, đã mô tả ấn tượng của cô về cổng trường như sau:
+
+“Trong phòng khách có một chiếc kệ thờ, bày các tượng thần của gia đình, trước mặt có cắm hoa và một chiếc tủ sứ nhỏ, trong đó bày những món đồ sứ rẻ tiền nhưng trang trí đẹp mắt, dùng để phục vụ bàn ăn của bất kỳ gia đình công nhân bình thường nào. Những thứ này, cùng với khăn “hibachi” và ấm trà có mặt mọi nơi, tạo nên tất cả đồ nội thất trong phòng, ngoại trừ một chiếc bình tre xinh xắn cắm hoa mùa thu trang trí trên tường. Chắc chắn, tính độc lập trong đồ nội thất do người Nhật trưng bày là đáng ghen tị nhất và giải phóng cuộc sống của họ khỏi nhiều lo lắng. Trẻ sơ sinh không bao giờ rơi khỏi giường, vì không có giường; chúng không bao giờ ngã khỏi ghế, vì một lý do tương tự. Trong nhà không có gì để bụi, không có gì để di chuyển khi bạn quét nhà; không có vết bẩn nào được mang vào nhà bằng ủng dính bùn...”. (Alice Mabel Bacon, Nội thất Nhật Bản)
+
+Harris đã ghi lại những ấn tượng của mình trong thời gian ở thành phố Shimoda, tỉnh Shizuoka:
+
+“Nhưng đây là một nơi nghèo khó, nơi mọi người đều nghèo, có đủ việc để sống, không cần cầu kỳ. Nhưng họ sống thoải mái, đủ ăn, đủ mặc, nhà cửa tươm tất, sạch sẽ, khô ráo và thoải mái. Không nơi nào trên thế giới tầng lớp lao động khá giả hơn ở Shimoda”. “Tôi chưa bao giờ thấy một người nào có vẻ mặt thiếu thốn. Trẻ con đều có khuôn mặt như ‘trăng rằm’, nam nữ đều khá mập mạp. Dù bất cứ khi nào, không ai cho rằng mình không được ăn no”. (Harris Townsend, Nhật kí hoàn chỉnh của Townsend Harris)
+
+Basil Hall Chamberlain, một nhà Nhật Bản học người Anh đến Nhật Bản vào năm 1873, đã để lại cho chúng tôi một tài liệu về Nhật Bản có tựa đề “Những đặc sắc Nhật Bản”. Ông viết rằng, ở Nhật Bản “dù có người nghèo nhưng không có nghèo đói”. Điều đó có nghĩa là gì? Một tác giả người Nhật, Kyoji Watanabe, đã phân tích ý này trong cuốn sách của mình:
+
+“Trong con mắt những người châu Âu đến thăm Nhật Bản và ngưỡng mộ sự giàu có và hạnh phúc của người dân, sự nghèo khó của người Nhật trái ngược hoàn toàn với sự nghèo đói và suy thoái đạo đức của các khu ổ chuột, một trong những sản phẩm phụ của quá trình công nghiệp hóa ở châu Âu...”. Friedrich Engels đã mô tả sự khốn khổ do quá trình công nghiệp hóa mang lại trong cuốn sách của ông, ***Điều kiện của giai cấp công nhân ở Anh***. “Ở phương Tây, người nghèo được cấp cho một tầng hầm sũng nước hoặc một căn gác mái dột nát để làm nơi trú ẩn... quần áo rách nát và thức ăn thô, khó tiêu. Họ bị xua đuổi như những con thú hoang và không được phép nghỉ ngơi hay có được niềm vui cuộc sống bình yên...”. “So với những khu ổ chuột bẩn thỉu này, việc người nghèo Nhật Bản giữ quần áo và nhà cửa sạch sẽ có lẽ là một điều kỳ diệu”. ( Kyoji Watanabe, “Yukishi Yono Omokage” (có nghĩa là "Thoạt nhìn về thế giới cũ" trong tiếng Nhật)).
+
+Những ngôi nhà bậc thang dọc theo những con phố hẹp vào thời kỳ đó là một mô hình thu nhỏ của xã hội Edo. Mọi người từ mọi tầng lớp xã hội đều sống ở đó, bao gồm thợ mộc và các nghệ nhân khác, người bán rong hàng rau hay hải sản, giáo viên viết văn, nhà tu khổ hạnh và bác sĩ. Những khu nhà như vậy hoàn toàn khác với những khu ổ chuột của xã hội hiện đại. **Vào thời Edo, khoảng cách giàu nghèo nằm ở số lượng hơn là chất lượng của cải**.
+
+Những ví dụ tôi đưa ra ở đây chỉ là một số điều khiến người phương Tây ngạc nhiên, nhưng chúng là những dấu hiệu cho thấy sự khác biệt cơ bản giữa nền văn minh phương Tây, nơi đã bắt đầu sử dụng than với số lượng lớn để làm nhiên liệu cho ngành công nghiệp và nền văn minh Edo, nơi chỉ sử dụng năng lượng mặt trời hay sản phẩm từ năng lượng mặt trời tích trữ trong một đến hai năm gần nhất. Chúng ta thực sự không cần nhiều đến thế để trải qua cuộc sống hàng ngày, và nếu xem xét kỹ những gì chúng ta cần và giới hạn bản thân ở những thứ thiết yếu nhất, lối sống của chúng ta có thể có vẻ khắc khổ, nhưng chúng ta có thể sống mà không cần hạ thấp mức sống của mình một cách đáng kể. Người Nhật thời Edo đã phát triển một số phương tiện tinh vi để thực hiện lối sống đơn giản nhưng tinh tế của mình.
+
+!!! quote "Có câu nói rằng:" 
+
+    “Ở đời chỉ có người biết đủ mới thấy mãn nguyện” 
+
+Những người có ham muốn vô tận không bao giờ có thể hạnh phúc, bởi vì họ nhanh chóng cảm thấy nhàm chán với mọi thứ mặc dù họ có thể đạt được sự hài lòng nhất thời từ chúng. Trong xã hội hiện đại dựa trên nhiên liệu hóa thạch, con người đang cố gắng thỏa mãn những ham muốn vô hạn thông qua tăng trưởng kinh tế. Trái lại, trong một xã hội phát triển dựa trên năng lượng mặt trời, mọi người đều nhận thức được rằng có rất ít mặt hàng có thể được phân phối. Cuối thời kỳ Edo chứng kiến sự xuất hiện tự nhiên ở Nhật Bản của một hệ thống phân phối không gây ra sự bất bình đẳng quá mức. Việc Nhật Bản thời đó là một trong những quốc gia có mật độ dân số đông nhất thế giới đã nói lên sự thành công của hệ thống phân phối này.
+
+<hr/>
+
+**Tác giả: Eisuke Ishikawa**, nhà văn chuyên viết về các vấn đề môi trường và sinh thái thời Edo (1603-1867). Ông cũng là giảng viên tại Đại học Nghệ thuật Musashino. Những cuốn sách gần đây của ông giới thiệu sự khôn ngoan về cuộc sống bền vững trong thời kỳ Edo từ các góc độ công nghệ, năng lượng, quản lý tài nguyên và hệ thống tái chế của thời kỳ đó.
+
+[Sustainability in EDO (1603-1867)](https://www.japanfs.org/en/edo/index.html)
