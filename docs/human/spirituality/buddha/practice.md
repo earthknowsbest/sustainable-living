@@ -80,12 +80,13 @@
 - [Trung Quán Luận](https://thuvienhoasen.org/a15695/trung-luan-madhyamaka-sastra); [bản kèm chữ Hán](https://thuvienhoasen.org/p19a3296/muc-luc)
 - [Trung Quán Kim luận](https://thuvienhoasen.org/p19a2888/loi-gioi-thieu)
 
-## Thư viện sách
+## Thư viện
 
 - [Các Website Phật giáo](https://www.rongmotamhon.net/xem-sach_cac-trang-phat-giao_va-van-hoa_website-phat-giao.html)
-- [Sách xưa Phật giáo](https://thuvienhoasen.org/a37877/thu-vien-luu-tru-sach-xua-phat-giao)
 - [Pháp thoại thiền sư Thích Nhất Hạnh](https://langmai.org/thien-duong/nghe-phap-thoai/nghe-phap-thoai-hinh-mp4/ts-thich-nhat-hanh/phap-thoai-bo/)
+- [Thích Tuệ Sỹ](https://tuesy.net/)
 - [Kinh điển đối chiếu](https://suttacentral.net/pitaka/sutta?lang=vi)
 - [Phật học phổ thông](https://thuvienhoasen.org/p43a40137/phat-hoc-pho-thong-tron-bo-3-tap-hoa-thuong-thich-thien-hoa-sach-ebook-pdf-)
+- [Sách xưa Phật giáo](https://thuvienhoasen.org/a37877/thu-vien-luu-tru-sach-xua-phat-giao)
 - [Sách khác dạng ebooks](https://dotchuoinon.com/ebooks/)
 <!-- - [Thích Trí Tịnh toàn tập](https://thuvienhoasen.org/p43a19043/5/tri-tinh-toan-tap) -->
