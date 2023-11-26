@@ -114,24 +114,26 @@ nav:
     - Hiệp ước: earth/fossil-treaty.md
     - Dừng bay: earth/staygrounded.md
     - Xã hội bền vững:
-      - Mặt trời & dầu mỏ: earth/society/chap-1.md
-      - Mặt tối sự tiện lợi: earth/society/chap-2.md
-      - Đường đất: earth/society/chap-3.md
-      - Sống thuận tự nhiên: earth/society/chap-4.md
-      - Mặt trời & rừng: earth/society/chap-5.md
-      - Biết đủ: earth/society/chap-6.md
-      - Bắt đầu từ từ: earth/society/chap-7.md
-      - Nguyên tắc Nishiki-e: earth/society/chap-8.md
-      - Vòng đời yukata: earth/society/chap-9a.md
-      - Lời nguyền tăng trưởng: earth/society/chap-9b.md
-      - Có cần tăng trưởng?: earth/society/chap-9c.md
-      - Dễ sửa chữa: earth/society/chap-9d.md
-      - Tái sử dụng: earth/society/chap-9e.md
-      - Đa dạng địa phương: earth/society/chap-10.md
-      - Giá trị nỗ lực: earth/society/chap-11.md
-      - Từ ngoài vào trong: earth/society/chap-12.md
-      - Hệ quả: earth/society/chap-13.md  
-      - Nhận diện sai lầm: earth/society/chap-14.md
+      - Nhật Bản thời Edo:
+        - earth/society/index.md 
+        - Mặt trời & dầu mỏ: earth/society/edo/chap-1.md
+        - Mặt tối sự tiện lợi: earth/society/edo/chap-2.md
+        - Đường đất: earth/society/edo/chap-3.md
+        - Sống thuận tự nhiên: earth/society/edo/chap-4.md
+        - Mặt trời & rừng: earth/society/edo/chap-5.md
+        - Biết đủ: earth/society/edo/chap-6.md
+        - Bắt đầu từ từ: earth/society/edo/chap-7.md
+        - Nguyên tắc Nishiki-e: earth/society/edo/chap-8.md
+        - Vòng đời yukata: earth/society/edo/chap-9a.md
+        - Lời nguyền: earth/society/edo/chap-9b.md
+        - Có cần tăng trưởng?: earth/society/edo/chap-9c.md
+        - Dễ sửa chữa: earth/society/edo/chap-9d.md
+        - Tái sử dụng: earth/society/edo/chap-9e.md
+        - Đa dạng địa phương: earth/society/edo/chap-10.md
+        - Giá trị nỗ lực: earth/society/edo/chap-11.md
+        - Từ ngoài vào trong: earth/society/edo/chap-12.md
+        - Hệ quả: earth/society/edo/chap-13.md  
+        - Nhận diện sai lầm: earth/society/edo/chap-14.md
   #     - Đại dương: earth/biosphere/ocean.md
   #   - Cộng đồng:
   #     - Phong trào: earth/community/movements.md
