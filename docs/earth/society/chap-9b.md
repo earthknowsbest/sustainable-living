@@ -1,4 +1,6 @@
-# Chương 9b: Lời nguyền tăng trưởng kinh tế
+# Chương 9: Được tạo ra để tồn tại lâu dài (*Made to last*) 
+
+## B. Lời nguyền tăng trưởng kinh tế
 
 Tại sao chúng ta lại ngừng việc sử dụng **yukata** theo một cách hợp lý như vậy? Vâng, một lí do là lối sống ngày nay của chúng ta khiến việc mặc quần áo như **yukata** trở nên không thực tế; hơn nữa, các chính phủ liên tiếp đã tìm cách kích thích tăng trưởng kinh tế và mang lại sự thịnh vượng cho quốc gia bằng cách áp dụng các chính sách khuyến khích người dân vứt đồ đạc đi.
 

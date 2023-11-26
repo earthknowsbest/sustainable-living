@@ -1,4 +1,6 @@
-# Chương 9a: Vòng đời của một bộ yukata
+# Chương 9: Được tạo ra để tồn tại lâu dài (*Made to last*)
+
+## A. Vòng đời của một bộ yukata
 
 Ngày nay, bạn nghe thấy từ **“tái chế”** (*recycle*), chủ yếu liên quan đến việc thu thập và tái sử dụng những món đồ cũ không mong muốn, ở mọi nơi bạn đến. Với việc thiếu nơi xử lý rác thải ở Nhật Bản ngày nay, bạn có thể cho rằng việc tái chế càng nhiều càng tốt là hợp lý, nhưng điều đó không có nghĩa đó là giải pháp tốt nhất.
 
