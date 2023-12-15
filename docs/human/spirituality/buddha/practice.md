@@ -30,7 +30,7 @@
 
 !!! quote "[Tuệ Trung Thượng Sĩ ngữ lục giảng giải](https://thuvienhoasen.org/a22104/tue-trung-thuong-si-ngu-luc-dich-giai)"
 
-    ...một tác phẩm trác tuyệt, triết lý uyên thâm, văn chương thanh thoát. Thế mà, rất ít người Việt Nam chịu đọc, vì lẽ rất khó hiểu. Muốn cho đa số người Việt Nam hiểu được nhũng tác phẩm hay của tổ tiên mình, hàng Phật tử Việt Nam biết rõ đường lối tu hành của các bậc tiền bối, chúng tôi mạo muội giảng giải ra...”
+    ...một tác phẩm trác tuyệt, triết lý uyên thâm, văn chương thanh thoát. Thế mà, rất ít người Việt Nam chịu đọc, vì lẽ rất khó hiểu. Muốn cho đa số người Việt Nam hiểu được những tác phẩm hay của tổ tiên mình, hàng Phật tử Việt Nam biết rõ đường lối tu hành của các bậc tiền bối, chúng tôi mạo muội giảng giải ra...”
 
 ## Thực tập giới
 

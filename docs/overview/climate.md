@@ -65,7 +65,7 @@ Khoa học cơ bản [đằng sau sự nóng lên toàn cầu] được hiểu r
 <hr/>
 **Tác giả: Jo Adetunji**, Biên tập viên, The Conversation UK
 
-Tác giả ghi nhận sự đóng góp của **Wes Mountain** (đa phương tiện), **Alicia Egan** (chỉnh sửa) và **Andrew King** (dữ liệu chiếu mô hình).
+Tác giả ghi nhận sự đóng góp của **Wes Mountain** (đa phương tiện), **Alicia Egan** (chỉnh sửa) và **Andrew King** (dữ liệu cho mô hình dự báo).
 
 [The three-minute story of 800,000 years of climate change with a sting in the tail](https://theconversation.com/the-three-minute-story-of-800-000-years-of-climate-change-with-a-sting-in-the-tail-73368)
 <hr/>

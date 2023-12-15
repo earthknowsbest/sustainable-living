@@ -29,7 +29,7 @@
 
 *[năm ấm]: Gồm có: 1. Sắc ấm (色陰&mdash;Phạn ngữ: Rpa): Năm căn, năm trần và những vật hữu hình; 2. Thọ ấm (受陰&mdash;Phạn ngữ: vedan): Đối cảnh sanh cảm thọ vui sướng, buồn khổ hoặc không vui không khổ; 3. Tưởng ấm (想陰&mdash;Phạn ngữ: saṃjđ Pli: sađđ): Đối cảnh nhận ra sự đen, trắng, nhỏ, to, dài, ngắn, đàn ông, đàn bà.v.v...; 4. Hành ấm (行陰&mdash;Phạn ngữ: Saṃskra Pli: saṅkhra): Đối cảnh sanh lòng ham muốn hoặc ghét giận; 5. Thức ấm (識陰&mdash;Phạn ngữ: vijđna, Pli: viđđṇa): Đối cảnh liền nhận biết, phân biệt. Năm ấm cũng được gọi là năm uẩn (Ngũ uẩn&mdash;五蘊).
 
-*[Ngộ]: 悟, là chúng sanh từ kiếp vô thủy đến giờ, chẳng biết chân tánh xưa nay trong sạch. Chỉ nhận bốn đại, năm uẩn làm thân, sáu thức vọng tưởng làm tâm. Nên cần phải mở bày, mới có thể giác ngộ “tình thức là vọng, căn tánh là chân”.
+<!-- *[Ngộ]: 悟, là chúng sanh từ kiếp vô thủy đến giờ, chẳng biết chân tánh xưa nay trong sạch. Chỉ nhận bốn đại, năm uẩn làm thân, sáu thức vọng tưởng làm tâm. Nên cần phải mở bày, mới có thể giác ngộ “tình thức là vọng, căn tánh là chân”. -->
 
 <!-- *[Nhập]: 入, là đã biết vọng thức, nhận ra chân tánh, bèn hồi tâm ngộ nhập tánh chân thật, chóng bỏ thức tình vọng tưởng. Lại, Nhập cũng chính là nghĩa “nhập lưu vong sở”. Là thu nhiếp các thức trở về căn nguyên, trái bỏ cảnh giới vọng trần vậy. -->
 
