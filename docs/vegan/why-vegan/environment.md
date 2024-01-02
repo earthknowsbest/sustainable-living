@@ -2,7 +2,7 @@
 
 !!! quote "Joseph Poore, Nhà nghiên cứu Khoa học Môi trường, Đại học Oxford"
 
-    “Chế độ ăn thuần chay có lẽ là một cách tốt nhất để giảm tác động của bạn đối với Trái đất, không chỉ thông qua khí nhà kính mà còn cả quá trình axit hóa toàn cầu, phì dưỡng (tảo nở hoa), cách sử dụng đất và sử dụng nước.”
+    “Chế độ ăn thuần chay có lẽ là một cách tốt nhất để giảm tác động của bạn đối với Trái đất, không chỉ thông (giảm) phát thải khí nhà kính mà còn cả quá trình axit hóa [đại dương] trên toàn cầu, hiện tượng phì dưỡng (tảo nở hoa), việc sử dụng đất và sử dụng nước.”
 
 Nông nghiệp chăn nuôi là một trong những nguyên nhân lớn nhất gây ra phát thải khí nhà kính do con người tạo ra, nạn phá rừng, ô nhiễm nước và ô nhiễm không khí. Với rất nhiều lựa chọn thay thế có sẵn, việc đưa ra các lựa chọn giúp ích cho môi trường trở nên dễ dàng hơn bao giờ hết.
 
@@ -47,23 +47,23 @@ Các trang trại chăn nuôi lợn và bò sữa tạo ra lượng chất thả
 
 ## Nước
 
-Trong khi **783 triệu người** trên toàn thế giới **không được tiếp cận với nước uống sạch**, **ngành chăn nuôi sử dụng gần 1/3 lượng nước uống sẵn có** (Tài nguyên nước và Công nghiệp, 2013).
+Trong khi **783 triệu người** trên toàn thế giới **không được tiếp cận với nước uống sạch**, **ngành chăn nuôi sử dụng gần 1/3 lượng nước uống sẵn có** ([Tài nguyên nước và Công nghiệp, 2013](https://www.sciencedirect.com/science/article/pii/S2212371713000024)).
 
-Một nghiên cứu năm 2016 đã so sánh chế độ ăn Địa Trung Hải truyền thống với các sản phẩm từ động vật, chế độ ăn chay pesco và chế độ ăn chay và phát hiện ra rằng chế độ ăn chay có lượng mức sử dụng nước thấp nhất&mdash;với mức giảm từ 30-53% (Khoa học về Môi trường Tổng thể).
+Một nghiên cứu năm 2016 đã so sánh chế độ ăn Địa Trung Hải truyền thống với các sản phẩm từ động vật, chế độ ăn chay pesco và chế độ ăn chay và phát hiện ra rằng chế độ ăn chay có lượng mức sử dụng nước thấp nhất&mdash;với mức giảm từ 30-53% ([Tạp chí Khoa học về Môi trường Tổng thể](https://www.sciencedirect.com/science/article/pii/S004896971631806X)).
 
-Một đánh giá có hệ thống được công bố đã xem xét nhiều chế độ ăn phổ biến, bền vững so với chế độ ăn uống tiêu chuẩn của phương Tây. Họ phát hiện ra rằng **chế độ ăn thuần chay sử dụng ít nước nhất** và **việc thay đổi chế độ ăn có thể giảm 50% lượng nước sử dụng**. Đánh giá này cũng cho thấy rằng phát thải khí nhà kính và sử dụng đất có thể giảm tới 70-80% (Public Library of Science, 2016).
+Một đánh giá có hệ thống được công bố đã xem xét nhiều chế độ ăn phổ biến, bền vững so với chế độ ăn uống tiêu chuẩn của phương Tây. Họ phát hiện ra rằng **chế độ ăn thuần chay sử dụng ít nước nhất** và **việc thay đổi chế độ ăn có thể giảm 50% lượng nước sử dụng**. Đánh giá này cũng cho thấy rằng phát thải khí nhà kính và sử dụng đất có thể giảm tới 70-80% ([Thư viện công về Khoa học, 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5094759/)).
 
 ## Đất
 
-Trên toàn thế giới, **sản xuất thịt và sữa sử dụng 83% đất nông nghiệp nhưng chỉ cung cấp 18% calo và 37% protein** (Science, 2018).
+Trên toàn thế giới, **sản xuất thịt và sữa sử dụng 83% đất nông nghiệp nhưng chỉ cung cấp 18% calo và 37% protein** ([Science, 2018](https://www.science.org/doi/10.1126/science.aaq0216)).
 
 **Nông nghiệp chăn nuôi là một trong những nguyên nhân hàng đầu của nạn phá rừng**. Tác động môi trường của nông nghiệp chăn nuôi, kể cả thông qua các phương pháp “bền vững”, cao hơn nhiều so với sản xuất thực vật. Một nghiên cứu năm 2018 của Đại học Oxford cho thấy ngay cả những sản phẩm thịt và sữa có tác động thấp nhất cũng gây ra nhiều thiệt hại cho môi trường hơn so với các sản phẩm rau và ngũ cốc có tác động cao nhất. Ví dụ, thịt bò “ít tác động đến môi trường” vẫn sử dụng đất nhiều gấp 36 lần so với đậu Hà Lan.
 
 Nghiên cứu tương tự cho thấy rằng **nếu mọi người ngừng ăn thịt và các sản phẩm từ sữa**, việc sử dụng đất nông nghiệp trên toàn thế giới có thể **giảm 75%—diện tích** tương đương với diện tích của Hoa Kỳ, Trung Quốc, Úc và EU cộng lại.
 
-Gần **2/3 tổng số cây đậu tương, ngô và lúa mạch và khoảng 1/3 tổng số cây ngũ cốc được sử dụng để làm thức ăn cho động vật**, vì vậy việc giảm tiêu thụ sản phẩm từ động vật sẽ khiến đất được sử dụng để sản xuất thức ăn chăn nuôi có thể sử dụng cho các mục đích sử dụng khác (Lancet, 2019)
+Gần **2/3 tổng số cây đậu tương, ngô và lúa mạch và khoảng 1/3 tổng số cây ngũ cốc được sử dụng để làm thức ăn cho động vật**, vì vậy việc giảm tiêu thụ sản phẩm từ động vật sẽ khiến đất được sử dụng để sản xuất thức ăn chăn nuôi có thể sử dụng cho các mục đích sử dụng khác ([Báo cáo của Uỷ ban EAT-Lancet](../food-lancet.md)).
 
-Các nhà nghiên cứu tại Đại học Wisconsin-Madison (2018) đã so sánh việc sử dụng đất của từng mặt hàng thực phẩm có nguồn gốc động vật riêng lẻ trong hệ thống thực phẩm của Hoa Kỳ với việc sử dụng đất thay thế dựa trên thực vật có thể so sánh được về mặt dinh dưỡng. Họ phát hiện ra rằng việc **thay thế tất cả các sản phẩm từ động vật có thể nuôi thêm 350 triệu người**. Họ cũng phát hiện ra rằng diện tích đất dùng có thể dùng sản xuất 100 gam đạm ăn được từ thực vật chỉ có thể sản xuất 60 gam đạm ăn được từ trứng, 50 gam đạm từ gà, 25 gam đạm từ sữa, 10 gam đạm từ lợn và chỉ 4 gam đạm từ thịt bò.
+Các nhà nghiên cứu tại Đại học Wisconsin-Madison ([2018](https://www.pnas.org/doi/10.1073/pnas.1713820115)) đã so sánh việc sử dụng đất của từng mặt hàng thực phẩm có nguồn gốc động vật riêng lẻ trong hệ thống thực phẩm của Hoa Kỳ với việc sử dụng đất thay thế dựa trên thực vật có thể so sánh được về mặt dinh dưỡng. Họ phát hiện ra rằng việc **thay thế tất cả các sản phẩm từ động vật có thể nuôi thêm 350 triệu người**. Họ cũng phát hiện ra rằng diện tích đất dùng có thể dùng sản xuất 100 gam đạm ăn được từ thực vật chỉ có thể sản xuất 60 gam đạm ăn được từ trứng, 50 gam đạm từ gà, 25 gam đạm từ sữa, 10 gam đạm từ lợn và chỉ 4 gam đạm từ thịt bò.
 
 Một nghiên cứu năm 2017 được công bố trên tạp chí Climatic Change cũng đã phân tích việc sử dụng đất ở Hoa Kỳ. Họ phát hiện ra rằng nếu toàn bộ dân số Hoa Kỳ **chuyển từ thịt bò sang đậu** trong chế độ ăn uống của họ, thì sẽ có tới 692 km^2^, tương đương **42% diện tích đất trồng trọt của Hoa Kỳ được giải phóng**.
 
