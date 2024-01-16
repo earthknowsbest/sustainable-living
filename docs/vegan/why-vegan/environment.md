@@ -2,7 +2,7 @@
 
 !!! quote "Joseph Poore, Nhà nghiên cứu Khoa học Môi trường, Đại học Oxford"
 
-    “Chế độ ăn thuần chay có lẽ là một cách tốt nhất để giảm tác động của bạn đối với Trái đất, không chỉ thông (giảm) phát thải khí nhà kính mà còn cả quá trình axit hóa trên toàn cầu, hiện tượng phì dưỡng (tảo nở hoa), việc sử dụng đất và sử dụng nước.”
+    “Chế độ ăn thuần chay có lẽ là một cách tốt nhất để giảm tác động của bạn đối với Trái đất, không chỉ thông qua (giảm) phát thải khí nhà kính mà còn cả quá trình axit hóa trên toàn cầu, hiện tượng phì dưỡng (tảo nở hoa), việc sử dụng đất và sử dụng nước.”
 
 Nông nghiệp chăn nuôi là một trong những nguyên nhân lớn nhất gây ra phát thải khí nhà kính do con người tạo ra, nạn phá rừng, ô nhiễm nước và ô nhiễm không khí. Với rất nhiều lựa chọn thay thế có sẵn, việc đưa ra các lựa chọn giúp ích cho môi trường trở nên dễ dàng hơn bao giờ hết.
 
@@ -29,7 +29,6 @@ Các tính toán của Our World in Data (2020) cho thấy rằng sản xuất 1
 ## Ô nhiễm không khí: Nguyên nhân tử vong sớm
 
 Một báo cáo năm 2023 trong tập san [Nature Communications](https://www.nature.com/articles/s41467-023-41789-3) phát hiện rằng việc thay đổi sang một chế độ ăn thuần thực vật sẽ giảm khí thải nông nghiệp toàn cầu từ 84% đến 86%. Các nhà nghiên cứu ước tính rằng nếu những thay đổi này được thực hiện từ giờ cho đến năm 2030, sự cắt giảm ô nhiễm không khí sẽ ngăn chặn khoảng 236.000 ca tử vong sớm mỗi năm.
-
 
 ## Ô nhiễm không khí: phân biệt chủng tộc về môi trường
 
