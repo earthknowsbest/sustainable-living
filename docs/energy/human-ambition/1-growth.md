@@ -56,7 +56,7 @@ Hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm c�
 
 !!! info ""
 
-    Số lượng vi khuẩn nhân đôi trong mỗi $10$ phút chỉ là một ví dụ, trong thực tế có thể là $20-30$ phút).
+    Số lượng vi khuẩn nhân đôi trong mỗi $10$ phút chỉ là một ví dụ, trong thực tế có thể là $20-30$ phút.
 
 Hãy dành khoảng một phút suy nghĩ. Trực giác thông thường mách bảo: hũ này sẽ đầy một nửa vào giữa trưa hôm sau&mdash;bằng một nửa tổng thời gian thí nghiệm. Nhưng sẽ thế nào khi chúng ta giải quyết bài toán ngược lại từ lúc đầy? Hũ sẽ đầy vào nửa đêm hôm sau, và thời gian nhân đôi là $10$ phút. Vậy khi nào hũ sẽ đầy một nửa?
 
