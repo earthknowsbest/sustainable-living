@@ -2,7 +2,7 @@
 
 !!! quote "Joseph Poore, Nhà nghiên cứu Khoa học Môi trường, Đại học Oxford"
 
-    “Chế độ ăn thuần chay có lẽ là một cách tốt nhất để giảm tác động của bạn đối với Trái đất, không chỉ thông (giảm) phát thải khí nhà kính mà còn cả quá trình axit hóa [đại dương] trên toàn cầu, hiện tượng phì dưỡng (tảo nở hoa), việc sử dụng đất và sử dụng nước.”
+    “Chế độ ăn thuần chay có lẽ là một cách tốt nhất để giảm tác động của bạn đối với Trái đất, không chỉ thông (giảm) phát thải khí nhà kính mà còn cả quá trình axit hóa trên toàn cầu, hiện tượng phì dưỡng (tảo nở hoa), việc sử dụng đất và sử dụng nước.”
 
 Nông nghiệp chăn nuôi là một trong những nguyên nhân lớn nhất gây ra phát thải khí nhà kính do con người tạo ra, nạn phá rừng, ô nhiễm nước và ô nhiễm không khí. Với rất nhiều lựa chọn thay thế có sẵn, việc đưa ra các lựa chọn giúp ích cho môi trường trở nên dễ dàng hơn bao giờ hết.
 
@@ -14,15 +14,15 @@ Hãy đọc tiếp để tìm hiểu thêm về cách chế độ ăn thuần ch
 
 Một nghiên cứu năm 2018 cho thấy **sản xuất thịt và sữa tạo ra 56-58% lượng khí thải nhà kính trong nông nghiệp, trong khi chỉ cung cấp 18% lượng calo và 37% đạm**. Một nghiên cứu khác gần đây đã khẳng định lại những con số này, phát hiện ra rằng **nông nghiệp chăn nuôi chịu trách nhiệm cho 57% lượng khí thải nhà kính** liên quan đến nông nghiệp ([Tập san Nature Food](https://www.nature.com/articles/s43016-021-00358-x)).
 
-Nhiều báo cáo đã phát hiện ra rằng chế độ ăn thuần chay có nhiều tiềm năng nhất để giảm phát thải khí nhà kính. Một ví dụ như vậy là báo cáo gần đây nhất của Hội đồng liên chính phủ về biến đổi khí hậu của Liên Hợp Quốc, trong đó nhấn mạnh việc **chuyển hướng sang chế độ ăn dựa trên thực vật là cơ hội lớn để hạn chế phát thải khí nhà kính** ([Báo cáo IPCC lần thứ thứ 6, 2022](https://www.ipcc.ch/report/ar6/wg2/)).
+Nhiều báo cáo đã phát hiện ra rằng chế độ ăn thuần chay có nhiều tiềm năng nhất để giảm phát thải khí nhà kính. Một ví dụ như vậy là báo cáo gần đây nhất của Hội đồng liên chính phủ về biến đổi khí hậu của Liên Hợp Quốc, trong đó nhấn mạnh việc **chuyển hướng sang chế độ ăn thuần thực vật là cơ hội lớn để hạn chế phát thải khí nhà kính** ([Báo cáo IPCC lần thứ thứ 6, 2022](https://www.ipcc.ch/report/ar6/wg2/)).
 
 Trong một loạt các mô phỏng được công bố trên tập san PLOS Khí hậu, các nhà nghiên cứu đã phát hiện ra rằng nếu **nông nghiệp chăn nuôi được loại bỏ dần trong khoảng thời gian 15 năm, lượng khí thải nhà kính có thể ổn định trong 30 năm và bù đắp 68% lượng khí thải CO~2~ trong suốt phần còn lại của thế kỷ này**. Việc giảm khí mê-tan và ôxit nitơ này, cùng với sự tích tụ khí CO~2~ chậm hơn, sẽ có tác động tương tự đối với khả năng nóng lên của bầu khí quyển khi **giảm 25 tỉ tấn mỗi năm lượng khí thải CO~2~** có nguồn gốc từ con người, giúp giảm một nửa mức phát thải cần thiết để hạn chế sự nóng lên ở 2°C ([PLOS Khí hậu](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000010)).
 
-Một nghiên cứu năm 2020 được báo cáo trên tạp chí Nature Sustainability cho thấy chi phí cơ hội cao về CO~2~ của nông nghiệp chăn nuôi. Theo đó đất nếu không canh tác để làm thức ăn động vật có **khả năng cô lập 152,5 tỉ tấn carbon (GtC) trong sinh khối thực vật sống nếu con người chuyển sang ăn thuần chay**. Động vật nhai lại được chăn thả để lấy thịt và sữa chiếm 72% lượng carbon trong khi đất trồng trọt dành cho thức ăn chăn nuôi chiếm 28% còn lại. Lượng carbon này đại diện cho lượng khí thải từ nhiên liệu hóa thạch trong thập kỷ qua và các nhà nghiên cứu cho rằng nó có thể so sánh với **mức giảm cần thiết để hạn chế sự nóng lên toàn cầu ở mức 1,5°C** ([Nature Sustainability](https://www.nature.com/articles/s41893-020-00603-4)).
+Một nghiên cứu năm 2020 được báo cáo trên tạp chí Nature Sustainability cho thấy chi phí cơ hội của CO~2~ của nông nghiệp chăn nuôi rất lớn. Theo đó nếu đất không phải canh tác để làm thức ăn động vật, nó có **khả năng cô lập 152,5 tỉ tấn carbon (GtC) trong sinh khối thực vật sống nếu con người chuyển sang ăn thuần chay**. Động vật nhai lại được chăn thả để lấy thịt và sữa chiếm 72% lượng carbon trong khi đất trồng trọt dành cho thức ăn chăn nuôi chiếm 28% còn lại. Lượng carbon này đại diện cho lượng khí thải từ nhiên liệu hóa thạch trong thập kỷ qua và các nhà nghiên cứu cho rằng nó có thể so sánh với **mức giảm cần thiết để hạn chế sự nóng lên toàn cầu ở mức 1,5°C** ([Nature Sustainability](https://www.nature.com/articles/s41893-020-00603-4)).
 
 Một nghiên cứu từ Đại học Michigan ước tính rằng việc **thay thế một nửa số thực phẩm có nguồn gốc động vật bằng thực phẩm có nguồn gốc thực vật có thể giúp giảm 35% lượng khí thải liên quan đến chế độ ăn uống ở Hoa Kỳ** ([Báo cáo CSS](https://css.umich.edu/publications/research-publications/implications-future-us-diet-scenarios-greenhouse-gas-emissions)). Điều đó sẽ giúp **giảm khoảng 224 triệu tấn khí thải hàng năm—tương đương với 47,5 triệu phương tiện chở khách—vào năm 2030**. 
 
-[Một báo cáo của Uỷ ban EAT-Lancet](https://songbenvung.net/vegan/food-lancet/) (2019) đã so sánh các mô hình thay đổi trong sản xuất lương thực và ước tính mức giảm khí nhà kính và phát hiện ra rằng **việc chuyển sang chế độ ăn dựa trên thực vật có thể giảm tới 80% lượng khí thải** liên quan đến thực phẩm vào năm 2050. **Chế độ ăn thuần chay có tiềm năng lớn nhất để giảm phát thải khí nhà kính—lên tới 35 đến 50%**.
+[Một báo cáo của Uỷ ban EAT-Lancet](https://songbenvung.net/vegan/food-lancet/) (2019) đã so sánh các mô hình thay đổi trong sản xuất lương thực và ước tính mức giảm khí nhà kính và phát hiện ra rằng **việc chuyển sang chế độ ăn thuần thực vật có thể giảm tới 80% lượng khí thải** liên quan đến thực phẩm vào năm 2050. **Chế độ ăn thuần chay có tiềm năng lớn nhất để giảm phát thải khí nhà kính&mdash;lên tới 35 đến 50%**.
 
 Các tính toán của Our World in Data (2020) cho thấy rằng sản xuất 100 gam đạm từ đậu Hà Lan thải ra 0,4 kg khí carbonic tương đương, trong khi sản xuất **cùng lượng đạm đó từ thịt bò sẽ thải ra gấp gần 90 lần lượng khí carbonic tương đương** (Our World in Data). Trong tất cả các nguồn đạm, đạm thực vật có lượng khí thải carbon thấp nhất, bất kể phương pháp sản xuất. Ngay cả khi so sánh lượng khí thải từ các nhà sản xuất thịt và sữa có tác động thấp nhất với các nhà sản xuất thực vật có tác động cao nhất, các nguồn đạm từ thực vật luôn có lượng khí thải carbon nhỏ hơn.
 
@@ -37,9 +37,9 @@ Các trang trại chăn nuôi lợn và bò sữa tạo ra lượng chất thả
 
 !!! quote "Câu lạc bộ Sierra (2017) báo cáo:"
 
-    Nếu chất thải được rải quá thường xuyên, nó sẽ làm bão hòa đất và rò rỉ vào tầng ngậm nước cũng như các con sông và suối gần đó. Hoạt động này cũng tạo ra không khí có mùi phân, các hạt bụi độc hại thổi vào những ngôi nhà gần đó, kèm theo mùi hôi thối khủng khiếp khiến cư dân phải ở trong nhà. Phần lớn những ngôi nhà đó thuộc về người Mỹ gốc Phi, khiến cho chúng ngập trong mùi chất thải lợn trong nhiều thập kỷ và giếng của họ cũng bị ô nhiễm.
+    Nếu chất thải được rải quá thường xuyên, nó sẽ làm bão hòa đất và rò rỉ vào tầng ngậm nước cũng như các con sông và suối gần đó. Hoạt động này cũng tạo ra không khí có mùi phân, các hạt bụi độc hại thổi vào những ngôi nhà gần đó, kèm theo mùi hôi thối khủng khiếp khiến cư dân phải ở trong nhà. Phần lớn những ngôi nhà đó thuộc về người Mỹ gốc Phi; chúng ngập trong mùi chất thải lợn trong nhiều thập kỷ và giếng của người dân cũng bị ô nhiễm.
 
-    Trong 30 năm, những lời phàn nàn của họ về ảnh hưởng đối với sức khỏe và chất lượng cuộc sống của họ hầu như đã bị bỏ ngoài tai tại toà nhà bang [Bắc Carolina]—khiến đây trở thành một trường hợp rõ ràng về phân biệt chủng tộc trong môi trường với chi phí con người có thể định lượng được.
+    Trong 30 năm, những lời phàn nàn của người dân về ảnh hưởng đối với sức khỏe và chất lượng cuộc sống của họ hầu như đã bị bỏ ngoài tai tại toà nhà bang [Bắc Carolina]—khiến đây trở thành một trường hợp rõ ràng về phân biệt chủng tộc trong môi trường với chi phí con người có thể định lượng được.
 
 !!! quote "Câu lạc bộ Sierra trích lời cư dân sống gần đầm phá chất thải lợn:"
 
@@ -63,13 +63,13 @@ Nghiên cứu tương tự cho thấy rằng **nếu mọi người ngừng ăn 
 
 Gần **2/3 tổng số cây đậu tương, ngô và lúa mạch và khoảng 1/3 tổng số cây ngũ cốc được sử dụng để làm thức ăn cho động vật**, vì vậy việc giảm tiêu thụ sản phẩm từ động vật sẽ khiến đất được sử dụng để sản xuất thức ăn chăn nuôi có thể sử dụng cho các mục đích sử dụng khác ([Báo cáo của Uỷ ban EAT-Lancet](../food-lancet.md)).
 
-Các nhà nghiên cứu tại Đại học Wisconsin-Madison ([2018](https://www.pnas.org/doi/10.1073/pnas.1713820115)) đã so sánh việc sử dụng đất của từng mặt hàng thực phẩm có nguồn gốc động vật riêng lẻ trong hệ thống thực phẩm của Hoa Kỳ với việc sử dụng đất thay thế dựa trên thực vật có thể so sánh được về mặt dinh dưỡng. Họ phát hiện ra rằng việc **thay thế tất cả các sản phẩm từ động vật có thể nuôi thêm 350 triệu người**. Họ cũng phát hiện ra rằng diện tích đất dùng có thể dùng sản xuất 100 gam đạm ăn được từ thực vật chỉ có thể sản xuất 60 gam đạm ăn được từ trứng, 50 gam đạm từ gà, 25 gam đạm từ sữa, 10 gam đạm từ lợn và chỉ 4 gam đạm từ thịt bò.
+Các nhà nghiên cứu tại Đại học Wisconsin-Madison ([2018](https://www.pnas.org/doi/10.1073/pnas.1713820115)) đã so sánh việc sử dụng đất của từng mặt hàng thực phẩm có nguồn gốc động vật riêng lẻ trong hệ thống thực phẩm của Hoa Kỳ với việc sử dụng đất thay thế thuần thực vật có thể so sánh được về mặt dinh dưỡng. Họ phát hiện ra rằng việc **thay thế tất cả các sản phẩm từ động vật có thể nuôi thêm 350 triệu người**. Họ cũng phát hiện ra rằng diện tích đất dùng có thể dùng sản xuất 100 gam đạm ăn được từ thực vật chỉ có thể sản xuất 60 gam đạm ăn được từ trứng, 50 gam đạm từ gà, 25 gam đạm từ sữa, 10 gam đạm từ lợn và chỉ 4 gam đạm từ thịt bò.
 
 Một nghiên cứu năm 2017 được công bố trên tạp chí Climatic Change cũng đã phân tích việc sử dụng đất ở Hoa Kỳ. Họ phát hiện ra rằng nếu toàn bộ dân số Hoa Kỳ **chuyển từ thịt bò sang đậu** trong chế độ ăn uống của họ, thì sẽ có tới 692 km^2^, tương đương **42% diện tích đất trồng trọt của Hoa Kỳ được giải phóng**.
 
 ## Tóm tắt
 
-Nông nghiệp chăn nuôi không phải là một hệ thống bền vững và dấu chân sinh thái của bạn có thể giảm đáng kể nhờ chế độ ăn dựa trên thực vật!
+Nông nghiệp chăn nuôi không phải là một hệ thống bền vững và dấu chân sinh thái của bạn có thể giảm đáng kể nhờ chế độ ăn thuần thực vật!
 
 <hr/>
 **Tác giả:** [Vegan Outreach](https://veganoutreach.org/environment/)
