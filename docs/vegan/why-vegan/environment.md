@@ -14,6 +14,8 @@ Hãy đọc tiếp để tìm hiểu thêm về cách chế độ ăn thuần ch
 
 Một nghiên cứu năm 2018 cho thấy **sản xuất thịt và sữa tạo ra 56-58% lượng khí thải nhà kính trong nông nghiệp, trong khi chỉ cung cấp 18% lượng calo và 37% đạm**. Một nghiên cứu khác gần đây đã khẳng định lại những con số này, phát hiện ra rằng **nông nghiệp chăn nuôi chịu trách nhiệm cho 57% lượng khí thải nhà kính** liên quan đến nông nghiệp ([Tập san Nature Food](https://www.nature.com/articles/s43016-021-00358-x)).
 
+![land-use](../../assets/images/land-use.webp)
+
 Nhiều báo cáo đã phát hiện ra rằng chế độ ăn thuần chay có nhiều tiềm năng nhất để giảm phát thải khí nhà kính. Một ví dụ như vậy là báo cáo gần đây nhất của Hội đồng liên chính phủ về biến đổi khí hậu của Liên Hợp Quốc, trong đó nhấn mạnh việc **chuyển hướng sang chế độ ăn thuần thực vật là cơ hội lớn để hạn chế phát thải khí nhà kính** ([Báo cáo IPCC lần thứ thứ 6, 2022](https://www.ipcc.ch/report/ar6/wg2/)).
 
 Trong một loạt các mô phỏng được công bố trên tập san PLOS Khí hậu, các nhà nghiên cứu đã phát hiện ra rằng nếu **nông nghiệp chăn nuôi được loại bỏ dần trong khoảng thời gian 15 năm, lượng khí thải nhà kính có thể ổn định trong 30 năm và bù đắp 68% lượng khí thải CO~2~ trong suốt phần còn lại của thế kỷ này**. Việc giảm khí mê-tan và ôxit nitơ này, cùng với sự tích tụ khí CO~2~ chậm hơn, sẽ có tác động tương tự đối với khả năng nóng lên của bầu khí quyển khi **giảm 25 tỉ tấn mỗi năm lượng khí thải CO~2~** có nguồn gốc từ con người, giúp giảm một nửa mức phát thải cần thiết để hạn chế sự nóng lên ở 2°C ([PLOS Khí hậu](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000010)).

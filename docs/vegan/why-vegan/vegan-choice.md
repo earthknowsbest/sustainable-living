@@ -6,6 +6,14 @@ Theo các nhà khoa học thực hiện phân tích toàn diện nhất cho đ�
 
 Nghiên cứu mới cho thấy **nếu không tiêu thụ thịt và sữa, việc sử dụng đất nông nghiệp toàn cầu có thể giảm hơn 75%&mdash;tương đương với diện tích nước Mỹ, Trung Quốc, Liên minh Châu Âu và Úc cộng lại&mdash;mà vẫn đủ cung cấp lương thực cho thế giới**. Các vùng đất hoang dã bị mất để làm nông nghiệp hiện là nguyên nhân hàng đầu dẫn đến sự tuyệt chủng hàng loạt các loài động vật hoang dã.
 
+![land-use-map](../../assets/images/land-use-map.webp)
+
+??? quote "Diện tích sử dụng đất được tính theo phần trăm đất trên toàn cầu (trong dấu ngoặc vuông)"
+
+    - Đất trồng (màu hồng) là toàn bộ diện tích đất trồng trừ đi diện tích đất thực phẩm để nuôi động vật.
+	- Đất chăn nuôi (màu đỏ) bao gồm cả đất chăn thả và đất trồng thực phẩm nuôi động vật.
+	- Đất cằn cỗi là đất mà trên đó thực vật chỉ che phủ ít it hơn 1/3 diện tích.
+
 Phân tích mới cho thấy, **mặc dù thịt và sữa chỉ cung cấp 18% lượng calo và 37% đạm [cho con người] nhưng chúng sử dụng phần lớn&mdash;83%&mdash;đất nông nghiệp và tạo ra 60% lượng khí thải nhà kính trong nông nghiệp**. Nghiên cứu khác gần đây cho thấy **86% tổng số động vật có vú trên cạn hiện nay hoặc là động vật nuôi hoặc là con người**. Các nhà khoa học cũng phát hiện ra rằng ngay cả những sản phẩm thịt và sữa có tác động thấp nhất vẫn gây ra nhiều tác hại cho môi trường hơn so với việc trồng rau và ngũ cốc kém bền vững nhất.
 
 <div>

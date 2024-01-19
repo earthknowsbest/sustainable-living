@@ -107,7 +107,7 @@ Tuy nhiên, các điểm nóng về mất rừng ngập mặn vẫn còn, đặc
 
     Vào năm 2021, lần đầu tiên các cơ quan về đa dạng sinh học và khí hậu của Liên Hợp Quốc&mdash;IPBES và IPCC&mdash;đã cùng nhau nêu bật mối liên hệ nhiều mặt giữa các cuộc khủng hoảng khí hậu và đa dạng sinh học, bao gồm cả nguồn gốc chung của chúng, đồng thời cảnh báo về những rủi ro mới về một tương lai không thể sống được.
 
-Các báo cáo đánh giá gần đây từ IPBES, IPCCvà hội thảo chung IPBES-IPCC đã ghi lại một cách rõ ràng về biến đổi khí hậu và sự xuống cấp liên tục của đa dạng sinh học và những đóng góp của thiên nhiên đối với con người. Trong 50 năm qua, nhiệt độ trung bình toàn cầu và tần suất của các hiện tượng thời tiết cực đoan đã tăng lên, cũng như số lượng của các loài bị đe dọa tuyệt chủng.
+Các báo cáo đánh giá gần đây từ IPBES, IPCC và hội thảo chung IPBES-IPCC đã ghi lại một cách rõ ràng về biến đổi khí hậu và sự xuống cấp liên tục của đa dạng sinh học và những đóng góp của thiên nhiên đối với con người. Trong 50 năm qua, nhiệt độ trung bình toàn cầu và tần suất của các hiện tượng thời tiết cực đoan đã tăng lên, cũng như số lượng của các loài bị đe dọa tuyệt chủng.
 
 Những xu hướng này là kết quả của các tác nhân trực tiếp của con người, chẳng hạn như **phát thải khí nhà kính** từ quá trình đốt cháy nhiên liệu hóa thạch, **chuyển đổi và suy thoái môi trường sống do thay đổi sử dụng đất**, ô nhiễm và thu hoạch không bền vững, và sự ra đời của các loài xâm lấn. Một số nguyên nhân trực tiếp như thay đổi sử dụng đất và ô nhiễm có thể gây ra cả biến đổi khí hậu và suy thoái đa dạng sinh học, trong khi những nguyên nhân khác chủ yếu thúc đẩy một trong hai: ví dụ, xâm lấn sinh học có tác động hạn chế đến khí hậu.
 
