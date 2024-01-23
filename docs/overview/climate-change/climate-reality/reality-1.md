@@ -14,7 +14,7 @@
 - Nhiệt độ trung bình toàn cầu trong 5 năm 2016-2020 tăng 1,2°C, theo **NASA**[^1] và **Copernicus**[^2].
 - Nhiệt độ tăng ~0,25ºC trong thập kỉ gần nhất 2011-2020, so với mức gia tăng trung trình 0,18ºC trong vòng 50 năm qua.
 - Những mô hình khí hậu hiện tại (**CMIP6**) dự đoán mức tăng trung bình là 0,3ºC trong thập kỉ tới năm 2030 (theo các kịch bản [SSP2-4.5, SSP3-7.0 và SSP5-8.5](https://ourworldindata.org/explorers/ipcc-scenarios?facet=none&country=SSP1+-+Baseline~SSP2+-+Baseline~SSP3+-+Baseline~SSP4+-+Baseline~SSP5+-+Baseline&Metric=Temperature+increase&Rate=Per+capita&Region=Global))[^3].
-- Trong 25 năm tới dự kiến nhiệt độ toàn cầu sẽ tăng thêm 0,25-0,35º mỗi thập kỉ[^4]; và đã có những cảnh báo về mức tăng toàn cầu trong vòng 25 năm tới sẽ [nhanh gấp đôi](http://www.columbia.edu/~mhs119/Temperature/Emails/July2021.pdf) so với những gì đã diễn ra trong 50 năm trước[^5].
+- Trong 25 năm tới dự kiến nhiệt độ toàn cầu sẽ tăng thêm 0,25-0,35ºC mỗi thập kỉ[^4]; và đã có những cảnh báo về mức tăng toàn cầu trong vòng 25 năm tới sẽ [nhanh gấp đôi](http://www.columbia.edu/~mhs119/Temperature/Emails/July2021.pdf) so với những gì đã diễn ra trong 50 năm trước[^5].
 
 
 [^1]:
@@ -49,7 +49,7 @@
 
 - Các mô hình khí hậu không tính đến gia tăng nhiệt độ do sự tan băng trên biển Bắc Cực: “Mất khả năng phản xạ của băng biển Bắc Cực sẽ làm cho [quá trình](https://scripps.ucsd.edu/news/research-highlight-loss-arctics-reflective-sea-ice-will-advance-global-warming-25-years) tăng nhiệt độ đến ngưỡng 2ºC ngắn lại 25 năm”[^12].
 
-- Báo cáo [IPCC](https://vi.wikipedia.org/wiki/%E1%BB%A6y_ban_Li%C3%AAn_ch%C3%ADnh_ph%E1%BB%A7_v%E1%BB%81_Bi%E1%BA%BFn_%C4%91%E1%BB%95i_Kh%C3%AD_h%E1%BA%ADu) (Uỷ ban liên chính phủ về biến đổi khí hậu) năm 2021 đưa ra “ước tính tốt nhất về độ nhạy khi hậu ở mức 3ºC”, nhưng khi bao gồm các yếu tố như [“phản hồi chậm”](https://arxiv.org/abs/0804.1126) (*slow feedback*) (gồm các nguồn hiện đang tích trữ khí carbonic) và sự thay đổi suất phản chiếu (*albedo*) (độ phản xạ&mdash;*reflectivity*), nhiệt độ gia tăng có thể lên mức 5-6ºC khi lượng khí carbonic trong khí quyển tăng gấp đôi so với thời kì tiền công nghiệp. Các trạng thái này tương ứng với dải khí hậu từ băng hà cho đến không có băng ở Nam Cực[^13].
+- Báo cáo [IPCC](https://vi.wikipedia.org/wiki/%E1%BB%A6y_ban_Li%C3%AAn_ch%C3%ADnh_ph%E1%BB%A7_v%E1%BB%81_Bi%E1%BA%BFn_%C4%91%E1%BB%95i_Kh%C3%AD_h%E1%BA%ADu) (Uỷ ban liên chính phủ về biến đổi khí hậu) năm 2021 đưa ra “ước tính tốt nhất về độ nhạy khi hậu ở mức 3ºC”, nhưng khi bao gồm các yếu tố như [“phản hồi chậm”](https://arxiv.org/abs/0804.1126) (*slow feedback*) (gồm các nguồn hiện đang tích trữ khí carbonic) và sự thay đổi **suất phản chiếu** (*albedo*) (**độ phản xạ**&mdash;*reflectivity*), nhiệt độ gia tăng có thể lên mức 5-6ºC khi lượng khí carbonic trong khí quyển tăng gấp đôi so với thời kì tiền công nghiệp. Các trạng thái này tương ứng với dải khí hậu từ băng hà cho đến không có băng ở Nam Cực[^13].
 
 [^6]:
 
@@ -95,7 +95,7 @@
 
 - Dải băng Tây Nam Cực (WAIS) đã vượt qua [điểm tới hạn](https://www.theguardian.com/commentisfree/2014/may/17/climate-change-antarctica-glaciers-melting-global-warming-nasa) (*tipping point*)[^15], và Greenland có thể đã [chạm điểm tới hạn](https://phys.org/news/2020-09-greenland-ice-sheet-years.html) 20 năm trước[^16]. Mục tiêu nhiệt độ (1,5ºC) của Thoả thuận Paris (*Paris Agreement*) là đủ [để thúc đẩy sự tan chảy](https://www.sciencedirect.com/science/article/abs/pii/S0277379119306122) của WAIS[^17].
 
-- Nhiều phần của Đông Nam cực cũng có thể [thiếu ổn định](https://www.nature.com/articles/d41586-019-03595-0) tương tực như ở phần phía tây[^18].
+- Nhiều phần của Đông Nam cực cũng có thể [thiếu ổn định](https://www.nature.com/articles/d41586-019-03595-0) tương tự như ở phần phía tây[^18].
 
 - Ba phần tư thể tích băng biển Nam Cực mùa hè đã [bị mất](https://www.nature.com/articles/s41558-020-0860-7)[^19], và cứ [tiếp diễn như vậy](https://www.scientistswarning.org/2021/06/15/arctic-death-spiral/)[^20].
 
@@ -148,7 +148,7 @@
 
     **Không còn ngân sách carbon (*carbon budget*) cho mục tiêu của Thỏa thuận Paris**
 
-- Lượng khí thải tăng, sol khí (*aerosols*) (từ ô nhiễm không khí) giảm dần và chu kì khí hậu tự nhiên sẽ [góp phần làm nóng lên nhanh hơn](https://www.nature.com/articles/d41586-018-07586-5) bầu khí quyển[^24], và [phân tầng đại dương](https://insideclimatenews.org/news/28092020/ocean-stratification-climate-change) (*ocean stratification*) diễn ra mạnh mẽ hơn với tầng nước nóng hơn phía trên[^25].
+- Lượng khí thải tăng, **sol khí** (*aerosols*) (từ ô nhiễm không khí) giảm dần và chu kì khí hậu tự nhiên sẽ [góp phần làm nóng lên nhanh hơn](https://www.nature.com/articles/d41586-018-07586-5) bầu khí quyển[^24], và [phân tầng đại dương](https://insideclimatenews.org/news/28092020/ocean-stratification-climate-change) (*ocean stratification*) diễn ra mạnh mẽ hơn với tầng nước nóng hơn phía trên[^25].
 
 - Có một sự nhất trí cao trong các mô phỏng mô hình hiện tại (CMIP6) rằng [nhiệt độ sẽ tăng quá 1,5ºC](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/) trong tất cả các kịch bản khả dĩ “trung bình vào khoảng năm 2030”[^26].
 
@@ -156,7 +156,7 @@
 
 - Có nhiều khả năng ngân sách carbon cho mục tiêu Paris [đã không còn](https://52a87f3e-7945-4bb1-abbf-9aa66cd4e93e.filesusr.com/ugd/148cb0_999447b69dde477a83b500dde076fbc6.pdf). Nếu các phản hồi của chu trình carbon được tính đến (*carbon-cycle feedback*), “chẳng hạn như các điểm tới hạn trong hệ sinh thái rừng & sự tan biến đột ngột của lớp băng vĩnh cữu, thì [ngân sách ước tính còn lại](https://www.pnas.org/content/118/38/e2115218118) có thể biến mất hoàn toàn”[^28].
 
-- Vào khoảng năm 2030, với nhiệt độ tăng thêm 1,5ºC, và sự nóng lên ở Bắc Cực được khuếch đại gấp 3 lần so với trung bình toàn cầu (4 lần trong [một nghiên cứu gần đây](https://www.scientificamerican.com/article/the-arctic-is-warming-four-times-faster-than-the-rest-of-the-planet/)), rủi ro sẽ tăng lên đáng kể khi các nguồn dự trữ khí carbonic bao gồm [lớp băng vĩnh cửu](https://www.washingtonpost.com/climate-environment/rapid-arctic-meltdown-in-siberia-alarms-scientists/2020/07/03/4c1bd6a6-bbaa-11ea-bdaf-a129f921026f_story.html) (*permafrost*)[^29] và [rừng phương bắc](https://www.nature.com/articles/s41558-021-01027-4)(*boreal forests*)[^30] sẽ bị tổn thất nặng nề, đẩy nhanh khả năng mất carbon (*carbon loss*) mà [không thể ngăn cản](https://www.nature.com/articles/d41586-019-01313-4)[^31].
+- Vào khoảng năm 2030, với nhiệt độ tăng thêm 1,5ºC, và sự nóng lên ở Bắc Cực được khuếch đại gấp 3 lần so với trung bình toàn cầu (4 lần trong [một nghiên cứu gần đây](https://www.scientificamerican.com/article/the-arctic-is-warming-four-times-faster-than-the-rest-of-the-planet/)), rủi ro sẽ tăng lên đáng kể khi các nguồn dự trữ khí carbonic bao gồm [lớp băng vĩnh cửu](https://www.washingtonpost.com/climate-environment/rapid-arctic-meltdown-in-siberia-alarms-scientists/2020/07/03/4c1bd6a6-bbaa-11ea-bdaf-a129f921026f_story.html) (*permafrost*)[^29] và [rừng phương bắc](https://www.nature.com/articles/s41558-021-01027-4) (*boreal forests*)[^30] sẽ bị tổn thất nặng nề, đẩy nhanh khả năng **mất carbon** (*carbon loss*) mà [không thể ngăn cản](https://www.nature.com/articles/d41586-019-01313-4)[^31].
 
 [^24]:
 
@@ -270,17 +270,17 @@
     
     **Một vài điểm tới hạn (*tipping points*) đã bị vượt qua, trong khi một số khác đang rất gần.**
 
-- Điểm tới hạn là một ngưỡng mà khi vượt qua, những thay đổi lớn bất thường sẽ xảy ra; phản hồi xuôi (*positive feedback*) là vòng lặp tự gia tăng (*self-reinforce*) làm cho sự thay đổi diễn ra nhanh hơn nữa.
+- Điểm tới hạn là một ngưỡng mà khi vượt qua, những thay đổi lớn bất thường sẽ xảy ra; **phản hồi xuôi** (*positive feedback*) là **vòng lặp tự tăng cường** (*self-reinforce*) làm cho sự thay đổi diễn ra nhanh hơn nữa.
 
-- Các điểm tới hạn quan trọng tương hỗ với nhau (*interrelated*) và có thể sẽ [diễn ra hàng loạt](https://e360.yale.edu/features/as-climate-changes-worsens-a-cascade-of-tipping-points-looms) (*cascade*)[^42] như được minh hoạ trong hình dưới đây.
+- Các điểm tới hạn quan trọng **tương hỗ với nhau** (*interrelated*) và có thể sẽ [diễn ra hàng loạt](https://e360.yale.edu/features/as-climate-changes-worsens-a-cascade-of-tipping-points-looms) (*cascade*)[^42] như được minh hoạ trong hình dưới đây.
 
 ![Tipping-points](../../../assets/images/tipping-points.webp)
 
-Sự tương tác giữa các hệ thống khí hậu này có thể làm giảm ngưỡng nhiệt độ tới hạn (*critical temperature threshold*) mà ở đó các điểm tới hạn có thể bị vượt qua[^43].
+Sự tương tác giữa các hệ thống khí hậu này có thể làm giảm **ngưỡng nhiệt độ tới hạn** (*critical temperature threshold*) mà ở đó các điểm tới hạn có thể bị vượt qua[^43].
 
 Nhiệt độ nước đại dương có thể làm [giảm độ sáng](https://phys.org/news/2021-09-earth-dimming-due-climate.html) (*brightness*) của Trái đất trong vòng hai thập kỉ vừa qua; từ đó, ít nhiệt hơn được phản xạ và hấp thụ. Hiệu ứng này tương đương với mức nhiệt độ tăng thêm 0,3ºC[^44].
 
-Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngưỡng mà ở đó tốc độ quang hợp (*photosynthesis*) sẽ bị giảm và khả năng dự trữ carbon của sinh quyển trên mặt đất (*terrestial bioshpere*) (hay “dự trữ trên đất” (*land sink*)) suy giảm. Điểm tới hạn sẽ được vượt qua [trong vòng 20-30 năm tới](https://advances.sciencemag.org/content/7/3/eaay1052.full) và, nằm trên quỹ đạo của dự kiến của mức phát thải cao (*high emission trajectory*), giảm gần một nửa khả năng dự trữ trên đất sẽ đạt tới sớm năm 2040[^45]. 
+Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngưỡng mà ở đó tốc độ **quang hợp** (*photosynthesis*) sẽ bị giảm và khả năng dự trữ carbon của **sinh quyển mặt **đất** (*terrestial bioshpere*) (hay “dự trữ trên đất” (*land sink*)) suy giảm. Điểm tới hạn sẽ được vượt qua [trong vòng 20-30 năm tới](https://advances.sciencemag.org/content/7/3/eaay1052.full) và, nằm trên **quỹ đạo dự kiến của mức phát thải cao** (*high emission trajectory*), giảm gần một nửa khả năng dự trữ trong đất sẽ đạt tới sớm năm 2040[^45]. 
 
 [^42]:
 
@@ -306,7 +306,7 @@ Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngư�
 
 - Kịch bản [“Nhà kính Trái đất”](https://www.pnas.org/content/115/33/8252) (*Hothouse Earth*) mà ở đó các phản hồi hệ thống trái đất và sự tương tác tương hỗ đã đẩy Hệ thống trái đất đến điểm không thể quay trở lại (*point of no return*), theo đó sự ấm lên trở thành một quá trình tự duy trì (*self-sustaining*) (nghĩa là không cần con người can thiệp thêm nữa)[^46].
 
-- Các ngưỡng tới hạn của hành tinh (*planetary threshold*) có thể tồn tại ở mức nhiệt độ tăng chỉ 2ºC, hay [thậm chí có thể trong phạm vi 1,5ºC-2ºC](https://www.pnas.org/content/115/33/8252)[^47]. 
+- Các **ngưỡng tới hạn của hành tinh** (*planetary threshold*) có thể tồn tại ở mức nhiệt độ tăng chỉ 2ºC, hay [thậm chí có thể trong phạm vi 1,5ºC-2ºC](https://www.pnas.org/content/115/33/8252)[^47]. 
 
 - Trong sự tương tác vật lí giữa Greenland và tảng băng Tây Nam Cực, sự lưu thông Đại Tây Dương (*Atlantic Meridional Overtuning Circulation*) và rừng nhiệt đới Amazon, lớp phủ băng ở cực thường là [các tác nhân](https://esd.copernicus.org/articles/12/601/2021/) gây ra hiện tượng sụp đổ hàng loạt (*cascade events*)[^48], với Greenland và Tây Nam Cực chịu rủi ro vượt quá điểm tới hạn chỉ trong khoảng tăng 1,5ºC-2ºC (và có những bằng chứng là điểu này đã xảy ra).
 
@@ -337,7 +337,7 @@ Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngư�
 
 - Ở mức tăng nhiệt độ 3ºC, sản xuất thực phẩm sẽ [không đủ để nuôi sống dân số](https://52a87f3e-7945-4bb1-abbf-9aa66cd4e93e.filesusr.com/ugd/148cb0_c65caa20ecb342568a99a6b179995027.pdf) do năng suất trung bình cây trồng giảm 20%, hàm lượng dinh dưỡng trong lương thực giảm, quần thể côn trùng sụp giảm nghiêm trọng, sa mạc hoá, mất mùa và sự thiếu nước thường xuyên.
 
-- 3ºC sẽ là [thảnm hoạ cho sinh kế của thế giới](https://www.pnas.org/content/114/39/10315) đối với 3 tỉ người nghèo nhất, bao gồm hầu hết người nông dân, mà sinh kế sẽ bị ảnh hưởng nặng nề, nếu không muốn nói là bị huỷ hoại, với siêu hạn hán (*megadrought*), sóng nhiệt (*heat waves*) và lũ lụt lớn (*heavy floods*) xảy ra mỗi một đến năm năm.
+- 3ºC sẽ là [thảm hoạ cho sinh kế của thế giới](https://www.pnas.org/content/114/39/10315) đối với 3 tỉ người nghèo nhất, bao gồm hầu hết người nông dân, mà sinh kế sẽ bị ảnh hưởng nặng nề, nếu không muốn nói là bị huỷ hoại, với **siêu hạn hán** (*megadrought*), **sóng nhiệt** (*heat waves*) và **lũ lụt lớn** (*heavy floods*) xảy ra mỗi một đến năm năm.
 
 [^50]:
 
@@ -357,7 +357,7 @@ Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngư�
     
     **Chúng ta đang tiến dần tới mức nhiệt độ không tương thích với sự tổ chức cộng đồng toàn cầu (*organized global community*) của con người.**
 
-- Nhiệt độ toàn cầu đang trên đà tiến tới từ 2-3,6ºC vào năm 2100 với các cam kết chính sách hiện tại của chính phủ ([xem hình dưới](https://climateactiontracker.org/global/cat-thermometer/))
+- Nhiệt độ toàn cầu đang trên đà tiến tới từ 2-3,6ºC vào năm 2100 với các cam kết chính sách hiện tại của chính phủ (xem hình dưới, [nguồn: Climate Action Tracker](https://climateactiontracker.org/global/cat-thermometer/))
 
 ![CAT](../../../assets/images/CAT.webp)
 
@@ -384,7 +384,7 @@ Trái đất đang tiệm cận với khoảng nhiệt độ vượt quá ngư�
     
     **Mức khí thải nhà kính hiện tại có thể làm mực nước biển dâng lên 25 mét.**
 
-- Mực nước biển sẽ tiếp tục dâng lên trong nhiều thế kỉ tới, ngay cả khi con người ngừng phát thải khí nhà kính, do giai đoạn băng tan kéo dài lâu, do quán tính nhiệt (*thermal inertia*).
+- Mực nước biển sẽ tiếp tục dâng lên trong nhiều thế kỉ tới, ngay cả khi con người ngừng phát thải khí nhà kính, do giai đoạn băng tan kéo dài lâu, do **quán tính nhiệt** (*thermal inertia*).
 
 - Các cơ quan Chính phủ Hoa Kì đã lên [kịch bản nước biển dâng “cao”](https://pubs.giss.nasa.gov/abs/sw01000b.html) vào năm 2100[^56].
 
