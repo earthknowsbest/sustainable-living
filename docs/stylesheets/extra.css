@@ -273,7 +273,7 @@ mjx-container[jax="CHTML"][display="true"] {
 [aria-label="Tìm kiếm"] {
     font-size: 0.8rem;
     font-family: Literata;
-    font-weight: 700;
+    /* font-weight: 700; */
 }
 
 /* Site Label */
