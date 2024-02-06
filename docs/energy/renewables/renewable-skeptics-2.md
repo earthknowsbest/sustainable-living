@@ -151,5 +151,3 @@ Như tôi đã lưu ý trong bài luận ban đầu của mình, đó là cuộc
 **Tác giả: Andrew Nikiforuk**, (sinh năm 1955) là một nhà báo và tác giả người Canada. Bài viết của ông xuất hiện trên nhiều trang báo, bao gồm Saturday Night, Maclean's, Alberta Views, Alternatives Journal, và các tờ báo quốc gia. Ông đã giành được nhiều giải thưởng Tạp chí Quốc gia cho những bài viết của mình.
 
 [I Warned Against the Green Energy ‘Boom.’ It Sparked Debate](https://thetyee.ca/Analysis/2023/05/10/Warning-Against-Green-Energy-Boom-Sparks-Debate/)
-
-<hr/>

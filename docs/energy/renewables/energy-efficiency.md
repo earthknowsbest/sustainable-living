@@ -122,8 +122,6 @@ Chúng ta sẽ có thể sẽ hứng chịu cả hai.
 
 <hr/>
 
-**Tác giả: Andrew Nikiforuk**
+**Tác giả: Andrew Nikiforuk**, (sinh năm 1955) là một nhà báo và tác giả người Canada. Bài viết của ông xuất hiện trên nhiều trang báo, bao gồm Saturday Night, Maclean's, Alberta Views, Alternatives Journal, và các tờ báo quốc gia. Ông đã giành được nhiều giải thưởng Tạp chí Quốc gia cho những bài viết của mình.
 
 [The Curse of Energy Efficiency](https://thetyee.ca/Opinion/2018/02/26/Energy-Efficiency-Curse/)
-
-<hr/>

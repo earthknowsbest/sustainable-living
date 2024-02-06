@@ -34,7 +34,7 @@ Trên thực tế, cỗ máy công nghiệp toàn cầu đã bồi đắp nên n
 
 Sẽ còn có ý nghĩa gì không nếu chúng ta đạt được **mức phát thải ròng bằng không** (*net-zero*) bằng cách tận diệt những di sản cuối cùng của đa dạng sinh học? Nhà vật lí học Hoa Kì Tom Murphy đã hỏi như thế trong một bài viết gần đây. Ông cho rằng việc ngăn chặn biến đổi khí hậu bằng cách khai thác tài nguyên vô độ để hỗ trợ ngành công nghiệp sản xuất công nghệ năng lượng tái tạo là một phương thức nguy hiểm.
 
-!!! note "Tom Murphy"
+!!! quote "Tom Murphy"
     
     “Đó là sự đầu tư vào những điều sai lầm: dựng lên và tăng tốc những cỗ máy ăn mòn hành tinh này. Tiếp tục khai thác để phục vụ nền năng lượng tái tạo có lẽ là điều cuối cùng những công dân địa cầu có thể tán thành, và cũng là một trong những quyết định mang tính hủy diệt mà chúng ta đưa ra”. 
 
@@ -157,8 +157,6 @@ Xã hội sẽ tạo ra những sản phẩm đơn giản mà bền, có thể d
 **Tác giả: Andrew Nikiforuk**, (sinh năm 1955) là một nhà báo và tác giả người Canada. Bài viết của ông xuất hiện trên nhiều trang báo, bao gồm Saturday Night, Maclean's, Alberta Views, Alternatives Journal, và các tờ báo quốc gia. Ông đã giành được nhiều giải thưởng Tạp chí Quốc gia cho những bài viết của mình.
 
 [The Rising Chorus of Renewable Energy Skeptics](https://thetyee.ca/Analysis/2023/04/07/Rising-Chorus-Renewable-Energy-Skeptics/)
-
-<hr/>
 
 
 

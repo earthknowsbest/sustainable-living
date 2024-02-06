@@ -204,7 +204,7 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   features:
-    - search.suggest
+    # - search.suggest
     - announce.dismiss
     - content.code.annotate
     - content.code.copy
