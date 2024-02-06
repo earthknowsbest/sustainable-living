@@ -83,6 +83,3 @@ Năm khía cạnh này của thiết kế cùng nhau định hình sâu sắc kh
 - **Nhằm mục tiêu thịnh vượng hơn là tăng trưởng**: Đừng để tăng trưởng trở thành một mục tiêu trong chính nó. Biết khi nào nên để công việc trải ra cho những người khác thay vì mở rộng quy mô.
 
 - **Tư duy chiến lược trong thực tế**: Hành động theo nhiệt huyết&mdash;nhưng luôn suy ngẫm về những người có ít tiếng nói hơn trong cộng đồng. Cân bằng tính cởi mở với tính toàn vẹn để công việc được lan toả mà không bị bó buộc. Chia sẻ lại quá trình học tập và đổi mới để giải phóng sức mạnh của nguồn cảm hứng cộng đồng.
-
-
-

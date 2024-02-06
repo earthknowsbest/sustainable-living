@@ -50,4 +50,3 @@ Các nhà kinh tế học Phật giáo tin rằng sản xuất là một thuật
 **Nguồn: Wikipedia**
 
 [Buddhist Economics](https://en.wikipedia.org/wiki/Buddhist_economics)
-<hr/>

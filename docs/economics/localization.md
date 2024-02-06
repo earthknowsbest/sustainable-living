@@ -39,4 +39,3 @@ Sau cùng, địa phương hoá làm mới lại những kết nối của chún
 [Localization: Essential steps to an economics of happiness](https://www.localfutures.org/wp-content/uploads/Localization-Booklet-download.pdf)
 
 Cuốn sách đã được dịch toàn bộ ra tiếng Việt bởi team **Sống Bền Vững**. Các bạn có nhu cầu xin vui lòng liên hệ qua email **peacevegan@protonmail.com**
-<hr/>

@@ -94,8 +94,3 @@ Một nền kinh tế phản tăng trưởng sẽ ngược lại với thắt l�
 **Tác giả: Matthias Schmelzer**: nhà sử học kinh tế, nhà lý thuyết xã hội và nhà hoạt động khí hậu. Ông đã xuất bản **Sự bá quyền của Tăng trưởng** (*Hegemony of Growth*) và biên tập cuốn sách **Phản tăng trưởng trong (các) Phong trào** (*Degrowth in Movement(s)*) || **Aaron Vansintjan**: nhà nghiên cứu sau tiến sĩ tại Đại học Vermont, đồng thời là người đồng sáng lập [Uneven Earth](https://unevenearth.org/), một trang web tập trung vào chính trị sinh thái.
 
 [Degrowth is not austerity&mdash;it is actually just the opposite](https://www.aljazeera.com/opinions/2022/9/19/degrowth-is-not-austerity-it-is-actually-just-the-opposite)
-<hr/>
-
-
-
-

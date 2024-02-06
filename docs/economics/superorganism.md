@@ -463,18 +463,3 @@ Ba mươi năm trước, **kinh tế học sinh thái** (*ecological economics*)
 **Tác giả: Nate Hagens**, học viện Nghiên cứu Năng lượng và Tương lai con người, Hoa Kì
 
 [Economics for the future&mdash;beyond the superorganism](https://www.sciencedirect.com/science/article/pii/S0921800919310067)
-
-<hr/>
-
-
-
-
-
-
-
-
-
-
-
-
-

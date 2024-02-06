@@ -6,7 +6,7 @@
 
 ![solar-panel](../assets/images/solar-panel.jpeg)
 
-???+ question "Các tấm pin năng lượng mặt trời" 
+???+ info "Các tấm pin năng lượng mặt trời" 
     
     ... xung quanh một cái cây ở Los Arcos, Tây Ban Nha, ngày Feb. 24, 2023. (AP Photo/Alvaro Barrientos)
 
@@ -32,7 +32,7 @@ Khả năng này không được đề cập do sự lấn át của **“tăng 
 
 ![tua-bin-gio](../assets/images/tua-bin.jpeg)
 
-???+ question "Tua-bin gió"
+???+ info "Tua-bin gió"
 
     ... ở trại phát điện gió ngoài khơi Saint-Nazaire, ngoài khơi Pháp France, ngày Sept. 22, 2022. (Stephane Mahe/Pool photo via AP)
 
@@ -132,7 +132,7 @@ Mặc dù áp lực lạm phát đối với kim loại cộng thêm nhu cầu g
 
 ![copper-mine](../assets/images/copper-mine.jpeg)
 
-??? note "Mỏ khai thác đồng"  
+???+ tip "Mỏ khai thác đồng"  
 
     ... ở Kennecott Bingham Canyon, ngày May 11, 2022, Herriman, Utah. (AP Photo/Rick Bowmer)
 
@@ -174,7 +174,7 @@ Hickel và những người theo chủ nghĩa phản tăng trưởng khác chỉ
 
 ![degrowth-art](../assets/images/degrowth-street.jpeg)
 
-??? note "Phản tăng trưởng" 
+???+ success "Phản tăng trưởng" 
 
     “Cách tăng trưởng bền vững duy nhất là Phản tăng trưởng”&mdash;Nghệ thuật đường phố “Phản tăng trưởng”. Photo by Paul Sableman / CC by 2.0
 
@@ -200,5 +200,4 @@ Trong tương lai gần, chúng ta có thể nhìn lại chủ nghĩa **tăng tr
 **Tác giả: Christopher Ketcham**. Viết cho Denatured, tổ chức phi lợi nhuận về báo chí của ông, đã giúp chu cấp kinh phí cho bài viết này. Ông là tác giả của sách **Vùng đất này: Những chàng cao bồi, Chủ nghĩa tư bản và Tham nhũng đang hủy hoại miền Tây nước Mỹ như thế nào**.
 
 [The Green Growth Delusion](https://www.truthdig.com/dig-series/green-tinted-glasses/)
-<hr/>
 

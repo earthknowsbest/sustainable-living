@@ -53,4 +53,3 @@ Sự rõ ràng về các mục tiêu và vấn đề của chủ nghĩa xã hộ
 **Tác giả: Albert Einstein**, nhà vật lý nổi tiếng thế giới. Bài viết này ban đầu được xuất bản trong số đầu tiên của Tạp chí hàng tháng (**Monthly Review**) (tháng 5 năm 1949). Sau đó nó được xuất bản vào tháng 5 năm 1998 để kỷ niệm 50 năm ra số đầu tiên.
 
 [Why Socialism?](https://monthlyreview.org/2009/05/01/why-socialism/)
-<hr/>
