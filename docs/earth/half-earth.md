@@ -22,7 +22,7 @@ Năm 2019, một báo cáo của Liên Hợp Quốc cho thấy khoảng 1 triệ
 
 Diễn đàn Kinh tế Thế giới báo cáo những rủi ro sau:
 
-- Từ năm 1970, sản xuất nông nghiệp, thu hoạch cá, sản xuất năng lượng sinh học và thu hoạch nguyên liệu đã tăng lên để đáp ứng sự gia tăng dân số, nhu cầu ngày càng cao và phát triển công nghệ. Sự phân bố không đồng đều của các xu hướng này giữa các quốc gia góp phần dẫn đến sự phân bố mất loài không đồng đều.
+- Từ năm 1970, sản xuất nông nghiệp, thu hoạch cá, sản xuất năng lượng sinh học và thu hoạch nguyên liệu đã tăng lên để đáp ứng sự gia tăng dân số, nhu cầu ngày càng cao và việc phát triển công nghệ. Sự phân bố không đồng đều của các xu hướng này giữa các quốc gia góp phần dẫn đến sự phân bố **suy giảm loài** (*species loss*) không đồng đều.
 
 - Sự phong phú của các loài bản địa ở hầu hết các môi trường sống chính trên đất liền đã giảm ít nhất 20%, chủ yếu kể từ năm 1900.
 
@@ -32,23 +32,21 @@ Báo cáo nêu rõ nếu không có các biện pháp ngăn chặn và đảo ng
 
 Tốc độ tuyệt chủng đang tăng tốc với tốc độ nhanh nhất trong lịch sử Trái đất. Nếu chúng ta tiếp tục đánh mất sự đa dạng của cuộc sống, tất cả các loài, bao gồm cả loài của chúng ta, sẽ gặp nguy hiểm.
 
-Chúng ta cần sự hiểu biết đầy đủ hơn về tất cả các loài trên hành tinh của chúng ta, bao gồm cả vị trí và mối liên hệ của chúng. Bằng cách xác định đầy đủ hơn với tất cả sự sống và với nhau, chúng ta có thể hỗ trợ một nền đạo đức lâu dài hơn để chăm sóc hành tinh của chúng ta. 
-
 ## Tại sao lại là một nửa? 
 
 Vào năm 2016, E.O. Wilson đã viết một cuốn sách có tên **Nửa Trái đất: Cuộc chiến vì sự sống của hành tinh chúng** (*Half-Earth: Our Planet's Fight for Life*). Trong cuốn sách đó có một lời hứa: nếu chúng ta bảo vệ một nửa đất liền và biển của Trái đất và quản lý đủ môi trường sống để bảo vệ phần lớn đa dạng sinh học, thì Trái đất còn sống có thể tiếp tục thở. **Nửa Trái đất** nhằm mục đích giải quyết một vấn đề mà E.O. Wilson gọi là “điều lớn lao tiếp theo”. Vấn đề chúng ta cần hướng sự chú ý của mình ra ngoài vấn đề khí hậu đang thay đổi là sự mất đi cấu trúc của hành tinh chúng ta, sự mất đi sự đa dạng sinh học.
 
-Với **Nửa Trái Đất**, ý định của E.O. Wilson là tạo ra một mục tiêu “bay lên mặt trăng”, một nỗ lực của con người nhằm đảm bảo chúng ta sẽ không bỏ sót loài nào. Điều này không chỉ quan trọng về mặt khái niệm mà còn quan trọng về mặt truyền cảm hứng. Nếu bạn nhìn vào lịch sử, đây là loại mục tiêu đầy tham vọng thúc đẩy sự thay đổi.
+Với **Nửa Trái Đất**, ý định của E.O. Wilson là tạo ra một mục tiêu [vĩ đại như]“bay lên mặt trăng”, một nỗ lực của con người nhằm đảm bảo chúng ta sẽ không bỏ sót loài nào. Điều này không chỉ quan trọng về mặt khái niệm mà còn quan trọng về mặt truyền cảm hứng. Nếu bạn nhìn vào lịch sử, đây là loại mục tiêu đầy tham vọng thúc đẩy sự thay đổi.
 
-Kích thước môi trường sống và số lượng loài mà nó có thể hỗ trợ bền vững có liên quan về mặt toán học, không phải theo hàm tuyến tính mà theo hàm số mũ căn bậc 4. Diện tích đất và biển được bảo vệ toàn cầu hiện nay (khoảng 15%) là không đủ. Các dự đoán toán học hiện tại ước tính chúng ta sẽ mất đi một nửa số loài trước cuối thế kỷ này. **Nửa Trái đất** là một cách tiếp cận toàn cầu, bởi vì khoa học chứng minh rằng bằng cách bảo vệ một nửa số loài tổng thể, đủ số loài sẽ tồn tại để đảm bảo nhu cầu của chúng ta được nguyên vẹn. Là một giải pháp, nó cũng có sự kết hợp phù hợp giữa tính đơn giản và sức mạnh tiềm ẩn để thể hiện hy vọng và kích hoạt sự tham gia. Khi xem xét chi tiết, bất kỳ khu vực nào trên hành tinh đều có đóng góp đặc biệt cho mục tiêu chung là một nửa.
+Kích thước môi trường sống và số lượng loài mà nó có thể hỗ trợ bền vững có liên quan về mặt toán học, không phải theo hàm tuyến tính mà theo hàm số mũ. Diện tích đất và biển được bảo vệ toàn cầu hiện nay (khoảng 15%) là không đủ. Các dự đoán toán học hiện nay ước tính chúng ta sẽ mất đi một nửa số loài trước cuối thế kỷ này. **Nửa Trái đất** là một cách tiếp cận toàn cầu, bởi khoa học chứng minh rằng bằng cách bảo vệ một nửa số loài trong tổng thể, sẽ có đủ số loài tồn tại để đảm bảo nhu cầu của chúng ta được nguyên vẹn. Là một giải pháp, nó cũng có sự liên hệ phù hợp giữa tính giản giản và sức mạnh tiềm ẩn để thể hiện niềm hy vọng và khuyến khích sự tham gia [của đông đảo quần chúng]. Khi xem xét một cách chi tiết hơn, bất kỳ khu vực nào trên hành tinh đều có đóng góp đặc biệt cho mục tiêu chung “một nửa” này.
 
-Bởi vì đa dạng sinh học không được phân bố đồng đều nên không phải nơi nào cũng đóng góp quan trọng như nhau cho mục tiêu Nửa Trái đất. Một số nơi có rất nhiều loài, bao gồm cả những loài quý hiếm và độc nhất, đáng được quan tâm đặc biệt. Tuy nhiên, mọi nơi trên hành tinh đều có thể đóng góp và có khả năng có những loài độc nhất cần bảo vệ ngay cả khi nơi đó không phải là điểm nóng đa dạng sinh học từ góc độ toàn cầu.
+Do đa dạng sinh học không được phân bố đồng đều nên không phải nơi nào cũng có đóng góp quan trọng như nhau cho mục tiêu Nửa Trái đất. Một số nơi có rất nhiều loài, bao gồm cả những loài quý hiếm và độc nhất, đáng được quan tâm đặc biệt. Tuy nhiên, mọi nơi trên hành tinh đều có thể đóng góp và có khả năng có những loài độc nhất cần bảo vệ ngay cả khi nơi đó không phải là điểm nóng đa dạng sinh học từ góc độ toàn cầu.
 
-**Dự án Nửa Trái đất** của Quỹ Đa dạng sinh học E.O. Wilson đang lập bản đồ vị trí không gian địa lý của tất cả các loài trên Trái đất với độ phân giải cao nhằm thay đổi hiểu biết của chúng ta về thế giới và thông báo những địa điểm nào đưa ra con đường hiệu quả nhất để bảo vệ các loài và hệ sinh thái có nguy cơ tuyệt chủng.
+**Dự án Nửa Trái đất** của Quỹ Đa dạng sinh học E.O. Wilson đang **lập bản đồ vị trí** không gian địa lý của tất cả các loài trên Trái đất với độ phân giải cao nhằm thay đổi hiểu biết của chúng ta về thế giới và thông báo những địa điểm nào đưa ra con đường hiệu quả nhất để bảo vệ các loài và hệ sinh thái có nguy cơ tuyệt chủng.
 
 !!! quote "Walter Jetz, chủ nhiệm khoa học của Quỹ Đa dạng sinh học E.O. Wilson"
 
-    “Có rất nhiều chiến thắng dành cho Thiên nhiên ở đây, được cung cấp bởi nền khoa học tốt nhất hiện có. Giờ đây, chúng tôi có cơ hội tốt hơn để thực hiện khuôn khổ với các cam kết tài trợ, tuyên bố tôn trọng quyền của Người dân bản địa và cộng đồng địa phương, đồng thời đồng ý rằng các khu vực chúng tôi bảo vệ mang tính đại diện về mặt sinh thái. Chúng tôi không chỉ bảo vệ đất, nước ngọt, đại dương&mdash;chúng tôi đang hành động để bảo vệ các loài.”
+    “Có rất nhiều chiến thắng dành cho Thiên nhiên ở đây, được cung cấp bởi nền khoa học tốt nhất hiện có. Giờ đây, chúng ta có cơ hội tốt hơn để thực hiện khuôn khổ với các cam kết tài trợ, tuyên bố tôn trọng quyền của người dân bản địa và cộng đồng địa phương, đồng thời đồng ý rằng các khu vực chúng ta bảo vệ mang tính đại diện về mặt sinh thái. Chúng ta không chỉ bảo vệ đất, nước ngọt, đại dương&mdash;chúng ta đang hành động để bảo vệ các loài.”
 
 Những nơi có mức độ ưu tiên cao cho việc bảo tồn, chúng tôi gọi là Địa điểm cho Tương lai Nửa Trái đất. Những nơi này có sự phong phú và quý hiếm về loài đặc biệt mà hiện không được bảo vệ.
 
@@ -67,9 +65,9 @@ Những nơi có mức độ ưu tiên cao cho việc bảo tồn, chúng tôi g
 
 Người dùng có thể xem Thẻ Báo cáo Quốc gia SPI về các địa điểm được bảo vệ được xác định ở mọi quốc gia trên Trái đất, bao gồm cả các khu bảo tồn biển. Điểm SPI dao động từ 0-100 thể hiện số lượng loài động vật có xương sống được đại diện đầy đủ trong các khu bảo tồn của một quốc gia và mức độ trách nhiệm toàn cầu đối với loài mà một quốc gia nắm giữ. Thẻ báo cáo hiển thị các khu vực bổ sung cần được ưu tiên để bảo vệ tốt nhất các loài mà khu vực đó đóng góp duy nhất cho đa dạng sinh học toàn cầu.
 
-Khoa học của **Dự án Nửa Trái đất** có **truy cập mở** (*open access*), dân chủ hóa thông tin này trao quyền cho mọi người cũng như cung cấp thông tin để biết cần phải làm gì và ở đâu. Khi chúng tôi tiếp tục xây dựng điều này, chúng tôi mong muốn thu hút không chỉ những người có quyền ra quyết định mà tất cả mọi người ở khắp mọi nơi có thể cùng nhau tưởng tượng xem việc này sẽ trông như thế nào và cách họ có thể tham gia trong suốt cuộc đời và sự nghiệp của mình vào việc quản lý hành tinh của chúng ta.
+Các nghiên cứu khoa học **Dự án Nửa Trái đất** đều có thể được **truy cập mở** (*open access*), giúp dân chủ hóa thông tin và trao quyền cho mọi người cũng như cung cấp thông tin về việc cần phải ở những địa điểm cụ thể. Khi tiếp tục xây dựng hệ thống này, chúng tôi mong muốn thu hút không chỉ những người có quyền ra quyết định mà tất cả mọi người ở khắp mọi nơi có thể cùng nhau hình dung xem mọi chuyện sẽ ra sao và cách họ có thể tham gia trong suốt cuộc đời và sự nghiệp của mình vào việc quản lý hành tinh của chúng ta.
 
-Chúng ta cần sự hiểu biết đầy đủ hơn về tất cả các loài trên hành tinh của chúng ta, bao gồm cả vị trí và mối liên hệ của chúng. Bằng cách xác định đầy đủ hơn với tất cả sự sống và với nhau, chúng ta có thể hỗ trợ một nền đạo đức lâu dài hơn để chăm sóc hành tinh của chúng ta.
+Chúng ta cần sự hiểu biết đầy đủ hơn về tất cả các loài trên hành tinh này, bao gồm cả vị trí và mối liên hệ giữa chúng. Bằng cách xác định một cách đầy đủ về các hệ thống sống và mối liên hệ giữa chúng, con người có thể nuôi dưỡng một nền đạo đức lâu dài hơn để chăm sóc hành tinh của chúng ta.
 
 Truy cập vào [Bản đồ của dự án Nửa Trái đất](https://map.half-earthproject.org/)
 
