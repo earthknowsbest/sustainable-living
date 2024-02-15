@@ -133,7 +133,7 @@ Một đồ họa tương tự kết hợp một số yếu tố của cả **H�
 
 <div markdown="1" class="row-content">
 
-!!! quote "Bảng 7.1"
+!!! info "Bảng 7.1"
 
     Mức tiêu thụ năng lượng của Hoa Kỳ năm 2018 tính theo nhiệt lượng tương đương qBtu. Nhắc bạn: 1 Btu ≈ 0,293 Wh, nên 1 qBtu hay 1 quad ≈ 293 TWh.
 
@@ -164,7 +164,7 @@ Hầu hết các nguồn năng lượng tái tạo là từ sinh khối&mdash;gi
 
 >**Hình 7.3**: Các nguồn năng lượng sử dụng ở Hoa Kì năm 2018 (**Hình 7.6** cho thấy sự phân bổ trên toàn cầu).
 
-!!! note "Hộpe 7.2: Nhiệt năng tương đương""
+!!! note "Hộp 7.2: Nhiệt năng tương đương""
 
     Lưu ý rằng Cơ quan thông tin năng lượng Hoa Kì EIA&mdash;và trong **Bảng 7.1**&mdash;thường áp dụng hệ số chuyển đổi ra nhiệt năng để tiện so sánh nguồn năng lượng này với nguồn năng lượng khác một cách có ý nghĩa. Năng lượng từ nhiên liệu hóa thạch được đặc trưng bởi hàm lượng nhiệt của nó, điều này có ý nghĩa khi chúng được đốt cháy để lấy năng lượng nhiệt. Thông thường&mdash;nhưng không lúc nào cũng vậy&mdash;nhiệt năng được chuyển thành điện năng lượng điện. Trong khi đó, một số nguồn như năng lượng mặt trời, thủy điện, gió, hạt nhân và địa nhiệt hầu như chỉ được sử dụng để sản xuất điện và dễ dàng đo lường bởi *sản lượng điện*, không phải bằng nhiệt năng đầu vào (vốn vô nghĩa đối với điện mặt trời, điện gió và thuỷ điện).
 
@@ -289,21 +289,3 @@ Mục đích của chương này gồm hai phần: thứ nhất là giới thi�
 **Tác giả: T.W. Murphy, Jr. ©2022**;  [Creative Commons Attibution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/); Tải miễn phí tại: [https://escholarship.org/uc/energy_ambitions](https://escholarship.org/uc/energy_ambitions).
 
 **Dịch giả: Team Sống bền vững**
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-
-
-
-

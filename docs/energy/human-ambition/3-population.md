@@ -121,7 +121,7 @@ Nếu không có những tác động của con người, quần thể của m�
 
 Chúng ta vừa mô tả một dạng **phản hồi ngược** (*negative feedback*): tác động có tính hiệu chỉnh để đưa hệ thống về lại trạng thái cân bằng.
 
-!!! note "Định nghĩa $\textbf{3.1}$: Phản hồi ngược"
+!!! abstract "Định nghĩa $\textbf{3.1}$: Phản hồi ngược"
 
     Đơn giản là sự sửa chữa và hiệu chỉnh được áp dụng vào hướng ngược lại với quĩ đạo chuyển động từ trước. Nếu một con lắc vận động sang phải, một lực phản hồi sẽ kéo nó sang trái, trong khi nếu nó đi sang trái quá nhiều sẽ dẫn đến lực đẩy sang phải. Một sự dao động của lò xo gắn với vật nặng cho thấy cùng một tính chất, cũng như tất cả các hệ hiện tượng cân bằng khác.
 
@@ -175,7 +175,7 @@ hay là một sự lặp lại của **Phương trình** $\textbf{3.1}$, với $
 
 Cho rằng một khu rừng có thể nuôi sống một số lượng hươu nhất định, kí hiệu là $Q$, ở trạng thái cân bằng (*steady state*), trong khi dân số hiện tại kí hiệu là $P$. Hiệu số, $Q - P$ là “chỗ trống” ở đó dân số vẫn có thể tiếp tục tăng trưởng được dựa trên số lượng tài nguyên còn lại. Một khi $P = Q$, không còn tài nguyên nào còn sót lại cho quần thể để tăng trưởng.
 
-!!! note "Định nghĩa $\textbf{3.2}$"
+!!! abstract "Định nghĩa $\textbf{3.2}$"
 
     Thuật ngữ “ngưỡng chịu đựng” (*carrying capacity*) thường dùng để mô tả $Q$: quân thể được nuôi sống bởi môi trường xung quanh. Nếu ngưỡng chịu đựng ($Q$) của dân số loài người trên trái đất không phải là một con số cứng nhắc, nó là một hàm số của cách sống và phụ thuộc vào tài nguyên.
 
@@ -238,7 +238,7 @@ Chúng ta còn thiếu một mảnh ghép quan trọng trong phương trình: đ
 
 Trên thực tế, các quyết định của con người đối với việc sinh đẻ dựa trên điều kiện hiện tại về lương thực, cơ hội, sự ổn định đời sống, v.v. Nhưng con người sống trên nhiều thập kỉ, do đó không ảnh hưởng nhiều đến hệ sinh thái cho đến nhiều năm sau khi sinh, từ đó làm chậm lại các phản hồi. Đường logistic và hàm số trên không tính đến độ trễ này.
 
-!!! note "Định nghĩa $\textbf{3.3}$"
+!!! abstract "Định nghĩa $\textbf{3.3}$"
 
     **Sự quá tải** là hệ quả chung [^14] của việc **phản hồi xuôi** bị làm chậm lại. Vì **phản hồi xuôi** có tác dụng “hiệu chỉnh”, hay cân bằng lại (dân số), độ trễ này cho phép hệ sinh thái có thể “vượt qua” sự kiểm soát, làm vượt quá trạng thái cân bằng mục tiêu.
 
@@ -278,7 +278,7 @@ Các đường trong đồ thị **Hình** $\textbf{3.8}$ hội tụ xung quanh 
 
 > **Hình** $\textbf{3.9}$: Dân số (các điểm màu xanh) và một đường logistic (màu đỏ) minh hoạ cho đồ thị đi qua các điểm dữ liệu dân số từ năm $1950$ trở lại đây. Hàm logistic này có $Q ≈ 12$ (tỷ người), $r=0{,}028$, và điểm giữa vào năm $1997$. Dữ liệu thực có một thời điểm dân số tăng đột biến vào năm $1950$ (Cách mạng Xanh?) làm cho việc xác định một hàm logistic đi qua tất cả các điểm dữ liệu trở nên khó khăn hơn. Điều này xảy ra khi dữ kiện thực tế có sự thay đổi lớn bất ngờ (về năng lượng và công nghệ trong trường hợp này).
 
-!!! info "Hộp $\textbf{3.1}$: Dân số con người sẽ bị quá tải?"
+!!! note "Hộp $\textbf{3.1}$: Dân số con người sẽ bị quá tải?"
 
     Dân số con người sẽ quá tải chăng? Giá trị $r$ của dân số là bao nhiêu? Thường thường chúng ta sẽ chọn giá trị $r = 0{,}01$ tương ứng với $1\%$ tăng trưởng. Điều này có nghĩa rằng bất cứ sự trì hoãn nào ngắn hơn $100$ năm sẽ không gây ra **sự quá tải**, vốn là một sự đảm bảo tương đối cho tương lai. Nhưng nếu dân số đi theo đường logistic hơn là hàm số mũ, với sự chi phối của lượng tài nguyên hiện có, dẫn dắt sự tăng trưởng dân số vào giai đoạn tuyến tính đến điểm giữa của đồ thị, chỉ còn một nửa đường nữa đến **ngưỡng chịu đựng**. Theo đường phù hợp trong **Hình** $\textbf{3.9}$, $r=0{,}028$, tương ứng với khoảng $36$ năm ($1/r$) trước khi **sự quá tải** diễn ra. Thời gian trễ này đáng để suy xét khi nó sẽ diễn ra chỉ trong một đời người hay vài thế hệ và những thay đổi xã hội, với viễn cảnh quá tải đang ở trước mắt.
 
@@ -297,7 +297,7 @@ Có lẽ không có gì ngạc nhiên khi tốc độ tăng trưởng dân số 
 
 Dân số tăng lên khi tỉ suất sinh cao hơn tỉ suất tử vong.
 
-!!! note "Định nghĩa $\textbf{3.3}$: Tăng dân số thuần"
+!!! abstract "Định nghĩa $\textbf{3.3}$: Tăng dân số thuần"
 
     **Tỉ suất sinh**, với đơn vị là số người sinh trên $1.000$ người một năm, trừ đi **tỉ suất tử vong** (với đơn vị số cái chết trên $1.000$ người một năm)[^18].
 
@@ -332,7 +332,7 @@ Chiều hướng chung cho rằng các quốc gia phát triển đã “làm đ�
 
     ...nhưng mang tính “giảng đạo” đối với những người khác
 
-!!! note "Định nghĩa $\textbf{3.3}$: Chuyển dịch dân số"
+!!! abstract "Định nghĩa $\textbf{3.3}$: Chuyển dịch dân số"
 
     Là một quá trình ở đó những nước nghèo với tỉ suất sinh và tỉ suất tử vong cao áp dụng các công nghệ, giáo dục và mức sống cao hơn sẽ dẫn đến tỉ suất tử vong và tỉ suất sinh giảm, giống như ở các nước giàu.
 
@@ -520,7 +520,7 @@ Một số quyết định của chúng ta có ảnh hưởng đến thế giớ
 
 Điểm mấu chốt: chúng ta cần nhận thức được bản chất nhạy cảm của chủ đề này khi đối thoại với người khác. Làm cho ai đó cảm thấy tồi tệ với lựa chọn của mình&mdash;dù không cố ý&mdash;trong *một số rất ít các trường hợp* có thể khiến người đó trân trọng và nâng cao nhận thức. Nhưng trong phần lớn các tình huống, điều này *rất dễ* cô lập người đó khỏi các quan điểm rất giá trị về những thách thức mà chúng ta đang phải đối mặt.
 
-!!! info "Hộp $\textbf{3.2}$"
+!!! note "Hộp $\textbf{3.2}$"
 
     Có rất nhiều cha mẹ đã hi sinh lớn để nuôi dạy trẻ&mdash;về mặt tài chính, tình cảm, và đầu tư thời gian. Do đó, thật dễ hiểu khi những cố gắng và cam kết không biết mệt mỏi đó được cho sự vị tha: họ đã hi sinh thời gian, sự thoải mái và tự do của bản thân trong quá trình này. Do đó, có thể hiểu được rằng họ có thể coi những người không có con là ích kỷ: ngược lại với vị tha.. Nhưng điều này cần phải được đính chính lại. Tại sao, họ lại quyết định có con và góp phần gây sức ép lên hành tinh này? Đó là lựa chọn (dù vô tình) đã đặt họ vào vai trò làm cha mẹ, và cả hành tinh&mdash;không chỉ đối với loài người&mdash; phải trả giá cho quyết định này, khiến hành động này trở nên một chút vị kỉ[^32]. Tóm lại, gần như tất cả các quyết định chúng ta đưa ra đều có thể được xem là vị kỉ, vì ít nhất chúng chứa đựng những lợi ích của bản thân. Vì vậy, thật là vô nghĩa nếu xem quyết định sinh con hay không là vị kỉ nhiều hay ít. Nhưng hãy cân nhắc điều này: nếu phần còn lại của Trái đất&mdash;tất cả động thực vật sống trên hành tinh này&mdash;có tiếng nói, bạn có nghĩ rằng chúng sẽ tán thành cho việc thêm một người nữa trên trái đất này không? Con người có *khả năng*, để ít nhất suy ngẫm về bức tranh toàn cảnh hơn là lợi ích cá nhân, để đại diện cho tất cả các loài không có quyền hay tiếng nói trong một hệ thống lấy con người làm trung tâm (*human-centric*) của chúng ta. 
 

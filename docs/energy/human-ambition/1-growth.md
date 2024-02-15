@@ -22,13 +22,13 @@ Bên cạnh việc sở hữu nhiều điểm mạnh nổi bật, con người c
 
 Một trong những đặc điểm quan trọng của tăng trưởng theo hàm số mũ: **thời gian cần thiết để nhân đôi** (*doubling time*) là một **hằng số** (*constant*). 
  
-??? question "Lưu ý"
+???+ question "Lưu ý"
     
     Bất kì kiểu tăng trưởng nào, dù chậm đến đâu, cũng có thể được biểu diễn bằng thời gian nhân đôi, ngay cả khi không có số lần nhân đôi cụ thể.
 
 Một khái niệm quan trọng và thuận tiện chúng ta sẽ sử dùng thường xuyên trong chương này là **qui luật** $\textbf{70}$:
 
-!!! info "Định nghĩa $\textbf{1.1}$: Qui luật $\textbf{70}$" 
+!!! abstract "Định nghĩa $\textbf{1.1}$: Qui luật $\textbf{70}$" 
 
     Thời gian cần thiết để nhân đôi được liên hệ với tỉ lệ phần trăm tăng trưởng bằng công thức lấy $70$ chia cho tỉ lệ phần trăm ấy. Ví dụ, $1\%$ tăng trưởng sẽ nhân đôi giá trị thực qua $70$ năm, trong khi với tỉ lệ $2\%$, thời gian ấy à $35$ năm, và với $10\%$ là $7$ năm. Điều này cũng đúng với những khung thời gian khác: nếu những ca nhiễm bệnh trong một đại dịch tăng trưởng với mức độ $3{,}5\%$ một ngày, số ca bệnh sẽ gấp đôi trong vòng $20$ ngày.
 
@@ -54,7 +54,7 @@ Chúng ta sẽ thấy qui luật $70$ xuất hiện trong toán học như thế
 
 Hãy cùng khám phá một ví dụ làm nổi bật trực giác sai lầm của chúng ta đối với tăng trưởng theo cấp số nhân. Ở đây có một hũ thủy tinh chứa nhiều chất dinh dưỡng, chúng ta cho thêm vi khuẩn với số lượng chính xác sao cho mỗi lần vi khuẩn nhân đôi diễn ra sau $10$ phút, và hũ này sẽ chứa đầy vi khuẩn sau đúng $24$ giờ. Thí nghiệm này bắt đầu từ lúc nửa đêm. Câu hỏi: vào lúc nào thì hũ này sẽ đầy một nửa?
 
-!!! info ""
+!!! tip ""
 
     Số lượng vi khuẩn nhân đôi trong mỗi $10$ phút chỉ là một ví dụ, trong thực tế có thể là $20-30$ phút.
 
@@ -68,7 +68,7 @@ Câu trả lời: chúng ta chỉ cần bớt đi một lần thời gian nhân 
 
 > **Hình** $\textbf{1.1}$: <i>$\textit{90}$ phút cuối trong quá trình vi khuẩn (phần màu xanh) phát triển trong hũ, nhân đôi mỗi $\textit{10}$ phút. Gần như chẳng có gì rõ rệt trong $\textit{22,5}$ giờ đầu tiên. Hãy chú ý đường dâng lên của vi khuẩn đã vẽ lên đồ thị của một hàm số mũ.</i>
 
-Giờ hãy cùng tưởng tượng một tình huống khác cũng với hũ vi khuẩn. Thời gian là $11$ giờ $30$ phút tối hôm sau, hay nửa giờ trước khi kết thúc thí nghiệm. Hũ lúc này đầy $1/8$ vi khuẩn. Những người thận trọng và biết lo xa trong dự án nuôi cấy vi khuẩn này khi dự đoán về tương lai, quyết định rằng cần tìm thêm những hũ trống chứa đầy dinh dưỡng trong thời gian ngắn để vi khuẩn có thể tiếp tục sinh trưởng với tốc độ cũ. Nhưng hãy thử hình dung và đồng cảm với sự khó tin của nhiều người khác cùng trong dự án: hũ còn lâu mới đầy, và vi khuẩn trong đó đã sinh trưởng qua $141$ thế hệ (hay số lần nhân đôi) - một khoảng thời gian dường như vô tận. Tuy nhiên, một người trở về thông báo đã tìm ra được thêm ba hũ trống đựng dinh dưỡng tương tự. Thật đáng hoan nghênh người hùng đó! Vậy sự sinh trưởng của vi khuẩn sẽ tiếp diễn trong bao lâu? Câu trả lời của bạn như thế nào?
+Giờ hãy cùng tưởng tượng một tình huống khác cũng với hũ vi khuẩn. Thời gian là $11$ giờ $30$ phút tối hôm sau, hay nửa giờ trước khi kết thúc thí nghiệm. Hũ lúc này đầy $1/8$ vi khuẩn. Những người thận trọng và biết lo xa trong dự án nuôi cấy vi khuẩn này khi dự đoán về tương lai, quyết định rằng cần tìm thêm những hũ trống chứa đầy dinh dưỡng trong thời gian ngắn để vi khuẩn có thể tiếp tục sinh trưởng với tốc độ cũ. Nhưng hãy thử hình dung và đồng cảm với sự khó tin của nhiều người khác cùng trong dự án: hũ còn lâu mới đầy, và vi khuẩn trong đó đã sinh trưởng qua $141$ thế hệ (hay số lần nhân đôi)&mdash;một khoảng thời gian dường như vô tận. Tuy nhiên, một người trở về thông báo đã tìm ra được thêm ba hũ trống đựng dinh dưỡng tương tự. Thật đáng hoan nghênh người hùng đó! Vậy sự sinh trưởng của vi khuẩn sẽ tiếp diễn trong bao lâu? Câu trả lời của bạn như thế nào?
 
 Dân số vi khuẩn sẽ gấp đôi trong $10$ phút. Nếu hũ ban đầu đã đầy lúc $12$ giờ đêm, dân số đó lại gấp đôi sau $10$ phút, lấp đầy chiếc hũ thứ hai lúc $12$ giờ $10$ phút. Lần gấp đôi tiếp theo lấp đầy cả $4$ hũ bao gồm $3$ hũ mới vào lúc $12$ giờ $20$ phút. Sự tưởng thưởng cho người tìm ra $3$ hũ mới thật là ngắn ngủi.
 
@@ -222,7 +222,7 @@ Do đó, trong khoảng $400$ năm, chúng ta sẽ chạm tới giới hạn kha
 
 Bỏ qua hiện thực nhàm chán, chúng ta nhận ra rằng mặt trời không phải là ngôi sao duy nhất trong dải Ngân Hà; trên thực tế, ước tính nó có tới $100$ tỉ ngôi sao! Một tỉ giây qua đi đã là hơn 30 năm, vì thế chẳng ai có thể đếm đến $100$ tỉ trong đời mình cả. Hãy cùng xem xét thêm: $100$ tỉ là $10^{11}$. Chúng ta biết ngay rằng mức tiêu thụ năng lượng $2{,}3\%$ có thể tiếp tục trong vòng $11$ thế kỉ nữa. Vậy nên để tiêu thụ toàn bộ công suất của tất cả các ngôi sao trong hệ ngân hà mất khoảng $1.100$ năm! Cộng với khoảng thời gian cần để tiêu thụ mặt trời, chúng ta cần tổng cộng $2.500$ năm, bằng một khoảng thời gian chúng ta đã xây dựng nên các nền văn minh trên thế giới. Ngay cả khi bỏ qua sự thực rằng dải ngân hà của chúng ta rộng khoảng $100.000$ năm ánh sáng, có nghĩa là trong $2.500$, việc khai thác năng lượng của tất cả các ngôi sao là bất khả thi. Từ ví dụ toán học này, ta có thể thấy thế giới vật lý đã đặt ra những giới hạn cho việc tăng trưởng tiêu thụ năng lượng của loài người.
 
-!!! info ""
+!!! tip ""
     
     Một cách trùng hợp, vũ trụ nhìn thấy có số lượng thiên hà nhiều như số sao trong dải Ngân Hà của chúng ta. Vũ trụ “thấy được”, hay “quan sát được”, có nghĩa là mọi vật trong khoảng $13{,}8$ tỉ năm ánh sáng, quãng đường xa nhất mà ánh sáng có thể di chuyển được từ vụ nổ **Big Bang** 
     <!-- (xem thêm Phần D.1; trang 392). -->

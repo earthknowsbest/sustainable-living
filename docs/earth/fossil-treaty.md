@@ -1,5 +1,7 @@
 # Hiệp ước không phổ biến Nhiên liệu hoá thạch
 
+![fossil-treaty](../assets/images/fossil-treaty.jpg)
+
 Sáng kiến **Hiệp ước Không phổ biến Nhiên liệu Hóa thạch** (*The Fossil Fuel Non-Proliferation Treaty Initiative*) là một nỗ lực toàn cầu nhằm thúc đẩy hợp tác quốc tế nhằm đẩy nhanh quá trình chuyển đổi sang năng lượng sạch cho mọi người, chấm dứt việc mở rộng sử dụng than, dầu và khí đốt, đồng thời loại bỏ dần hoạt động sản xuất hiện tại một cách công bằng phù hợp với những gì khoa học cho thấy là cần thiết để giải quyết cuộc khủng hoảng khí hậu. Nó được xây dựng dựa trên nhiều thập kỷ kêu gọi và chiến dịch loại bỏ nhiên liệu hóa thạch và chuyển đổi năng lượng công bằng của chính phủ, xã hội dân sự, người bản địa, cơ sở và các nhà lãnh đạo khác&mdsah;đặc biệt là từ các nước nghèo (*Global South*) và nhằm mục đích bổ sung vào chiến lược của các phong trào khác như **thoái vốn** (*divestment*), **giảm nợ** (*debt relief*) và **lệnh cấm sử dụng nhiên liệu hóa thạch** (*fossil fuel bans*) cũng như công việc đang được thúc đẩy bởi [Liên minh Hậu Dầu khí](https://beyondoilandgasalliance.org) (*Beyond Oil and Gas Alliance*) và [Liên minh thay thế Than](https://poweringpastcoal.org)(*Powering Past Coal Alliance*).
 
 !!! quote "Liên minh Hậu Dầu Khí"

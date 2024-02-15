@@ -109,11 +109,11 @@ Một nguyên lý nền tảng của vật lý là **bảo toàn năng lượng*
 
 !!! note "Hộp 5.2: Năng lượng: tiền tệ của vật lý"
 
-    Một cách hợp lý để khái niệm hóa việc bảo toàn năng lượng là nghĩ về nó như tiền tệ của vật lý. Nó có thể đổi chủ, nhưng không được tạo ra hay mất đi trong quá trình giao dịch này. Một số dư lớn trong một tài khoản ngân hàng giống như **thế năng** (*potential energy*): sẵn sàng để được tiêu dùng. Biến đổi năng lượng sang một dạng khác&mdash;như **nhiệt năng** (*heat*) hay **động năng** (*kinetic energy*)&mdash;cũng giốngn như hành động tiêu tiền vậy. **Tốc độ** (*rate*) sử dụng năng lượng được gọi là **công suất** (*power*).
+    Một cách hợp lý để khái niệm hóa việc bảo toàn năng lượng là nghĩ về nó như tiền tệ của vật lý. Nó có thể đổi chủ, nhưng không được tạo ra hay mất đi trong quá trình giao dịch này. Một số dư lớn trong một tài khoản ngân hàng giống như **thế năng** (*potential energy*): sẵn sàng để được tiêu dùng. Biến đổi năng lượng sang một dạng khác&mdash;như **nhiệt năng** (*heat*) hay **động năng** (*kinetic energy*)&mdash;cũng giống như hành động tiêu tiền vậy. **Tốc độ** (*rate*) sử dụng năng lượng được gọi là **công suất** (*power*).
 
 **Ví dụ 5.2.1** minh họa một số sự chuyển đổi năng lượng, và **Hình 5.1** cung cấp một hình ví dụ. Mối liên hệ giữa nhưng nguồn năng lượng từ vũ trụ với những hoạt động thường ngày được mô tả kĩ hơn trong **phần D.2.2**. 
 .
-!!! example "Ví dụ 5.2.1: Một số ví dụ minh hoạ""
+!!! example "Ví dụ 5.2.1: Một số ví dụ minh hoạ"
 
     - Một hòn đá nằm ở rìa vách đá có **thế năng hấp dẫn**. Khi bị đẩy ra, nó sẽ chuyển đổi thế năng của mình thành động năng (tốc độ) khi nó rơi xuống mặt đất.
     - Một con lắc luôn trao đổi động năng và thế năng, có thể dao động một thời gian mà không có ảnh hưởng của ma sát.
@@ -160,7 +160,7 @@ Mặc dù năng lượng là khả năng thực hiện công nhưng nó không n
 
     Nâng một hộp nặng 10 kg&mdash;trọng lượng của nó do đó bằng 100 N&mdash;theo phương thẳng đứng có độ cao 2 m thì cần khoảng 200 J năng lượng. Nếu thực hiện trong một giây, tác vụ cần 200 W (200 Joules trong một giây). Kéo dài cùng một nhiệm vụ trong bốn giây chỉ cần 50 W.
 
-!!! quote ""
+!!! success ""
 
     Trọng lượng bằng $mg$. Trong trường hợp này, $m$ bằng $10 kg$. Nếu chúng ta chặt chẽ hơn, gia tốc trọng trường $g = 9,8\,m/s^2$, nhưng để tiện lợi chúng ta lấy $g ≈ 10\,m/s^2$ mà không làm mất độ chính xác quá nhiều.
 
@@ -206,7 +206,7 @@ Việc chuyển đổi trở lại Joules rất đơn giản, vì $1\, kW$ bằn
 
 !!! note "Hộp 5.3: Đừng trở thành một trong số những người này..."
 
-    Nếu bạn từng nghe ai đó nói “kilowatt mỗi giờ”, thì đó có thể là một sai lầm[^11] và hệ quả là khiến mọi người lầm tưởng rằng kilowatt là đơn vị năng lượng, không phải công suất. Kilowatt đã là tỉ lệ (tốc độ) sử dụng năng lượng: 1.000 Joules mỗi giây.
+    Nếu bạn từng nghe ai đó nói “kilowatt mỗi giờ”, thì đó có thể là một sai lầm[^11] và hệ quả là khiến mọi người lầm tưởng rằng kilowatt là đơn vị năng lượng, không phải công suất. Kilowatt đã là tốc độ sử dụng năng lượng: 1.000 Joules mỗi giây.
 
 [^10]:
 
@@ -250,7 +250,7 @@ Một số người có xu hướng nhầm lẫn giữa kW và kWh [^12]. Kilowa
 
     Một Calo (lưu ý chứ “C” viết hoa)[^15] bằng 1.000 calo, hay 1 kilocalorie (1 kcal), tương đương với 4.184 J. Để dễ nhớ nhất, đó là lượng năng lượng cần thiết để làm nóng một kg (hoặc một lít; 1 L) nước lên 1°C. Do quy ước sử dụng tuỳ tiện về Calo (ở Hoa Kì), nên chúng ta sẽ chọn đơn vị **kcal** bất cứ khi nào có thể.
     
-    Nhãn thực phẩm ở Hoa Kỳ ghi bằng Calo, mô tả hàm lượng năng lượng trong thực phẩm chúng ta ăn[^16]. Tất cả chúng ta sẽ tự giúp mình bằng cách gọi những kcal này thay vì Calo (có giá trị đương). Nhiều quốc gia khác sử dụng kJ hoặc kcal (như ở Việt Nam) một cách hợp lý để định lượng năng lượng thực phẩm.
+    Nhãn thực phẩm ở Hoa Kỳ ghi bằng Calo, mô tả hàm lượng năng lượng trong thực phẩm chúng ta ăn[^16]. Tất cả chúng ta sẽ tự giúp mình bằng cách gọi những kcal này thay vì Calo (có giá trị đương). Nhiều quốc gia khác sử dụng kJ hoặc kcal (như ở Việt Nam, ND) một cách hợp lý để định lượng năng lượng thực phẩm.
 
 [^15]:
 
@@ -307,7 +307,7 @@ cách tiếp cận này sẽ giúp bạn hiểu sâu hơn về khái niệm, đ�
 
 ## 6. Đơn vị nhiệt lượng Anh (Btu)
 
-Tại sao chúng ta lại lãng phí thời gian để nói về đơn vị nhiệt lượng phức tạp của Anh (Btu)? Đó là vì dữ liệu do Cơ quan Thông tin Năng lượng Hoa Kỳ cung cấp về việc sử dụng năng lượng toàn cầu dựa trên Btu (Còn ở Việt Nam, ít trong lĩnh vực máy điều hoà, thường có đơn vị đo bằng Btu). Cụ thể hơn, tiêu thụ năng lượng hàng năm ở quy mô quốc gia được đo bằng đơn vị triệu triệu ($10^{15}$) Btu (xem **Hộp 5.4**). Ngoài ra, các thiết bị sưởi ấm ở Hoa Kì[^18] được định mức bằng Btu/giờ&mdash;một đơn vị năng lượng có thể chuyển đổi thành Watts.
+Tại sao chúng ta lại lãng phí thời gian để nói về đơn vị nhiệt lượng phức tạp của Anh (Btu)? Đó là vì dữ liệu do Cơ quan Thông tin Năng lượng Hoa Kỳ cung cấp về việc sử dụng năng lượng toàn cầu dựa trên Btu (còn ở Việt Nam, ít nhất trong lĩnh vực máy điều hoà, thường có đơn vị đo bằng Btu, ND). Cụ thể hơn, tiêu thụ năng lượng hàng năm ở quy mô quốc gia được đo bằng đơn vị triệu triệu ($10^{15}$) Btu (xem **Hộp 5.4**). Ngoài ra, các thiết bị sưởi ấm ở Hoa Kì[^18] được định mức bằng Btu/giờ&mdash;một đơn vị năng lượng có thể chuyển đổi thành Watts.
 
 !!! abstract "Định nghĩa 5.6.1" 
 
@@ -362,7 +362,7 @@ gần bằng một phần tư của 4.184 J.
 
 ## 7. Therms 
 
-Chúng ta sẽ hiếm khi gặp đơn vị này nhưng hãy đưa nó vào đây vì các hóa đơn tiện ích khí đốt tự nhiên[^24] ở Hoa Kỳ thường sử dụng Therms. Vì một phần mục tiêu của cuốn sách này là nâng cao hiểu biết cá nhân về năng lượng và cách so sánh các thước đo năng lượng khác nhau (ví dụ: trên hóa đơn điện nước), nên các quy ước ở Hoa Kỳ đòi hỏi cần đề cập đến đơn vị này[^25]. (Ở Việt Nam không mấy khi cần dùng đơn vị này, nên bạn đọc có thể tạm thời bỏ qua).
+Chúng ta sẽ hiếm khi gặp đơn vị này nhưng hãy đưa nó vào đây vì các hóa đơn tiện ích khí đốt tự nhiên[^24] ở Hoa Kỳ thường sử dụng Therms. Vì một phần mục tiêu của cuốn sách này là nâng cao hiểu biết cá nhân về năng lượng và cách so sánh các thước đo năng lượng khác nhau (ví dụ: trên hóa đơn điện nước), nên các quy ước ở Hoa Kỳ đòi hỏi cần đề cập đến đơn vị này[^25]. (Ở Việt Nam không mấy khi cần dùng đơn vị này, nên bạn đọc có thể tạm thời bỏ qua, ND).
 
 [^24]:
 
@@ -396,7 +396,7 @@ Chúng ta sẽ hiếm khi gặp đơn vị này nhưng hãy đưa nó vào đây
 
     Dựa trên dung tích 200 L, kéo nước lạnh ở 5°C vào và đun nóng đến 55°C, do đó cần 200 kg × 50°C (kcal).
 
-!!! quote ""
+!!! success ""
 
     Thật thú vị khi suy ngẫm về quan điểm cho rằng 200 L nước có thể được đun nóng nước lên 50°C chỉ với 2 L nhiên liệu lỏng, chỉ chiếm 1% thể tích nước. Nếu đun đến sôi thì lượng nhiên liệu cần gấp đôi, tức là 2% thể tích nước. Có vẻ như đây là một món hời&mdash;đặc biệt đối với những khách ba lô muốn đun sôi nước và phải mang nhiên liệu đi khắp nơi để làm việc đó. Nhưng sự kém hiệu quả trong việc truyền nhiệt vào nước có thể cần nhiều hơn 10% thể tích là nhiên liệu.
 
