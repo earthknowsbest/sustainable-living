@@ -193,7 +193,7 @@ Tuy nhiên, tác động của hàng không quân sự vượt xa tác động c
 - Báo cáo của Liên minh Công lý Khí hậu (2017): [Định giá carbon. Một quan điểm quan trọng đối với sự phản kháng của cộng đồng](http://www.ienearth.org/wp-content/uploads/2017/11/Carbon-Pricing-A-Critical-Perspective-for-Community-Resistance-Online-Version.pdf)
 - Nghiên cứu của Liên minh Rừng Toàn cầu (2021): [Nhà máy điện sinh khối Valdivia của Arauco: lượng khí thải các-bon và xung đột với các cộng đồng bản địa ở Chile](https://globalforestcoalition.org/wp-content/uploads/2021/12/Valdivia-CORSIA-case-study.pdf)
 - Báo Giao thông & Môi trường (2020): Bù đắp hàng không là một sự xao lãng
-Chiến dịch chống bù đắp hàng không của Fern: https://www.fern.org/climate/aviation/
+[Chiến dịch chống bù đắp hàng không của Fern](https://www.fern.org/climate/aviation/)
 - Bài báo khoa học (2016): [Những lầm tưởng về công nghệ có đang cản trở Chính sách Khí hậu Hàng không?](https://www.researchgate.net/publication/296632724_Are_technology_myths_stalling_aviation_climate_policy)
 - Heinrich Böll Foundation (2018): [Ảo tưởng về chuyến bay xanh](https://www.boell.de/en/2018/09/21/illusion-green-flying)
 - Giao thông & Môi trường (2016): [Khí thải hàng không và Thỏa thuận Paris](https://www.transportenvironment.org/sites/te/files/publications/Aviation%202030%20briefing.pdf)
@@ -206,7 +206,7 @@ Chiến dịch chống bù đắp hàng không của Fern: https://www.fern.org/
 - Bài viết của Stay Grounded: [Truyền thống ngụy trang [quân sự]](https://stay-grounded.org/military-aviation-in-climate-policies-a-tradition-of-camouflage/)
 - Nghiên cứu của World Beyond War: [Phi quân sự hóa để khử cacbon sâu](https://www.worldbeyondwar.org/wp-content/uploads/2014/09/Green_Booklet_working_paper_17.09.2014.pdf)
 
-<hr/>
+<br/>
 
 **Tác giả:** [Phong trào không sử dụng máy bay](https://stay-grounded.org/)
 
