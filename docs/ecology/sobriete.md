@@ -64,10 +64,9 @@ Chúng tôi mong muốn bằng tất cả lý trí và bằng cả trái tim mì
 
 !!! quote "Pierre Rabhi"
  
-    Để cây cối nảy nở, để các loài động vật ăn được nuôi dưỡng từ đó sinh sôi, để con người được sống, Trái đất phải được tôn vinh.
+    Để cây cối nảy nở, để các loài động vật được nuôi dưỡng từ đó sinh sôi, để con người được sống, Trái đất phải được tôn vinh.
 
 <hr/>
 **Tác giả: Pierre Rabhi**. Nông dân, nhà văn và nhà tư tưởng người Pháp gốc Algeria, Pierre Rabhi là một trong những người tiên phong về nông nghiệp sinh thái ở Pháp (1938-2021)
 
-Sách [Vers La Sobriété Heureuse](https://www.colibris-laboutique.org/livres/10-vers-la-sobriete-heureuse-9782330026592.html)
-<hr/>
+Sách [Vers La Sobriété Heureuse](https://excerpts.numilog.com/books/9782742789672.pdf)
