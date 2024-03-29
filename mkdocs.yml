@@ -179,11 +179,11 @@ theme:
   # logo_dark_mode: assets/logo-dark.svg
   # logo_light_mode: assets/logo-light.svg
   language: vi
-  font:
+  font: false
     # text: Source Serif Pro, Fraunces
     # text: Playfair Display
     # text: Noto Serif
-    text: Literata
+    # text: Literata
     # text: Source Serif 4
     # text: Merriweather 
   icon:
@@ -226,7 +226,7 @@ theme:
     - navigation.expand
     - toc.follow
 
-extra_css: [stylesheets/extra.css]
+extra_css: [assets/stylesheets/extra.css]
 
 copyright: Copyright &copy; 2024 Sống Bền Vững
 
