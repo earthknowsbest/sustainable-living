@@ -361,9 +361,9 @@ Một trong những điểm quan trọng của viễn cảnh bức xạ nhiệt 
 
 ## 4. Kết luận: Những giới hạn vật lí của tăng trưởng
 
-Chúng ta đã thấy ở chương này hệ quả của việc tăng trưởng liên tục dẫn đến sự vô lí như thế nào. Trước hết, chúng ta nhận thức được đôi khi trực giác cũng đánh lừa mình qua ví dụ về sinh sản của vi khuẩn trong hũ. Điểm mấu chốt ở đây là thời điểm hũ đầy một nửa cho đến khi đầy vi khuẩn hoàn toàn chỉ cách nhau thời gian bằng một lần nhân đôi. Điều này có vẻ hiển nhiên, nhưng khi quan sát kĩ chúng ta thấy sự gia tăng nhanh chóng này chỉ diễn ra ở những thời gian cuối cùng của toàn bộ quá trình sinh trưởng của vi khuẩn, khiến cho trực giác của chúng ta vốn quen với việc diễn tiến tuần tự của thực tại trở nên bị động. Sự tăng trưởng mới đầu không có gì nghiêm trọng bỗng chốc thay đổi hoàn toàn chỉ trong một vài lần nhân đôi cuối cùng.
+Chúng ta đã thấy ở chương này hệ quả của việc tăng trưởng liên tục dẫn đến sự vô lí như thế nào. Trước hết, chúng ta nhận thức được sự đánh lừa đôi lúc của trực giác qua ví dụ về sinh sản của vi khuẩn trong hũ. Điểm mấu chốt ở đây là thời điểm hũ vi khuẩn đầy một nửa cho đến khi đầy hoàn toàn chỉ cách nhau khoảng thời gian bằng một lần nhân đôi. Điều này có vẻ hiển nhiên, nhưng khi quan sát kĩ chúng ta thấy sự gia tăng nhanh chóng này chỉ diễn ra ở những giai đoạn cuối cùng của toàn bộ quá trình sinh trưởng của vi khuẩn, khiến cho trực giác của chúng ta vốn quen với việc diễn tiến tuần tự của thực tại trở nên bị động. Sự tăng trưởng mới đầu không có gì nghiêm trọng bỗng chốc thay đổi hoàn toàn chỉ trong một vài lần nhân đôi cuối cùng.
 
-Tiếp theo, chúng ta thấy việc tiếp tục tăng trưởng tiêu thụ năng lượng, dù ở một mức nhỏ (giả sử $2{,}3\%$ một năm), đã trở nên hoàn toàn phi lí chỉ sau vài trăm năm. Từ ví dụ trong chương này, nhiệt độ bề mặt của trái đất tăng nhanh kinh ngạc nếu tốc độ tăng trưởng này giữ nguyên chỉ trong vài trăm năm[^7].
+Tiếp theo, chúng ta thấy việc tiếp tục tăng trưởng tiêu thụ năng lượng, dù ở một mức nhỏ (giả sử $2{,}3\%$ một năm), đã trở nên hoàn toàn phi lí chỉ sau vài trăm năm. Từ ví dụ trong chương, nhiệt độ bề mặt của trái đất tăng nhanh kinh ngạc nếu tốc độ tăng trưởng này giữ nguyên chỉ trong vài trăm năm[^7].
 
 [^7]:
 
