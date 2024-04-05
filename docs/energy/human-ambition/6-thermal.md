@@ -390,7 +390,7 @@ $$
     \Delta{S_{c}} \ge \Delta{S_{h}} \tag{6.4}\label{6.4}
 $$
 
-Bây giờ chúng ta có thể đặt câu hỏi xem bao nhiêu phần trăm của $\Delta{Q_{h}}$ có thể được chuyển thành công có ích ($\Delta{W}$) trong giới hạn mà Định luật nhiệt động học thứ hai đã đặt ra. Chúng ta biểu diễn điều này dưới dạng **hiệu suất** (*efficieny*)[^33], kí hiệu bằng chữ cái Hy Lạp epsilon:
+Bây giờ chúng ta có thể đặt câu hỏi xem bao nhiêu phần trăm của $\Delta{Q_{h}}$ có thể được chuyển thành công có ích ($\Delta{W}$) trong giới hạn mà Định luật nhiệt động học thứ hai đã đặt ra. Chúng ta biểu diễn điều này dưới dạng **hiệu suất** (*efficiency*)[^33], kí hiệu bằng chữ cái Hy Lạp *epsilon*:
 
 $$
     \epsilon = \frac{\Delta{W}}{\Delta{Q_{h}}} = \frac{\Delta{Q_{h}} - \Delta{Q_{c}}}{\Delta{Q_{h}}} \tag{6.5}\label{6.5}
@@ -408,13 +408,13 @@ Bước thứ hai của phương trình trên áp dụng **định luật bảo 
 
     Chúng ta có thể suy ra $\Delta{W} = 10\,J$ và sử dụng dạng đầu tiên của **Phương trình** $\eqref{6.5}$, hoặc áp dụng dạng thứ hai, kết quả đều là 1/3 hay 33%.
 
-Chúng ta có thể thêm một bước vào **Phương trình** $\eqref{6.5}$ để thể hiện nó dưới dạng thay đổi entropy:
+Chúng ta có thể thêm một bước vào **Phương trình** $\eqref{6.5}$ và thể hiện nó dưới dạng entropy thay đổi:
 
 $$
     \epsilon = \frac{\Delta{W}}{\Delta{Q_{h}}} = \frac{\Delta{Q_{h}} - \Delta{Q_{c}}}{\Delta{Q_{h}}} = \frac{T_{h}\Delta{S_{h}} - T_{c}\Delta{S_{c}}}{T_{h}\Delta{S_{h}}} \tag{6.6}\label{6.6}
 $$
 
-Trong đó chúng ta biểu diễn mỗi $\Delta{Q}$ tương đương $T\Delta{S}$ thêm/bớt entropy. Chúng ta có thể chi cả tử và mẫu số cho $\Delta{S_{h}}$:
+Trong đó chúng ta biểu diễn mỗi $\Delta{Q}$ tương đương $T\Delta{S}$ thêm/bớt entropy. Chúng ta có thể chia cả tử và mẫu số cho $\Delta{S_{h}}$:
 
 $$
     \epsilon = \frac{T_{h} - T_{c}\eta}{T_{h}} \tag{6.7}\label{6.7}
