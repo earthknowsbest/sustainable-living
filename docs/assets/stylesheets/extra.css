@@ -497,7 +497,7 @@ video {
 }
 
 .hanco > a {
-    font-weight: 200;
+    font-weight: 100 !important;
 }
 
 .hanco-title{
