@@ -8,7 +8,7 @@ glightbox: false
 
 !!! quote ""
 
-    Một giếng bơm dầu nhìn cận cảnh, với nền là những tua-bin gió. Ảnh chụp bởi Tom Murphy.
+    Một giếng bơm dầu nhìn cận cảnh, phía sau là những tua-bin gió. Ảnh chụp bởi Tom Murphy.
 
 Bây giờ chúng ta đã nắm được các đơn vị năng lượng và quá trình nhiệt thông thường, chúng ta có thể xem xét nhiều nguồn dữ liệu năng lượng khác nhau và khai thác thêm thông tin, giúp cho việc so sánh chéo được thuận lợi. Trong chương này, chúng ta sẽ tìm hiểu ý nghĩa của các phân tích dữ liệu và có được góc nhìn về vai trò các nguồn năng lượng khác nhau trong quá khứ và hiện tại ở cấp độ quốc gia và toàn cầu.
 
@@ -254,7 +254,7 @@ Phần tổng quan cuối cùng giúp định hình một số cuộc thảo lu�
 
 [^19]:
 
-    Câu gốc: "Đồ ngốc, nền kinh tế đó" (*It's the economy, stupid*)
+    Câu gốc: “Đồ ngốc, nền kinh tế đó” (*It's the economy, stupid*)
 
 !!! success ""
 

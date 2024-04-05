@@ -496,6 +496,10 @@ video {
     /* letter-spacing: 0.1rem; */
 }
 
+.hanco > a {
+    font-weight: 100;
+}
+
 .hanco-title{
     font-family: "CN-LE", serif, DFKai-SB, Arial;
     font-weight: bold;
