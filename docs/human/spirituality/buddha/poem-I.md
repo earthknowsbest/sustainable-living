@@ -218,7 +218,7 @@ Nhất lý cổ kim đồng. <br/>
 
 Vọng khởi tam đồ khởi, <br/>
 Chân thông ngũ nhãn thông. <br/>
-Niết-bàn tâm tịch tịch, <br/>
+Niết-bàn tâm tịch mịch, <br/>
 Sinh tử hải trùng trùng. <br/>
 <div class='spacer-sm'></div>
 
