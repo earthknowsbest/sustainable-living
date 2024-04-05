@@ -492,12 +492,12 @@ video {
     font-family: "CN-LE", serif, DFKai-SB, Arial;
     font-size: 1.7rem;
     line-height: 1.45rem;
-    font-weight: 300;
+    /* font-weight: 300; */
     /* letter-spacing: 0.1rem; */
 }
 
 .hanco > a {
-    font-weight: 100 !important;
+    font-weight: normal !important;
 }
 
 .hanco-title{
