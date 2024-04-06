@@ -69,4 +69,4 @@ Chúng tôi mong muốn bằng tất cả lý trí và bằng cả trái tim mì
 <hr/>
 **Tác giả: Pierre Rabhi**. Nông dân, nhà văn và nhà tư tưởng người Pháp gốc Algeria, Pierre Rabhi là một trong những người tiên phong về nông nghiệp sinh thái ở Pháp (1938-2021)
 
-Sách [Vers La Sobriété Heureuse](https://excerpts.numilog.com/books/9782742789672.pdf)
+Sách [Vers La Sobriété Heureuse](https://www.babelio.com/livres/Rabhi-Vers-la-sobriete-heureuse/173558)
