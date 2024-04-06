@@ -14,7 +14,7 @@ Tác giả của khái niệm **“dấu chân sinh thái”** (*ecological foot
 
 ??? note "Giáo sư danh dự William Rees"
 
-    Giáo sư của Đại học Bristich Colombia đưa ra những tính toán nghiệt ngã cho nhân loại nếu biến đổi khí hậu và tăng trưởng dân số cũng như mức tiêu thụ do năng lượng rẻ thúc đẩy không được kiểm soát. Ảnh của Nick Wiebe, Wikimedia.
+    Giáo sư của Đại học Bristish Colombia đưa ra những tính toán nghiệt ngã cho nhân loại nếu biến đổi khí hậu và tăng trưởng dân số cũng như mức tiêu thụ do năng lượng rẻ thúc đẩy không được kiểm soát. Ảnh của Nick Wiebe, Wikimedia.
 
 !!! quote "Chris Hedge"
 
