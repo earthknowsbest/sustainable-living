@@ -2,7 +2,7 @@
 
 !!! quote "Lời dẫn"
 
-    “Giấc mơ năng lượng xanh thực mang lại sự hủy diệt, chúng ta cần phải có một kế hoạch mới” 
+    “Giấc mơ năng lượng xanh mang tính huỷ hoại ghê gớm, chúng ta cần phải có một kế hoạch mới” 
 
 !!! quote "Walter Youngquist, tác giả “Hành tinh bị đánh cắp”:"
     
