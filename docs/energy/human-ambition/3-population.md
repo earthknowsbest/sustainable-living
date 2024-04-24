@@ -190,7 +190,7 @@ Chúng ta nhân tốc độ ban đầu $rP$ với một hệ số sao cho tốc 
 ![Pop-36-Light](../../assets/images/pop-36-light.svg#only-light)
 ![Pop-36-Dark](../../assets/images/pop-36-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.6}$ Tốc độ tăng trưởng trong mô hình logistic giảm khi dân số tăng, bắt đầu với $r$ khi $P=0$ và đạt tới $0$ khi $P -> Q$ (xem **Phương trình** $\textbf{3.5}$).
+> **Hình** $\textbf{3.6}$ *Tốc độ tăng trưởng trong mô hình logistic giảm khi dân số tăng, bắt đầu với $r$ khi $P=0$ và đạt tới $0$ khi $P -> Q$ (xem **Phương trình** $\textbf{3.5}$).*
 
 Nghiệm của phương trình vi phân (cách giải nằm ngoài phạm vi của cuốn sách) được gọi là **đường logistic**, biểu diễn ở **Hình** $\textbf{3.7}$ và có dạng:
 
@@ -207,7 +207,7 @@ $$
 ![Pop-37-Light](../../assets/images/pop-37-light.svg#only-light)
 ![Pop-37-Dark](../../assets/images/pop-37-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.7}$: đường dân số logistic (màu lam), đôi khi được gọi là đường S (*S-curve*), theo công thức trong **Phương trình** $\textbf{3.6}$, trong trường hợp này được vẽ với $r=0{,}5$ để phù hợp với ví dụ trên. Đường màu đỏ là hàm số mũ ở đố không có phản hồi ngược.
+> **Hình** $\textbf{3.7}$: <i>Đường dân số logistic (màu lam), đôi khi được gọi là đường S (*S-curve*), theo công thức trong **Phương trình** $\textbf{3.6}$, trong trường hợp này được vẽ với $r=0{,}5$ để phù hợp với ví dụ trên. Đường màu đỏ là hàm số mũ ở đố không có phản hồi ngược.</i>
  
 
 !!! info "Ví dụ $\textbf{3.3}$"
@@ -261,7 +261,7 @@ Chúng ta có thể khám phá điều gì xảy ra với đường logistic n�
 ![Pop-38-Light](../../assets/images/pop-38-light.svg#only-light)
 ![Pop-38-Dark](../../assets/images/pop-38-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.8}$: Phản hồi bị trì hoãn thường mang tới **sự quá tải** và dao động, được biểu diễn với các giá trị trễ ($𝜏$) khác nhau. Đường màu đen ($\tau=0$) là đường logistic không bị trễ. Khi độ trễ tăng dần, mức độ nghiêm trọng của **sự quá tải** gia tăng. Độ trễ được tăng thêm mỗi $0{,}5$ lần khoảng thời gian đặc trưng $1/r$ (sử dụng $r=0{,}5$ ở đây để phù hợp với ví dụ trước, sao cho độ trễ $\tau = 1{,}5/r$ bằng $3$ lần đơn vị trên đồ thị). Khoảng thời gian trễ cũng được tính bằng độ dài đơn vị trên đồ thị.
+> **Hình** $\textbf{3.8}$: *Phản hồi bị trì hoãn thường mang tới **sự quá tải** và dao động, được biểu diễn với các giá trị trễ ($𝜏$) khác nhau. Đường màu đen ($\tau=0$) là đường logistic không bị trễ. Khi độ trễ tăng dần, mức độ nghiêm trọng của **sự quá tải** gia tăng. Độ trễ được tăng thêm mỗi $0{,}5$ lần khoảng thời gian đặc trưng $1/r$ (sử dụng $r=0{,}5$ ở đây để phù hợp với ví dụ trước, sao cho độ trễ $\tau = 1{,}5/r$ bằng $3$ lần đơn vị trên đồ thị). Khoảng thời gian trễ cũng được tính bằng độ dài đơn vị trên đồ thị.*
 
 Các đường trong đồ thị **Hình** $\textbf{3.8}$ hội tụ xung quanh một giá trị của trạng thái cân bằng, $100\%$[^16], nhưng dân số con người được xác định bởi nhiều điều kiện phức tạp không được đưa vào trong mô hình toán học[^17]. Các hiện tượng chung của **sự quá tải** khi **phản hồi ngược** bị trì hoàn thường diễn ra tương tự như một đặc tính, ngay cả khi sự dao động và hội tụ về giá trị của **ngưỡng chịu đựng** $Q$ chưa dự đoáng được hết các viễn cảnh dân số tương lai của con người.
 
@@ -276,7 +276,7 @@ Các đường trong đồ thị **Hình** $\textbf{3.8}$ hội tụ xung quanh 
 ![Pop-39-Light](../../assets/images/pop-39-light.svg#only-light)
 ![Pop-39-Dark](../../assets/images/pop-39-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.9}$: Dân số (các điểm màu xanh) và một đường logistic (màu đỏ) minh hoạ cho đồ thị đi qua các điểm dữ liệu dân số từ năm $1950$ trở lại đây. Hàm logistic này có $Q ≈ 12$ (tỷ người), $r=0{,}028$, và điểm giữa vào năm $1997$. Dữ liệu thực có một thời điểm dân số tăng đột biến vào năm $1950$ (Cách mạng Xanh?) làm cho việc xác định một hàm logistic đi qua tất cả các điểm dữ liệu trở nên khó khăn hơn. Điều này xảy ra khi dữ kiện thực tế có sự thay đổi lớn bất ngờ (về năng lượng và công nghệ trong trường hợp này).
+> **Hình** $\textbf{3.9}$: *Dân số (các điểm màu xanh) và một đường logistic (màu đỏ) minh hoạ cho đồ thị đi qua các điểm dữ liệu dân số từ năm $1950$ trở lại đây. Hàm logistic này có $Q ≈ 12$ (tỷ người), $r=0{,}028$, và điểm giữa vào năm $1997$. Dữ liệu thực có một thời điểm dân số tăng đột biến vào năm $1950$ (Cách mạng Xanh?) làm cho việc xác định một hàm logistic đi qua tất cả các điểm dữ liệu trở nên khó khăn hơn. Điều này xảy ra khi dữ kiện thực tế có sự thay đổi lớn bất ngờ (về năng lượng và công nghệ trong trường hợp này).*
 
 !!! note "Hộp $\textbf{3.1}$: Dân số con người sẽ bị quá tải?"
 
@@ -308,7 +308,7 @@ Dân số tăng lên khi tỉ suất sinh cao hơn tỉ suất tử vong.
 ![Pop-3-10-Light](../../assets/images/pop-3-10-light.svg#only-light)
 ![Pop-3-10-Dark](../../assets/images/pop-3-10-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.10}$: Tỉ suất tăng dân số thuần, đơn vị %, là một hàm của GDP trên đầu người. Có một xu hướng rõ ràng cho thấy các quốc gia giàu hơn thường có tỉ suất tăng dân số thuần thấp hơn. Một giải pháp cùng thắng (win-win) có thể bằng sự dịch chuyển sang phía bên phải của biểu đồ, các quốc gia vừa giàu có hơn vừa có dân số ổn định hơn! Mỗi chấm tương ứng với một quốc gia, và kích thước của chấm được vẽ tỉ suất với dân số quốc gia đó.
+> **Hình** $\textbf{3.10}$: *Tỉ suất tăng dân số thuần, đơn vị %, là một hàm của GDP trên đầu người. Có một xu hướng rõ ràng cho thấy các quốc gia giàu hơn thường có tỉ suất tăng dân số thuần thấp hơn. Một giải pháp cùng thắng (win-win) có thể bằng sự dịch chuyển sang phía bên phải của biểu đồ, các quốc gia vừa giàu có hơn vừa có dân số ổn định hơn! Mỗi chấm tương ứng với một quốc gia, và kích thước của chấm được vẽ tỉ suất với dân số quốc gia đó.*
 
 !!! info "Ví dụ 3.3" 
 
@@ -354,7 +354,7 @@ Chiều hướng chung cho rằng các quốc gia phát triển đã “làm đ�
 ![Pop-3-12-Light](../../assets/images/pop-3-12-light.svg#only-light)
 ![Pop-3-12-Dark](../../assets/images/pop-3-12-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.12}$: Giản đồ mô tả **Sự chuyển dịch dân số** có thể diễn ra trong **Hình** $\textbf{3.11}$. Tại điểm **A** và **D**, tỉ suất sinh và tỉ suất tử bằng nhau, nên tỉ suất tăng trưởng thuần bằng không. Thường thường, tỉ suất tử sẽ giảm khi tỉ suất sinh tăng (điểm **B**), và cuối dùng tỉ suất tử sẽ chạm đáy khi tỉ suất sinh bắt đầu giảm (điểm **C**).
+> **Hình** $\textbf{3.12}$: *Giản đồ mô tả **Sự chuyển dịch dân số** có thể diễn ra trong **Hình** $\textbf{3.11}$. Tại điểm **A** và **D**, tỉ suất sinh và tỉ suất tử bằng nhau, nên tỉ suất tăng trưởng thuần bằng không. Thường thường, tỉ suất tử sẽ giảm khi tỉ suất sinh tăng (điểm **B**), và cuối dùng tỉ suất tử sẽ chạm đáy khi tỉ suất sinh bắt đầu giảm (điểm **C**).*
 
 **Sự chuyển dịch dân số** rất phổ biến và được ủng hộ mạnh mẽ trong giới học giả phương Tây, thường với quan điểm tiến trình này diễn ra chưa đủ nhanh. Thật vậy, các hệ quả về nhân đạo thường là tích cực và đáng kể: ít người hơn sống trong cảnh đói nghèo; phụ nữ được trao quyền; giáo dục nâng cao; nhiều việc làm hơn; và sự chịu đựng trong xã hội cũng lớn hơn. Thâm chí người ta có thể lên án những ai không hi vọng những điều tốt đẹp kể trên đến với tất cả mọi người trên Trái Đất.
 
@@ -365,7 +365,7 @@ Tuy nhiên, chúng ta cần phải hiểu rõ những hệ quả. Không phải 
 ![Pop-313-Light](../../assets/images/pop-map-3-13.webp
 )
 
-> **Hình** $\textbf{3.13}$: Tỉ suất tăng dân số thuần ở các nước: tỉ suất sinh trừ tỉ suất tử vọng trên $1.000$ người một năm. Tỉ suất tăng thuần cao nhất (màu đậm nhất) diễn ra ở Niger, vùng sa mạc Sahara ở Châu Phi.
+> **Hình** $\textbf{3.13}$: *Tỉ suất tăng dân số thuần ở các nước: tỉ suất sinh trừ tỉ suất tử vọng trên $1.000$ người một năm. Tỉ suất tăng thuần cao nhất (màu đậm nhất) diễn ra ở Niger, vùng sa mạc Sahara ở Châu Phi.*
 
 **Hình** $\textbf{3.13}$ biểu diễn tỉ suất tăng dân số thuần (tỉ suất sinh trừ tỉ suất tử vong) trên bản đồ thế giới. Châu Phi nổi bật lên như một châu lục có tỉ suất tăng dân số thuần cao nhất, trở thành tiêu điểm của những bàn luận về dân số.  
 
@@ -375,7 +375,7 @@ Nhưng hãy cùng xem xét lại mức tăng dân số ở các quốc gia khác
 
     Nhưng hãy kiểm tra lại sau $100$ năm!
 
-> **Hình** $\textbf{3.14}$ nhân tỉ suất gia tăng dân số thuần với dân số của mỗi nước để biểu diễn **số người thêm thuần** (*net new people*) của mỗi quốc gia; **Bảng** $\textbf{3.3}$ liệt kê top $10$ nước. Châu Phi không còn là vùng đáng lo nhất nếu nhìn theo khía cạnh này[^25]. Ấn độ hiện là quốc gia sản sinh dân số nhiều nhất, thêm vào mỗi năm $18$ triệu người. Tiếp theo đó là Trung Quốc ở vị trí thứ hai. Hoa Kì đóng góp thêm *1{,}6* triệu người mỗi năm, chỉ nằm ngoài top $10$ một chút. Điều này cho thấy tầm quan trọng bối cảnh trong việc phân tích dữ liệu dựa trên bối cảnh. 
+> **Hình** $\textbf{3.14}$: <i>Nhân tỉ suất gia tăng dân số thuần với dân số của mỗi nước để biểu diễn **số người thêm thuần** (*net new people*) của mỗi quốc gia; **Bảng** $\textbf{3.3}$ liệt kê top $10$ nước. Châu Phi không còn là vùng đáng lo nhất nếu nhìn theo khía cạnh này[^25]. Ấn độ hiện là quốc gia sản sinh dân số nhiều nhất, thêm vào mỗi năm $18$ triệu người. Tiếp theo đó là Trung Quốc ở vị trí thứ hai. Hoa Kì đóng góp thêm *1{,}6* triệu người mỗi năm, chỉ nằm ngoài top $10$ một chút. Điều này cho thấy tầm quan trọng bối cảnh trong việc phân tích dữ liệu dựa trên bối cảnh.</i>
 
 [^25]:
 
@@ -400,7 +400,7 @@ Nhưng hãy cùng xem xét lại mức tăng dân số ở các quốc gia khác
 | Congo       |          87          |     36,9    |      15,8     |           1,8          |
 | Thế giới    |         7,711        |     19,1    |      8,1      |           86           |
 
-> **Bảng** $\textbf{3.3}$ Top $10$ quốc gia đóng góp vào gia tăng dân số toàn cầu hàng năm theo con số tuyệt đối. Tỉ suất sinh và tỉ suất tử được trình bày với đơn vị số người trên $1.000$ người một năm. $10$ quốc gia này đóng góp tổng cộng 55% dân số tăng toàn cầu.
+> **Bảng** $\textbf{3.3}$: *Top $10$ quốc gia đóng góp vào gia tăng dân số toàn cầu hàng năm theo con số tuyệt đối. Tỉ suất sinh và tỉ suất tử được trình bày với đơn vị số người trên $1.000$ người một năm. $10$ quốc gia này đóng góp tổng cộng 55% dân số tăng toàn cầu.*
 
 Ở một khía cạnh khác, sản lượng tiêu thụ năng lượng trên đầu người Hoa Kì gấp $200$ lần so với ở Niger[^26] và dân số của Hoa Kì cũng lớn hơn so với Niger, điều này dẫn đến những **tác động tài nguyên** (*resource impact*) từ việc sinh sản ở Hoa Kì lớn gấp $400$ lần so với ở Niger[^27]. Tính trên đầu người, một công dân Hoa Kì sẽ tiêu thụ trong tương lai lượng tài nguyên lớn gấp $28$ lần so với một công dân Niger khi dân số được thêm vào mỗi nước hằng năm[^28]. Trên một trái đất hữu hạn, lí do chính chúng ta *quan tâm* đến sự tăng trưởng dân số là vì nó có liên hệ với tài nguyên hữu hạn. Vì thế, nhìn từ quan điểm của tài nguyên, vấn đề không chỉ tập trung ở các quốc gia đang phát triển. **Bảng** $\textbf{3.4}$ cho thấy các quốc gia ở top $10$ tăng cầu năng lượng (một chỉ báo của cầu tài nguyên nói chung) nhanh như thế nào chỉ thông qua sự tăng trưởng dân số. **Hình** $\textbf{3.5}$ trình bày lại dưới dạng hình vẽ. $1$ Gigawatt (GW) tương đương với một nhà máy điện hạt nhân qui hay một nhà máy nhiệt than qui mô lớn. Theo đó, Trung Quốc, Hoa Kì và Ấn độ mỗi nước tăng thêm nguồn cung năng lượng mỗi năm tương đương với $10-20$ nhà máy như thế chỉ để thỏa mãn cầu năng lượng của sự gia tăng dân số[^29].
 
@@ -435,12 +435,12 @@ Nhưng hãy cùng xem xét lại mức tăng dân số ở các quốc gia khác
 | Thổ Nhĩ Kỳ 	| 83 	| 0,85 	| 2.100 	| 1,8 	| 21 	|
 | Thế giới 	| 7,711 	| 86 	| 2.300 	| 143 	| 18,4 	|
 
-> **Bảng** $\textbf{3.4}$: Top $10$ quốc gia tăng trưởng cầu năng lượng. Công suất hay sản lượng đơn vị là *Watt*; $10^9$ là $1$ GW. Sản lượng gia tăng hàng năm là con số gia tăng tuyệt đối để đáp ứng cầu năng lượng nhằm thoả mãn sự *gia tăng dân số*, cũng là một đại diện cho việc gia tăng cầu tài nguyên nói chung. Cột cuối cùng cho biết mức độ đóng góp mỗi cá nhân vào sự tiêu thụ tài nguyên, ở đây tính theo sản lượng năng lượng. Ba nước đóng góp lớn nhất vào cầu năng lượng chỉ thông qua sự tăng dân số (Trung Quốc, Hoa Kì, và Ấn Độ) chiếm tổng cộng khoảng một phần ba sản lượng tăng thêm toàn cầu.
+> **Bảng** $\textbf{3.4}$: <i>Top $10$ quốc gia tăng trưởng cầu năng lượng. Công suất hay sản lượng đơn vị là *Watt*; $10^9$ là $1$ GW. Sản lượng gia tăng hàng năm là con số gia tăng tuyệt đối để đáp ứng cầu năng lượng nhằm thoả mãn sự *gia tăng dân số*, cũng là một đại diện cho việc gia tăng cầu tài nguyên nói chung. Cột cuối cùng cho biết mức độ đóng góp mỗi cá nhân vào sự tiêu thụ tài nguyên, ở đây tính theo sản lượng năng lượng. Ba nước đóng góp lớn nhất vào cầu năng lượng chỉ thông qua sự tăng dân số (Trung Quốc, Hoa Kì, và Ấn Độ) chiếm tổng cộng khoảng một phần ba sản lượng tăng thêm toàn cầu.</i>
 
 ![Pop-3-15-Light](../../assets/images/pop-3-15-light.svg#only-light)
 ![Pop-3-15-Dark](../../assets/images/pop-3-15-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.15}$: Thuyết mình bằng hình vẽ **Bảng** $\textbf{3.4}$. Các chấm tròn, với kích thước tỉ suất với qui mô dân, cho thấy sự gia tăng hàng năm và cầu năng lượng gia tăng tương ứng. Màu sắc trên hình thể hiện cầu năng lượng gia tăng do dân số tăng được tính toán trên đầu người trong một năm. Những trường hợp giảm cầu năng lượng bao gồm Nga, Nhật Bản, Đức và Ukraine.
+> **Hình** $\textbf{3.15}$: *Thuyết minh bằng hình vẽ **Bảng** $\textbf{3.4}$. Các chấm tròn, với kích thước tỉ suất với qui mô dân, cho thấy sự gia tăng hàng năm và cầu năng lượng gia tăng tương ứng. Màu sắc trên hình thể hiện cầu năng lượng gia tăng do dân số tăng được tính toán trên đầu người trong một năm. Những trường hợp giảm cầu năng lượng bao gồm Nga, Nhật Bản, Đức và Ukraine.*
 
 Cột cuối cùng trong **Bảng** $\textbf{3.4}$ là “cái giá” của cầu năng lượng theo đầu người. Ví dụ, một người Mĩ cần thêm $50$ W mỗi năm khi chỉ tính đến sự gia tăng dân số[^30]. Theo đó, cột này cho biết “đóng góp cá nhân” của mỗi công dân vào cầu năng lượng toàn cầu thông qua việc tăng dân số thuần. Quốc gia nào có số này cao cần phải nghiêm túc xem xét tình hình của chính nước mình, hơn là đổ trách nhiệm cho nước khác.  
 
@@ -464,7 +464,7 @@ Trước khi khép lại phần này, hãy cùng nhau quan sát ở qui mô lụ
 | Châu Âu | 9,7 | -0,1 | 4.900 | -0,3 | -0,6 |
 | Thế giới | 7.711 | 86 | 2.300 | 143 GW | 18,4 |
 
-> **Bảng** $\textbf{3.5}$: Sức ép dân số từ các vùng của thế giới, sắp xếp theo cầu năng lượng thêm vào. Một số cột có đơn vị là phần trăm của của tổng năng lượng. Hàng cuối cùng có đơn vị là triệu người và tổng sản lượng GW.
+> **Bảng** $\textbf{3.5}$: *Sức ép dân số từ các vùng của thế giới, sắp xếp theo cầu năng lượng thêm vào. Một số cột có đơn vị là phần trăm của của tổng năng lượng. Hàng cuối cùng có đơn vị là triệu người và tổng sản lượng GW.*
 
 ### Cái giá của Sự chuyển dịch dân số
 
@@ -473,7 +473,7 @@ Một điểm cần lưu ý cuối cùng trong quá trình **chuyển dịch dâ
 ![Pop-3-16-Light](../../assets/images/pop-3-16-light.svg#only-light)
 ![Pop-3-16-Dark](../../assets/images/pop-3-16-dark.svg#only-dark)
 
-> **Hình** $\textbf{3.16}$: Giản đồ minh họa sự **chuyển dịch dân số** theo thời gian
+> **Hình** $\textbf{3.16}$: *Giản đồ minh họa sự **chuyển dịch dân số** theo thời gian.*
 
 !!! info ""
 

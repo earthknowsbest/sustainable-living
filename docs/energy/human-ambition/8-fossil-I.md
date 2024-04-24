@@ -47,7 +47,7 @@ Không phụ thuộc vào sự lựa chọn của từng cá nhân, nhìn chung 
 ![fossil-1-light](../../assets/images/fossil-1-light.svg#only-light)
 ![fossil-1-dark](../../assets/images/fossil-1-dark.svg#only-dark)
 
-> **Hình 8.1:** Năng lượng qua các thời đại, dưới dạng nhiên liệu hóa thạch. Cho đến nay, nhiên liệu hóa thạch chiếm phần lớn câu chuyện về năng lượng của con người. Chúng ta biết rằng nó sẽ phải như thế nào trong dài hạn. Câu hỏi lớn là nửa sau của lịch sử loài người sẽ như thế nào sau khi nhiên liệu hóa thạch cạn kiệt hoặc bị bỏ mặc. Ngôi sao màu vàng là sự phỏng đoán về vị trí hiện tại của chúng ta, dựa trên bằng chứng được đề cập ở phần sau của chương cho thấy rằng tài nguyên đã cạn kiệt gần một nửa.
+>**Hình 8.1:** *Năng lượng qua các thời đại, dưới dạng nhiên liệu hóa thạch. Cho đến nay, nhiên liệu hóa thạch chiếm phần lớn câu chuyện về năng lượng của con người. Chúng ta biết rằng nó sẽ phải như thế nào trong dài hạn. Câu hỏi lớn là nửa sau của lịch sử loài người sẽ như thế nào sau khi nhiên liệu hóa thạch cạn kiệt hoặc bị bỏ mặc. Ngôi sao màu vàng là sự phỏng đoán về vị trí hiện tại của chúng ta, dựa trên bằng chứng được đề cập ở phần sau của chương cho thấy rằng tài nguyên đã cạn kiệt gần một nửa.*
 
 **Hình 8.1** sẽ kích thích một loạt câu hỏi. Chúng ta đang ở đâu trên đường cong? Đỉnh điểm là khi nào? Giai đoạn suy thoái được đánh dấu bằng sự khan hiếm năng lượng ngày càng leo thang hay sự ra đời của một tương lai năng lượng tái tạo? Liệu tương lai xa có giống quá khứ (sử dụng cơ bắp và củi đốt) hơn hiện tại? Liệu câu chuyện này có thay đổi cách chúng ta giải thích thế giới và kế hoạch của chúng ta cho tương lai không? Kết luận công bằng duy nhất là chúng ta thực sự không biết tương lai sẽ diễn ra như thế nào[^4]. Chúng ta có thể đặt tên cho phần phía bên trái hình vẽ là giai đoạn “củi và cơ bắp”, và phần tăng vọt là nhiên liệu hóa thạch, nhưng phần bên phải thích hợp nhất phải là một dấu hỏi khổng lồ.
 
@@ -95,7 +95,7 @@ Nhiên liệu hóa thạch được tìm thấy ở ba dạng chính: **than đ�
 ![fossil-2-light](../../assets/images/fossil-2-light.svg#only-light)
 ![fossil-2-light](../../assets/images/fossil-2-dark.svg#only-dark)
 
->**Hình 8.2**: Lịch sử sử dụng nhiên liệu hoá thạch trên toàn thế giới, có thể được xem là dạng phóng to của đỉnh năng lượng trong **Hình 8.1**. Ba loại được xếp chồng lên nhau, do đó khí tự nhiên có đóng góp nhỏ nhất chứ không phải là lớn nhất. Hình bên trái là tỉ lệ sử dụng thô được biểu thị bằng Terawatt, trong khi hình bên phải là thước đo bình quân đầu người cho thấy rằng sự gia tăng của hình bên trái không chỉ là do sự gia tăng dân số.
+>**Hình 8.2**: *Lịch sử sử dụng nhiên liệu hoá thạch trên toàn thế giới, có thể được xem là dạng phóng to của đỉnh năng lượng trong **Hình 8.1**. Ba loại được xếp chồng lên nhau, do đó khí tự nhiên có đóng góp nhỏ nhất chứ không phải là lớn nhất. Hình bên trái là tỉ lệ sử dụng thô được biểu thị bằng Terawatt, trong khi hình bên phải là thước đo bình quân đầu người cho thấy rằng sự gia tăng của hình bên trái không chỉ là do sự gia tăng dân số.*
 
 ### Than đá
 
@@ -142,7 +142,7 @@ Ngày nay ở Mỹ, than chiếm 13% tổng năng lượng tiêu thụ&mdash;gi�
 | Than non  | 25-35                     | 2,5-5        
 </div>
 
->**Bảng 8.1**: Bốn loại hạng than, sắp xếp theo thứ tự **mật độ năng lượng** (*energy density*) và **hàm lượng các-bon** (*carbon content*) giảm dần. Than antraxit phần lớn đã cạn kiệt và rất hiếm thấy ngày nay. Nguồn: [1](https://en.wikipedia.org/wiki/Energy_density), [2](https://www.eia.gov/energyexplained/coal/).
+>**Bảng 8.1**: <i>Bốn loại hạng than, sắp xếp theo thứ tự **mật độ năng lượng** (*energy density*) và **hàm lượng các-bon** (*carbon content*) giảm dần. Than antraxit phần lớn đã cạn kiệt và rất hiếm thấy ngày nay. Nguồn: [1](https://en.wikipedia.org/wiki/Energy_density), [2](https://www.eia.gov/energyexplained/coal/).</i>
 
 ### Dầu mỏ
 
@@ -188,12 +188,12 @@ Dầu mỏ khai thác từ lòng đất thường được gọi là dầu thô,
 
 ![fossil-3](../../assets/images/fossil-3.webp)
 
->**Hình 8.3**: Octan (C~8~H~18~, chứa 8 nguyên tử các-bon và 18 nguyên tử hydro) là một trong các chuỗi hydrocacbon dài hay ngắn hơn được tìm thấy trong dầu mỏ, hay thường là trong xăng. Những chuỗi dài hơn với cùng kiểu cấu trúc lặp lại được tìm thấy trong các chất bôi trơn, nhựa đường và làm nguyên liệu sản xuất nhựa.
+>**Hình 8.3**: *Octan (C~8~H~18~, chứa 8 nguyên tử các-bon và 18 nguyên tử hydro) là một trong các chuỗi hydrocacbon dài hay ngắn hơn được tìm thấy trong dầu mỏ, hay thường là trong xăng. Những chuỗi dài hơn với cùng kiểu cấu trúc lặp lại được tìm thấy trong các chất bôi trơn, nhựa đường và làm nguyên liệu sản xuất nhựa.*
 
 ![fossil-4-light](../../assets/images/fossil-4-light.svg#only-light)
 ![fossil-4-light](../../assets/images/fossil-4-dark.svg#only-dark)
 
->**Hình 8.4**: Tỉ lệ các chất được sử dụng trong [một thùng dầu mỏ](https://energyeducation.ca/encyclopedia/In_a_barrel_of_oil). Tất cả trừ nhựa đường, nguyên liệu hóa dầu, chất bôi trơn và [các chất] “khác” đều bị đốt để tạo ra năng lượng, chiếm 92% nhiên liệu dùng để đốt. Các khí được trưng cất gồm có mê-tan, ê-tan, propan và butan ở dạng khí, trong khi phần chất lỏng nhẹ hơn bao gồm chủ yếu là propan và butan ở dạng lòng. Than cốc (*coke*), một sản phẩm lọc dầu, không phải tên một thứ đồ uống.
+>**Hình 8.4**: <i>Tỉ lệ các chất được sử dụng trong [một thùng dầu mỏ](https://energyeducation.ca/encyclopedia/In_a_barrel_of_oil). Tất cả trừ nhựa đường, nguyên liệu hóa dầu, chất bôi trơn và [các chất] “khác” đều bị đốt để tạo ra năng lượng, chiếm 92% nhiên liệu dùng để đốt. Các khí được trưng cất gồm có mê-tan, ê-tan, propan và butan ở dạng khí, trong khi phần chất lỏng nhẹ hơn bao gồm chủ yếu là propan và butan ở dạng lòng. Than cốc (*coke*), một sản phẩm lọc dầu, không phải tên một thứ đồ uống.</i>
 
 Dầu mỏ được đo bằng **thùng dầu** (*barrel*) (kí hiệu *bbl*), tương đương với 159 L (159 lít hay 42 gallon). Mỗi thùng dầu thô chứa khoảng 6,1 GJ năng lượng (1.700 kWh; 5,8 MBtu). Để tham khảo, thế giới đang tiêu thụ khoảng 30 tỷ thùng mỗi năm (riêng Hoa Kì khoảng 7 tỷ thùng mỗi năm, hay 20 triệu thùng mỗi ngày). Không một quốc gia nào sản xuất dầu với tốc độ lớn hơn khoảng 12 triệu thùng mỗi ngày[^26].
 
@@ -217,7 +217,7 @@ Dầu mỏ được đo bằng **thùng dầu** (*barrel*) (kí hiệu *bbl*), t
 
 ![fossil-5](../../assets/images/fossil-5.webp)
 
->**Hình 8.5**: Dầu và khí nằm trong đá xốp, dưới lớp đá giữ (*caprock*) không thấm nước. Từ U. Calgary. Nguồn: [Caprock](https://energyeducation.ca/encyclopedia/Cap_rock).
+>**Hình 8.5**: <i>Dầu và khí nằm trong đá xốp, dưới lớp đá giữ (*caprock*) không thấm nước. Từ U. Calgary. Nguồn: [Caprock](https://energyeducation.ca/encyclopedia/Cap_rock).</i>
 
 [^28]:
 
@@ -299,7 +299,8 @@ Lượng năng lượng trên đại diện cho tổng năng lượng có sẵn 
 | **Khí tự nhiên** | CH~4~        | 16                     | 890,3      | 55,6     | 13,3       |
 | **Dầu mỏ**       | C~8~H~18~    | 114                    | 5.471      | 48,0     | 11,5       |
 </div>
->**Bảng 8.2** Các đặc tính khi đốt cháy của nhiên liệu hoá thạch
+
+>**Bảng 8.2** *Các đặc tính khi đốt cháy của nhiên liệu hoá thạch.*
 
 Lưu ý rằng nhiên liệu hoá thạch có hiệu năng gần như chất béo (khoảng 10 kcal/g), nhiều hơn tinh bột (ở 4 kcal/g)[^39].
 

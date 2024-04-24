@@ -317,7 +317,7 @@ Mối liên hệ giữa các đại lượng trong **Phương trình** $\eqref{1
 ![Radiation-Light](../../assets/images/radiation-light.svg#only-light)
 ![Radiation-Dark](../../assets/images/radiation-dark.svg#only-dark)
 
-> **Hình** $\textbf{1.4}$: Trái đất&mdash;được minh họa như hình, trong mùa hè ở bán cầu bắc&mdash;hứng ánh sáng qua bề mặt chắn sáng (đường tròn có diện tích $πR^2$), trong khi bức xạ ánh ra bên ngoài không gian từ mọi phía (diện tích bề mặt Trái đất lớn gấp 4 lần diện tích hứng sáng, hay $4πR^2$).
+> **Hình** $\textbf{1.4}$: <i>Trái đất&mdash;được minh họa như hình, trong mùa hè ở bán cầu bắc&mdash;hứng ánh sáng qua bề mặt chắn sáng (đường tròn có diện tích $πR^2$), trong khi bức xạ ánh ra bên ngoài không gian từ mọi phía (diện tích bề mặt Trái đất lớn gấp 4 lần diện tích hứng sáng, hay $4πR^2$).</i>
 
 Để đánh giá nhiệt độ kì vọng của Trái đất, chúng ta biết năng lượng của mặt trời chiếu đến bề mặt hứng ánh sáng của Trái đất là khoảng $1.360$ $W/m^2$ vào *bên trên* tầng khí quyển (bề mặt Trái đất nhận được ít hơn một chút). Chúng ta cũng biết khoảng $29{,}3\%$ năng lượng này phản xạ bởi mây, tuyết, cho đến nước và địa hình. Vì thế Trái đất *hấp thụ* khoảng $960$ $W/m^2$. Năng lượng này được hấp thụ bởi phần hứng sáng: diện tích hình tròn $A = π{R_\oplus^2}$. Nhưng toàn bộ diện tích bề mặt trái đất, vốn lớn hơn bốn lần diện tích hứng sáng, lại bức xạ ra ngoài không gian (**Hình** $\textbf{1.4}$). Do năng lượng của trái đất cân bằng (công suất năng lượng vào $P_{in}$ bằng công suất năng lượng ra $P_{out}$), ta có:
 

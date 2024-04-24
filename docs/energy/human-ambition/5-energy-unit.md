@@ -54,6 +54,7 @@ Vì công bằng lực nhân khoảng cách, nên đơn vị của công (và c�
 | Chế độ ăn hàng ngày của con người   | 8 MJ       |
 | 1 giờ lái xe trên đường cao tốc     | 250 MJ     |
 </div>
+
 > **Bảng 5.1**: *Năng lượng gần đúng cho các hoạt động quen thuộc. Ví dụ đầu tiên về xe đi trên đường cao tốc chỉ tính động năng, còn ví dụ thứ hai là sự tiêu tốn năng lượng cho cả hành trình.*
 
 Viết đơn vị **Newton (N)** dưới dạng $kg·m/s^2$, ta thấy đơn vị năng lượng bằng  $J = N·m = kg·m^2/s^2$. Lưu ý rằng đơn vị này trông giống như khối lượng nhân với bình phương của tốc độ. Xem **Hộp 5.1** để khám phá xem điều này có ý nghĩa như thế nào. 
@@ -99,7 +100,8 @@ Năng lượng biểu hiện ở nhiều dạng khác nhau mà chúng ta sẽ đ
 | Thế năng điện tích    | $qv$              | 15         | Pin, hạt nhân                   |
 | Khối lượng (hạt nhân) | $mc^2$            | 15         | Phân hạch & nhiệt hạch          |
 </div>
-> **Bảng 5.2**: Các dạng năng lượng. Từ dạng này có thể biến đổi sang dạng khác. **Năng lượng hoá học** (*chemial energy*) ở đây được biểu diễn bởi **năng lượng Gibbs** (*Gibbs free energy*)
+
+> **Bảng 5.2**: <i>Các dạng năng lượng. Từ dạng này có thể biến đổi sang dạng khác. **Năng lượng hoá học** (*chemial energy*) ở đây được biểu diễn bởi **năng lượng Gibbs** (*Gibbs free energy*).</i>
 
 Một nguyên lý nền tảng của vật lý là **bảo toàn năng lượng** (*conservation of energy*), mà chúng ta cho rằng sẽ *không bao giờ* bị vi phạm trong bất kì hệ thống nào[^6]. Điều đó có nghĩa rằng năng lượng có thể *chảy* hay **biến đổi từ dạng này sang dạng khác**, nhưng nó **không bao giờ được tạo ra hay mất đi**.
 
@@ -126,7 +128,7 @@ Một nguyên lý nền tảng của vật lý là **bảo toàn năng lượng*
 ![unit-1-light](../../assets/images/unit-1-light.svg#only-light)
 ![unit-1-dark](../../assets/images/unit-1-dark.svg#only-dark)
 
-> **Hình 5.1**: Ví dụ về sự chuyển đổi từ **thế năng** (*P.E*) thành **động năng** (*K.E.*) khi một quả táo rơi từ trên cây. Năng lượng tổng cộng luôn bằng (ở đây là $7\, J$). Quả táo này tăng tốc khi có nhiều động năng hơn (mất đi thế năng). Khi đã rơi xuống mặt đất, năng lượng sẽ chuyển thành $7\, J$ **nhiệt năng** (với nhiệt độ tăng lên không đáng kể).
+> **Hình 5.1**: <i>Ví dụ về sự chuyển đổi từ **thế năng** (*P.E*) thành **động năng** (*K.E.*) khi một quả táo rơi từ trên cây. Năng lượng tổng cộng luôn bằng (ở đây là $7\, J$). Quả táo này tăng tốc khi có nhiều động năng hơn (mất đi thế năng). Khi đã rơi xuống mặt đất, năng lượng sẽ chuyển thành $7\, J$ **nhiệt năng** (với nhiệt độ tăng lên không đáng kể).</i>
 
 Bất kỳ dạng năng lượng nào (ví dụ như trong **Bảng 5.2**) đều có thể chuyển đổi thành dạng khác, trực tiếp hay gián tiếp. Trong mỗi lần chuyển đổi, 100% năng lượng được sử dụng. Nói chung, năng lượng phân nhánh thành nhiều quá trình chuyển đổi, vì vậy chúng ta không đạt được hiệu suất 100% vào quá trình mà chúng ta mong muốn. Ví dụ về con lắc ở trên cuối cùng sẽ truyền năng lượng của nó vào việc khuấy
 động không khí (động năng) và ma sát (nhiệt năng) tại điểm xoay chiều. Không khí được khuấy động cuối cùng chuyển sang nhiệt thông qua ma sát bên trong (ma sát nhớt&mdash;viscous friction) của không khí.
@@ -167,7 +169,7 @@ Mặc dù năng lượng là khả năng thực hiện công nhưng nó không n
 ![unit-2-light](../../assets/images/unit-2-light.svg#only-light)
 ![unit-2-dark](../../assets/images/unit-2-dark.svg#only-dark)
 
-> **Hình 5.2:** Các mức năng lượng khác nhau để so sánh và xây dựng trực giác. Các mục màu xanh lá cây tương ứng với công suất **trao đổi chất** (*metabolism*). Các mục màu tím là các thiết bị và dụng cụ. Các mục màu cam là tổng mức sử dụng năng lượng bình quân đầu người cho xã hội (không tính đến chuyển hóa trao đổi chất). Lưu ý rằng các thiết bị có nhiệm vụ tạo ra nhiệt đòi hỏi nguồn điện lớn nhất. Mục "thiết bị sưởi ấm" là chũng cho những thứ như lò vi sóng, lò nướng bánh mì, máy sưởi gia đình hay máy sấy tóc cắm vào ổ điện. Đừng coi những con số được cung cấp ở đây là tuyệt đối chính xác, vì hầu hết mọi thứ trong hình sẽ thay đổi đôi chút tùy theo từng trường hợp.
+> **Hình 5.2:** <i>Các mức năng lượng khác nhau để so sánh và xây dựng trực giác. Các mục màu xanh lá cây tương ứng với công suất **trao đổi chất** (*metabolism*). Các mục màu tím là các thiết bị và dụng cụ. Các mục màu cam là tổng mức sử dụng năng lượng bình quân đầu người cho xã hội (không tính đến chuyển hóa trao đổi chất). Lưu ý rằng các thiết bị có nhiệm vụ tạo ra nhiệt đòi hỏi nguồn điện lớn nhất. Mục "thiết bị sưởi ấm" là chũng cho những thứ như lò vi sóng, lò nướng bánh mì, máy sưởi gia đình hay máy sấy tóc cắm vào ổ điện. Đừng coi những con số được cung cấp ở đây là tuyệt đối chính xác, vì hầu hết mọi thứ trong hình sẽ thay đổi đôi chút tùy theo từng trường hợp.</i>
 
 Tất nhiên, chúng ta thường áp dụng số nhân $10^3$ (1000 lần) thông thường cho đơn vị để làm cho nó hữu ích hơn. Do đó, chúng ta có lũy tiến W, kW, MW, GW, TW, v.v. Để tham khảo, một khuôn viên trường đại học lớn sẽ cần vài chục MW (megawatt) điện. Một nhà máy điện lớn thường có công suất từ 1–4 GW. Xem **Bảng 5.3** để biết các thang đo mà chúng ta có thể sử
 dụng các hệ số nhân khác nhau.
@@ -182,7 +184,8 @@ dụng các hệ số nhân khác nhau.
 | $10^9$      | GW         | Nhà máy nhiệt điện; thành phố |
 | $10^{12}$     | TW         | Toàn xã hội                   |
 </div>
-> **Bảng 5.3:** Hệ số nhân công suất và qui mô
+
+> **Bảng 5.3:** *Hệ số nhân công suất và qui mô.*
 
 ## 4. Kilowatt giờ (kWh)
 
@@ -263,7 +266,7 @@ Một số người có xu hướng nhầm lẫn giữa kW và kWh [^12]. Kilowa
 ![unit-3-light](../../assets/images/unit-3-light.svg#only-light)
 ![unit-3-dark](../../assets/images/unit-3-dark.svg#only-dark)
 
-> **Hình 5.3:** *Theo định nghĩa về calo, thêm 50 calo vào một gam nước sẽ làm tăng nhiệt độ của nó lên 50°C*
+> **Hình 5.3:** *Theo định nghĩa về calo, thêm 50 calo vào một gam nước sẽ làm tăng nhiệt độ của nó lên 50°C.*
 
 !!! example "Ví dụ 5.5.1" 
     

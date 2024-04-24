@@ -94,6 +94,7 @@ Chúng ta sẽ xây dựng một mô hình bằng cách sử dụng các liên h
 | Đến Thiên hà Andromeda    |    100x   |
 | Đến rìa vũ trụ khả kiến   |   6.000x  |
 </div>
+
 > **Bảng 4.1:** *Khoảng cách theo qui mô. Khoảng cách trong mỗi dòng được tính bằng cách lấy số nhân của dòng đó nhân với toàn bộ số nhân ở các dòng trước*
 
 | Vật thể | Kí hiệu | Bán kính | Khoảng cách (AU) | Khoảng cách tính bằng cách khác |
@@ -183,7 +184,8 @@ Với không gian rộng lớn thế này, thật thiếu thận trọng khi coi
 | Một chỗ đến ISS | $90 Triệu |
 | Sứ mệnh đưa người lên Hoả tinh | $500 Tỷ |
 </div>
-> **Bảng 4.3**: Chi phí ước tính/xấp xỉ, đã điều chỉnh theo lạm phát (đơn vị Đô la Mĩ)
+
+> **Bảng 4.3:** *Chi phí ước tính/xấp xỉ, đã điều chỉnh theo lạm phát (đơn vị Đô la Mĩ).*
 
 ## 2. Câu chuyện sai lầm
 

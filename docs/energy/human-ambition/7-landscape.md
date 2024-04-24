@@ -24,7 +24,7 @@ Phần 1.0 của báo cáo AER là một hình vẽ thể hiện cái nhìn toà
 
 ![landscape-1](../../assets/images/landscape-1.webp)
 
-> **Hình 7.1**: Phân bổ dòng chảy năng lượng ở Hoa Kì năm 2018, được trình bày trong AER. Thật không may, đơn vị là triệu triệu Btu (qBtu). Nguồn: EIA Hoa Kỳ.
+> **Hình 7.1**: *Phân bổ dòng chảy năng lượng ở Hoa Kì năm 2018, được trình bày trong AER. Thật không may, đơn vị là triệu triệu Btu (qBtu). Nguồn: EIA Hoa Kỳ.*
 
 Nhiên liệu đầu vào đến từ bên trái. Chi tiêu hoặc xuất khẩu ở bên phải. Cách biểu diễn này đảm bảo rằng tất cả đầu vào phải khớp với tất cả đầu ra[^1]. Chúng ta có cái nhìn toàn cảnh về những nguồn năng lượng nào chiếm chủ đạo với với những nguồn nhỏ hơn.
 
@@ -79,7 +79,7 @@ Những hiểu biết sâu sắc khác cũng có thể suy ra từ hình vẽ. B
 ![landscape-2-light](../../assets/images/landscape-2-light.svg#only-light)
 ![landscape-2-dark](../../assets/images/landscape-2-dark.svg#only-dark)
 
-> **Hình 7.2:** Theo dõi các nguồn năng lượng và mục đích sử dụng cuối cùng ở Hoa Kỳ năm 2018, từ Phần 2 của báo cáo AER. Các số nhỏ bên cạnh các khối biểu thị tỷ lệ phần trăm. Các số không phải là tỷ lệ phần trăm có đơn vị là qBtu (quads). Nguồn: EIA Hoa Kỳ.
+> **Hình 7.2:** *Theo dõi các nguồn năng lượng và mục đích sử dụng cuối cùng ở Hoa Kỳ năm 2018, từ Phần 2 của báo cáo AER. Các số nhỏ bên cạnh các khối biểu thị tỷ lệ phần trăm. Các số không phải là tỷ lệ phần trăm có đơn vị là qBtu (quads). Nguồn: EIA Hoa Kỳ.*
 
 [^9]:
 
@@ -162,7 +162,7 @@ Hầu hết các nguồn năng lượng tái tạo là từ sinh khối&mdash;gi
 ![landscape-3-light](../../assets/images/landscape-3-light.svg#only-light)
 ![landscape-3-dark](../../assets/images/landscape-3-dark.svg#only-dark)
 
->**Hình 7.3**: Các nguồn năng lượng sử dụng ở Hoa Kì năm 2018 (**Hình 7.6** cho thấy sự phân bổ trên toàn cầu).
+> **Hình 7.3**: *Các nguồn năng lượng sử dụng ở Hoa Kì năm 2018 (**Hình 7.6** cho thấy sự phân bổ trên toàn cầu).*
 
 !!! note "Hộp 7.2: Nhiệt năng tương đương""
 
@@ -179,7 +179,7 @@ Hầu hết các nguồn năng lượng tái tạo là từ sinh khối&mdash;gi
 | **Hoa Kì**   | 27,3        | 34,9        | 0,6        | 19,2         | 7,0           | 6,5          | 2,3             | 1,5           | 0,4           |
 | **Thế giới** | 38,0        | 23,0        | 2,9        | 10,1         | 16,2          | 4,8          | 2,1             | 2,4           | 0.5           |
 
->**Bảng 7.2:** Phần trăm điện được sản xuất từ các nguồn khác nhau ở Hoa Kì và trên thế giới năm 2018. **Sinh khối** (*biomass*) bao gồm củi đốt và chất thải. Dữ liệu từ **Bảng 7.2a** của báo cáo  [AER](https://www.eia.gov/totalenergy/data/annual/index.php) và [IEA](https://www.iea.org/reports/electricity-information-overview)
+> **Bảng 7.2:** <i>Phần trăm điện được sản xuất từ các nguồn khác nhau ở Hoa Kì và trên thế giới năm 2018. **Sinh khối** (*biomass*) bao gồm củi đốt và chất thải. Dữ liệu từ **Bảng 7.2a** trong báo cáo [AER](https://www.eia.gov/totalenergy/data/annual/index.php) và [IEA](https://www.iea.org/reports/electricity-information-overview)</i>
 
 ![lanscape-41-light](../../assets/images/landscape-41-light.svg#only-light)
 ![lanscape-41-dark](../../assets/images/landscape-41-dark.svg#only-dark)
@@ -187,7 +187,7 @@ Hầu hết các nguồn năng lượng tái tạo là từ sinh khối&mdash;gi
 ![lanscape-42-light](../../assets/images/landscape-42-light.svg#only-light)
 ![lanscape-42-dark](../../assets/images/landscape-42-dark.svg#only-dark)
 
->**Hình 7.4:** Lịch sử tiêu thụ năng lượng sơ cấp gần đây ở Hoa Kỳ. Ba loại nhiên liệu hóa thạch và hạt nhân được trình bày riêng biệt, và tất cả nguồn năng lượng tái tạo được nhóm lại với nhau. Lưu ý rằng ở phần cuối của ô, tiêu thụ than đã đã giảm đến mức gần bằng với tiêu các nguồn nhiên liệu tái tạo. Hình thứ hai hiển thị phần trăm của tổng năng lượng. Hầu hết các đồ thị đều khá bằng phẳng, mặc dù trong những năm gần đây câu chuyện chính vẫn việc khí đốt thay thế than đá.
+> **Hình 7.4:** *Lịch sử tiêu thụ năng lượng sơ cấp gần đây ở Hoa Kỳ. Ba loại nhiên liệu hóa thạch và hạt nhân được trình bày riêng biệt, và tất cả nguồn năng lượng tái tạo được nhóm lại với nhau. Lưu ý rằng ở phần cuối của ô, tiêu thụ than đã đã giảm đến mức gần bằng với tiêu các nguồn nhiên liệu tái tạo. Hình thứ hai hiển thị phần trăm của tổng năng lượng. Hầu hết các đồ thị đều khá bằng phẳng, mặc dù trong những năm gần đây câu chuyện chính vẫn việc khí đốt thay thế than đá.*
 
 ### Xu hướng năng lượng
 
@@ -206,7 +206,7 @@ khí đốt đang tiến gần đến dầu trong khi tiêu thụ than giảm m�
 ![lanscape-52-light](../../assets/images/landscape-52-light.svg#only-light)
 ![lanscape-52-dark](../../assets/images/landscape-52-dark.svg#only-dark)
 
-> **Hình 7.5:** Lịch sử tiêu thụ năng lượng phi hóa thạch gần đây ở Hoa Kỳ: Hạt nhân, thủy điện và sinh khối chiếm ưu thế, trong khi điện gió và điện mặt trời đang tăng mạnh. Dấu hoa thị biểu thị nhiệt năng tương đương, như được mô tả trong **Hộp 7.2**. Dữ liệu tương tự được vẽ ở bên phải dưới dạng phần trăm của tổng năng lượng. Bên cạnh sự gia tăng nhanh chóng của năng lượng hạt nhân trong những năm ở giữa hình vẽ, sự gia nhập gần đây của gió và mặt trời (dù chỉ chiếm một vài phần trăm) là những phát triển thú vị nhất.
+> **Hình 7.5:** *Lịch sử tiêu thụ năng lượng phi hóa thạch gần đây ở Hoa Kỳ: Hạt nhân, thủy điện và sinh khối chiếm ưu thế, trong khi điện gió và điện mặt trời đang tăng mạnh. Dấu hoa thị biểu thị nhiệt năng tương đương, như được mô tả trong **Hộp 7.2**. Dữ liệu tương tự được vẽ ở bên phải dưới dạng phần trăm của tổng năng lượng. Bên cạnh sự gia tăng nhanh chóng của năng lượng hạt nhân trong những năm ở giữa hình vẽ, sự gia nhập gần đây của gió và mặt trời (dù chỉ chiếm một vài phần trăm) là những phát triển thú vị nhất.*
 
 Mức tiêu thụ phi hóa thạch trong **Hình 7.5** làm rõ sự phân chia đường cong “năng lượng tái tạo” trong **Hình 7.4**, cùng với điện hạt nhân. Từ đó, chúng ta thấy rằng năng lượng hạt nhân thống trị  năng lượng phi hóa thạch, tăng nhanh từ năm 1970 đến năm 2000 và giữ ổn định kể từ đó. Thủy điện khá ổn định trong 50 năm qua khi các nguồn khác vượt qua và hạ thấp thứ hạng của nó. Sự gia tăng nhiên liệu sinh học vào khoảng năm 1980 dường như chủ yếu là do việc đốt gỗ tăng lên, trong khi sự gia tăng tiếp theo (2000–2010) là do nhiên liệu sinh học&mdash;chủ yếu là xăng ethanol. Điện gió đang đạt mức đóng góp 3% vào tổng ngân sách tiêu dùng ~100 qBtu của Hoa Kì, tăng khoảng 0,2% mỗi năm. Điện mặt trời cũng đang trên đà phát triển, đạt mức 1% gần đây và tăng chậm hơn điện gió. Địa nhiệt đang và sẽ tiếp tục đóng góp rất ít trong sản lượng năng lượng chung.
 
@@ -217,7 +217,7 @@ Không có gì ngạc nhiên khi câu chuyện toàn cầu không khác biệt n
 ![lanscape-6-light](../../assets/images/landscape-6-light.svg#only-light)
 ![lanscape-6-dark](../../assets/images/landscape-6-dark.svg#only-dark)
 
->**Hình 7.6**: Các nguồn năng lượng sử dụng trên toàn thế giới (**Hình 7.3** cho thấy sự phân bổ năng lượng ở Hoa Kì).
+> **Hình 7.6**: *Các nguồn năng lượng sử dụng trên toàn thế giới (**Hình 7.3** cho thấy sự phân bổ năng lượng ở Hoa Kì).*
 
 ![lanscape-71-light](../../assets/images/landscape-71-light.svg#only-light)
 ![lanscape-71-dark](../../assets/images/landscape-71-dark.svg#only-dark)
@@ -225,7 +225,7 @@ Không có gì ngạc nhiên khi câu chuyện toàn cầu không khác biệt n
 ![lanscape-72-light](../../assets/images/landscape-72-light.svg#only-light)
 ![lanscape-72-dark](../../assets/images/landscape-72-dark.svg#only-dark)
 
-> **Hình 7.7:** Lịch sử tiêu thụ năng lượng sơ cấp trên thế giới gần đây. Ba loại nhiên liệu hóa thạch và hạt nhân được trình bày riêng biệt, trong khi các nguồn tái tạo được nhóm lại với nhau. Biểu đồ bên phải hiển thị dữ liệu tương tự dưới dạng phần trăm của tổng năng lượng.
+> **Hình 7.7:** *Lịch sử tiêu thụ năng lượng sơ cấp trên thế giới gần đây. Ba loại nhiên liệu hóa thạch và hạt nhân được trình bày riêng biệt, trong khi các nguồn tái tạo được nhóm lại với nhau. Biểu đồ bên phải hiển thị dữ liệu tương tự dưới dạng phần trăm của tổng năng lượng.*
 
 Đối với những đóng góp của nguồn nhiên liệu phi hóa thạch, **Hình 7.8** cho thấy sự phát triển của những thập kỷ gần đây. Ở đây, chúng ta thấy rằng phần lớn lý do khiến năng lượng tái tạo vượt năng lượng hạt nhân trên toàn cầu là do sinh khối. Điều này nghĩa là vì các quốc gia có mức sống thấp hơn
 thường hay đốt củi và ít có khả năng phát triển điện hạt nhân.
@@ -236,7 +236,7 @@ thường hay đốt củi và ít có khả năng phát triển điện hạt n
 ![lanscape-82-light](../../assets/images/landscape-82-light.svg#only-light)
 ![lanscape-82-dark](../../assets/images/landscape-82-dark.svg#only-dark)
 
-> **Hình 7.8:** Lịch sử tiêu thụ năng lượng phi hóa thạch toàn cầu gần đây. Dấu hoa thị biểu thị nhiệt lượng tương đương, như được mô tả trong **Hộp 7.2**. Biểu đồ bên phải hiển thị các nguồn năng lượng dưới dạng phần trăm của tổng năng lượng. Sinh khối chiếm 1/4 năng lượng toàn cầu vào năm 1950.
+> **Hình 7.8:** *Lịch sử tiêu thụ năng lượng phi hóa thạch toàn cầu gần đây. Dấu hoa thị biểu thị nhiệt lượng tương đương, như được mô tả trong **Hộp 7.2**. Biểu đồ bên phải hiển thị các nguồn năng lượng dưới dạng phần trăm của tổng năng lượng. Sinh khối chiếm 1/4 năng lượng toàn cầu vào năm 1950.*
 
 !!! note "Hộp 7.3: TWh và qBtu"
 
@@ -267,7 +267,7 @@ Phần tổng quan cuối cùng giúp định hình một số cuộc thảo lu�
 ![lanscape-92-dark](../../assets/images/landscape-92-dark.svg#only-dark)
 
 
-> **Hình 7.9:** Hình bên trái kết hợp **Hình 7.4** và **Hình 7.7** để biểu thị tỷ lệ tài nguyên năng lượng được Mỹ tiêu thụ theo thời gian. Bức tranh tổng thể cho thấy một thế giới đang bắt kịp một quốc gia đã sớm đi đầu. Mỹ là một “siêu cường” theo đúng nghĩa đen vào giữa thế kỷ XX. Đường nét đứt ở phía dưới biểu thị tỷ lệ dân số Hoa Kỳ trên thế giới. Điều đó có nghĩa rằng việc sử dụng năng lượng trên đường này cho thấy tỷ trọng lớn hơn mức trung bình của thế giới, mà điều này đúng với tất cả các nguồn năng lượng ở Hoa Kì. Biểu đồ bên phải kết hợp **Hình 7.5** và **Hình 7.8** để biểu thị tỷ lệ tài nguyên năng lượng tái tạo và năng lượng hạt nhân được Hoa Kỳ tiêu thụ theo thời gian. Năng lượng mặt trời và điện gió là đặc trưng của một quốc gia nổi tiếng với sự đổi mới: chúng xuất hiện đầu tiên ở Hoa Kì.
+> **Hình 7.9:** *Hình bên trái kết hợp **Hình 7.4** và **Hình 7.7** để biểu thị tỷ lệ tài nguyên năng lượng được Mỹ tiêu thụ theo thời gian. Bức tranh tổng thể cho thấy một thế giới đang bắt kịp một quốc gia đã sớm đi đầu. Mỹ là một “siêu cường” theo đúng nghĩa đen vào giữa thế kỷ XX. Đường nét đứt ở phía dưới biểu thị tỷ lệ dân số Hoa Kỳ trên thế giới. Điều đó có nghĩa rằng việc sử dụng năng lượng trên đường này cho thấy tỷ trọng lớn hơn mức trung bình của thế giới, mà điều này đúng với tất cả các nguồn năng lượng ở Hoa Kì. Biểu đồ bên phải kết hợp **Hình 7.5** và **Hình 7.8** để biểu thị tỷ lệ tài nguyên năng lượng tái tạo và năng lượng hạt nhân được Hoa Kỳ tiêu thụ theo thời gian. Năng lượng mặt trời và điện gió là đặc trưng của một quốc gia nổi tiếng với sự đổi mới: chúng xuất hiện đầu tiên ở Hoa Kì.*
 
 Đường màu xanh đậm hơn ở phần bên trái của **Hình 7.9** biểu thị tất cả các nguồn năng lượng kết hợp lại. Vào những năm 1950, người Mỹ sử dụng 1/3 tổng năng lượng toàn cầu, tương ứng với gần 8[^20] lần năng lượng trung bình của mỗi người không phải là người Mỹ. Ngày nay, tỷ lệ này gần hơn với 4 lần.
 
