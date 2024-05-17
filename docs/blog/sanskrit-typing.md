@@ -1,0 +1,198 @@
+# Cách gõ chữ Devanāgarī
+
+Bộ gõ **Devanāgarī-QWERTY** được thiết kế sao cho những người đã quen với bố cục bàn phím theo bảng chữ cái Latin QWERTY có thể dễ dàng sử dụng. Phần lớn các chữ cái Devanāgarī được sắp xếp tương ứng với các chữ cái trên bàn phím Latin QWERTY. Bố cục này khá đơn giản và nhất quán, với chỉ một số ít những ngoại lệ.
+
+**Phông chữ tham khảo**: **Sanskrit** (*Sanskr.ttf*) (dùng trong bản hướng dẫn này), **Sanskrit 2003** (*Sanskrit2003.ttf*), [Adishila](https://adishila.com/fonts/), [Tiro Devanagari Sanskrit](https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit).
+
+**Tham khảo thêm**: [Cài bộ gõ khác cho Mac](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Sử dụng trình xem bàn phím](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Hướng dẫn cài đặt font cho Mac](https://maconline.vn/cai-font-cho-mac)
+
+## Nguyên âm (*Vowels*)
+
+Gõ nguyên âm tự nhiên theo bố cục phím QWERTY (trừ âm “a”), kết hợp với phím ++shift++ và ++option++. Trường hợp đặc biệt: <a class="sk">ॠ</a> (ṝ) và <a class="sk">ॡ</a> (ḹ) đòi hỏi giữ (tổ hợp) phím lâu hơn một chút để hiện ra các lựa chọn rồi nhấn số để hoàn thành.
+
+=== "Nguyên âm đơn" 
+
+    | Nguyên âm ngắn                                 |               Nguyên âm dài                           |
+    | -----------------------------------------------| ---------------------------------------------------- |
+    |  ++w++ &#10551; <a class="sk">अ</a> (a)       |  ++shift+w++ &#10551; <a class="sk">आ</a> (ā)       |
+    |  ++shift+i++ &#10551; <a class="sk">इ</a> (i) | ++shift+option+i++ &#10551; <a class="sk">ई</a> (ī) |
+    |  ++option+u++ &#10551; <a class="sk">उ</a> (u) | ++shift+option+u++ &#10551; <a class="sk">ऊ</a> (ū) |
+    |  ++option+r++ &#10551; <a class="sk">ऋ</a> (ṛ)  | ++option+r+1++ &#10551; <a class="sk">ॠ</a> (ṝ) |
+    |  ++l++ &#10551; <a class="sk">ल</a> (l)       | ++l+4++ &#10551; <a class="sk">ॡ</a> (ḹ) |
+
+=== "Phức âm" 
+
+    - ++option+e++ &#10551; <a class="sk">ए</a> (e)
+
+    - ++shift+option+e++ &#10551; <a class="sk">ऐ</a> (ai)
+
+    - ++option+o++ &#10551; <a class="sk">ओ</a> (o)
+
+    - ++shift+option+o++ &#10551; <a class="sk">औ</a> (au)
+
+## Phụ âm (*Consonants*)
+
+Hầu hết các lần nhấn phím (*keystrokes*) phụ âm đều gõ ra một âm tiết (*syllable*) đầy đủ (theo kèm với nguyên âm “a” vốn có)
+
+Phím ++shift++ thường được nhấn kèm để gõ âm tống khí (*aspiration*) hoặc các âm mũi (*nasals)*/âm xuýt (*sibilants*).
+     
+Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*retroflex*), cũng như các âm mũi/âm xuýt bổ sung. 
+
+<!-- https://www.toptal.com/designers/htmlarrows/arrows/ -->
+
+=== "Thanh âm"
+
+    | Không tống khí                                  |               Tống khí                               |
+    | ----------------------------------------------- | ---------------------------------------------------- |
+    |  ++k++ &#10551; <a class="sk">क</a> (ka)        | ++shift+k++ &#10551; <a class="sk">ख</a> (kha)       |
+    |  ++c++ &#10551; <a class="sk">च</a> (ca)        | ++shift+c++ &#10551; <a class="sk">छ</a> (cha)       |
+    |  ++option+t++ &#10551; <a class="sk">ट</a> (ṭa) | ++shift+option+t++ &#10551; <a class="sk">ठ</a> (ṭha) |
+    |  ++t++ &#10551; <a class="sk">त</a> (ta)        | ++shift+t++ &#10551; <a class="sk">थ</a> (tha)        |
+    |  ++p++ &#10551; <a class="sk">प</a> (pa)       | ++shift+p++ &#10551; <a class="sk">फ</a> (pha)        |
+
+=== "Trọc âm"
+
+    | Không tống khí                                  |               Tống khí                               |
+    | ----------------------------------------------- | ---------------------------------------------------- |
+    |  ++g++ &#10551; <a class="sk">ग</a> (ga)        | ++shift+g++ &#10551; <a class="sk">घ</a> (gha)       |
+    |  ++j++ &#10551; <a class="sk">ज</a> (ja)        | ++shift+j++ &#10551; <a class="sk">झ</a> (jha)       |
+    |  ++option+d++ &#10551; <a class="sk">ड</a> (ḍa) | ++shift+option+t++ &#10551; <a class="sk">ढ</a> (ḍha) |
+    |  ++d++ &#10551; <a class="sk">द</a> (da)        | ++shift+t++ &#10551; <a class="sk">ध</a> (dha)        |
+    |  ++b++ &#10551; <a class="sk">ब</a> (kha)       | ++shift+p++ &#10551; <a class="sk">भ</a> (bha)        |
+
+=== "Âm mũi"
+
+    - ++z++ &#10551; <a class="sk">ङ</a> (ṅa)
+
+    - ++option+n++ &#10551; <a class="sk">ञ</a> (ña)
+
+    - ++shift+n++ &#10551; <a class="sk">ण</a> (ṇa)
+
+    - ++n++ &#10551; <a class="sk">न</a> (na)
+
+    - ++m++ &#10551; <a class="sk">म</a> (ma)
+
+=== "Bán nguyên âm"
+
+    - ++y++ &#10551; <a class="sk">य</a> (ya)
+
+    - ++r++ &#10551; <a class="sk">र</a> (ra)
+
+    - ++l++ &#10551; <a class="sk">ल</a> (la)
+
+    - ++v++ &#10551; <a class="sk">व</a> (va)
+
+=== "Âm xuýt"
+
+    - ++shift+s++ &#10551; <a class="sk">श</a> (śa)
+
+    - ++shift+option++ &#10551; <a class="sk">ष</a> (ṣa)
+
+    - ++s++ &#10551; <a class="sk">स</a> (sa)
+
+=== "Khí âm"
+
+    - ++h++ &#10551; <a class="sk">ह</a> (ha)
+
+
+## Phụ âm kết hợp với nguyên âm
+
+Để gõ nguyên âm dài, thường nhấn thêm phím ++shift++ cùng với nguyên âm ngắn (trừ âm “ā”)
+
+=== "ā"
+
+    Vì mỗi phụ âm ở dạng căn bản đã chứa âm “a” đi kèm, nên khi gõ ā chỉ cần thêm một âm <a class="sk">ा</a> (a) nữa (một dấu gạch đứng bên cạnh phụ âm liền trước).
+    
+    ++n+a+m++ &#10551; <a class="sk">नाम</a> (nāma)
+
+=== "i & ī"
+
+    Nhận diện <a class="sk">ि</a> (i) và <a class="sk">ी</a> (ī)
+
+    ++t+i++ &#10551; <a class="sk">त</a> + <a class="sk">ि</a> &#10551; <a class="sk">ति</a> (ti)
+
+    ++d+shift+i++ &#10551; <a class="sk">द</a> + <a class="sk">ी</a> &#10551; <a class="sk">दी</a> (dī)
+
+=== "u & ū"
+
+    Nhận diện <a class="sk">ु</a> (u) và <a class="sk">ू</a> (ū), các dấu móc này đặt ngay dưới phụ âm liền trước.
+
+    ++a+n+u++ &#10551; <a class="sk">अ</a> + <a class="sk">न</a> + <a class="sk">ु</a> &#10551; <a class="sk">अनु</a> (anu)
+
+    ++shift+b+shift+u++ &#10551; <a class="sk">भ</a> + <a class="sk">ू</a> &#10551; <a class="sk">भू</a> (bhū)
+
+=== "e & ai"
+
+    Nhận diện <a class="sk">े</a> (e) và <a class="sk">ै</a> (ai). Dấu gạch chéo nằm ngay trên đầu phụ âm liền trước.
+
+    ++k+e++ &#10551; <a class="sk">क</a> + <a class="sk">े</a> &#10551; <a class="sk">के</a> (ke)
+
+    ++d+shift+e+v+a++ &#10551; <a class="sk">द</a> + <a class="sk">ै</a> + <a class="sk">व</a> &#10551; <a class="sk">दैव</a> (daiva)
+
+=== "o & au"
+
+    Nhận diện <a class="sk">ो</a> (o) và <a class="sk">ौ</a> (au). Dấu gạch đứng và gạch chéo nằm ngay bên cạnh phụ âm liền trước.
+
+    ++g+u+r+o++ &#10551; <a class="sk">ग</a> + <a class="sk">ु</a> + <a class="sk">र</a> + <a class="sk">ो</a>&#10551; <a class="sk">गुरो</a> (guro)
+
+    ++k+shift+o+l++ &#10551; <a class="sk">क</a> + <a class="sk">ौ</a> + <a class="sk">ल</a> &#10551; <a class="sk">कौल</a> (kaula)
+
+=== "ṛ"
+
+    <a class="sk">ऋ</a> (ṛ) đứng trước phụ âm: gõ như bình thường 
+
+    ++option+r+t++ &#10551; <a class="sk">ऋ</a> + <a class="sk">त</a> &#10551; <a class="sk">ऋत</a> (ṛta)
+    
+    <a class="sk">ऋ</a> (ṛ) đứng sau phụ âm: thường được kí hiệu bởi dấu <a class="sk">ृ</a> ngay dưới phụ âm liền trước (tham khảo cách gõ Liên tự phần dưới).
+
+    ++d+shift+r+shift+s+f++ &#10551; <a class="sk">द</a> + <a class="sk">ृ</a> + <a class="sk">श</a> + <a class="sk">्</a> &#10551; <a class="sk">दृश्</a> (dṛś)
+
+
+## Các kí tự đặc biệt
+
+=== "Tuỳ âm"
+
+    | Phân loại                                       |  Ví dụ                                          |
+    | ----------------------------------------------- | ---------------------------------------------------- |
+    | Âm mũi **Anusvara** <a class="sk">ं</a> (ṃ) | ++s+shift+m+g+m++ &#10551; <a class="sk">स</a> + <a class="sk">ं</a> + <a class="sk">ग</a> + <a class="sk">म</a> &#10551; <a class="sk">संगम</a> (saṃgama) |
+    |  Phóng xuất **Visarga** <a class="sk">ः</a> (ḥ) | ++b+l+shift+h++ &#10551; <a class="sk">ब</a> + <a class="sk">ल</a> + <a class="sk">ः</a> &#10551; <a class="sk">बलः</a> (balaḥ) |
+
+=== "Liên tự"
+
+    **Virama** <a class="sk">्</a>, thường được gõ bởi phím ++f++, trước hết lược bỏ nguyên âm “a” luôn đi kèm với phụ âm.
+
+    ++g+m+f++ &#10551; <a class="sk">ग</a> + <a class="sk">म</a> + <a class="sk">्</a>  &#10551; <a class="sk">गम्</a> (gam)
+
+    Từ đó nối các phụ âm trong liên tự từ bằng phím ++f++ 
+
+    ++option+n+f+c++ &#10551; <a class="sk">ञ</a> + <a class="sk">्</a> + <a class="sk">च</a>  &#10551; <a class="sk">ञ्च</a> (ñca)
+
+    ++g+f+shift+d+f+v++ &#10551; <a class="sk">ग</a> + <a class="sk">्</a> + <a class="sk">ध</a> + <a class="sk">्</a> + <a class="sk">च</a> &#10551; <a class="sk">ग्ध्व</a> (gdhva)
+
+    <!-- Chú ý trường hợp r đứng trước phụ âm (Phần VIII, Liên tự, Phụ lục Giáo trình Phạn Văn) र् -->         
+
+    **Avagraha**: ++option+single-quote++ &#10551; <a class="sk">ऽ</a>
+
+=== "Dấu ngắt"
+
+    **Danda**: dùng để ngắt câu kệ hay bài văn 
+    
+    ++period++ &#10551; <a class="sk">।</a> 
+    
+    ++shift+option+period++ &#10551; <a class="sk">॥</a>
+
+=== "Viết tắt"
+    
+    Nhiều kí tự và liên tự quen thuộc có thể được viết tắt:
+
+    ++x++ &#10551; <a class="sk">ष</a> (ṣ)
+
+    ++z++ &#10551; <a class="sk">ङ</a> (ñ)
+
+    ++shift+x++ &#10551; <a class="sk">क्ष</a> (kṣ)
+
+    ++option+s++ &#10551; <a class="sk">श्र</a> (śr)
+
+    ++option+j++ &#10551; <a class="sk">ज्ञ</a> (jñ)
+
+    Chữ cái trong bảng Latin cũng có thể được viết bằng cách nhấn ++caps-lock++ thay vì chuyển bộ gõ.

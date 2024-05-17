@@ -43,6 +43,13 @@
     src: url("../fonts/CN-Le.ttf")
 }
 
+@font-face {
+    font-family: "Sanskrit"; 
+    font-weight: normal; 
+    font-style: normal;
+    src: url("../fonts/Sanskr.ttf")
+}
+
 :root {
     --md-text-font: "Literata";
     --md-code-font: "Literata";
@@ -238,6 +245,31 @@ html .md-typeset details>:last-child {
     /* border-top: .05rem solid var(--md-typeset-table-color); */
     padding: 0.1rem 0.25rem;
     /* vertical-align: top; */
+}
+
+.md-typeset .tabbed-labels > label {
+    font-size: 1rem;
+  }
+
+@media screen {
+    .js .md-typeset .tabbed-labels::before {
+        height: 3px;
+    }
+} 
+
+.md-typeset__scrollwrap {
+    margin: 1rem !important;
+}
+
+.md-typeset .tabbed-control {
+    height: 3rem;
+}
+
+.md-typeset kbd {
+    border-radius: 0.3rem;
+    font-size: 0.85em;
+    padding: 0 0.4em;
+    vertical-align: text-top;
 }
 
 .row-content {
@@ -492,6 +524,14 @@ video {
     font-family: "CN-LE", serif, DFKai-SB, Arial;
     font-size: 1.7rem;
     line-height: 1.45rem;
+    /* font-weight: 300; */
+    /* letter-spacing: 0.1rem; */
+}
+
+.sk {
+    font-family: "Sanskrit", Arial;
+    font-size: 1.6rem;
+    line-height: 2rem;
     /* font-weight: 300; */
     /* letter-spacing: 0.1rem; */
 }
