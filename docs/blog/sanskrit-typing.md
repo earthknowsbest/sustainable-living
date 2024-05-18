@@ -195,7 +195,7 @@ Tổ hợp phím ++shift+option++ cho phép viết các phụ âm cong lưỡi (
 
 === "Dấu ngắt"
 
-    **Daṇḍa**: dùng để ngắt câu kệ hay bài văn. 
+    **Daṇḍa**: dùng để ngắt câu kệ hay đoạn văn. 
     
     ++period++ &#10551; <a class="sk">।</a> 
     
