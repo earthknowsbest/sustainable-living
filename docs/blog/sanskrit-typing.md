@@ -2,6 +2,22 @@
 
 Bộ gõ **Devanāgarī-QWERTY** được thiết kế sao cho những người đã quen với bố cục bàn phím theo bảng chữ cái Latin QWERTY có thể dễ dàng sử dụng. Phần lớn các chữ cái Devanāgarī được sắp xếp tương ứng với các chữ cái trên bàn phím Latin QWERTY. Bố cục này khá đơn giản và nhất quán, với chỉ một số ít những ngoại lệ.
 
+=== "Devanāgarī"
+    
+    ![devanagari-normal](../assets/images/keyboard/devanagari-normal.webp)
+
+=== "++shift++"
+    
+    ![devanagari-shift](../assets/images/keyboard/devanagari-shift.webp)
+
+=== "++option++"
+    
+    ![devanagari-option](../assets/images/keyboard/devanagari-altgr.webp)
+
+=== "++shift+option++"
+    
+    ![devanagari-shift-option](../assets/images/keyboard/devanagari-shift&option.webp)
+
 **Phông chữ tham khảo**: **Sanskrit** (*Sanskr.ttf*) (dùng trong bản hướng dẫn này), **Sanskrit 2003** (*Sanskrit2003.ttf*), [Adishila](https://adishila.com/fonts/), [Tiro Devanagari Sanskrit](https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit).
 
 **Tham khảo thêm**: [Cài bộ gõ khác cho Mac](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Sử dụng trình xem bàn phím](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Hướng dẫn cài đặt font cho Mac](https://maconline.vn/cai-font-cho-mac)
@@ -48,7 +64,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
     |  ++c++ &#10551; <a class="sk">च</a> (ca)        | ++shift+c++ &#10551; <a class="sk">छ</a> (cha)       |
     |  ++option+t++ &#10551; <a class="sk">ट</a> (ṭa) | ++shift+option+t++ &#10551; <a class="sk">ठ</a> (ṭha) |
     |  ++t++ &#10551; <a class="sk">त</a> (ta)        | ++shift+t++ &#10551; <a class="sk">थ</a> (tha)        |
-    |  ++p++ &#10551; <a class="sk">प</a> (pa)       | ++shift+p++ &#10551; <a class="sk">फ</a> (pha)        |
+    |  ++p++ &#10551; <a class="sk">प</a> (pa)        | ++shift+p++ &#10551; <a class="sk">फ</a> (pha)        |
 
 === "Trọc âm"
 
@@ -56,9 +72,9 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
     | ----------------------------------------------- | ---------------------------------------------------- |
     |  ++g++ &#10551; <a class="sk">ग</a> (ga)        | ++shift+g++ &#10551; <a class="sk">घ</a> (gha)       |
     |  ++j++ &#10551; <a class="sk">ज</a> (ja)        | ++shift+j++ &#10551; <a class="sk">झ</a> (jha)       |
-    |  ++option+d++ &#10551; <a class="sk">ड</a> (ḍa) | ++shift+option+t++ &#10551; <a class="sk">ढ</a> (ḍha) |
-    |  ++d++ &#10551; <a class="sk">द</a> (da)        | ++shift+t++ &#10551; <a class="sk">ध</a> (dha)        |
-    |  ++b++ &#10551; <a class="sk">ब</a> (kha)       | ++shift+p++ &#10551; <a class="sk">भ</a> (bha)        |
+    |  ++option+d++ &#10551; <a class="sk">ड</a> (ḍa) | ++shift+option+d++ &#10551; <a class="sk">ढ</a> (ḍha) |
+    |  ++d++ &#10551; <a class="sk">द</a> (da)        | ++shift+d++ &#10551; <a class="sk">ध</a> (dha)        |
+    |  ++b++ &#10551; <a class="sk">ब</a> (kha)       | ++shift+b++ &#10551; <a class="sk">भ</a> (bha)        |
 
 === "Âm mũi"
 
@@ -147,6 +163,10 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
     ++d+shift+r+shift+s+f++ &#10551; <a class="sk">द</a> + <a class="sk">ृ</a> + <a class="sk">श</a> + <a class="sk">्</a> &#10551; <a class="sk">दृश्</a> (dṛś)
 
+    **Lưu ý:** phân biệt với r là phụ âm đi trước một phụ âm khác được kí hiệu là là dấu móc ngay trên phụ âm kề sau trong liên tự.
+    
+    ++r+f+k++ &#10551; <a class="sk">र</a> + <a class="sk">्</a> + <a class="sk">क</a> &#10551; <a class="sk">र्क</a> (rka)
+
 
 ## Các kí tự đặc biệt
 
@@ -154,12 +174,12 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
     | Phân loại                                       |  Ví dụ                                          |
     | ----------------------------------------------- | ---------------------------------------------------- |
-    | Âm mũi **Anusvara** <a class="sk">ं</a> (ṃ) | ++s+shift+m+g+m++ &#10551; <a class="sk">स</a> + <a class="sk">ं</a> + <a class="sk">ग</a> + <a class="sk">म</a> &#10551; <a class="sk">संगम</a> (saṃgama) |
+    | Âm mũi **Anusvāra** <a class="sk">ं</a> (ṃ) | ++s+shift+m+g+m++ &#10551; <a class="sk">स</a> + <a class="sk">ं</a> + <a class="sk">ग</a> + <a class="sk">म</a> &#10551; <a class="sk">संगम</a> (saṃgama) |
     |  Phóng xuất **Visarga** <a class="sk">ः</a> (ḥ) | ++b+l+shift+h++ &#10551; <a class="sk">ब</a> + <a class="sk">ल</a> + <a class="sk">ः</a> &#10551; <a class="sk">बलः</a> (balaḥ) |
 
 === "Liên tự"
 
-    **Virama** <a class="sk">्</a>, thường được gõ bởi phím ++f++, trước hết lược bỏ nguyên âm “a” luôn đi kèm với phụ âm.
+    **Virāma** <a class="sk">्</a>, thường được gõ bởi phím ++f++, trước hết lược bỏ nguyên âm “a” luôn đi kèm với phụ âm.
 
     ++g+m+f++ &#10551; <a class="sk">ग</a> + <a class="sk">म</a> + <a class="sk">्</a>  &#10551; <a class="sk">गम्</a> (gam)
 
@@ -175,7 +195,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
 === "Dấu ngắt"
 
-    **Danda**: dùng để ngắt câu kệ hay bài văn 
+    **Daṇḍa**: dùng để ngắt câu kệ hay bài văn 
     
     ++period++ &#10551; <a class="sk">।</a> 
     
@@ -196,3 +216,41 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
     ++option+j++ &#10551; <a class="sk">ज्ञ</a> (jñ)
 
     Chữ cái trong bảng Latin cũng có thể được viết bằng cách nhấn ++caps-lock++ thay vì chuyển bộ gõ.
+
+## Cách gõ kí tự IAST
+
+Sử dụng bộ gõ **English ABC India** để nhập kí tự Latin theo [hệ thống IAST](https://vi.wikipedia.org/wiki/IAST) (Bảng chữ cái chuẩn quốc tế kí âm Latin Phạn ngữ) 
+
+=== "QWERTY"
+    
+    ![IAST-normal](../assets/images/keyboard/iast.webp)
+
+=== "++option++"
+    
+    ![IAST-shift](../assets/images/keyboard/iast-shift.webp)
+
+Cách sử tổ hợp phím để tạo kí tự IAST:
+
+=== "Nguyên âm dài"
+
+    Nhấn tổ hợp ++option+a++ kèm nguyên âm.
+
+    ++option+a+a++ &#10551; ā | ++option+a+i++ &#10551; ī
+
+    ++option+a+u++ &#10551; ū | ++option+a+r++ &#10551; ṝ
+
+=== "Âm mũi"
+
+    Nhấn tổ hợp ++option+x++ kèm âm tiết cho dấu chấm dưới:
+
+    ++option+x+t++ &#10551; ṭ  | ++option+x+n++ &#10551; ṇ
+
+    ++option+x+r++ &#10551; ṛ | ++option+x+l++ &#10551; ḷ
+
+    ++option+x+r++ &#10551; ṃ | ++option+x+l++ &#10551; ṣ
+
+=== "Kí tự khác"
+
+    Dấu sắc trên: ++option+e+s++ &#10551; ś
+
+    Dấu ngã trên: ++option+n+n++ &#10551; ñ
