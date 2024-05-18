@@ -1,6 +1,6 @@
-# Cách gõ chữ Devanāgarī
+# Cách gõ chữ Thiên Thành
 
-Bộ gõ **Devanāgarī-QWERTY** được thiết kế sao cho những người đã quen với bố cục bàn phím theo bảng chữ cái Latin QWERTY có thể dễ dàng sử dụng. Phần lớn các chữ cái Devanāgarī được sắp xếp tương ứng với các chữ cái trên bàn phím Latin QWERTY. Bố cục này khá đơn giản và nhất quán, với chỉ một số ít những ngoại lệ.
+Bộ gõ **Devanāgarī-QWERTY** trên MacOS được thiết kế sao cho những người đã quen với bố cục bàn phím theo bảng chữ cái Latin QWERTY có thể dễ dàng sử dụng. Phần lớn các chữ cái **Thiên Thành** (*Devanāgarī*) được sắp xếp tương ứng với các chữ cái trên bàn phím Latin. Bố cục này khá đơn giản và nhất quán, với chỉ một số ít những ngoại lệ.
 
 === "Devanāgarī"
     
@@ -18,7 +18,7 @@ Bộ gõ **Devanāgarī-QWERTY** được thiết kế sao cho những người 
     
     ![devanagari-shift-option](../assets/images/keyboard/devanagari-shift&option.webp)
 
-**Phông chữ tham khảo**: **Sanskrit** (*Sanskr.ttf*) (dùng trong bản hướng dẫn này), **Sanskrit 2003** (*Sanskrit2003.ttf*), [Adishila](https://adishila.com/fonts/), [Tiro Devanagari Sanskrit](https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit).
+**Font chữ tham khảo**: **Sanskrit** (*Sanskr.ttf*) (dùng trong bản hướng dẫn này), **Sanskrit 2003** (*Sanskrit2003.ttf*), [Adishila](https://adishila.com/fonts/), [Tiro Devanagari Sanskrit](https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit). So sánh font chữ: [pdf](../assets/docs/Sanskrit-font-test.pdf), [docx](../assets/docs/Sanskrit-font-test.docx).
 
 **Tham khảo thêm**: [Cài bộ gõ khác cho Mac](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Sử dụng trình xem bàn phím](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Hướng dẫn cài đặt font cho Mac](https://maconline.vn/cai-font-cho-mac)
 
@@ -48,7 +48,7 @@ Gõ nguyên âm tự nhiên theo bố cục phím QWERTY (trừ âm “a”), k�
 
 ## Phụ âm (*Consonants*)
 
-Hầu hết các lần nhấn phím (*keystrokes*) phụ âm đều gõ ra một âm tiết (*syllable*) đầy đủ (theo kèm với nguyên âm “a” vốn có)
+Hầu hết các lần nhấn phím (*keystrokes*) phụ âm đều gõ ra một âm tiết (*syllable*) đầy đủ (theo kèm với nguyên âm “a” vốn có).
 
 Phím ++shift++ thường được nhấn kèm để gõ âm tống khí (*aspiration*) hoặc các âm mũi (*nasals)*/âm xuýt (*sibilants*).
      
@@ -74,7 +74,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
     |  ++j++ &#10551; <a class="sk">ज</a> (ja)        | ++shift+j++ &#10551; <a class="sk">झ</a> (jha)       |
     |  ++option+d++ &#10551; <a class="sk">ड</a> (ḍa) | ++shift+option+d++ &#10551; <a class="sk">ढ</a> (ḍha) |
     |  ++d++ &#10551; <a class="sk">द</a> (da)        | ++shift+d++ &#10551; <a class="sk">ध</a> (dha)        |
-    |  ++b++ &#10551; <a class="sk">ब</a> (kha)       | ++shift+b++ &#10551; <a class="sk">भ</a> (bha)        |
+    |  ++b++ &#10551; <a class="sk">ब</a> (ba)       | ++shift+b++ &#10551; <a class="sk">भ</a> (bha)        |
 
 === "Âm mũi"
 
@@ -119,7 +119,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
     Vì mỗi phụ âm ở dạng căn bản đã chứa âm “a” đi kèm, nên khi gõ ā chỉ cần thêm một âm <a class="sk">ा</a> (a) nữa (một dấu gạch đứng bên cạnh phụ âm liền trước).
     
-    ++n+a+m++ &#10551; <a class="sk">नाम</a> (nāma)
+    ++n+a+m++ &#10551; <a class="sk">न</a> + <a class="sk">ा</a> + <a class="sk">म</a> &#10551; <a class="sk">नाम</a> (nāma)
 
 === "i & ī"
 
@@ -143,7 +143,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
     ++k+e++ &#10551; <a class="sk">क</a> + <a class="sk">े</a> &#10551; <a class="sk">के</a> (ke)
 
-    ++d+shift+e+v+a++ &#10551; <a class="sk">द</a> + <a class="sk">ै</a> + <a class="sk">व</a> &#10551; <a class="sk">दैव</a> (daiva)
+    ++d+shift+e+v++ &#10551; <a class="sk">द</a> + <a class="sk">ै</a> + <a class="sk">व</a> &#10551; <a class="sk">दैव</a> (daiva)
 
 === "o & au"
 
@@ -163,7 +163,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
     ++d+shift+r+shift+s+f++ &#10551; <a class="sk">द</a> + <a class="sk">ृ</a> + <a class="sk">श</a> + <a class="sk">्</a> &#10551; <a class="sk">दृश्</a> (dṛś)
 
-    **Lưu ý:** phân biệt với r là phụ âm đi trước một phụ âm khác được kí hiệu là là dấu móc ngay trên phụ âm kề sau trong liên tự.
+    **Lưu ý:** phân biệt với <a class="sk">र</a> (ra) là một phụ âm, khi đi trước một phụ âm khác được kí hiệu bằng dấu móc đặt ngay trên phụ âm tiếp đó trong liên tự.
     
     ++r+f+k++ &#10551; <a class="sk">र</a> + <a class="sk">्</a> + <a class="sk">क</a> &#10551; <a class="sk">र्क</a> (rka)
 
@@ -195,7 +195,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
 === "Dấu ngắt"
 
-    **Daṇḍa**: dùng để ngắt câu kệ hay bài văn 
+    **Daṇḍa**: dùng để ngắt câu kệ hay bài văn. 
     
     ++period++ &#10551; <a class="sk">।</a> 
     
@@ -203,7 +203,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
 === "Viết tắt"
     
-    Nhiều kí tự và liên tự quen thuộc có thể được viết tắt:
+    Nhiều kí tự và liên tự quen thuộc có thể được viết tắt.
 
     ++x++ &#10551; <a class="sk">ष</a> (ṣ)
 
@@ -219,7 +219,7 @@ Tổ hợp phím ++shift+option++ cho phép gõ các phụ âm cong lưỡi (*re
 
 ## Cách gõ kí tự IAST
 
-Sử dụng bộ gõ **English ABC India** để nhập kí tự Latin theo [hệ thống IAST](https://vi.wikipedia.org/wiki/IAST) (Bảng chữ cái chuẩn quốc tế kí âm Latin Phạn ngữ) 
+Sử dụng bộ gõ **English ABC India** để nhập kí tự Latin theo [hệ thống IAST](https://vi.wikipedia.org/wiki/IAST) (Bảng chữ cái chuẩn quốc tế kí âm Latin Phạn ngữ). 
 
 === "QWERTY"
     
@@ -229,7 +229,7 @@ Sử dụng bộ gõ **English ABC India** để nhập kí tự Latin theo [h�
     
     ![IAST-shift](../assets/images/keyboard/iast-shift.webp)
 
-Cách sử tổ hợp phím để tạo kí tự IAST:
+Cách sử tổ hợp phím để tạo kí tự IAST như sau:
 
 === "Nguyên âm dài"
 
