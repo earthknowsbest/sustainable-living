@@ -22,9 +22,9 @@ Bộ gõ **Devanāgarī-QWERTY** trên MacOS[^1] được thiết kế sao cho n
     
     ![devanagari-shift-option](../assets/images/keyboard/devanagari-shift&option.webp)
 
-**Font chữ tham khảo**: **Sanskrit** (*Sanskr.ttf*) (dùng trong bản hướng dẫn này), **Sanskrit 2003** (*Sanskrit2003.ttf*), [Adishila](https://adishila.com/fonts/), [Tiro Devanagari Sanskrit](https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit). So sánh font chữ: [pdf](../assets/docs/Sanskrit-font-test.pdf), [docx](../assets/docs/Sanskrit-font-test.docx).
+**Font chữ tham khảo**: **Sanskrit Text** (*Sanskr.ttf*) (dùng trong bản hướng dẫn này), **Sanskrit 2003** (*Sanskrit2003.ttf*), [Adishila](https://adishila.com/fonts/), [Tiro Devanagari Sanskrit](https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit). So sánh font chữ: [pdf](../assets/docs/Sanskrit-font-test.pdf), [docx](../assets/docs/Sanskrit-font-test.docx).
 
-**Tham khảo thêm**: [Cài bộ gõ khác cho Mac](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Sử dụng trình xem bàn phím](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Hướng dẫn cài đặt font cho Mac](https://maconline.vn/cai-font-cho-mac).
+**Tham khảo thêm**: [Cài bộ gõ khác cho MacOS](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Sử dụng trình xem bàn phím](https://support.apple.com/vi-vn/guide/mac-help/mchlp1406/mac), [Hướng dẫn cài đặt font cho MacOS](https://maconline.vn/cai-font-cho-mac).
 
 ## Nguyên âm (*Vowels*)
 
