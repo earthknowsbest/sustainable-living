@@ -8,19 +8,23 @@ Bộ gõ **Devanāgarī-QWERTY** trên MacOS[^1] được thiết kế sao cho n
 
 === "Devanāgarī"
     
-    ![devanagari-normal](../assets/images/keyboard/devanagari-normal.webp)
+    ![devanagari-normal](../assets/images/keyboard/dev.webp#only-light)
+    ![devanagari-normal-dark](../assets/images/keyboard/dev-dark.webp#only-dark)
 
 === "++shift++"
     
-    ![devanagari-shift](../assets/images/keyboard/devanagari-shift.webp)
+    ![devanagari-shift](../assets/images/keyboard/dev-shift.webp#only-light)
+    ![devanagari-shift-dark](../assets/images/keyboard/dev-shift-dark.webp#only-dark)
 
 === "++option++"
     
-    ![devanagari-option](../assets/images/keyboard/devanagari-altgr.webp)
+    ![devanagari-option](../assets/images/keyboard/dev-opt.webp#only-light)
+    ![devanagari-option-dark](../assets/images/keyboard/dev-opt-dark.webp#only-dark)
 
 === "++shift+option++"
     
-    ![devanagari-shift-option](../assets/images/keyboard/devanagari-shift&option.webp)
+    ![devanagari-shift-option](../assets/images/keyboard/dev-shift-opt.webp#only-light)
+    ![devanagari-shift-option-dark](../assets/images/keyboard/dev-shift-opt-dark.webp#only-dark)
 
 **Font chữ tham khảo**: **Sanskrit Text** (*Sanskr.ttf*) (dùng trong bản hướng dẫn này), **Sanskrit 2003** (*Sanskrit2003.ttf*), [Adishila](https://adishila.com/fonts/), [Tiro Devanagari Sanskrit](https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit). So sánh font chữ: [pdf](../assets/docs/Sanskrit-font-test.pdf), [docx](../assets/docs/Sanskrit-font-test.docx).
 
@@ -231,11 +235,13 @@ Sử dụng bộ gõ **English ABC-India** (được cài đặt trong sẵn tro
 
 === "QWERTY"
     
-    ![IAST-normal](../assets/images/keyboard/iast.webp)
+    ![IAST](../assets/images/keyboard/india.webp#only-light)
+    ![IAST-dark](../assets/images/keyboard/india-dark.webp#only-dark)
 
 === "++option++"
     
-    ![IAST-shift](../assets/images/keyboard/iast-shift.webp)
+    ![IAST-option](../assets/images/keyboard/india-opt.webp#only-light)
+    ![IAST-option-dark](../assets/images/keyboard/india-opt-dark.webp#only-dark)
 
 Cách sử tổ hợp phím để tạo kí tự IAST như sau:
 
