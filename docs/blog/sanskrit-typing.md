@@ -1,6 +1,10 @@
 # Cách viết chữ Thiên Thành
 
-Bộ gõ **Devanāgarī-QWERTY** trên MacOS được thiết kế sao cho những người đã quen với bố cục bàn phím theo bảng chữ cái Latin QWERTY có thể dễ dàng sử dụng. Phần lớn các chữ cái **Thiên Thành** (*Devanāgarī*) được sắp xếp tương ứng với các chữ cái trên bàn phím Latin. Bố cục này khá đơn giản và nhất quán, với chỉ một số ít những ngoại lệ.
+Bộ gõ **Devanāgarī-QWERTY** trên MacOS[^1] được thiết kế sao cho những người đã quen với bố cục bàn phím theo bảng chữ cái Latin QWERTY có thể dễ dàng sử dụng. Phần lớn các chữ cái **Thiên Thành** (*Devanāgarī*) được sắp xếp tương ứng với các chữ cái trên bàn phím Latin. Bố cục này khá đơn giản và nhất quán, với chỉ một số ít những ngoại lệ.
+
+[^1]:
+
+    Bộ gõ đã có sẵn trong MacOS. Khi thêm bộ gõ mới, tìm kiếm từ khoá “devagari”, chọn bộ gõ **Hindi** > **Devanagari – QWERTY**
 
 === "Devanāgarī"
     
@@ -219,7 +223,11 @@ Tổ hợp phím ++shift+option++ cho phép viết các phụ âm cong lưỡi (
 
 ## Cách viết kí tự IAST
 
-Sử dụng bộ gõ **English ABC India** (được cài đặt trong sẵn trong MacOS) để nhập kí tự Latin theo [hệ thống IAST](https://vi.wikipedia.org/wiki/IAST) (Bảng chữ cái chuẩn quốc tế kí âm Latin Phạn ngữ). 
+Sử dụng bộ gõ **English ABC-India** (được cài đặt trong sẵn trong MacOS)[^2] để nhập kí tự Latin theo [hệ thống IAST](https://vi.wikipedia.org/wiki/IAST) (Bảng chữ cái chuẩn quốc tế kí âm Latin Phạn ngữ). 
+
+[^2]:
+
+    Khi thêm bộ gõ mới, tìm kiếm từ khoá “english”, chọn bộ gõ **English** > **ABC – India**
 
 === "QWERTY"
     
