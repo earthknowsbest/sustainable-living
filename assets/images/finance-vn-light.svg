@@ -1,0 +1,41 @@
+<svg style='scaling-svg' viewBox="0 0 642 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="finance-vn">
+            <polyline id="Stroke-4" stroke="#055592" stroke-width="1.827" stroke-linejoin="round" points="321 125 321 141.50081 548 141.50081 548 158"></polyline>
+            <line x1="320.99" y1="125" x2="321.01" y2="158" id="Stroke-5" stroke="#055592" stroke-width="1.827" stroke-linejoin="round"></line>
+            <polyline id="Stroke-6" stroke="#055592" stroke-width="1.827" stroke-linejoin="round" points="321 125 321 141.50081 94 141.50081 94 158"></polyline>
+            <polygon id="Fill-7" fill="#055592" points="161 125 480 125 480 0 161 0"></polygon>
+            <polygon id="Fill-8" fill="#E6C1AB" points="0 237 188 237 188 158 0 158"></polygon>
+            <polygon id="Fill-9" fill="#FAA73A" points="0 237 188 237 188 158 0 158"></polygon>
+            <polygon id="Fill-10" fill="#E6C1AB" points="227 237 415 237 415 158 227 158"></polygon>
+            <polygon id="Fill-11" fill="#FAA73A" points="227 237 415 237 415 158 227 158"></polygon>
+            <polygon id="Fill-12" fill="#E6C1AB" points="454 237 642 237 642 158 454 158"></polygon>
+            <polygon id="Fill-13" fill="#FAA73A" points="454 237 642 237 642 158 454 158"></polygon>
+            <text id="NHU-CẦU-TÀI-CHÍNH-36" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" letter-spacing="-0.00377830779" fill="#FFF9EA">
+                <tspan x="235.813366" y="35">NHU CẦU TÀI CHÍNH</tspan>
+                <tspan x="263.253107" y="57" font-size="20" letter-spacing="-0.00472288474">368 tỷ USD</tspan>
+                <tspan x="377.746893" y="53"></tspan>
+                <tspan x="196.851788" y="76">Thích ứng: 4,7% GDP mỗi năm </tspan>
+                <tspan x="191.076334" y="94">Khử carbon: 2,1% GDP mỗi năm</tspan>
+            </text>
+            <text id="KHU-VỰC-TƯ-NHÂN-184" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" letter-spacing="-0.00377830779" fill="#3D1818">
+                <tspan x="17.6455248" y="182">KHU VỰC TƯ NHÂN</tspan>
+                <tspan x="35.7531066" y="204" font-family="LucidaGrande-Bold, Lucida Grande" font-size="20" font-weight="bold" letter-spacing="-0.00472288474">184 tỷ USD</tspan>
+                <tspan x="150.246893" y="200"></tspan>
+                <tspan x="14.6414906" y="223">~3,4% GDP mỗi năm</tspan>
+            </text>
+            <text id="KHU-VỰC-CÔNG-130-tỷ" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" letter-spacing="-0.00377830779" fill="#3D1818">
+                <tspan x="256.057826" y="182">KHU VỰC CÔNG</tspan>
+                <tspan x="260.753107" y="204" font-family="LucidaGrande-Bold, Lucida Grande" font-size="20" font-weight="bold" letter-spacing="-0.00472288474">130 tỷ USD</tspan>
+                <tspan x="375.246893" y="200"></tspan>
+                <tspan x="239.641491" y="223">~2,4% GDP mỗi năm</tspan>
+            </text>
+            <text id="BÊN-NGOÀI-54-tỷ-USD" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" letter-spacing="-0.00377830779" fill="#3D1818">
+                <tspan x="505.907627" y="182">BÊN NGOÀI</tspan>
+                <tspan x="498.347425" y="204" font-family="LucidaGrande-Bold, Lucida Grande" font-size="20" font-weight="bold" letter-spacing="-0.00472288474">54 tỷ USD</tspan>
+                <tspan x="599.652575" y="200"></tspan>
+                <tspan x="478.227556" y="223">~1% GDP mỗi năm</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
