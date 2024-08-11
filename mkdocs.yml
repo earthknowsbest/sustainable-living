@@ -60,7 +60,9 @@ nav:
       - Hiệu quả năng lượng: energy/renewables/energy-efficiency.md
   - Kinh tế:
     - Xã hội hữu cơ: economics/superorganism.md
-    - Kinh tế Phật giáo: economics/buddhist-econ.md
+    - Kinh tế Phật giáo: 
+      - Tổng quan: economics/buddhist/buddhist-econ.md
+      - Giới thiệu: economics/buddhist/chap-1.md
     - Địa phương hoá: economics/localization.md
     - Tăng trưởng xanh: economics/green-growth.md
     - Kinh tế xã hội: economics/why-socialism.md
