@@ -15,12 +15,15 @@ Cách thức hoạt động của tanha có thể được nhìn thấy ở nhu 
 Cả kinh tế học hiện đại và Phật giáo đều đồng ý rằng nhân loại có những ham muốn vô hạn. Như Đức Phật đã nói: “Không dòng sông nào đắm chìm bằng sông ái dục”. (Dh.251[^1]) Sông đôi khi có thể lấp đầy bờ, nhưng ước muốn của con người thì không bao giờ có thể lấp đầy được. Giả sử mưa xuống bạc vàng cũng chẳng làm thỏa mãn lòng tham dục (Dh.186[^2]). Đức Phật cũng nói rằng ngay cả khi người ta có thể dùng phép thuật biến một ngọn núi thành hai ngọn núi bằng vàng ròng, điều đó cũng không mang lại sự hài lòng trọn vẹn và lâu dài cho một người (S.I.117). Có rất nhiều giáo lý trong truyền thống Phật giáo mô tả bản chất vô hạn của ham muốn con người. Ở đây tôi muốn kể lại một câu chuyện xuất hiện trong truyện Jātaka (J.II.310)[^3].
 
 [^1]:
+    
     Kinh pháp cú (Dhammapada) số 251. HT.Thích Thiện Siêu và HT. Thích Minh Châu.
  
 [^2]:
+    
     Kinh pháp cú (Dhammapada) số 186. HT.Thích Thiện Siêu và HT. Thích Minh Châu.
 
 [^3]:
+    
     Kinh bản sinh, hay truyện về tiền thân Đức Phật. 
 
 Trong quá khứ xa xưa có một vị vua tên là Mandhatu. Ông là một người cai trị rất quyền lực, một vị hoàng đế được biết đến trong truyền thuyết vì đã sống rất lâu. Mandhatu có tất cả những phẩm chất hạng nhất của một vị đế vương; ông là một con người đặc biệt có mọi thứ mà bất cứ ai cũng mong ước: ông là hoàng tử trong 84.000 năm, sau đó là người thừa kế trong 84.000 năm, và sau đó là hoàng đế trong 84.000 năm.
