@@ -65,8 +65,11 @@ nav:
     - Phật giáo: economics/buddhist-econ.md
     # - Kinh tế xã hội: economics/why-socialism.md
     - Kinh tế Phật giáo: 
-      - Tổng quan: economics/buddhist/intro.md
-      - Giới hạn: economics/buddhist/limitations.md
+      - Giới thiệu: economics/buddhist/intro.md
+      - Hạn chế: economics/buddhist/limitations.md
+      - Đặc điểm: economics/buddhist/middle-way
+      .md
+      - Tổng kết: economics/buddhist/summary.md
       # - Chương 2: economics/buddhist/chap-2.md
     - Cái giá phải trả: 
       - Lịch sử: economics/expenses/history.md
