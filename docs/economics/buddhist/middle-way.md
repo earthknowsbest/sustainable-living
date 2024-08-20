@@ -209,9 +209,9 @@ Hai yếu tố tiếp theo có tầm quan trọng hàng đầu, đó là:
 
 Hãy lưu ý sự khác biệt giữa hai loại ham muốn này:
 
-- 1. Loại ham muốn đầu tiên là mong muốn tạo ra hoặc tạo ra một cái gì đó, và nó tìm kiếm kết quả trực tiếp của một hành động cụ thể. Ham muốn này là nguyên nhân trực tiếp của hành động, tức là nó là ham muốn hành động và ham muốn thành quả của hành động. (Ở đây hàm ý hành động tích cực: hành động để mang lại kết quả tích cực, hoặc hành động tốt. Có thể gọi đó là “khát vọng sáng tạo” hay “theo đuổi sự phát triển”.)
+- **Loại ham muốn đầu tiên** là mong muốn tạo ra hoặc tạo ra một cái gì đó, và nó tìm kiếm kết quả trực tiếp của một hành động cụ thể. Ham muốn này là nguyên nhân trực tiếp của hành động, tức là nó là ham muốn hành động và ham muốn thành quả của hành động. (Ở đây hàm ý hành động tích cực: hành động để mang lại kết quả tích cực, hoặc hành động tốt. Có thể gọi đó là “khát vọng sáng tạo” hay “theo đuổi sự phát triển”.)
 
-- 2. Loại ham muốn thứ hai là mong muốn có được một đồ vật mà mình chưa đủ tư cách để sở hữu hoặc tiêu dùng nó. Hơn nữa, có những điều kiện tiên quyết hoặc quy định rằng người ta phải làm một việc khác (tức là một hành động riêng biệt và không liên quan trực tiếp đến đối tượng) để có được đối tượng mong muốn.
+- **Loại ham muốn thứ hai** là mong muốn có được một đồ vật mà mình chưa đủ tư cách để sở hữu hoặc tiêu dùng nó. Hơn nữa, có những điều kiện tiên quyết hoặc quy định rằng người ta phải làm một việc khác (tức là một hành động riêng biệt và không liên quan trực tiếp đến đối tượng) để có được đối tượng mong muốn.
 
 Loại ham muốn này không phải là nguyên nhân trực tiếp cho hành động. Đúng hơn, nó khiến một người phải tìm cách để có được vật thể, với điều kiện tiên quyết cụ thể là buộc phải hành động để có được thứ gì đó. Người ta chỉ hành động vì hành động đó là điều kiện tiên quyết. Người ta không mong muốn kết quả trực tiếp của hành động (ví dụ như sự sạch sẽ); thay vào đó người ta mong muốn một loại phần thưởng nào đó (ví dụ như bánh ngọt).
 
@@ -250,20 +250,12 @@ Sự nâng cao và phát triển các phẩm chất tinh thần này chính là 
 
 Lấy ví dụ về công việc. Nếu chúng ta phát triển ham muốn và tạo ra sự nhiệt tình trong công việc, hoặc nếu chúng ta có thể chuyển hóa ham muốn ích kỷ (*lobha*) thành ham muốn lành mạnh (*chanda*), thì toàn bộ ý nghĩa của công việc và thái độ của chúng ta đối với công việc cũng sẽ được chuyển hóa.
 
-Mong muốn có được (lobha)
-Công việc là điều kiện tiên quyết để có được một đối tượng mong muốn.
-Người ta làm việc một cách miễn cưỡng, chờ đợi thời cơ để tìm kiếm niềm vui.
-Một người làm việc theo ý thức
-khó khăn và bất hạnh, kiếm tiền để mua vui (khóa học gián tiếp).
-Công việc là một hình thức giải quyết và hoàn trả trong vòng một
-hệ thống tạo ra lợi nhuận.
-Mong Muốn Hành Động (chanda) Công việc tạo ra kết quả mong muốn.
-Một người làm việc với ý thức
-hạnh phúc, thứ dễ dàng tiếp cận
-được, gắn liền với nhiệm vụ trước mắt.
-Một người làm việc vui vẻ; số tiền kiếm được chỉ làm tăng thêm hạnh phúc của một người (khóa học trực tiếp).
-Lao động là một hoạt động sáng tạo và
-giải quyết cả những khó khăn cá nhân và xã hội.
+| Mong muốn có được (lobha) | Mong Muốn Hành Động (chanda) |
+|---|---|
+| Công việc là điều kiện tiên quyết để có được một đối tượng mong muốn. | Công việc tạo ra kết quả mong muốn. |
+| Người ta làm việc một cách miễn cưỡng, chờ đợi thời cơ để tìm kiếm niềm vui. | Một người làm việc với ý thức hạnh phúc, thứ dễ dàng tiếp cận được, gắn liền với nhiệm vụ trước mắt. |
+| Một người làm việc theo ý thức về khó khăn và bất hạnh, kiếm tiền để mua vui (gián tiếp). | Một người làm việc vui vẻ; số tiền kiếm được chỉ làm tăng thêm hạnh phúc của một người (trực tiếp). |
+| Công việc là một hình thức giải quyết và hoàn trả trong một hệ thống tạo ra lợi nhuận. | Lao động là một hoạt động sáng tạo và giải quyết cả những khó khăn cá nhân và xã hội. |
 
 Mặc dù ở đây vấn đề này chưa được thảo luận chi tiết, nhưng những gì đã được đề cập cho đến giờ là đủ để đóng vai trò như một chỉ số đánh giá việc quản lý nền kinh tế của các nhà quản lý và quan chức chính phủ, bằng cách thừa nhận và chấp nhận rằng tại bất kỳ thời điểm nào mọi người trong
 xã hội tồn tại ở các cấp độ phát triển khác nhau. Không phải ai cũng như nhau. Tất cả chúng ta đều khác nhau về mong muốn, hành vi, tính cách,
@@ -298,15 +290,15 @@ Các nhà lãnh đạo xã hội nên đáp lại những kẻ tham lam và thè
 
 - B. Đưa ra các biện pháp bổ sung, ví dụ:
     
-    • Thiết lập hệ thống kiểm tra, quy định và xử phạt đối với những cá nhân vi phạm các quy tắc và thỏa thuận được đặt ra trong hệ thống có điều kiện. 
-    • Nỗ lực hết sức để dập tắt tham nhũng và đề phòng sự đe dọa, ép buộc và quấy rối. 
-    • Loại trừ những nơi trụy lạc, những nơi lừa đảo, dối trá, những nơi cám dỗ, lôi kéo người ta trục lợi mà không cần lao động.
-    • Đề ra nhiều chiến lược và phương pháp khác nhau để khuyến khích mọi người tránh xa sự lười biếng và lơ là. 
+    - Thiết lập hệ thống kiểm tra, quy định và xử phạt đối với những cá nhân vi phạm các quy tắc và thỏa thuận được đặt ra trong hệ thống có điều kiện. 
+    - Nỗ lực hết sức để dập tắt tham nhũng và đề phòng sự đe dọa, ép buộc và quấy rối. 
+    - Loại trừ những nơi trụy lạc, những nơi lừa đảo, dối trá, những nơi cám dỗ, lôi kéo người ta trục lợi mà không cần lao động.
+    - Đề ra nhiều chiến lược và phương pháp khác nhau để khuyến khích mọi người tránh xa sự lười biếng và lơ là. 
     
     Hai phương pháp sau đây rất cần thiết cho sự thành công của một hệ thống có điều kiện như vậy:
 
-    - 1. Nội quy, luật lệ phải có hiệu lực; chúng phải được thi hành dứt khoát, kiên quyết mới thực sự có hiệu quả.
-    - 2. Các điều khoản, quy định phải được đặt ra một cách khéo léo để điều tiết và làm chệch hướng lòng tham. Do đó, họ sẽ mang tính xây dựng và hỗ trợ nhiều nhất có thể. Chẳng hạn, lòng tham sẽ được bù đắp bằng sự khuyến khích thực hiện công việc; một người càng tham lam thì càng có nhiều động lực để hoàn thành công việc&mdash;một trong những mục tiêu chính của hệ thống điều kiện.
+    - Nội quy, luật lệ phải có hiệu lực; chúng phải được thi hành dứt khoát, kiên quyết mới thực sự có hiệu quả.
+    - Các điều khoản, quy định phải được đặt ra một cách khéo léo để điều tiết và làm chệch hướng lòng tham. Do đó, họ sẽ mang tính xây dựng và hỗ trợ nhiều nhất có thể. Chẳng hạn, lòng tham sẽ được bù đắp bằng sự khuyến khích thực hiện công việc; một người càng tham lam thì càng có nhiều động lực để hoàn thành công việc&mdash;một trong những mục tiêu chính của hệ thống điều kiện.
 
 **2.** Mặc dù số lượng cá nhân có ý chí hành động tận tâm, khao khát kiến thức và trí tuệ có thể ít, nhưng họ đóng vai trò là động lực để xây dựng và nuôi dưỡng xã hội. Người lãnh đạo nên tìm kiếm, chú ý và thúc đẩy những cá nhân một cách nghiêm túc và chân thành.
 
