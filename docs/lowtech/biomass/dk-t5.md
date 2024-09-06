@@ -12,11 +12,17 @@ Tuy nhiên, việc sử dụng than sinh học để cải tạo đất còn h�
 
 ## Bếp ĐK-T5
 
-Bếp tạo than sinh học DK-T5 thích hợp sử dụng để đốt trấu, mùn cưa, vỏ lạc, lõi ngô, dăm gỗ và sự kết hợp của các loại nhiên liệu này. Nhiệt độ đốt tối đa có thể lên đến 950°C, tạo năng lượng 8.700KJ/m^3^. Nguyên liệu đầu vào tối đa là 3kg (ví dụ: 1kg trấu ở thành bên trong và 2kg củi ở lõi), với thời gian đốt từ 25-30 phút/kg. Hiệu suất chuyển hoá nhiên liệu/than sinh học từ 16-20%. Khả năng giảm thải các khí độc như CO từ 35-49% và các khí gây ô nhiễm khác từ 43-46%[^1].
+Bếp ĐK-T5 là thành quả của Thạc sĩ Đỗ Đức Khôi&mdash;giám đốc trung tâm dân số, môi trường và phát triển&mdash;sáng chế ra từ rất nhiều tâm huyết và thời gian giúp đun nấu dễ dàng, tiết kiệm và tạo than sinh học[^1].
+
+[^1]:
+
+    [Chuyên gia sức khoẻ sinh sản chế tạo bếp đun](https://khoahocphattrien.vn/khoa-hoc/nha-sang-che-trinh-dinh-nang-sang-tao-khong-chi-de-thoa-man-dam-me-cong-nghe/20170413085232776p1c160.htm)
+
+Bếp tạo than sinh học DK-T5 thích hợp sử dụng để đốt trấu, mùn cưa, vỏ lạc, lõi ngô, dăm gỗ và sự kết hợp của các loại nhiên liệu này. Nhiệt độ đốt tối đa có thể lên đến 950°C, tạo năng lượng 8.700KJ/m^3^. Nguyên liệu đầu vào tối đa là 3kg (ví dụ: 1kg trấu ở thành bên trong và 2kg củi ở lõi), với thời gian đốt từ 25-30 phút/kg. Hiệu suất chuyển hoá nhiên liệu/than sinh học từ 16-20%. Khả năng giảm thải các khí độc như CO từ 35-49% và các khí gây ô nhiễm khác từ 43-46%[^2].
 
 ![bio-char-2](../../assets/images/biochar/bio-char-2.webp)
 
-[^1]: 
+[^2]: 
 
     [Sử dụng hiệu quả phế phụ phẩm nông nghiệp](https://journal.vaas.vn/sites/default/files/tapchi/2021-07/tc%20so17-2018.pdf)
 
