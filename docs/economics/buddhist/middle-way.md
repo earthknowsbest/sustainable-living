@@ -6,12 +6,11 @@
 
 ## 1. Tiêu dùng khôn ngoan
 
-Tiêu dùng là điểm khởi đầu của toàn bộ quá trình kinh tế, bởi vì sản xuất, thương mại và phân phối đều xuất phát từ tiêu dùng.
-Đồng thời, tiêu dùng còn là mục tiêu và điểm kết thúc của mọi hoạt động kinh tế, bởi vì sản xuất, buôn bán, phân phối đều được thực hiện và hoàn tất bằng hành vi tiêu dùng. Với tư cách là người tiếp nhận cả tác động tốt và xấu của hoạt động kinh tế, người tiêu dùng nên nhận ra rằng họ có một số quyền tự do lựa chọn về những gì họ tiêu dùng để họ có thể thực sự hưởng lợi từ việc tiêu dùng.
+Tiêu dùng là điểm khởi đầu của toàn bộ quá trình kinh tế, bởi vì sản xuất, thương mại và phân phối đều xuất phát từ tiêu dùng. Đồng thời, tiêu dùng còn là mục tiêu và điểm kết thúc của mọi hoạt động kinh tế, bởi sản xuất, buôn bán, phân phối đều được thực hiện và hoàn tất bằng hành vi tiêu dùng. Với tư cách là người tiếp nhận cả tác động tốt và xấu của hoạt động kinh tế, người tiêu dùng nên nhận ra rằng họ có một số quyền tự do lựa chọn về những gì họ tiêu dùng để họ có thể thực sự hưởng lợi từ việc tiêu dùng.
 
 Tiêu dùng tự do và độc lập như vậy phụ thuộc vào việc tiêu dùng khôn ngoan. Tiêu dùng khôn ngoan cho phép người tiêu dùng nhận thức được các yếu tố khác nhau đang diễn ra trong nền kinh tế và dẫn đến điều tiết tiêu dùng và cân bằng tổng thể trong hoạt động kinh tế, mang lại lợi ích cho mọi thành viên trong xã hội. Một ví dụ đơn giản về tiêu dùng khôn ngoan liên quan đến hành động ăn uống. Ở đây, trong khi ăn, người tiêu dùng nhận ra rằng mình:
 
-1. Là thành viên của xã hội: nhu cầu, mong muốn của con người đều do xã hội khơi dậy và ảnh hưởng, ví dụ như các giá trị xã hội. Một người có thể chỉ ăn để thể hiện địa vị của mình, để tỏ ra hợp thời trang hoặc để giải trí.
+1. Là thành viên của xã hội: nhu cầu, mong muốn của con người đều do xã hội khơi dậy và ảnh hưởng, ví dụ như các giá trị xã hội. Một người có thể chỉ ăn để thể hiện địa vị của mình, để tỏ ra hợp thời hay để giải trí.
 
 2. Là một phần của tự nhiên: nhu cầu của con người được quyết định bởi nguyên nhân và điều kiện tự nhiên. Con người cần ăn để duy trì sự sống, để duy trì một cơ thể khỏe mạnh, không bệnh tật, sống thoải mái và có những đặc tính thể chất để sống một cuộc sống đạo đức và có ích.
 
