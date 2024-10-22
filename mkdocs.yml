@@ -186,6 +186,7 @@ nav:
     
 theme: 
   name: material
+  favicon: assets/images/sun.png
   custom_dir: overrides
   # logo_dark_mode: assets/logo-dark.svg
   # logo_light_mode: assets/logo-light.svg
