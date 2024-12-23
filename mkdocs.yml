@@ -161,6 +161,10 @@ nav:
   #     - Tài nguyên: earth/personal/material.md
   #     - Thành phố: earth/personal/city.md
   - Nhân sinh:
+    - Lịch sử:
+      - Văn minh:
+        - Các điều kiện: human/history/civilization/conditions.md 
+        - Kinh tế: human/history/civilization/economics.md 
     - Tâm linh: 
       - Đạo Phật:
         - Nói với tuổi trẻ: human/spirituality/buddha/intro.md
