@@ -3,7 +3,7 @@
 
 ![civil-1](../../../assets/images/civil/civil-1.webp)
 
-> <i>**Đền thờ Deir el-Bahri** từ bên trên, với cấu trúc của còn lại của Mentuhotep phía trước bên trái của Đền thờ Hatshepsut. Ảnh: Diego Delso, delso.photo, CC-BY-SA via Wikicommons </i>
+> <i>**Đền thờ Deir el-Bahri** nhìn từ trên cao, với cấu trúc của còn lại của Mentuhotep phía trước bên trái của Đền thờ Hatshepsut. Ảnh: Diego Delso, delso.photo, CC-BY-SA via Wikicommons </i>   
 
 **Văn Minh** (*civilization*) là trật tự xã hội thúc đẩy sáng tạo văn hóa. Nó được cấu thành bởi bốn yếu tố: **sự cung cấp kinh tế** (*economic provision*), **tổ chức chính trị** (*political organization*), **truyền thống đạo đức** (*moral traditions*), và **sự theo đuổi tri thức và nghệ thuật** (*the persuit of knowledge and the arts*). Nó bắt đầu nơi hỗn loạn và bất an kết thúc. Bởi khi nỗi sợ hãi được chế ngự, sự tò mò và tính xây dựng được tự do, và con người vượt qua được thôi thúc tự nhiên mà hướng tới sự hiểu biết và tô điểm cuộc sống. 
 
