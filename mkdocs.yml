@@ -73,6 +73,7 @@ nav:
       - Trung Đạo: economics/buddhist/middle-way.md
       # - Chương 2: economics/buddhist/chap-2.md
     - Cái giá phải trả: 
+      - Giới thiệu: economics/expenses/intro.md
       - Lịch sử: economics/expenses/history.md
     - Phản tăng trưởng:
       - Khái niệm: economics/degrowth/intro.md
@@ -166,7 +167,8 @@ nav:
         - Các điều kiện: human/history/civilization/conditions.md 
         - Kinh tế: human/history/civilization/economics.md 
         - Chính trị: human/history/civilization/politics.md 
-        # - Đạo đức: human/history/civilization/morals.md 
+        - Đạo đức I & II: human/history/civilization/morals-I-II.md 
+        - Đạo đức III & IV: human/history/civilization/morals-III-IV.md
     - Tâm linh: 
       - Đạo Phật:
         - Nói với tuổi trẻ: human/spirituality/buddha/intro.md
