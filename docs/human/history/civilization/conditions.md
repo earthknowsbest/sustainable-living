@@ -29,3 +29,7 @@ Nền văn minh là những thế hệ của tâm hồn chủng tộc. Khi sự 
 
     Dòng máu, trái ngược với chủng tộc , có thể ảnh hưởng đến một nền văn minh theo nghĩa một quốc gia có thể bị chậm phát triển hoặc tiến bộ do sinh ra những dòng giống tệ hơn hoặc tốt hơn về mặt sinh học (không phải về mặt chủng tộc) trong số những người dân.
 
+<hr/>
+**Tác giả: Will Durant**, một nhà sử học, triết gia Hoa Kì, được biết đến rộng rãi bởi tác phẩm gồm 11 cuốn, Câu chuyện của nền văn minh (*The Story of Civilization*).  Ông đấu tranh cho việc trả lương công bằng, quyền bầu cử của phụ nữ và các điều kiện làm việc tốt hơn cho người lao động Mỹ (theo [Wiki](https://vi.wikipedia.org/wiki/Will_Durant)). Ông đã tìm cách thống nhất và nhân bản hóa khối lượng kiến ​​thức lịch sử đồ sộ, vốn đã trở nên đồ sộ và bị phân mảnh thành các chuyên ngành bí truyền, và làm cho nó trở nên sống động để ứng dụng vào thời đại ngày nay. Nhờ thành công của mình, ông và vợ đã cùng được trao Giải thưởng Pulitzer cho tác phẩm phi hư cấu năm 1968 và Huân chương Tự do của Tổng thống năm 1977 (theo [Will Durant Foundation](https://www.will-durant.com))
+
+Trích dịch [Câu chuyện của nền văn minh](https://archive.org/details/TheStoryOfCivilizationcomplete/Durant_Will_-_The_story_of_civilization_1/), Quyển 1: **Di sản phương Đông của chúng ta**, Phần mở đầu: **Sự thành lập nền văn minh**
