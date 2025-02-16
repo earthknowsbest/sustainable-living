@@ -200,6 +200,8 @@ theme:
   # logo_light_mode: assets/logo-light.svg
   language: vi
   font: false
+  # font: 
+  #   text: Andada Pro
     # text: Source Serif Pro, Fraunces
     # text: Playfair Display
     # text: Noto Serif

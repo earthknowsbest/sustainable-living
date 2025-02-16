@@ -48,7 +48,7 @@
     font-weight: normal; 
     font-style: normal;
     src: url("../fonts/Sanskr.ttf")
-}
+} 
 
 :root {
     --md-text-font: "Literata";
@@ -124,7 +124,7 @@ input {
 
 .md-typeset {
     font-size: 1rem;
-    line-height: 1.45;
+    line-height: 1.4;
 }
 
 .md-typeset h1 {
