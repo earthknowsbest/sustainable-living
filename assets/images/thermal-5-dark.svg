@@ -1,0 +1,135 @@
+
+<svg style='scaling-svg' viewBox="0 0 285 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2" transform="translate(-3385.000000, -2127.000000)">
+            <g id="thermal-energy" transform="translate(2496.000000, 1388.000000)">
+                <g id="thermal-5" transform="translate(889.000000, 739.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="285" height="145"></rect>
+                    <g id="Group-9" transform="translate(100.488900, 31.432300)">
+                        <polygon id="Fill-4" fill="#F1A948" points="7.534 41.437 7.534 11.301 0 11.301 18.835 0 37.67 11.301 30.136 11.301 30.136 41.437"></polygon>
+                        <polyline id="Stroke-6" stroke="#B99C9A" points="7.534 41.437 7.534 11.301 2.84217094e-14 11.301 18.835 0 37.67 11.301 30.136 11.301 30.136 41.437 7.534 41.437"></polyline>
+                        <polygon id="Fill-7" fill="#FFF101" points="11.301 82.874 11.301 48.971 5.6505 48.971 18.835 41.437 32.0195 48.971 26.369 48.971 26.369 82.874"></polygon>
+                        <polygon id="Stroke-8" stroke="#B99C9A" points="11.301 82.874 11.301 48.971 5.6505 48.971 18.835 41.437 32.0195 48.971 26.369 48.971 26.369 82.874"></polygon>
+                    </g>
+                    <g id="Group-13" transform="translate(30.422700, 1.296300)">
+                        <polygon id="Fill-10" fill-opacity="0.5" fill="#D8232A" points="-1.42108547e-14 30.136 226.02 30.136 226.02 0 -1.42108547e-14 0"></polygon>
+                        <polygon id="Stroke-12" stroke="#B99C9A" points="-1.42108547e-14 30.136 226.02 30.136 226.02 0 -1.42108547e-14 0"></polygon>
+                    </g>
+                    <g id="Group-21" transform="translate(30.422700, 10.716639)">
+                        <g id="Group-17" transform="translate(0.000000, 103.589661)">
+                            <polygon id="Fill-14" fill-opacity="0.5" fill="#292D78" points="-1.42108547e-14 30.136 226.02 30.136 226.02 0 -1.42108547e-14 0"></polygon>
+                            <polygon id="Stroke-16" stroke="#B99C9A" points="-1.42108547e-14 30.136 226.02 30.136 226.02 0 -1.42108547e-14 0"></polygon>
+                        </g>
+                        <polygon id="Fill-18" fill="#84BF41" points="136.3654 58.3856609 94.9284 58.3856609 94.9284 55.3720609 88.9012 62.1526609 94.9872 69.0861609 94.9751 65.9196609 136.3654 65.9196609"></polygon>
+                        <polygon id="Stroke-20" stroke="#B99C9A" points="136.3654 58.3856609 94.9284 58.3856609 94.9284 55.3720609 88.9012 62.1526609 94.9871652 69.0862011 94.9751108 65.9196609 136.3654 65.9196609"></polygon>
+                        <text id="bể-nóng-ở" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="82.4585076" y="9">bể nóng ở </tspan>
+                        </text>
+                        <text id="T" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="130.352057" y="9">T</tspan>
+                        </text>
+                        <text id="h" font-family="LucidaGrande, Lucida Grande" font-size="5.2707864" font-weight="normal" fill="#B99C9A">
+                            <tspan x="134.636191" y="12.4507364">h</tspan>
+                        </text>
+                        <text id="bể-lạnh-ở" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="87.1311674" y="121.01">bể lạnh ở</tspan>
+                        </text>
+                        <text id="T" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="131.243242" y="121.01">T</tspan>
+                        </text>
+                        <text id="c" font-family="LucidaGrande, Lucida Grande" font-size="5.2707864" font-weight="normal" fill="#B99C9A">
+                            <tspan x="135.527451" y="124.460736">c</tspan>
+                        </text>
+                        <text id="Δ" font-family="Symbol" font-size="9.0408" font-weight="normal" fill="#1A1919">
+                            <tspan x="83.30895" y="39.3933609">Δ</tspan>
+                        </text>
+                        <text id="Q" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#1A1919">
+                            <tspan x="87.8419196" y="39.7865">Q</tspan>
+                        </text>
+                        <text id="h" font-family="LucidaGrande, Lucida Grande" font-size="5.2707864" font-weight="normal" fill="#1A1919">
+                            <tspan x="93.8795919" y="43.2372364">h</tspan>
+                        </text>
+                        <text id="Δ" font-family="Symbol" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="138.06055" y="63.5021609">Δ</tspan>
+                        </text>
+                        <text id="W" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="143.59352" y="63.8953">W</tspan>
+                        </text>
+                        <text id="Δ" font-family="Symbol" font-size="9.0408" font-weight="normal" fill="#1A1919">
+                            <tspan x="82.55555" y="80.8333745">Δ</tspan>
+                        </text>
+                        <text id="Q" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#1A1919">
+                            <tspan x="87.0885196" y="81.2265136">Q</tspan>
+                        </text>
+                        <text id="c" font-family="LucidaGrande, Lucida Grande" font-size="5.2707864" font-weight="normal" fill="#1A1919">
+                            <tspan x="93.1261919" y="84.6742364">c</tspan>
+                        </text>
+                        <text id="dẫn-nhiệt…" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="27.7534" y="97.1656822">dẫn nhiệt…</tspan>
+                        </text>
+                        <text id="…đến-nóng" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="23.4405288" y="46.6944246">…</tspan>
+                            <tspan x="32.4813288" y="46.6944246" letter-spacing="-0.0542448">đến nóng</tspan>
+                        </text>
+                        <text id="…từ-lạnh…" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="28.6085424" y="80.8168246">…từ lạnh</tspan>
+                            <tspan x="68.8197959" y="80.8168246" letter-spacing="-0.090408"></tspan>
+                            <tspan x="68.7293879" y="80.8168246">…</tspan>
+                        </text>
+                        <text id="công-hữu-ích-cung-cấ" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" letter-spacing="-0.0271224" fill="#B99C9A">
+                            <tspan x="155.9674" y="53.248567">công hữu ích </tspan>
+                            <tspan x="155.9674" y="64.248567">cung cấp cho </tspan>
+                            <tspan x="155.9674" y="75.248567">hệ thống</tspan>
+                        </text>
+                        <text id="Δ" font-family="Symbol" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="114.224043" y="91.8583143">Δ</tspan>
+                        </text>
+                        <text id="Q" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="119.757013" y="92.2514534">Q</tspan>
+                        </text>
+                        <text id="h" font-family="LucidaGrande, Lucida Grande" font-size="5.2707864" font-weight="normal" fill="#B99C9A">
+                            <tspan x="125.796192" y="95.7014364">h</tspan>
+                        </text>
+                        <text id="-=-" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="126.721493" y="92.2507"> = </tspan>
+                        </text>
+                        <text id="Δ" font-family="Symbol" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="137.943109" y="91.8575609">Δ</tspan>
+                        </text>
+                        <text id="Q" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="143.476079" y="92.2507">Q</tspan>
+                        </text>
+                        <text id="c" font-family="LucidaGrande, Lucida Grande" font-size="5.2707864" font-weight="normal" fill="#B99C9A">
+                            <tspan x="149.513224" y="95.7014364">c</tspan>
+                        </text>
+                        <text id="-+-" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="149.874605" y="92.2507"> + </tspan>
+                        </text>
+                        <text id="Δ" font-family="Symbol" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="161.096221" y="91.8575609">Δ</tspan>
+                        </text>
+                        <text id="W" font-family="LucidaGrande, Lucida Grande" font-size="9.0408" font-weight="normal" fill="#B99C9A">
+                            <tspan x="166.629191" y="92.2507">W</tspan>
+                        </text>
+                        <text id="lượng-năng-lượng-ví" font-family="LucidaGrande, Lucida Grande" font-size="7.534" font-weight="normal" letter-spacing="-0.022602" fill="#AB2430">
+                            <tspan x="138.822728" y="30.0271102">lượng năng lượng ví dụ</tspan>
+                            <tspan x="225.003272" y="30.0271102"> </tspan>
+                            <tspan x="150.261268" y="39.0271102" letter-spacing="0.128078">(tính bằng </tspan>
+                            <tspan x="191.510566" y="39.0271102" letter-spacing="0.316428">Joule</tspan>
+                            <tspan x="211.11471" y="39.0271102">)</tspan>
+                        </text>
+                        <text id="30" font-family="LucidaGrande, Lucida Grande" font-size="7.534" font-weight="normal" fill="#AB2430">
+                            <tspan x="84.036258" y="50.3553102">30</tspan>
+                        </text>
+                        <text id="20" font-family="LucidaGrande, Lucida Grande" font-size="7.534" font-weight="normal" fill="#AB2430">
+                            <tspan x="84.036258" y="91.7923102">20</tspan>
+                        </text>
+                        <text id="10" font-family="LucidaGrande, Lucida Grande" font-size="7.534" font-weight="normal" fill="#AB2430">
+                            <tspan x="109.77038" y="64.5699462">10</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,70 @@
+
+<svg style='scaling-svg' viewBox="0 0 293 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2" transform="translate(-2615.000000, -1124.000000)">
+            <g id="unit-3" transform="translate(2615.833734, 1124.640950)">
+                <rect id="Rectangle" x="0" y="0" width="292" height="38"></rect>
+                <polygon id="Fill-5" fill="#35A0CD" points="72.1916656 8.21675 76.4083656 4.00005 93.2753656 4.00005 89.0586656 8.21675"></polygon>
+                <polygon id="Stroke-7" stroke="#1A1919" stroke-width="0.5" stroke-linejoin="round" points="72.1916656 8.21675 76.4084156 4 93.2754156 4 89.0586656 8.21675"></polygon>
+                <polygon id="Fill-9" fill="#35A0CD" points="89.0586656 25.08375 89.0586656 8.21675 93.2753656 4.00005 93.2753656 20.86705"></polygon>
+                <polygon id="Stroke-11" stroke="#1A1919" stroke-width="0.5" stroke-linejoin="round" points="89.0586656 25.08375 89.0586656 8.21675 93.2754156 4 93.2754156 20.867"></polygon>
+                <g id="Group-16" transform="translate(72.191291, 8.216844)">
+                    <polygon id="Fill-13" fill="#35A0CD" points="0 16.867 16.867 16.867 16.867 0 0 0"></polygon>
+                    <polygon id="Stroke-15" stroke="#1A1919" stroke-width="0.5" stroke-linejoin="round" points="0 16.867 16.867 16.867 16.867 0 0 0"></polygon>
+                </g>
+                <g id="Group-29" transform="translate(198.906466, 4.000000)">
+                    <polygon id="Stroke-20" stroke="#1A1919" stroke-width="0.5" stroke-linejoin="round" points="0 4.21675 4.21675 0 21.08375 0 16.867 4.21675"></polygon>
+                    <polygon id="Fill-22" fill="#EB95A6" points="16.867 21.08375 16.867 4.21675 21.0838 5.00000001e-05 21.0838 16.86705"></polygon>
+                    <polygon id="Stroke-24" stroke="#1A1919" stroke-width="0.5" stroke-linejoin="round" points="16.867 21.08375 16.867 4.21675 21.08375 0 21.08375 16.867"></polygon>
+                    <polygon id="Fill-26" fill="#EB95A6" points="9e-05 21.0838445 16.86709 21.0838445 16.86709 4.2168445 9e-05 4.2168445"></polygon>
+                    <polygon id="Stroke-28" stroke="#1A1919" stroke-width="0.5" stroke-linejoin="round" points="9e-05 21.0838445 16.86709 21.0838445 16.86709 4.2168445 9e-05 4.2168445"></polygon>
+                    <polygon id="Fill-17" fill="#EB95A6" points="0 4.21675 4.2168 5e-05 21.0838 5e-05 16.867 4.21675"></polygon>
+                </g>
+                <text id="1-cm" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#1A1919">
+                    <tspan x="45.4292656" y="35.0088074">1 cm</tspan>
+                </text>
+                <text id="3" font-family="Arial-BoldMT, Arial" font-size="4.9167305" font-weight="bold" fill="#1A1919">
+                    <tspan x="63.7045758" y="32.1293429">3</tspan>
+                </text>
+                <text id="=" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#1A1919">
+                    <tspan x="69.4388852" y="35.0088074">=</tspan>
+                </text>
+                <text id="1-mL" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#1A1919">
+                    <tspan x="77.4388852" y="35.0088074">1 m</tspan>
+                    <tspan x="91.4974638" y="35.0088074" letter-spacing="-0.3120395">L</tspan>
+                </text>
+                <text id="=" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#1A1919">
+                    <tspan x="99.4388852" y="35.0088074">=</tspan>
+                </text>
+                <text id="1-g" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#1A1919">
+                    <tspan x="107.438885" y="35.0088074">1 g</tspan>
+                </text>
+                <g id="Group-45" transform="translate(49.133343, 9.369721)">
+                    <text id="20" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#00A3DA">
+                        <tspan x="0" y="9">20</tspan>
+                    </text>
+                    <text id="˚" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#00A3DA">
+                        <tspan x="9.378052" y="9">˚</tspan>
+                    </text>
+                    <text id="C" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#00A3DA">
+                        <tspan x="12.1864075" y="9">C</tspan>
+                    </text>
+                    <text id="70" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#AB2430">
+                        <tspan x="175.353789" y="8">70</tspan>
+                    </text>
+                    <text id="˚" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#AB2430">
+                        <tspan x="184.731841" y="8">˚</tspan>
+                    </text>
+                    <text id="C" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#AB2430">
+                        <tspan x="187.540197" y="8">C</tspan>
+                    </text>
+                    <text id="+-50-calo-(209-J)" font-family="ArialMT, Arial" font-size="8.4335" font-weight="normal" fill="#1A1919">
+                        <tspan x="51.6960945" y="8">+ 50 calo (209 J) </tspan>
+                    </text>
+                    <line x1="123.628822" y1="5.17212949" x2="136.856767" y2="5.17212949" id="Stroke-41" stroke="#1A1919"></line>
+                    <polygon id="Fill-43" fill="#1A1919" points="141.620422 5.17212949 134.908222 7.91472949 136.500522 5.17212949 134.908222 2.43042949"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
