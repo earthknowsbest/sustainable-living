@@ -42,7 +42,7 @@ Số lượng lớn các ví dụ mà tôi đưa ra cho đến nay đều nhằm
 
 [^1]:
 
-   Những lời dạy của Đức Phật hay ‘bản chất của sự việc’.
+    Những lời dạy của Đức Phật hay ‘bản chất của sự việc’.
 
 ‘Bản chất của sự vật’ đề cập đến bản chất của tự nhiên, tức là phương thức tồn tại thực sự của các hiện tượng và nó bao gồm tất cả các khía cạnh của lý thuyết và thực tiễn. Nó không phải là chủ đề của bất kỳ nhánh kiến thức cụ thể nào, mà là bản chất của khoa học hoặc bản chất mà khoa học tìm cách khám phá. Xu hướng hiện nay hướng tới sự phân chia và tách biệt các khía cạnh khác nhau của một chủ đề phức tạp, một chủ đề thậm chí đã đạt đến mức xử lý theo Pháp, là một xu hướng nguy hiểm và có thể khiến chúng ta lạc lối khỏi sự thật. Đó là một điểm quan trọng khác cần phải được hiểu.
 
@@ -76,19 +76,19 @@ bản chất con người. Nếu bất kỳ môn học nào có sai sót trong c
 
 ### a. Ham muốn
 
-Tôi muốn bắt đầu đề cập đến chủ đề bản chất con người bằng cách xem xét nhu cầu hoặc ham muốn. Kinh tế học hiện đại và Phật giáo đều đồng ý rằng nhân loại có những mong muốn vô hạn. Có rất nhiều câu nói của Đức Phật liên quan đến điểm này, ví dụ: *natthi taṇhāsamā nadī*&mdash;sông nào bằng sông ái (Dh.251[^1]). Sông đôi khi có thể lấp đầy bờ nhưng ham muốn của con người không bao giờ cạn. Ở một số chỗ trong kinh điển Phật giáo có nói rằng “giả sử mưa xuống bạc vàng cũng chẳng làm thỏa mãn lòng tham dục” (Dh.186[^2]). Ở chỗ khác, Đức Phật nói rằng nếu người ta có thể biến đổi cả một ngọn núi thành quặng vàng bằng phép thuật thì điều đó vẫn không mang lại sự hài lòng trọn vẹn và lâu dài cho dù chỉ một người. Vì vậy, có một số lượng lớn giáo lý trong truyền thống Phật giáo đề cập đến bản chất vô hạn của mong muốn của con người. Ở đây tôi muốn kể lại một câu chuyện xuất hiện trong Jātaka[^3].
+Tôi muốn bắt đầu đề cập đến chủ đề bản chất con người bằng cách xem xét nhu cầu hoặc ham muốn. Kinh tế học hiện đại và Phật giáo đều đồng ý rằng nhân loại có những mong muốn vô hạn. Có rất nhiều câu nói của Đức Phật liên quan đến điểm này, ví dụ: *natthi taṇhāsamā nadī*&mdash;sông nào bằng sông ái (Dh.251[^2]). Sông đôi khi có thể lấp đầy bờ nhưng ham muốn của con người không bao giờ cạn. Ở một số chỗ trong kinh điển Phật giáo có nói rằng “giả sử mưa xuống bạc vàng cũng chẳng làm thỏa mãn lòng tham dục” (Dh.186[^3]). Ở chỗ khác, Đức Phật nói rằng nếu người ta có thể biến đổi cả một ngọn núi thành quặng vàng bằng phép thuật thì điều đó vẫn không mang lại sự hài lòng trọn vẹn và lâu dài cho dù chỉ một người. Vì vậy, có một số lượng lớn giáo lý trong truyền thống Phật giáo đề cập đến bản chất vô hạn của mong muốn của con người. Ở đây tôi muốn kể lại một câu chuyện xuất hiện trong Jātaka[^4].
 
-[^1]:
-   
-   Kinh pháp cú (Dhammapada) số 251. HT.Thích Thiện Siêu và HT. Thích Minh Châu.
- 
 [^2]:
    
-   Kinh pháp cú (Dhammapada) số 186. HT.Thích Thiện Siêu và HT. Thích Minh Châu.
-
+    Kinh pháp cú (Dhammapada) số 251. HT.Thích Thiện Siêu và HT. Thích Minh Châu.
+ 
 [^3]:
+   
+    Kinh pháp cú (Dhammapada) số 186. HT.Thích Thiện Siêu và HT. Thích Minh Châu.
 
-   Kinh bản sinh, hay truyện về tiền thân Đức Phật.
+[^4]:
+
+    Kinh bản sinh, hay truyện về tiền thân Đức Phật.
    
 Trong quá khứ xa xưa có một vị vua tên là Mandhatu. Ông là một người cai trị rất quyền lực, một vị hoàng đế được biết đến trong truyền thuyết vì đã sống rất lâu. Mandhatu có tất cả những phẩm chất hạng nhất của một vị đế vương; ông là một con người đặc biệt có mọi thứ mà bất cứ ai cũng mong ước: ông là hoàng tử trong 84.000 năm, sau đó là người thừa kế trong 84.000 năm, và sau đó là hoàng đế trong 84.000 năm. Một ngày nọ, sau khi làm hoàng đế được 84.000 năm, vua Mandhātu bắt đầu có dấu hiệu buồn chán. Khối tài sản khổng lồ mà ông sở hữu không còn đủ để thỏa mãn ông. Các cận thần của nhà vua thấy có điều gì đó không ổn liền hỏi Bệ hạ bị bệnh gì. Ông trả lời: “Sự giàu có và lạc thú mà ta tận hưởng ở đây thật tầm thường: hãy cho ta biết, có nơi nào vượt trội (/ưu thắng) hơn thế này không?” “Cõi trời, thưa bệ hạ”, các cận thần trả lời. Giờ đây, một trong những báu vật của Nhà vua là *cakkaratana*, một vật thể ma thuật hình bánh xe có thể chở ông đến bất cứ đâu theo lệnh của mình. Vì thế Mandhātu đã dùng nó để đưa ông đến cõi trời của Tứ Đại Thiên Vương. Chính Tứ Đại Thiên Vương đã ra đón và khi biết được mong muốn của ông, đã mời ông tiếp quản toàn bộ cõi trời của mình. 
 
@@ -179,3 +179,8 @@ Trong kinh tế học thời đại công nghiệp, thuật ngữ sản xuất �
 Chúng ta không bao giờ xem xét cái giá kinh tế của hành động và lời nói liên tục tạo ra căng thẳng ở nơi làm việc, do đó những người bị ảnh hưởng phải tìm cách giảm bớt nó bằng những thú vui như đi xem diễn viên hài. Lấy một ví dụ khác: một cuộc đấu bò, trong đó người ta trả tiền để xem những con bò đực bị giết, được gọi là sản xuất kinh tế. Một đứa trẻ giúp một người già qua đường thì không.
 
 Hãy suy nghĩ một chút về các trường hợp được đề cập ở trên. Đó là những ví dụ cho thấy sự hạn hẹp của tư tưởng kinh tế và định nghĩa của nó về sản xuất. Kinh tế học Phật giáo mở rộng tư duy của mình một cách rộng rãi hơn. Liên quan đến vấn đề này, nếu tìm kiếm **“bàn tay vô hình”** (*invisible hand*) của Adam Smith, người ta phải phàn nàn rằng nó không hoạt động ở mọi nơi. Các câu hỏi về sự giàu có và tăng trưởng kinh tế phải được xem xét lại. Mục đích thực sự của tăng trưởng kinh tế là gì? Chắc chắn nó phải là để đảm bảo sự gia tăng chất lượng cuộc sống.
+
+<hr/>
+**Tác giả**: **Phra Brahmagunabhorn (P. A. Payutto)**. Dịch giả bản tiếng Anh:  **J.B. Dhammavijaya**
+
+[Buddist Economics](https://www.papayutto.org/en/book_detail/496)

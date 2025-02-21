@@ -22,3 +22,8 @@ nhau và phải hỗ trợ lẫn nhau trong việc khắc phục các vấn đ�
 cuộc sống là gì và do đó hợp tác với kinh tế học trong việc phát triển con người.
 
 Phần lớn cuộc sống của chúng ta gắn liền với các hoạt động kinh tế. Nếu kinh tế đóng vai trò thực sự trong việc giải quyết các vấn đề mà nhân loại đang phải đối mặt, thì mọi hoạt động kinh tế, dù là sản xuất, làm việc, chi tiêu hay tiêu dùng đều phải giúp tạo ra phúc lợi thực sự và phát triển tiềm năng cho một cuộc sống tốt đẹp và cao quý. Đó là điều mà chúng ta có khả năng làm được. Bản chất của kinh tế học Phật giáo nằm ở đây, trong việc đảm bảo rằng hoạt động kinh tế đồng thời nâng cao chất lượng cuộc sống của chúng ta.
+
+<hr/>
+**Tác giả**: **Phra Brahmagunabhorn (P. A. Payutto)**. Dịch giả bản tiếng Anh:  **J.B. Dhammavijaya**
+
+[Buddist Economics](https://www.papayutto.org/en/book_detail/496)

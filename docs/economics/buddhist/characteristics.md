@@ -40,3 +40,8 @@ Một ý nghĩa khác của thuật ngữ ‘vừa đủ’ là không làm hạ
 Từ góc độ Phật giáo, các nguyên tắc kinh tế có liên quan đến ba khía cạnh tương liên với nhau về sự tồn tại của loài người: con người, tự nhiên và xã hội (tự nhiên được dùng theo nghĩa hệ sinh thái). Kinh tế học Phật giáo phải hòa hợp với toàn bộ quá trình nhân quả và để làm được điều đó nó phải có mối quan hệ đúng đắn với cả ba khía cạnh đó, từ đó phải hài hòa và hỗ trợ lẫn nhau. Hoạt động kinh tế phải diễn ra sao cho không gây hại cho bản thân, tức là không gây suy giảm chất lượng cuộc sống mà trái lại còn nâng cao chất lượng cuộc sống. Không làm hại người khác có nghĩa là không gây đau khổ, kích động cho xã hội và không gây suy thoái chất lượng các hệ sinh thái.
 
 Hiện nay, nhận thức của các nước phát triển về vấn đề môi trường ngày càng tăng. Mọi người lo lắng về các hoạt động kinh tế kéo theo việc sử dụng các hóa chất độc hại và việc đốt nhiên liệu hóa thạch, v.v. Những hoạt động như vậy có hại cho sức khỏe cá nhân, phúc lợi xã hội và môi trường. Chúng có thể được bao gồm trong cụm từ làm hại chính mình và làm hại người khác, và là một vấn đề lớn đối với nhân loại.
+
+<hr/>
+**Tác giả**: **Phra Brahmagunabhorn (P. A. Payutto)**. Dịch giả bản tiếng Anh:  **J.B. Dhammavijaya**
+
+[Buddist Economics](https://www.papayutto.org/en/book_detail/496)

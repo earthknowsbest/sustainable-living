@@ -352,3 +352,8 @@ Kinh tế với tư cách là một chuyên ngành cần phân biệt tính nhâ
 2. Mối quan hệ qua lại giữa kinh tế và ba yếu tố chính gắn liền với sự tồn tại của con người: đời sống cá nhân, xã hội và môi trường tự nhiên. Nói cách khác, kinh tế cần thúc đẩy cuộc sống khỏe mạnh, hạnh phúc cho các cá nhân trong một xã hội hòa bình được bao quanh bởi một môi trường dễ chịu và trong lành. Điều này sẽ dẫn đến sự tiến bộ và phát triển thực sự, lâu dài.
     
 Điều bắt buộc là kinh tế học phải giúp tích hợp và phối hợp các yếu tố khác nhau trong các hệ thống tương liên này nhau này để mang lại sự cân bằng và đạt được thành công thực sự. Đây là tiền đề và châm ngôn chính của cái được gọi là kinh tế học trung đạo.
+
+<hr/>
+**Tác giả**: **Phra Brahmagunabhorn (P. A. Payutto)**. Dịch giả bản tiếng Anh:  **J.B. Dhammavijaya**
+
+[Buddist Economics](https://www.papayutto.org/en/book_detail/496)

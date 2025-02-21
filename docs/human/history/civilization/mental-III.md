@@ -1,4 +1,8 @@
-# Các Yếu Tố Tinh Thần Của Nền Văn Minh
+# Các Yếu Tố Tinh Thần Của Nền Văn Minh  (tiếp theo)
+
+![civil-12](../../../assets/images/civil/civil-12.jpg)
+
+> <i>Văn minh [Lưỡng Hà](https://vi.wikipedia.org/wiki/L%C6%B0%E1%BB%A1ng_H%C3%A0), [Bảo tàng Anh](https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Anh)</i>
 
 ### III. Nghệ thuật
 
@@ -39,4 +43,4 @@ Theo cách này, những người tiền văn minh đã tạo ra các hình thá
 <hr/>
 **Tác giả: Will Durant**, một nhà sử học, triết gia Hoa Kì, được biết đến rộng rãi bởi tác phẩm gồm 11 cuốn, [Câu chuyện của nền văn minh](https://archive.org/details/TheStoryOfCivilizationcomplete/Durant_Will_-_The_story_of_civilization_1/) (*The Story of Civilization*).  Ông đấu tranh cho việc trả lương công bằng, quyền bầu cử của phụ nữ và các điều kiện làm việc tốt hơn cho người lao động Mỹ (theo [Wiki](https://vi.wikipedia.org/wiki/Will_Durant)). Ông đã tìm cách thống nhất và nhân bản hóa khối lượng kiến ​​thức lịch sử đồ sộ, vốn đã trở nên đồ sộ và bị phân mảnh thành các chuyên ngành bí truyền, và làm cho nó trở nên sống động để ứng dụng vào thời đại ngày nay. Nhờ thành công của mình, ông và vợ đã cùng được trao Giải thưởng Pulitzer cho tác phẩm phi hư cấu năm 1968 và Huân chương Tự do của Tổng thống năm 1977 (theo [Will Durant Foundation](https://www.will-durant.com))
 
-Trích dịch [Câu chuyện của nền văn minh](https://archive.org/details/TheStoryOfCivilizationcomplete/Durant_Will_-_The_story_of_civilization_1/), Quyển 1: **Di sản phương Đông của chúng ta**, Phần mở đầu: **Sự thành lập nền văn minh**
+**Sự thành lập nền văn minh**, Quyển 1: **Di sản phương Đông của chúng ta**, [Câu chuyện của nền văn minh](https://archive.org/details/TheStoryOfCivilizationcomplete/Durant_Will_-_The_story_of_civilization_1/)
