@@ -185,10 +185,28 @@ input {
     color: #c28068;
 } */
 
+.md-search-result .md-typeset {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    padding-right: 3rem;
+}
+
 .md-search-result .md-typeset h1 {
     font-size: 0.9rem;
-    font-weight: 500;
     line-height: 1.4;
+}
+
+.md-search-result .md-typeset h2 {
+    font-size: 0.9rem;
+    line-height: 1.4;
+} 
+
+.md-search-result__terms {
+    font-size: .8rem;
+}
+
+.md-search-result__more > summary > div {
+    font-size: .8rem;
 }
 
 /* Admonition */
@@ -348,9 +366,10 @@ mjx-container[jax="CHTML"][display="true"] {
 
 /* Search text */
 [aria-label="Tìm kiếm"] {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-family: "Literata";
     font-weight: 700;
+    padding-bottom: 0.18rem
 }
 
 /* Site Label */
