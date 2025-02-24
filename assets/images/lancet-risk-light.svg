@@ -1,0 +1,92 @@
+<svg style='scaling-svg' viewBox="0 0 505 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lancet-risk">
+            <line x1="191.3386" y1="60.2395125" x2="321.0236" y2="60.2395125" id="Stroke-5" stroke="#A5A5A5" stroke-width="2"></line>
+            <line x1="321.0236" y1="60.2395125" x2="503" y2="60" id="Stroke-6" stroke="#A5A5A5" stroke-width="2"></line>
+            <line x1="0" y1="60.2395125" x2="191.339" y2="60.2395125" id="Stroke-8" stroke="#A5A5A5" stroke-width="2"></line>
+            <line x1="0" y1="119.767112" x2="191.339" y2="119.767112" id="Stroke-9" stroke="#A5A5A5" stroke-width="2"></line>
+            <line x1="191.3386" y1="119.767112" x2="321.0236" y2="119.767112" id="Stroke-10" stroke="#A5A5A5" stroke-width="2"></line>
+            <line x1="321.0236" y1="119.767112" x2="503" y2="120" id="Stroke-11" stroke="#A5A5A5" stroke-width="2"></line>
+            <text id="19%" font-family="LucidaGrande-Bold, Lucida Grande" font-size="26" font-weight="bold" letter-spacing="-0.001" fill="#65B32E">
+                <tspan x="147.0079" y="29.6285187">1</tspan>
+                <tspan x="164.158267" y="29.6285187" letter-spacing="0.129">9</tspan>
+                <tspan x="181.438634" y="29.6285187">%</tspan>
+            </text>
+            <text id="hay" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" letter-spacing="0.005" fill="#3D1818">
+                <tspan x="239.8247" y="29.1168">hay</tspan>
+            </text>
+            <text id="11.1-triệu" font-family="LucidaGrande-Bold, Lucida Grande" font-size="26" font-weight="bold" letter-spacing="-0.015" fill="#65B32E">
+                <tspan x="276.6929" y="29.6285187">1</tspan>
+                <tspan x="293.829267" y="29.6285187" letter-spacing="0.297">1</tspan>
+                <tspan x="311.277634" y="29.6285187" letter-spacing="-0.873">.</tspan>
+                <tspan x="316.828463" y="29.6285187" letter-spacing="0.635">1 </tspan>
+                <tspan x="343.819166" y="29.6285187" letter-spacing="0.297">triệu</tspan>
+            </text>
+            <text id="ca-tử-vong-người-trư" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" letter-spacing="0.0936" fill="#65B32E">
+                <tspan x="276.6929" y="49.1168">ca tử vong người trưởng thành/năm</tspan>
+            </text>
+            <text id="22.4%" font-family="LucidaGrande-Bold, Lucida Grande" font-size="26" font-weight="bold" letter-spacing="0.02" fill="#65B32E">
+                <tspan x="147.0079" y="89.1561188">22</tspan>
+                <tspan x="181.350634" y="89.1561188" letter-spacing="-0.474">.</tspan>
+                <tspan x="187.300463" y="89.1561188" letter-spacing="-1.124">4</tspan>
+                <tspan x="203.32783" y="89.1561188">%</tspan>
+            </text>
+            <text id="hay" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" letter-spacing="0.005" fill="#3D1818">
+                <tspan x="239.9479" y="88.6444">hay</tspan>
+            </text>
+            <text id="10.8-triệu" font-family="LucidaGrande-Bold, Lucida Grande" font-size="26" font-weight="bold" letter-spacing="-0.003" fill="#65B32E">
+                <tspan x="276.6929" y="89.1561188">1</tspan>
+                <tspan x="293.841267" y="89.1561188" letter-spacing="-0.419">0</tspan>
+                <tspan x="310.573634" y="89.1561188" letter-spacing="0.101">.</tspan>
+                <tspan x="317.098462" y="89.1561188" letter-spacing="0.335">8 </tspan>
+                <tspan x="343.489166" y="89.1561188">triệu</tspan>
+            </text>
+            <text id="ca-tử-vong-người-trư" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" letter-spacing="0.0936" fill="#65B32E">
+                <tspan x="276.6929" y="108.6444">ca tử vong người trưởng thành/năm</tspan>
+            </text>
+            <text id="23.6%" font-family="LucidaGrande-Bold, Lucida Grande" font-size="26" font-weight="bold" letter-spacing="-0.0019" fill="#65B32E">
+                <tspan x="147.0079" y="148.683619">2</tspan>
+                <tspan x="164.157367" y="148.683619" letter-spacing="0.0501">3</tspan>
+                <tspan x="181.358834" y="148.683619" letter-spacing="-0.3399">.</tspan>
+                <tspan x="187.442763" y="148.683619" letter-spacing="0.1801">6</tspan>
+                <tspan x="204.77423" y="148.683619">%</tspan>
+            </text>
+            <text id="hay" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" letter-spacing="0.005" fill="#3D1818">
+                <tspan x="239.8839" y="148.1719">hay</tspan>
+            </text>
+            <text id="11.6-triệu" font-family="LucidaGrande-Bold, Lucida Grande" font-size="26" font-weight="bold" letter-spacing="-0.015" fill="#65B32E">
+                <tspan x="276.6929" y="148.683619">1</tspan>
+                <tspan x="293.829267" y="148.683619" letter-spacing="0.297">1</tspan>
+                <tspan x="311.277634" y="148.683619">.</tspan>
+                <tspan x="317.686463" y="148.683619" letter-spacing="0.635">6 </tspan>
+                <tspan x="344.677166" y="148.683619" letter-spacing="0.297">triệu</tspan>
+            </text>
+            <text id="ca-tử-vong-người-trư" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" letter-spacing="0.0936" fill="#65B32E">
+                <tspan x="276.6929" y="168.1719">ca tử vong người trưởng thành/năm</tspan>
+            </text>
+            <text id="So-sánh-rủi-ro" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" letter-spacing="0.03542" fill="#3D1818">
+                <tspan x="5.6693" y="38.9457687">So sánh rủi ro</tspan>
+            </text>
+            <text id="Phương-pháp-1" font-family="LucidaGrande-Bold, Lucida Grande" font-size="14" font-weight="bold" letter-spacing="0.01638" fill="#3D1818">
+                <tspan x="5.6693" y="19.9457687">Phương pháp 1</tspan>
+            </text>
+            <text id="Gánh-nặng-bệnh-tật-t" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" letter-spacing="0.0273" fill="#3D1818">
+                <tspan x="5.6693" y="94.4733688">Gánh nặng bệnh </tspan>
+                <tspan x="5.6693" y="111.473369">tật toàn cầu</tspan>
+            </text>
+            <text id="Phương-pháp-2" font-family="LucidaGrande-Bold, Lucida Grande" font-size="14" font-weight="bold" letter-spacing="0.01638" fill="#3D1818">
+                <tspan x="5.6693" y="77.4733688">Phương pháp</tspan>
+                <tspan x="103.070183" y="77.4733688" letter-spacing="-0.01162"> </tspan>
+                <tspan x="107.672821" y="77.4733688">2</tspan>
+            </text>
+            <text id="Rủi-ro-bệnh-tật-thực" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" letter-spacing="0.00896" fill="#3D1818">
+                <tspan x="5.6693" y="154.000869">Rủi ro bệnh tật </tspan>
+                <tspan x="5.6693" y="171.000869">thực nghiệm</tspan>
+            </text>
+            <text id="Phương-pháp-3" font-family="LucidaGrande-Bold, Lucida Grande" font-size="14" font-weight="bold" letter-spacing="0.01638" fill="#3D1818">
+                <tspan x="5.6693" y="136.000869">Phương pháp 3</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#A5A5A5" stroke-width="2" x="1" y="1" width="503" height="178"></rect>
+        </g>
+    </g>
+</svg>

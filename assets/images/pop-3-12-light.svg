@@ -1,0 +1,75 @@
+<svg style="scaling-svg" viewBox="0 0 316 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2" transform="translate(-1578.000000, -727.000000)">
+            <g id="Chuyển-dịch-dân-số" transform="translate(1578.000000, 727.000000)">
+                <rect id="Rectangle" x="0" y="0" width="316" height="185"></rect>
+                <g id="Group-25" transform="translate(55.000000, 4.000000)">
+                    <line x1="0.466164219" y1="155.671092" x2="201.849107" y2="84.6270443" id="Line" stroke="#137B33" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="3,4"></line>
+                    <path id="Line-4" d="M153.734228,47.2400665 C154.12631,47.2370716 154.457067,47.5442184 154.472995,47.9260981 C154.477472,48.0334431 154.456227,48.1395098 154.410943,48.2358985 L154.410943,48.2358985 L152.548,52.199 L152.569593,52.2119516 C158.769434,55.8243647 164.022462,60.2626612 168.324683,65.5253084 C174.639586,73.2499476 179.056874,81.7487239 181.572338,91.0160811 L181.783292,91.8123081 L180.331022,92.1876919 C177.910321,82.8225828 173.522626,74.2535981 167.16336,66.4746916 C162.998203,61.379707 157.914613,57.0763154 151.90866,53.5630079 L150.104376,57.4025403 C149.943277,57.7454433 149.522617,57.8871466 149.164805,57.7190435 C149.064225,57.6717904 148.97557,57.6027444 148.905861,57.5173736 L148.905861,57.5173736 L141.493953,48.4402436 C141.245962,48.1365368 141.291455,47.7026466 141.595564,47.4711228 C141.714706,47.3804181 141.862146,47.3307516 142.015753,47.3295783 L142.015753,47.3295783 Z" fill="#205595" fill-rule="nonzero"></path>
+                    <path id="Line-4-Copy" d="M141.71163,47.0463615 L142.313373,47.3186065 L141.686627,48.6813935 C130.584874,43.5756905 117.743175,42.4232303 103.141893,45.2364553 C91.5026694,47.4789813 80.3293158,53.4068273 69.6170832,63.0346578 L69.596,63.053 L72.6250493,66.0695172 C72.8666622,66.3101138 72.8839329,66.6936551 72.6816144,66.9721729 L72.6060484,67.0607822 C72.5276359,67.139526 72.4327306,67.1996925 72.3288484,67.236517 L72.3288484,67.236517 L61.2834733,71.1519171 C60.913912,71.2829204 60.5208012,71.0937269 60.4054358,70.7293417 C60.3602387,70.5865854 60.3632204,70.4310336 60.4139332,70.2860344 L60.4139332,70.2860344 L64.2827427,59.2242542 C64.4121871,58.854144 64.8129067,58.6463867 65.177775,58.7602153 C65.2803381,58.792212 65.3730209,58.8479918 65.4484837,58.9231371 L65.4484837,58.9231371 L68.532,61.993 L68.6164061,61.9172281 C79.5216794,52.1164657 90.9371627,46.0603498 102.858107,43.7635447 C117.49144,40.9441444 130.448821,42.0344837 141.71163,47.0463615 Z" fill="#205595" fill-rule="nonzero"></path>
+                    <path id="Line-4-Copy-2" d="M61.126783,69.6503253 L62.3278475,70.5489042 C56.3388177,78.5540005 53.0777628,87.538558 52.5381637,97.5205192 C52.1412447,104.863063 53.6859914,113.161227 57.181538,122.413384 L61.0873723,120.686464 C61.4338759,120.533263 61.8443662,120.702179 62.0042282,121.063748 C62.0491648,121.165383 62.0708068,121.27565 62.0674403,121.385814 L62.0674403,121.385814 L61.709497,133.099163 C61.6975207,133.491074 61.3786144,133.78878 60.9971998,133.764109 C60.8477718,133.754443 60.7038965,133.695239 60.5871693,133.595383 L60.5871693,133.595383 L51.6822187,125.977475 C51.3842727,125.722591 51.3360253,125.273802 51.5744551,124.975076 C51.6414768,124.891106 51.7270775,124.82497 51.8244783,124.781905 L51.8244783,124.781905 L55.807,123.02 L55.8006464,123.002497 C52.2202262,113.543675 50.6303959,105.023239 51.0403505,97.4395513 C51.5959437,87.1617188 54.9602609,77.8926626 61.126783,69.6503253 Z" fill="#205595" fill-rule="nonzero"></path>
+                    <path id="Line-2" d="M-0.0668430802,-0.0585493348 C0.102588485,-0.412145645 0.514642751,-0.555468868 0.853505882,-0.378670713 C0.986263283,-0.309405982 1.09391017,-0.197078797 1.16028887,-0.0585493348 L1.16028887,-0.0585493348 L6.22422612,10.5096675 C6.39365769,10.8632638 6.25630626,11.2932335 5.91744313,11.4700317 C5.82219002,11.5197289 5.71715636,11.5456021 5.61066015,11.5456021 L5.61066015,11.5456021 L1.296,11.545 L1.29679803,155.670886 C1.29679803,156.0851 0.961011592,156.420886 0.54679803,156.420886 C0.167102264,156.420886 -0.146692931,156.138732 -0.196355354,155.772657 L-0.20320197,155.670886 L-0.203,11.545 L-4.51721436,11.5456021 C-4.86450315,11.5456021 -5.15151597,11.2763095 -5.19693971,10.9269205 L-5.20320197,10.8297889 C-5.20320197,10.7186624 -5.17840689,10.6090621 -5.13078033,10.5096675 L-5.13078033,10.5096675 Z" fill="#000000" fill-rule="nonzero"></path>
+                    <path id="Line-2-Copy" d="M211.379338,149.892452 C211.490464,149.892391 211.600078,149.917126 211.699499,149.964698 L211.699499,149.964698 L222.270483,155.022857 C222.624171,155.192095 222.76772,155.604071 222.591107,155.943031 C222.521915,156.075826 222.409647,156.183534 222.271153,156.249989 L222.271153,156.249989 L211.705707,161.319703 C211.352203,161.489328 210.922158,161.352212 210.745175,161.013445 C210.695426,160.918219 210.669495,160.8132 210.669437,160.706703 L210.669437,160.706703 L210.666,156.392 L0.464845187,156.507764 C0.0506316862,156.50799 -0.285338282,156.172388 -0.285564741,155.758174 C-0.285772329,155.378478 -0.00379004762,155.064529 0.362258307,155.014666 L0.464025106,155.007764 L210.666,154.892 L210.6639,150.57883 C210.66371,150.231542 210.932846,149.944382 211.28221,149.898767 Z" fill="#000000" fill-rule="nonzero"></path>
+                    <line x1="47.5714286" y1="148.587578" x2="47.5714286" y2="154.691925" id="Line-3" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></line>
+                    <line x1="93.5024631" y1="148.587578" x2="93.5024631" y2="154.691925" id="Line-3-Copy" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></line>
+                    <line x1="140.527094" y1="148.587578" x2="140.527094" y2="154.691925" id="Line-3-Copy-2" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></line>
+                    <line x1="186.458128" y1="148.587578" x2="186.458128" y2="154.691925" id="Line-3-Copy-3" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></line>
+                    <line x1="11.2345522" y1="123.129412" x2="1.4662636" y2="122.704704" id="Line-3-Copy-4" stroke="#000000" stroke-width="1.5" stroke-linecap="square" transform="translate(6.350408, 122.917058) rotate(-2.489553) translate(-6.350408, -122.917058) "></line>
+                    <line x1="11.2345522" y1="90.2180201" x2="1.4662636" y2="89.7933117" id="Line-3-Copy-5" stroke="#000000" stroke-width="1.5" stroke-linecap="square" transform="translate(6.350408, 90.005666) rotate(-2.489553) translate(-6.350408, -90.005666) "></line>
+                    <line x1="11.2345522" y1="57.3066276" x2="1.4662636" y2="56.8819193" id="Line-3-Copy-6" stroke="#000000" stroke-width="1.5" stroke-linecap="square" transform="translate(6.350408, 57.094273) rotate(-2.489553) translate(-6.350408, -57.094273) "></line>
+                    <line x1="11.2345522" y1="24.3952352" x2="1.4662636" y2="23.9705269" id="Line-3-Copy-7" stroke="#000000" stroke-width="1.5" stroke-linecap="square" transform="translate(6.350408, 24.182881) rotate(-2.489553) translate(-6.350408, -24.182881) "></line>
+                </g>
+                <text id="5" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="47" y="130">5</tspan>
+                </text>
+                <text id="5" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="99" y="170">5</tspan>
+                </text>
+                <text id="10" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="141" y="170">10</tspan>
+                </text>
+                <text id="15" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="189" y="170">15</tspan>
+                </text>
+                <text id="20" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="234" y="170">20</tspan>
+                </text>
+                <text id="10" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="41" y="98">10</tspan>
+                </text>
+                <text id="15" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="41" y="65">15</tspan>
+                </text>
+                <text id="20" font-family="LucidaGrande, Lucida Grande" font-size="9" font-weight="normal" letter-spacing="0.022285057" fill="#000000">
+                    <tspan x="41" y="31">20</tspan>
+                </text>
+                <text id="Tỉ-lệ-sinh" transform="translate(28.500000, 84.000000) rotate(-90.000000) translate(-28.500000, -84.000000) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#000000">
+                    <tspan x="4.46238699" y="88">Tỉ lệ sinh</tspan>
+                </text>
+                <text id="Tỉ-lệ-tử-vong" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#000000">
+                    <tspan x="128" y="183">Tỉ lệ tử vong</tspan>
+                </text>
+                <text id="A" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#205595">
+                    <tspan x="234" y="106">A</tspan>
+                </text>
+                <text id="Không-tăng-trưởng-th" transform="translate(182.809861, 131.750491) rotate(-19.000000) translate(-182.809861, -131.750491) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#137B33">
+                    <tspan x="152.915314" y="127.250491">Không tăng </tspan>
+                    <tspan x="148.063358" y="139.250491">trưởng thuần</tspan>
+                </text>
+                <text id="B" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#205595">
+                    <tspan x="195" y="47">B</tspan>
+                </text>
+                <text transform="translate(143.994940, 44.237771) rotate(-20.000000) translate(-143.994940, -44.237771) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#205595">
+                    <tspan x="112.106544" y="35.7377712">Chuyển dịch</tspan>
+                    <tspan x="126.736435" y="47.7377712">dân số</tspan>
+                </text>
+                <text id="C" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#205595">
+                    <tspan x="105" y="74">C</tspan>
+                </text>
+                <text id="D" font-family="LucidaGrande-Bold, Lucida Grande" font-size="10" font-weight="bold" letter-spacing="0.0179718202" fill="#205595">
+                    <tspan x="113" y="149">D</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="scaling-svg" viewBox="0 0 504 287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>imperial-3.6</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Board" transform="translate(-3823.000000, -1107.000000)">
+            <g id="imperial-3.6" transform="translate(3823.014200, 1107.356823)">
+                <text id="Hình-3.6:-Việc-làm-b" font-family="LucidaGrande-Bold, Lucida Grande" font-size="12.5" font-weight="bold" letter-spacing="-0.25" fill="#B99c9a">
+                    <tspan x="127.7066" y="12">Hình 3.6: Việc làm bị đe doạ do số hoá (ước tính)</tspan>
+                </text>
+                <text id="Nguồn:-ING-DiBa,-201" font-family="LucidaGrande, Lucida Grande" font-size="9.5" font-weight="normal" letter-spacing="0.0665" fill="#B99c9a">
+                    <tspan x="218.8374" y="26.9167344">Nguồn: ING DiBa, 2015</tspan>
+                </text>
+                <text id="Rủi-ro-mất-việc" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" letter-spacing="-0.1" fill="#B99c9a">
+                    <tspan x="143.6897" y="282.733402">Rủi ro mất việc </tspan>
+                </text>
+                <text id="Việc-làm-được-đảm-bả" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" letter-spacing="-0.1" fill="#B99c9a">
+                    <tspan x="244.6897" y="282.733402">Việc làm được đảm bảo </tspan>
+                </text>
+                <polygon id="Fill-9" fill="#BD4040" points="131.6688 283.997177 141.6688 283.997177 141.6688 273.997177 131.6688 273.997177"></polygon>
+                <polygon id="Fill-9-Copy" fill="#80B874" points="231.6688 283.997177 241.6688 283.997177 241.6688 273.997177 231.6688 273.997177"></polygon>
+                <text id="Tổng-số-việc-làm-khả" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" letter-spacing="-0.639" fill="#B99c9a">
+                    <tspan x="8.70920156" y="57.5178359">Tổng số việc làm khảo sát</tspan>
+                    <tspan x="114.1551" y="57.5178359" font-family="LucidaGrande, Lucida Grande" font-weight="normal"></tspan>
+                    <tspan x="72.951518" y="68.5178359" font-family="LucidaGrande, Lucida Grande" font-weight="normal">(30,9 triệu)</tspan>
+                </text>
+                <text id="Các-việc-văn-phòng-(" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" letter-spacing="-0.639" fill="#B99c9a">
+                    <tspan x="35.9251664" y="80.5178359">Các việc văn phòng</tspan>
+                    <tspan x="114.1551" y="80.5178359" font-family="LucidaGrande, Lucida Grande" font-weight="normal"></tspan>
+                    <tspan x="78.0034359" y="91.5178359" font-family="LucidaGrande, Lucida Grande" font-weight="normal">(3,5 triệu)</tspan>
+                </text>
+                <text id="Lao-động-không-chuyê" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="3.94090234" y="102.745336">Lao động không chuyên</tspan>
+                    <tspan x="114.916" y="102.745336" font-family="LucidaGrande, Lucida Grande" font-weight="normal"></tspan>
+                    <tspan x="71.7353359" y="113.745336" font-family="LucidaGrande, Lucida Grande" font-weight="normal">(3,8 triệu)</tspan>
+                </text>
+                <text id="Dịch-vụ-và-bán-hàng" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="20.1918789" y="145.745336">Dịch vụ và bán hàng</tspan>
+                    <tspan x="71.7353359" y="156.745336" font-family="LucidaGrande, Lucida Grande" font-weight="normal">(4,5 triệu)</tspan>
+                </text>
+                <text id="Thợ-máy,-lắp-ráp,-nh" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="35.19725" y="123.745336">Thợ máy, lắp ráp, </tspan>
+                    <tspan x="19.5175625" y="134.745336">nhà xưởng</tspan>
+                    <tspan x="69.8876797" y="134.745336" font-family="LucidaGrande, Lucida Grande" font-weight="normal"> (4,6 triệu)</tspan>
+                </text>
+                <text id="Làm-nông-lâm-nghiệp" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="11.6933594" y="167.229336">Làm nông-lâm nghiệp</tspan>
+                    <tspan x="0.922363281" y="178.229336">chuyên nghiệp </tspan>
+                    <tspan x="71.8193359" y="178.229336" font-family="LucidaGrande, Lucida Grande" font-weight="normal">(3,8 triệu) </tspan>
+                </text>
+                <text id="Thủ-công-thương-(4,1" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="33.3536523" y="189.195336">Thủ công thương</tspan>
+                    <tspan x="71.0543359" y="200.195336" font-family="LucidaGrande, Lucida Grande" font-weight="normal">(4,1 triệu)</tspan>
+                </text>
+                <text id="Việc-làm-kĩ-thuật-và" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="22.4859766" y="211.195336">Việc làm kĩ thuật và </tspan>
+                    <tspan x="14.4439844" y="222.195336">phi kĩ thuật</tspan>
+                    <tspan x="68.2066797" y="222.195336" font-family="LucidaGrande, Lucida Grande" font-weight="normal"> (4,8 triệu)</tspan>
+                </text>
+                <text id="Dạy-chuyên-nghiệp-tr" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="26.6632227" y="233.195336">Dạy chuyên nghiệp </tspan>
+                    <tspan x="8.19300781" y="244.195336">trong trường</tspan>
+                    <tspan x="69.2066797" y="244.195336" font-family="LucidaGrande, Lucida Grande" font-weight="normal"> (4,8 triệu)</tspan>
+                </text>
+                <text id="Quản-lí-(3,9-triệu)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="9" font-weight="bold" fill="#B99c9a">
+                    <tspan x="80.8892969" y="256.195336">Quản lí</tspan>
+                    <tspan x="114.235" y="256.195336" font-family="LucidaGrande, Lucida Grande" font-weight="normal"></tspan>
+                    <tspan x="71.0543359" y="267.195336" font-family="LucidaGrande, Lucida Grande" font-weight="normal">(3,9 triệu)</tspan>
+                </text>
+                <path d="M118.1367,50.5095766 L118.1367,267.754577 M155.2567,50.5095766 L155.2567,267.754577 M192.3767,50.5095766 L192.3767,267.754577 M229.4777,50.5095766 L229.4777,267.754577 M266.6167,50.5095766 L266.6167,267.754577 M303.7367,50.5095766 L303.7367,267.754577 M340.8567,50.5095766 L340.8567,267.754577 M377.9967,50.5095766 L377.9967,267.754577 M415.1167,50.5095766 L415.1167,267.754577 M452.2367,50.5095766 L452.2367,267.754577 M489.3767,50.5095766 L489.3767,267.754577 M118.1367,267.754577 L118.1367,50.5095766" id="Stroke-11" stroke="#CACCC8" stroke-width="0.766" stroke-linejoin="round"></path>
+                <polygon id="Fill-12" fill="#BD4040" points="118.0988 261.242177 160.3538 261.242177 160.3538 252.534177 118.0988 252.534177"></polygon>
+                <polygon id="Fill-13" fill="#BD4040" points="118.0988 239.510177 161.9008 239.510177 161.9008 230.827177 118.0988 230.827177"></polygon>
+                <polygon id="Fill-14" fill="#BD4040" points="118.0988 217.778177 309.1588 217.778177 309.1588 209.096177 118.0988 209.096177"></polygon>
+                <polygon id="Fill-15" fill="#BD4040" points="118.0988 196.071177 351.7468 196.071177 351.7468 187.388177 118.0988 187.388177"></polygon>
+                <polygon id="Fill-16" fill="#BD4040" points="118.0988 174.339177 356.0918 174.339177 356.0918 165.656177 118.0988 165.656177"></polygon>
+                <polygon id="Fill-17" fill="#BD4040" points="118.0988 152.607177 371.5728 152.607177 371.5728 143.924177 118.0988 143.924177"></polygon>
+                <polygon id="Fill-18" fill="#BD4040" points="118.0988 130.900177 374.9588 130.900177 374.9588 122.217177 118.0988 122.217177"></polygon>
+                <polygon id="Fill-19" fill="#BD4040" points="118.0988 109.168177 436.6298 109.168177 436.6298 100.485177 118.0988 100.485177"></polygon>
+                <polygon id="Fill-20" fill="#BD4040" points="118.0988 87.4621766 436.3358 87.4621766 436.3358 78.7791766 118.0988 78.7791766"></polygon>
+                <polygon id="Fill-21" fill="#BD4040" points="118.0988 65.7291766 338.2028 65.7291766 338.2028 57.0211766 118.0988 57.0211766"></polygon>
+                <polygon id="Fill-22" fill="#80B874" points="160.3538 261.242177 489.4138 261.242177 489.4138 252.534177 160.3538 252.534177"></polygon>
+                <polygon id="Fill-23" fill="#80B874" points="161.9008 239.510177 489.4148 239.510177 489.4148 230.827177 161.9008 230.827177"></polygon>
+                <polygon id="Fill-24" fill="#80B874" points="309.1588 217.778177 489.4148 217.778177 489.4148 209.096177 309.1588 209.096177"></polygon>
+                <polygon id="Fill-25" fill="#80B874" points="351.7468 196.071177 489.4148 196.071177 489.4148 187.388177 351.7468 187.388177"></polygon>
+                <polygon id="Fill-26" fill="#80B874" points="356.0918 174.339177 489.3948 174.339177 489.3948 165.656177 356.0918 165.656177"></polygon>
+                <polygon id="Fill-27" fill="#80B874" points="371.5728 152.607177 489.4148 152.607177 489.4148 143.924177 371.5728 143.924177"></polygon>
+                <polygon id="Fill-28" fill="#80B874" points="374.9588 130.900177 489.4148 130.900177 489.4148 122.217177 374.9588 122.217177"></polygon>
+                <polygon id="Fill-29" fill="#80B874" points="436.6298 109.168177 489.4148 109.168177 489.4148 100.485177 436.6298 100.485177"></polygon>
+                <polygon id="Fill-30" fill="#80B874" points="436.3358 87.4621766 489.4148 87.4621766 489.4148 78.7791766 436.3358 78.7791766"></polygon>
+                <polygon id="Fill-31" fill="#80B874" points="338.2028 65.7291766 489.4148 65.7291766 489.4148 57.0211766 338.2028 57.0211766"></polygon>
+                <text id="0%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="114.596" y="46.5423359">0%</tspan>
+                </text>
+                <text id="10%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="146.596" y="46.5423359">10%</tspan>
+                </text>
+                <text id="20%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="186.596" y="46.5423359">20%</tspan>
+                </text>
+                <text id="30%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="222.596" y="46.5423359">30%</tspan>
+                </text>
+                <text id="40%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="258.596" y="46.5423359">40%</tspan>
+                </text>
+                <text id="50%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="296.596" y="46.5423359">50%</tspan>
+                </text>
+                <text id="60%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="333.596" y="46.5423359">60%</tspan>
+                </text>
+                <text id="70%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="370.596" y="46.5423359">70%</tspan>
+                </text>
+                <text id="80%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="407.596" y="46.5423359">80%</tspan>
+                </text>
+                <text id="90%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="444.596" y="46.5423359">90%</tspan>
+                </text>
+                <text id="100%" font-family="LucidaGrande, Lucida Grande" font-size="10" font-weight="normal" fill="#B99c9a">
+                    <tspan x="477.596" y="46.5423359">100%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
