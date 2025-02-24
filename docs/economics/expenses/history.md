@@ -120,4 +120,8 @@ Do đó, có những tiếng nói phê phán đang nói về một ’nền văn
 
 Tổng quan ngắn gọn này về lịch sử của lối sống đế quốc đã nêu bật sự gắn bó chặt chẽ giữa bóc lột và đổi mới, tăng trưởng và bất bình đẳng, sự giàu có và bạo lực&mdash;kéo dài ngay cả cho đến ngày nay. Tổng quan lịch sử này không chỉ cung cấp thông tin nền quan trọng để phân tích các yếu tố riêng lẻ sẽ được trình bày sau này mà còn là chìa khóa để phát triển quan điểm về một tương lai đáng sống cho toàn nhân loại. Ngay cả của cải tích lũy trong quá khứ cũng gây nguy hiểm cho bất kỳ xã hội thực sự bền vững nào do cần có những lượng lớn nguồn lực để biến điều đó thành hiện thực. Trên toàn cầu, khối lượng công nghiệp sản xuất đang mở rộng và có thể còn phát triển hơn nữa trong tương lai không xa nhờ vào công nghiệp 4.0 (xem chương **Số hóa**). Nhưng bất chấp những dự đoán u ám này, sự chuyển đổi sang một xã hội toàn cầu mang tính xã hội và sinh thái khác vẫn có thể xảy ra. Những bất công lịch sử được mô tả ở đây luôn không thể chấp nhận được, và con người đã liên tục đấu tranh để cải thiện cuộc sống của mình, đạt được những tiến bộ to lớn và để lại dấu ấn trong lịch sử toàn cầu (việc xóa bỏ chế độ nô lệ chỉ là một ví dụ). Suy cho cùng, lịch sử là kết quả của hành động, đấu tranh và thảo luận của con người. Lịch sử đang được viết. Bởi chúng ta.
 
+<hr/>
+**Tác giả: ILA Kollektiv**. [Tập thể I.L.A.](https://www.ilakollektiv.org/) là nơi quy tụ các nhà khoa học trẻ và nhà hoạt động xã hội nghiên cứu ở Đức về vấn đề lối sống đế quốc cùng những giải pháp thay thế mang tính đoàn kết. Mục tiêu chung: Cuộc sống tốt đẹp cho tất cả mọi người!
+
+[At the Expense of Others](https://www.rosalux.de/en/publication/id/42603/at-the-expense-of-others)
 

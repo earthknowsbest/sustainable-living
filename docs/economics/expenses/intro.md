@@ -103,4 +103,9 @@ Gần như tất cả chúng ta đều sở hữu một điện thoại di độ
 
 Những phạm trù đời sống hàng ngày là những ví dụ chọn lọc tiêu biểu cho nhưng hiện thực chủ yếu của một bộ phận lớn tầng lớp trung lưu và thượng lưu toàn cầu. Chúng cho phép chung ta trưng bày sống động cách lối sống đế quốc diễn ra trong các hoạt đồng thường nhật. Hơn nữa, phân tích của chúng tôi khám phá vì sao chẳng có gì đang thay đổi và phân vân những tư tưởng, chính sách, hạ tầng cơ sở cụ thể nào đang củng cố và làm ổn định hệ thống hiện tại. **Chương 9** cung cấp một toàn cảnh về các kết quả của phân tích phía trước và tìm hiểu các chiến lược hay điểm đòn bẩy có thể khắc phục lối sống đế quốc này. Mặc dù các giải pháp thay thế cho lối sống đế quốc đòi hỏi những chuyển dịch qui mô lớn về các phương thức sản xuất và đời sống hàng ngày, chúng không nhất thiết ám chỉ việc tổn thất chất lượng cuộc sống. Ngược lại: những hình thái sinh sống, làm việc, chăm sóc, doanh thương và chung sống dựa trên cộng đồng và cộng tác là khả dĩ và đã tồn tại. Chúng ta có thể mở rộng chúng, tạo ra các mạng lưới và biến chúng từ một ngoại lệ thành thường lệ.
 
+<hr/>
+**Tác giả: ILA Kollektiv**. [Tập thể I.L.A.](https://www.ilakollektiv.org/) là nơi quy tụ các nhà khoa học trẻ và nhà hoạt động xã hội nghiên cứu ở Đức về vấn đề lối sống đế quốc cùng những giải pháp thay thế mang tính đoàn kết. Mục tiêu chung: Cuộc sống tốt đẹp cho tất cả mọi người!
+
+[At the Expense of Others](https://www.rosalux.de/en/publication/id/42603/at-the-expense-of-others)
+
 
