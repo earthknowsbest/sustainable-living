@@ -1,0 +1,1465 @@
+<svg style='scaling-svg' viewBox="0 0 304 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Board" transform="translate(-3886.000000, -4003.000000)">
+            <g id="climate" transform="translate(2302.653000, 3931.027840)">
+                <g id="climate-11" transform="translate(1583.847000, 72.674751)">
+                    <g id="Group-18" transform="translate(31.228688, 22.297409)" stroke-linecap="square" stroke-linejoin="round" stroke-width="2">
+                        <polyline id="Stroke-12" stroke="#3D1818" points="2.8083372e-13 169.516778 2.01713092 169.516778 5.76295032 169.422235 9.50876972 169.002046 13.2545891 168.655383 17.0004085 167.846515 20.7462279 165.987166 24.4920473 163.791661 28.2378667 160.388107 31.9836861 155.41933 35.7295055 148.339095 39.4753249 137.267013 43.2211443 132.812973 46.9669637 131.70997 50.7127831 126.184471 54.4586025 122.339705 58.2044219 111.603801 60.0773316 108.917726 60.4519135 108.236769 60.8264955 109.223183 61.2010774 108.31019 61.5756593 106.368707 61.9502413 105.463811 62.3248232 105.820136 62.6994052 105.098544 63.0739871 103.165009 63.448569 103.109571 63.823151 101.809205 64.1977329 99.3255095 64.5723149 97.2341047 64.9468968 96.4197677 65.3214787 93.0058913 65.6960607 91.1263045 66.0706426 90.0210158 66.4452246 89.1307245 66.8198065 86.6500097 67.5689704 79.5928535 67.9435523 78.5466791 68.3181343 74.9081186 68.6927162 72.0911973 69.0672981 71.1000142 69.816462 73.3336908 70.191044 73.6461025 70.5656259 73.2599718 71.3147898 72.1748515 71.6893717 69.7226507 72.0639537 69.5962256 72.4385356 70.3447419 72.8131175 69.8115706 73.1876995 66.3658022 73.5622814 64.6749341 73.9368634 60.5695195 74.6860272 42.7210701 75.0606092 33.4080322 75.4351911 26.3707464 75.8097731 18.1866925 76.184355 16.0363224 76.5589369 18.3968712 77.3081008 3.79702663 77.6826828 3.11383406 78.0572647 0 78.4318466 0.136807412 78.8064286 4.41012652 79.1810105 7.00295981 79.5555925 5.88391094 110.271312 5.88391094"></polyline>
+                        <polyline id="Stroke-14" stroke="#FF0000" points="0.154238604 170 24.4920473 169.99 31.9836861 169.840029 35.7295055 169.675055 39.4753249 169.285124 43.2211443 168.400272 50.7127831 165.225814 54.4586025 160.201673 58.2044219 150.028408 60.8264955 132.512186 61.5756593 125.844588 61.9502413 122.03857 62.3248232 119.188018 63.0739871 111.015092 63.448569 111.870809 63.823151 112.458127 64.1977329 108.693588 64.9468968 104.573519 65.3214787 103.495751 66.0706426 108.398613 66.4452246 110.290122 66.8198065 110.643814 67.1943884 109.266649 67.5689704 109.183293 67.9435523 107.335996 68.3181343 106.053165 68.6927162 103.8867 69.0672981 102.79393 69.4418801 102.085154 69.816462 102.038012 70.191044 100.851305 70.5656259 101.2888 70.9402078 99.7727912 71.3147898 98.8124568 72.0639537 95.2324145 72.4385356 94.8296424 72.8131175 93.4949504 73.1876995 92.5437564 73.9368634 91.1797061 74.3114453 89.3680759 74.6860272 86.3071963 75.4351911 84.0967681 75.8097731 82.7658515 76.184355 83.1637554 76.5589369 84.65438 76.9335189 81.905614 77.3081008 80.9958 78.0572647 78.7585468 78.4318466 78.0178296 79.1810105 74.6129941 79.5555925 73.2625052 110.271312 73.2625052"></polyline>
+                        <polyline id="Stroke-16" stroke="#00BFBF" points="-5.87712996e-13 170 31.9836861 169.953836 35.7295055 169.911522 43.2211443 169.676858 46.9669637 169.165212 50.7127831 168.788211 54.4586025 167.10325 58.2044219 163.806415 60.0773316 161.266307 61.2010774 158.85643 61.9502413 156.684998 62.6994052 154.961984 63.0739871 154.248092 63.448569 153.862309 63.823151 153.855394 64.1977329 152.895298 64.5723149 152.332972 64.9468968 151.592349 65.3214787 150.442511 66.4452246 149.95603 66.8198065 149.633504 67.1943884 147.962934 67.5689704 147.477178 67.9435523 147.258053 69.0672981 143.821435 69.816462 142.323344 70.191044 142.195473 70.5656259 141.921019 70.9402078 141.740626 71.3147898 140.748449 71.6893717 139.33358 72.0639537 139.418576 72.4385356 138.859225 72.8131175 137.998342 73.1876995 136.734836 73.5622814 136.253973 74.3114453 134.312291 74.6860272 132.950923 75.4351911 130.741439 75.8097731 129.034327 76.184355 128.007924 76.5589369 129.176003 76.9335189 126.016765 77.3081008 125.11475 77.6826828 123.923621 78.0572647 123.308187 78.4318466 122.931594 78.8064286 121.885966 79.5555925 119.168694 110.271312 119.168694"></polyline>
+                    </g>
+                    <g id="toMove" transform="translate(13.500000, 9.297409)">
+                        <text id="0,00" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="0" y="184">0,00</tspan>
+                        </text>
+                        <text id="0,25" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="0" y="157">0,25</tspan>
+                        </text>
+                        <text id="0,50" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="0" y="127">0,50</tspan>
+                        </text>
+                        <text id="0,75" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="0" y="98">0,75</tspan>
+                        </text>
+                        <text id="1,00" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="0" y="68">1,00</tspan>
+                        </text>
+                        <text id="1,25" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="0" y="39">1,25</tspan>
+                        </text>
+                        <text id="1,50" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="0" y="8">1,50</tspan>
+                        </text>
+                        <g id="Group-887" transform="translate(17.000000, 155.000000)">
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Fill-884" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Stroke-886" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-887-Copy" transform="translate(17.000000, 125.000000)">
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Fill-884" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Stroke-886" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-887-Copy-2" transform="translate(17.000000, 97.000000)">
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Fill-884" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Stroke-886" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-887-Copy-3" transform="translate(17.000000, 66.000000)">
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Fill-884" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Stroke-886" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-887-Copy-4" transform="translate(17.000000, 37.000000)">
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Fill-884" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Stroke-886" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-887-Copy-5" transform="translate(17.000000, 6.000000)">
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Fill-884" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="5" y2="0.5" id="Stroke-886" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-891" transform="translate(124.000000, 155.000000)">
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Fill-888" fill="#3D1818"></line>
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Stroke-890" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-891-Copy" transform="translate(124.000000, 125.000000)">
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Fill-888" fill="#3D1818"></line>
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Stroke-890" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-891-Copy-2" transform="translate(124.000000, 97.000000)">
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Fill-888" fill="#3D1818"></line>
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Stroke-890" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-891-Copy-3" transform="translate(124.000000, 66.000000)">
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Fill-888" fill="#3D1818"></line>
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Stroke-890" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-891-Copy-4" transform="translate(124.000000, 37.000000)">
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Fill-888" fill="#3D1818"></line>
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Stroke-890" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-891-Copy-5" transform="translate(124.000000, 6.000000)">
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Fill-888" fill="#3D1818"></line>
+                            <line x1="5" y1="0.5" x2="0" y2="0.5" id="Stroke-890" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-968" opacity="0.100000001" transform="translate(17.000000, 178.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-965" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-967" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-972" transform="translate(127.000000, 178.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-969" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-971" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996" transform="translate(127.000000, 159.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-3" transform="translate(127.000000, 149.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-4" transform="translate(127.000000, 144.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-5" transform="translate(127.000000, 138.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-6" transform="translate(127.000000, 132.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-7" transform="translate(127.000000, 119.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-8" transform="translate(127.000000, 113.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-9" transform="translate(127.000000, 108.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-10" transform="translate(127.000000, 102.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-11" transform="translate(127.000000, 91.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-12" transform="translate(127.000000, 84.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-13" transform="translate(127.000000, 78.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-14" transform="translate(127.000000, 72.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-15" transform="translate(127.000000, 60.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-19" transform="translate(127.000000, 31.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-20" transform="translate(127.000000, 24.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-21" transform="translate(127.000000, 18.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-22" transform="translate(127.000000, 12.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-23" transform="translate(127.000000, 0.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-16" transform="translate(127.000000, 54.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-17" transform="translate(127.000000, 48.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-18" transform="translate(127.000000, 42.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy" transform="translate(127.000000, 166.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-996-Copy-2" transform="translate(127.000000, 172.000000)">
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Fill-993" fill="#3D1818"></line>
+                            <line x1="2" y1="0.5" x2="0" y2="0.5" id="Stroke-995" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008" transform="translate(17.000000, 178.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy" transform="translate(17.000000, 172.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-2" transform="translate(17.000000, 166.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-3" transform="translate(17.000000, 160.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-4" transform="translate(17.000000, 149.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-5" transform="translate(17.000000, 144.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-6" transform="translate(17.000000, 138.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-7" transform="translate(17.000000, 132.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-8" transform="translate(17.000000, 120.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-9" transform="translate(17.000000, 113.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-10" transform="translate(17.000000, 107.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-11" transform="translate(17.000000, 102.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-12" transform="translate(17.000000, 90.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-13" transform="translate(17.000000, 84.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-14" transform="translate(17.000000, 78.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-15" transform="translate(17.000000, 72.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-16" transform="translate(17.000000, 61.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-17" transform="translate(17.000000, 55.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-18" transform="translate(17.000000, 49.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-19" transform="translate(17.000000, 43.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-20" transform="translate(17.000000, 31.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-21" transform="translate(17.000000, 25.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-22" transform="translate(17.000000, 19.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-23" transform="translate(17.000000, 12.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1008-Copy-24" transform="translate(17.000000, 0.000000)">
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Fill-1005" fill="#3D1818"></line>
+                            <line x1="0" y1="0.5" x2="2" y2="0.5" id="Stroke-1007" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                    </g>
+                    <g id="Group-1525-Copy" transform="translate(0.000000, 0.297409)">
+                        <line x1="30.752413" y1="4.29241746" x2="142.275879" y2="4.29241746" id="Stroke-726" stroke="#3D1818" stroke-linecap="square"></line>
+                        <line x1="142.275879" y1="193.157675" x2="142.275879" y2="4.29241746" id="Stroke-728" stroke="#3D1818" stroke-linecap="square"></line>
+                        <line x1="30.752413" y1="193.157675" x2="142.275879" y2="193.157675" id="Stroke-730" stroke="#3D1818" stroke-linecap="square"></line>
+                        <line x1="30.752413" y1="193.157675" x2="30.752413" y2="4.29241746" id="Stroke-732" stroke="#3D1818" stroke-linecap="square"></line>
+                        <g id="Group-737" transform="translate(30.121899, 188.189629)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-734" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-736" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-741" transform="translate(30.121899, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-738" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-740" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1800" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="21.160859" y="200.443343">1800</tspan>
+                        </text>
+                        <g id="Group-746" transform="translate(48.709143, 188.189629)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-743" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-745" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-750" transform="translate(48.709143, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-747" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-749" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1850" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="40.5535724" y="200.443343">1850</tspan>
+                        </text>
+                        <g id="Group-755" transform="translate(67.296388, 188.189629)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-752" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-754" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-759" transform="translate(67.296388, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-756" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-758" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1900" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="59.9462858" y="200.443343">1900</tspan>
+                        </text>
+                        <g id="Group-764" transform="translate(85.883632, 188.189629)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-761" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-763" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-768" transform="translate(85.883632, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-765" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-767" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1950" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="78.3364299" y="200.443343">1950</tspan>
+                        </text>
+                        <g id="Group-773" transform="translate(104.470876, 188.189629)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-770" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-772" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-777" transform="translate(104.470876, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-774" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-776" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="2000" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="97.7291433" y="200.443343">2000</tspan>
+                        </text>
+                        <g id="Group-782" transform="translate(123.058120, 188.189629)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-779" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-781" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-786" transform="translate(123.058120, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-783" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-785" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="2050" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="117.121857" y="200.443343">2050</tspan>
+                        </text>
+                        <g id="Group-791" transform="translate(141.645365, 188.189629)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-788" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-790" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-795" transform="translate(141.645365, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-792" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-794" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="2100" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="135.512001" y="200.443343">2100</tspan>
+                        </text>
+                        <g id="Group-801" transform="translate(30.121899, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-798" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-800" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-805" transform="translate(30.121899, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-802" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-804" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-809" transform="translate(33.839348, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-806" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-808" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-813" transform="translate(33.839348, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-810" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-812" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-817" transform="translate(37.556797, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-814" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-816" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-821" transform="translate(37.556797, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-818" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-820" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-825" transform="translate(41.274246, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-822" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-824" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-829" transform="translate(41.274246, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-826" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-828" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-833" transform="translate(44.991694, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-830" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-832" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-837" transform="translate(44.991694, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-834" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-836" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-841" transform="translate(48.709143, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-838" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-840" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-845" transform="translate(48.709143, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-842" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-844" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-849" transform="translate(52.426592, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-846" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-848" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-853" transform="translate(52.426592, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-850" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-852" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-857" transform="translate(56.144041, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-854" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-856" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-861" transform="translate(56.144041, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-858" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-860" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-865" transform="translate(59.861490, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-862" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-864" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-869" transform="translate(59.861490, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-866" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-868" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-873" transform="translate(63.578939, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-870" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-872" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-877" transform="translate(63.578939, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-874" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-876" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-881" transform="translate(67.296388, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-878" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-880" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-885" transform="translate(67.296388, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-882" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-884" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-889" transform="translate(71.013836, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-886" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-888" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-893" transform="translate(71.013836, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-890" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-892" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-897" transform="translate(74.731285, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-894" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-896" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-901" transform="translate(74.731285, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-898" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-900" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-905" transform="translate(78.448734, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-902" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-904" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-909" transform="translate(78.448734, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-906" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-908" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-913" transform="translate(82.166183, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-910" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-912" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-917" transform="translate(82.166183, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-914" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-916" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-921" transform="translate(85.883632, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-918" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-920" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-925" transform="translate(85.883632, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-922" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-924" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-929" transform="translate(89.601081, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-926" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-928" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-933" transform="translate(89.601081, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-930" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-932" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-937" transform="translate(93.318530, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-934" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-936" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-941" transform="translate(93.318530, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-938" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-940" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-945" transform="translate(97.035978, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-942" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-944" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-949" transform="translate(97.035978, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-946" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-948" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-953" transform="translate(100.753427, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-950" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-952" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-957" transform="translate(100.753427, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-954" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-956" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-961" transform="translate(104.470876, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-958" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-960" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-965" transform="translate(104.470876, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-962" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-964" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-969" transform="translate(108.188325, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-966" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-968" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-973" transform="translate(108.188325, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-970" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-972" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-977" transform="translate(111.905774, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-974" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-976" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-981" transform="translate(111.905774, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-978" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-980" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-985" transform="translate(115.623223, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-982" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-984" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-989" transform="translate(115.623223, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-986" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-988" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-993" transform="translate(119.340672, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-990" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-992" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-997" transform="translate(119.340672, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-994" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-996" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1001" transform="translate(123.058120, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-998" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1000" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1005" transform="translate(123.058120, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1002" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1004" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1009" transform="translate(126.775569, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1006" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1008" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1013" transform="translate(126.775569, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1010" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1012" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1017" transform="translate(130.493018, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1014" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1016" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1021" transform="translate(130.493018, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1018" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1020" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1025" transform="translate(134.210467, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1022" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1024" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1029" transform="translate(134.210467, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1026" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1028" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1033" transform="translate(137.927916, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1030" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1032" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1037" transform="translate(137.927916, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1034" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1036" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1041" transform="translate(141.645365, 190.673652)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1038" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1040" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1045" transform="translate(141.645365, 4.292417)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1042" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1044" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="Năm" font-family="LucidaGrande-Bold, Lucida Grande" font-size="8" font-weight="bold" letter-spacing="0.0177804872" fill="#3D1818">
+                            <tspan x="76.6516446" y="210.998604">Năm</tspan>
+                        </text>
+                        <g id="Group-725" transform="translate(181.382927, 14.000000)" stroke-linecap="square" stroke-linejoin="round" stroke-width="2">
+                            <g id="Group-718" stroke="#3D1818">
+                                <polyline id="Stroke-716" points="2.47595227e-12 177.835113 10.2915187 177.835113 14.0163528 177.727433 17.7411869 177.554973 21.466021 177.233613 25.1908551 176.736431 28.9156892 175.966677 32.6405233 174.799008 36.3653575 173.064329 40.0901916 170.442967 43.8150257 167.464908 47.5398598 164.398519 51.2646939 160.889623 54.989528 157.072828 58.7143621 152.396268 62.8116797 146.934653 64.3016133 144.797906 65.791547 142.443353 67.2814806 139.856074 68.3989308 137.703215 71.0063147 132.262317 73.2412152 127.492144 74.3586654 124.94236 75.1036322 122.969814 75.8485991 120.725705 77.7110161 114.461914 82.9257839 95.9435932 110.117073 0"></polyline>
+                            </g>
+                            <g id="Group-721" transform="translate(0.000000, 81.486677)" stroke="#FF0000">
+                                <polyline id="Stroke-719" points="-7.40160174e-13 96.5133227 36.3653575 96.4688861 40.0901916 96.4116346 43.8150257 96.2835214 47.5398598 96.0305022 51.2646939 95.6481713 54.989528 94.8634892 58.7143621 93.2640945 61.321746 91.3825999 62.0667128 90.7030768 63.1841631 89.4739391 65.4190635 86.5526448 66.5365138 85.0149919 68.7714142 82.0741198 71.0063147 78.8142797 72.4962484 76.4995978 74.3586654 73.4076084 75.8485991 70.7246436 78.8284664 65.0400098 81.0633668 60.427076 110.117073 0"></polyline>
+                            </g>
+                            <g id="Group-724" transform="translate(0.000000, 131.926208)" stroke="#00BFBF">
+                                <polyline id="Stroke-722" points="-6.71749819e-13 46.0737924 43.8150257 46.0214193 51.2646939 45.857522 54.989528 45.6255426 58.7143621 45.1295394 61.6942294 44.5325492 63.1841631 44.0933747 65.4190635 43.2828243 68.0264474 42.1281537 69.5163811 41.3440733 71.7512815 39.9982099 73.986182 38.4654005 75.4761157 37.299029 76.9660493 35.9933455 78.8284664 34.1618024 80.6908834 32.158863 110.117073 0"></polyline>
+                            </g>
+                        </g>
+                        <text id="Đóng-góp-hàng-năm-CO" transform="translate(5.000000, 91.084408) rotate(-90.000000) translate(-5.000000, -91.084408) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="8" font-weight="bold" fill="#3D1818">
+                            <tspan x="-62" y="94.0844082">Đóng góp hàng năm CO</tspan>
+                            <tspan x="36.7070312" y="94.0844082" font-size="5.5">2</tspan>
+                            <tspan x="42.3352051" y="94.0844082"> ppm</tspan>
+                            <tspan x="61.3312988" y="94.0844082" font-size="5.5">v</tspan>
+                        </text>
+                        <text id="Than-đá" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" letter-spacing="0.0144466458" fill="#3D1818">
+                            <tspan x="114.472282" y="36.774781">Than </tspan>
+                            <tspan x="119.179599" y="44.774781">đá</tspan>
+                        </text>
+                        <text id="Dầu-mỏ" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" letter-spacing="0.0161135665" fill="#FF0000">
+                            <tspan x="118.395012" y="104.549959">Dầu </tspan>
+                            <tspan x="118.395012" y="112.549959">mỏ</tspan>
+                        </text>
+                        <text id="Khí-đốt" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" letter-spacing="0.0166692067" fill="#00BFBF">
+                            <tspan x="117.688635" y="149.826201">Khí </tspan>
+                            <tspan x="117.688635" y="157.826201">đốt</tspan>
+                        </text>
+                        <text id="2100:-2,6-ppmv/năm" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" fill="#3D1818">
+                            <tspan x="40.1873654" y="18.3147899">2100: 2,6 ppm</tspan>
+                            <tspan x="92.0311154" y="18.3147899" font-size="5">v</tspan>
+                            <tspan x="94.997424" y="18.3147899">/năm</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-1525" transform="translate(154.000000, 0.000000)">
+                        <line x1="26.752413" y1="4.58982642" x2="138.275879" y2="4.58982642" id="Stroke-726" stroke="#3D1818" stroke-linecap="square"></line>
+                        <line x1="138.275879" y1="193.455084" x2="138.275879" y2="4.58982642" id="Stroke-728" stroke="#3D1818" stroke-linecap="square"></line>
+                        <line x1="26.752413" y1="193.455084" x2="138.275879" y2="193.455084" id="Stroke-730" stroke="#3D1818" stroke-linecap="square"></line>
+                        <line x1="26.752413" y1="193.455084" x2="26.752413" y2="4.58982642" id="Stroke-732" stroke="#3D1818" stroke-linecap="square"></line>
+                        <g id="Group-737" transform="translate(26.121899, 188.487038)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-734" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-736" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-741" transform="translate(26.121899, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-738" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-740" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1800" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="17.160859" y="200.740751">1800</tspan>
+                        </text>
+                        <g id="Group-746" transform="translate(44.709143, 188.487038)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-743" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-745" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-750" transform="translate(44.709143, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-747" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-749" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1850" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="36.5535724" y="200.740751">1850</tspan>
+                        </text>
+                        <g id="Group-755" transform="translate(63.296388, 188.487038)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-752" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-754" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-759" transform="translate(63.296388, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-756" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-758" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1900" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="55.9462858" y="200.740751">1900</tspan>
+                        </text>
+                        <g id="Group-764" transform="translate(81.883632, 188.487038)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-761" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-763" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-768" transform="translate(81.883632, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-765" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-767" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="1950" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="74.3364299" y="200.740751">1950</tspan>
+                        </text>
+                        <g id="Group-773" transform="translate(100.470876, 188.487038)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-770" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-772" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-777" transform="translate(100.470876, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-774" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-776" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="2000" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="93.7291433" y="200.740751">2000</tspan>
+                        </text>
+                        <g id="Group-782" transform="translate(119.058120, 188.487038)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-779" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-781" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-786" transform="translate(119.058120, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-783" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-785" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="2050" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="113.121857" y="200.740751">2050</tspan>
+                        </text>
+                        <g id="Group-791" transform="translate(137.645365, 188.487038)">
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Fill-788" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="4.96804655" x2="0.630514078" y2="0" id="Stroke-790" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-795" transform="translate(137.645365, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Fill-792" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="4.96804655" id="Stroke-794" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="2100" font-family="LucidaGrande, Lucida Grande" font-size="6.5" font-weight="normal" letter-spacing="0.021326001" fill="#3D1818">
+                            <tspan x="131.512001" y="200.740751">2100</tspan>
+                        </text>
+                        <g id="Group-801" transform="translate(26.121899, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-798" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-800" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-805" transform="translate(26.121899, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-802" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-804" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-809" transform="translate(29.839348, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-806" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-808" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-813" transform="translate(29.839348, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-810" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-812" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-817" transform="translate(33.556797, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-814" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-816" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-821" transform="translate(33.556797, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-818" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-820" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-825" transform="translate(37.274246, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-822" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-824" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-829" transform="translate(37.274246, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-826" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-828" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-833" transform="translate(40.991694, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-830" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-832" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-837" transform="translate(40.991694, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-834" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-836" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-841" transform="translate(44.709143, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-838" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-840" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-845" transform="translate(44.709143, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-842" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-844" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-849" transform="translate(48.426592, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-846" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-848" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-853" transform="translate(48.426592, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-850" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-852" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-857" transform="translate(52.144041, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-854" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-856" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-861" transform="translate(52.144041, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-858" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-860" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-865" transform="translate(55.861490, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-862" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-864" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-869" transform="translate(55.861490, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-866" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-868" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-873" transform="translate(59.578939, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-870" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-872" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-877" transform="translate(59.578939, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-874" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-876" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-881" transform="translate(63.296388, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-878" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-880" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-885" transform="translate(63.296388, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-882" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-884" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-889" transform="translate(67.013836, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-886" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-888" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-893" transform="translate(67.013836, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-890" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-892" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-897" transform="translate(70.731285, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-894" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-896" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-901" transform="translate(70.731285, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-898" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-900" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-905" transform="translate(74.448734, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-902" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-904" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-909" transform="translate(74.448734, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-906" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-908" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-913" transform="translate(78.166183, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-910" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-912" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-917" transform="translate(78.166183, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-914" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-916" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-921" transform="translate(81.883632, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-918" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-920" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-925" transform="translate(81.883632, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-922" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-924" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-929" transform="translate(85.601081, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-926" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-928" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-933" transform="translate(85.601081, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-930" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-932" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-937" transform="translate(89.318530, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-934" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-936" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-941" transform="translate(89.318530, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-938" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-940" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-945" transform="translate(93.035978, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-942" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-944" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-949" transform="translate(93.035978, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-946" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-948" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-953" transform="translate(96.753427, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-950" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-952" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-957" transform="translate(96.753427, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-954" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-956" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-961" transform="translate(100.470876, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-958" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-960" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-965" transform="translate(100.470876, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-962" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-964" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-969" transform="translate(104.188325, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-966" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-968" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-973" transform="translate(104.188325, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-970" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-972" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-977" transform="translate(107.905774, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-974" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-976" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-981" transform="translate(107.905774, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-978" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-980" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-985" transform="translate(111.623223, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-982" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-984" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-989" transform="translate(111.623223, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-986" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-988" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-993" transform="translate(115.340672, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-990" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-992" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-997" transform="translate(115.340672, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-994" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-996" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1001" transform="translate(119.058120, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-998" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1000" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1005" transform="translate(119.058120, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1002" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1004" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1009" transform="translate(122.775569, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1006" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1008" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1013" transform="translate(122.775569, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1010" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1012" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1017" transform="translate(126.493018, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1014" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1016" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1021" transform="translate(126.493018, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1018" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1020" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1025" transform="translate(130.210467, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1022" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1024" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1029" transform="translate(130.210467, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1026" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1028" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1033" transform="translate(133.927916, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1030" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1032" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1037" transform="translate(133.927916, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1034" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1036" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1041" transform="translate(137.645365, 190.971061)">
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Fill-1038" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="2.48402328" x2="0.630514078" y2="0" id="Stroke-1040" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1045" transform="translate(137.645365, 4.589826)">
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Fill-1042" fill="#3D1818"></line>
+                            <line x1="0.630514078" y1="0" x2="0.630514078" y2="2.48402328" id="Stroke-1044" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1050" transform="translate(26.752413, 192.824125)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1047" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1049" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1054" transform="translate(133.311337, 192.824125)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1051" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1053" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="0" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" fill="#3D1818">
+                            <tspan x="20.6060409" y="194.865258">0</tspan>
+                        </text>
+                        <g id="Group-1059" transform="translate(26.752413, 173.937599)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1056" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1058" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1063" transform="translate(133.311337, 173.937599)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1060" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1062" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="20" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="16.4965156" y="176.978732">20</tspan>
+                        </text>
+                        <g id="Group-1068" transform="translate(26.752413, 155.051073)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1065" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1067" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1072" transform="translate(133.311337, 155.051073)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1069" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1071" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="40" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="16.4965156" y="158.092206">40</tspan>
+                        </text>
+                        <g id="Group-1077" transform="translate(26.752413, 136.164548)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1074" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1076" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1081" transform="translate(133.311337, 136.164548)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1078" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1080" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="60" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="16.4965156" y="139.20568">60</tspan>
+                        </text>
+                        <g id="Group-1086" transform="translate(26.752413, 117.278022)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1083" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1085" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1090" transform="translate(133.311337, 117.278022)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1087" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1089" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="80" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="16.4965156" y="120.319155">80</tspan>
+                        </text>
+                        <g id="Group-1095" transform="translate(26.752413, 98.391496)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1092" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1094" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1099" transform="translate(133.311337, 98.391496)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1096" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1098" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="100" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="11.3869234" y="101.432629">100</tspan>
+                        </text>
+                        <g id="Group-1104" transform="translate(26.752413, 79.504970)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1101" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1103" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1108" transform="translate(133.311337, 79.504970)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1105" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1107" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="120" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="11.3869234" y="82.5461031">120</tspan>
+                        </text>
+                        <g id="Group-1113" transform="translate(26.752413, 60.618445)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1110" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1112" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1117" transform="translate(133.311337, 60.618445)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1114" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1116" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="140" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="11.3869234" y="63.6595773">140</tspan>
+                        </text>
+                        <g id="Group-1122" transform="translate(26.752413, 41.731919)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1119" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1121" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1126" transform="translate(133.311337, 41.731919)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1123" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1125" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="160" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="11.3869234" y="44.7730515">160</tspan>
+                        </text>
+                        <g id="Group-1131" transform="translate(26.752413, 22.845393)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1128" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1130" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1135" transform="translate(133.311337, 22.845393)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1132" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1134" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="180" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626" fill="#3D1818">
+                            <tspan x="11.3869234" y="25.8865258">180</tspan>
+                        </text>
+                        <g id="Group-1140" transform="translate(26.752413, 3.958867)">
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Fill-1137" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="4.96454175" y2="0.6309592" id="Stroke-1139" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1144" transform="translate(133.311337, 3.958867)">
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1141" fill="#3D1818"></line>
+                            <line x1="4.96454175" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1143" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1146" transform="translate(11.386923, 0.000000)" fill="#3D1818" font-family="LucidaGrande, Lucida Grande" font-size="7" font-weight="normal" letter-spacing="0.0229664626">
+                            <text id="200">
+                                <tspan x="0" y="7">200</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-1150" transform="translate(26.752413, 192.824125)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1147" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1149" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1154" transform="translate(135.793608, 192.824125)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1151" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1153" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1158" transform="translate(26.752413, 188.102493)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1155" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1157" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1162" transform="translate(135.793608, 188.102493)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1159" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1161" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1166" transform="translate(26.752413, 183.380862)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1163" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1165" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1170" transform="translate(135.793608, 183.380862)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1167" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1169" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1174" transform="translate(26.752413, 178.659231)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1171" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1173" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1178" transform="translate(135.793608, 178.659231)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1175" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1177" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1182" transform="translate(26.752413, 173.937599)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1179" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1181" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1186" transform="translate(135.793608, 173.937599)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1183" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1185" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1190" transform="translate(26.752413, 169.215968)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1187" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1189" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1194" transform="translate(135.793608, 169.215968)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1191" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1193" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1198" transform="translate(26.752413, 164.494336)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1195" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1197" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1202" transform="translate(135.793608, 164.494336)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1199" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1201" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1206" transform="translate(26.752413, 159.772705)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1203" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1205" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1210" transform="translate(135.793608, 159.772705)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1207" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1209" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1214" transform="translate(26.752413, 155.051073)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1211" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1213" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1218" transform="translate(135.793608, 155.051073)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1215" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1217" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1222" transform="translate(26.752413, 150.329442)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1219" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1221" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1226" transform="translate(135.793608, 150.329442)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1223" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1225" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1230" transform="translate(26.752413, 145.607810)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1227" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1229" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1234" transform="translate(135.793608, 145.607810)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1231" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1233" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1238" transform="translate(26.752413, 140.886179)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1235" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1237" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1242" transform="translate(135.793608, 140.886179)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1239" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1241" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1246" transform="translate(26.752413, 136.164548)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1243" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1245" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1250" transform="translate(135.793608, 136.164548)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1247" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1249" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1254" transform="translate(26.752413, 131.442916)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1251" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1253" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1258" transform="translate(135.793608, 131.442916)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1255" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1257" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1262" transform="translate(26.752413, 126.721285)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1259" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1261" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1266" transform="translate(135.793608, 126.721285)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1263" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1265" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1270" transform="translate(26.752413, 121.999653)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1267" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1269" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1274" transform="translate(135.793608, 121.999653)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1271" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1273" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1278" transform="translate(26.752413, 117.278022)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1275" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1277" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1282" transform="translate(135.793608, 117.278022)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1279" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1281" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1286" transform="translate(26.752413, 112.556390)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1283" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1285" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1290" transform="translate(135.793608, 112.556390)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1287" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1289" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1294" transform="translate(26.752413, 107.834759)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1291" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1293" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1298" transform="translate(135.793608, 107.834759)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1295" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1297" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1302" transform="translate(26.752413, 103.113128)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1299" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1301" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1306" transform="translate(135.793608, 103.113128)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1303" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1305" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1310" transform="translate(26.752413, 98.391496)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1307" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1309" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1314" transform="translate(135.793608, 98.391496)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1311" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1313" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1318" transform="translate(26.752413, 93.669865)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1315" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1317" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1322" transform="translate(135.793608, 93.669865)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1319" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1321" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1326" transform="translate(26.752413, 88.948233)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1323" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1325" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1330" transform="translate(135.793608, 88.948233)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1327" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1329" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1334" transform="translate(26.752413, 84.226602)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1331" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1333" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1338" transform="translate(135.793608, 84.226602)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1335" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1337" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1342" transform="translate(26.752413, 79.504970)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1339" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1341" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1346" transform="translate(135.793608, 79.504970)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1343" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1345" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1350" transform="translate(26.752413, 74.783339)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1347" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1349" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1354" transform="translate(135.793608, 74.783339)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1351" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1353" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1358" transform="translate(26.752413, 70.061707)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1355" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1357" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1362" transform="translate(135.793608, 70.061707)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1359" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1361" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1366" transform="translate(26.752413, 65.340076)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1363" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1365" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1370" transform="translate(135.793608, 65.340076)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1367" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1369" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1374" transform="translate(26.752413, 60.618445)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1371" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1373" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1378" transform="translate(135.793608, 60.618445)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1375" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1377" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1382" transform="translate(26.752413, 55.896813)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1379" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1381" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1386" transform="translate(135.793608, 55.896813)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1383" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1385" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1390" transform="translate(26.752413, 51.175182)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1387" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1389" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1394" transform="translate(135.793608, 51.175182)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1391" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1393" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1398" transform="translate(26.752413, 46.453550)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1395" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1397" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1402" transform="translate(135.793608, 46.453550)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1399" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1401" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1406" transform="translate(26.752413, 41.731919)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1403" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1405" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1410" transform="translate(135.793608, 41.731919)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1407" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1409" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1414" transform="translate(26.752413, 37.010287)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1411" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1413" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1418" transform="translate(135.793608, 37.010287)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1415" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1417" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1422" transform="translate(26.752413, 32.288656)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1419" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1421" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1426" transform="translate(135.793608, 32.288656)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1423" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1425" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1430" transform="translate(26.752413, 27.567024)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1427" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1429" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1434" transform="translate(135.793608, 27.567024)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1431" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1433" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1438" transform="translate(26.752413, 22.845393)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1435" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1437" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1442" transform="translate(135.793608, 22.845393)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1439" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1441" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1446" transform="translate(26.752413, 18.123762)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1443" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1445" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1450" transform="translate(135.793608, 18.123762)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1447" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1449" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1454" transform="translate(26.752413, 13.402130)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1451" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1453" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1458" transform="translate(135.793608, 13.402130)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1455" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1457" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1462" transform="translate(26.752413, 8.680499)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1459" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1461" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1466" transform="translate(135.793608, 8.680499)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1463" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1465" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1470" transform="translate(26.752413, 3.958867)">
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Fill-1467" fill="#3D1818"></line>
+                            <line x1="0" y1="0.6309592" x2="2.48227087" y2="0.6309592" id="Stroke-1469" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <g id="Group-1474" transform="translate(135.793608, 3.958867)">
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Fill-1471" fill="#3D1818"></line>
+                            <line x1="2.48227087" y1="0.6309592" x2="0" y2="0.6309592" id="Stroke-1473" stroke="#3D1818" stroke-linejoin="round"></line>
+                        </g>
+                        <text id="Đóng-góp-CO2-tích-lu" transform="translate(5.000000, 91.881817) rotate(-90.000000) translate(-5.000000, -91.881817) " font-family="LucidaGrande-Bold, Lucida Grande" font-size="8" font-weight="bold" fill="#3D1818">
+                            <tspan x="-56.5" y="94.8818172">Đóng góp CO</tspan>
+                            <tspan x="-1.26953125" y="94.8818172" font-size="5.5">2</tspan>
+                            <tspan x="4.35864258" y="94.8818172"> tích luỹ ppm</tspan>
+                            <tspan x="56.5031738" y="94.8818172" font-size="5.5">v</tspan>
+                        </text>
+                        <text id="Tổng-cộng:-339-ppmv" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" fill="#3D1818">
+                            <tspan x="36.625904" y="18.6121989">Tổng cộng: 339 ppm</tspan>
+                            <tspan x="111.120533" y="18.6121989" font-size="5.5">v</tspan>
+                        </text>
+                        <text id="Than-đá" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" letter-spacing="0.0144466458" fill="#3D1818">
+                            <tspan x="112.472282" y="32.0721899">Than </tspan>
+                            <tspan x="117.179599" y="40.0721899">đá</tspan>
+                        </text>
+                        <text id="Dầu-mỏ" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" letter-spacing="0.0161135665" fill="#FF0000">
+                            <tspan x="118.395012" y="99.8473683">Dầu </tspan>
+                            <tspan x="118.395012" y="107.847368">mỏ</tspan>
+                        </text>
+                        <text id="Khí-đốt" font-family="LucidaGrande-Bold, Lucida Grande" font-size="7" font-weight="bold" letter-spacing="0.0166692067" fill="#00BFBF">
+                            <tspan x="117.688635" y="145.12361">Khí </tspan>
+                            <tspan x="117.688635" y="153.12361">đốt</tspan>
+                        </text>
+                        <text id="Năm" font-family="LucidaGrande-Bold, Lucida Grande" font-size="8" font-weight="bold" letter-spacing="0.0177804872" fill="#3D1818">
+                            <tspan x="71.6516446" y="211.296013">Năm</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
